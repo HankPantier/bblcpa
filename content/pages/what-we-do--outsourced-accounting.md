@@ -2,7 +2,7 @@
 title: Outsourced accounting | Brammer, Begnaud, & Lattimore CPAs & Consultants | Brammer, Begnaud, & Lattimore CPAs & Consultants
 url: https://www.bblcpa.com/what-we-do/outsourced-accounting
 meta_title: Outsourced Accounting in Port Arthur, TX | BBL CPAs
-meta_description: Outsourced accounting in Port Arthur, TX: bookkeeping, payroll, and tax bundled into one fixed monthly fee, backed by 70+ years of local CPA experience.
+meta_description: "Outsourced accounting in Port Arthur, TX: bookkeeping, payroll, and tax bundled into one fixed monthly fee, backed by 70+ years of local CPA experience."
 target_keyword: outsourced accounting Port Arthur TX
 secondary_keywords: [fixed fee accounting Southeast Texas, outsourced bookkeeping Port Arthur, CPA firm Port Arthur TX, small business accounting services Texas]
 canonical_url: https://www.bblcpa.com/what-we-do/outsourced-accounting

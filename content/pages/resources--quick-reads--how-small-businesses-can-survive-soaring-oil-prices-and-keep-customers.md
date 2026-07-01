@@ -2,7 +2,7 @@
 title: How small businesses can survive soaring oil prices and keep customers | Brammer, Begnaud, & Lattimore CPAs & Consultants | Brammer, Begnaud, & Lattimore CPAs & Consultants
 url: https://www.bblcpa.com/resources/quick-reads/how-small-businesses-can-survive-soaring-oil-prices-and-keep-customers
 meta_title: How Small Businesses Can Survive Soaring Oil Prices
-meta_description: How small businesses can survive soaring oil prices and keep customers in Southeast Texas: smart pricing, margin visibility, and CFO-level guidance from BBL CPAs.
+meta_description: "How small businesses can survive soaring oil prices and keep customers in Southeast Texas: smart pricing, margin visibility, and CFO-level guidance from BBL CPAs."
 target_keyword: how small businesses can survive soaring oil prices and keep customers
 secondary_keywords: [rising fuel costs small business, oil prices Southeast Texas business, pricing strategy fuel surcharge, CFO services Port Arthur]
 canonical_url: https://www.bblcpa.com/resources/quick-reads/how-small-businesses-can-survive-soaring-oil-prices-and-keep-customers

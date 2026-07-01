@@ -2,7 +2,7 @@
 title: Quick reads for small business owners | Brammer, Begnaud, & Lattimore CPAs & Consultants
 url: /resources/quick-reads
 meta_title: Accounting Tips for Small Business Owners Port Arthur TX
-meta_description: Quick, practical accounting tips for small business owners in Port Arthur, TX: bookkeeping, payroll, tax deductions, and entity choices that save real money.
+meta_description: "Quick, practical accounting tips for small business owners in Port Arthur, TX: bookkeeping, payroll, tax deductions, and entity choices that save real money."
 target_keyword: accounting tips for small business owners Port Arthur TX
 secondary_keywords: [small business accounting guide Port Arthur, bookkeeping basics for new business owners Texas, payroll management tips Port Arthur TX, tax planning for small business owners Southeast Texas, restaurant accounting guide Port Arthur, physician accounting tips Texas, dental practice accounting Port Arthur, agricultural accounting basics Texas, business tax deductions Port Arthur, accounting system setup guide small business, entity type selection guide small business, new business owner accounting checklist]
 canonical_url: https://www.bblcpa.com/resources/quick-reads

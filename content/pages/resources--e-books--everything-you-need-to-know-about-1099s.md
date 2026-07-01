@@ -2,7 +2,7 @@
 title: Small business owner guide to 1099s | Brammer, Begnaud, & Lattimore CPAs & Consultants | Brammer, Begnaud, & Lattimore CPAs & Consultants
 url: https://www.bblcpa.com/resources/e-books/everything-you-need-to-know-about-1099s
 meta_title: Small Business Owner Guide to 1099s | BBL CPAs Port Arthur
-meta_description: A small business owner guide to 1099s from Brammer, Begnaud & Lattimore CPAs in Port Arthur, TX: forms, deadlines, penalties, and common filing mistakes explained.
+meta_description: "A small business owner guide to 1099s from Brammer, Begnaud & Lattimore CPAs in Port Arthur, TX: forms, deadlines, penalties, and common filing mistakes explained."
 target_keyword: small business owner guide to 1099s | brammer, begnaud, & lattimore cpas & consultants port arthur, tx
 secondary_keywords: [1099 NEC deadline, 1099 filing for small business, W-9 collection process, 1099 penalties IRS, Port Arthur CPA 1099 help]
 canonical_url: https://www.bblcpa.com/resources/e-books/everything-you-need-to-know-about-1099s

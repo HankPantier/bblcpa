@@ -2,7 +2,7 @@
 title: Resources | Brammer, Begnaud, & Lattimore CPAs & Consultants
 url: /resources
 meta_title: Accounting Resources Port Arthur TX | BBL CPA Firm
-meta_description: Free accounting resources for Port Arthur TX business owners: tax planning guides, bookkeeping tips, IRS notice help, and startup checklists from BBL CPAs since 1950.
+meta_description: "Free accounting resources for Port Arthur TX business owners: tax planning guides, bookkeeping tips, IRS notice help, and startup checklists from BBL CPAs since 1950."
 target_keyword: accounting resources Port Arthur TX
 secondary_keywords: [CPA resources Port Arthur Texas, accounting guides for small business owners, tax planning resources Port Arthur, payroll accounting tips Port Arthur TX, restaurant accounting resources, physician tax planning guides, dentist accounting resources, agricultural accounting tips, new business owner accounting guides, bookkeeping best practices Port Arthur, business tax deductions Port Arthur TX, retirement planning resources for business owners, entity type selection guide, accounting system setup guide, audit protection resources, small business accounting articles Port Arthur, CPA firm blog Port Arthur TX]
 canonical_url: https://www.bblcpa.com/resources

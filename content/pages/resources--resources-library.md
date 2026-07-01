@@ -2,7 +2,7 @@
 title: Resources library | Brammer, Begnaud, & Lattimore CPAs & Consultants | Brammer, Begnaud, & Lattimore CPAs & Consultants
 url: https://www.bblcpa.com/resources/resources-library
 meta_title: Resources Library | Brammer, Begnaud, & Lattimore CPAs
-meta_description: Browse the Brammer, Begnaud, & Lattimore CPAs resources library in Port Arthur, TX: plain-language eBooks, Advantage Magazine, and QuickReads for Southeast Texas business owners.
+meta_description: "Browse the Brammer, Begnaud, & Lattimore CPAs resources library in Port Arthur, TX: plain-language eBooks, Advantage Magazine, and QuickReads for Southeast Texas business owners."
 target_keyword: resources library | brammer, begnaud, & lattimore cpas & consultants port arthur, tx
 secondary_keywords: [small business financial guides Southeast Texas, CPA eBooks Port Arthur, tax news small business owners, Advantage Magazine financial read]
 canonical_url: https://www.bblcpa.com/resources/resources-library

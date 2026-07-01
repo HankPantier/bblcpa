@@ -2,7 +2,7 @@
 title: Why choose BBL | Brammer, Begnaud, & Lattimore CPAs & Consultants
 url: /why-bbl
 meta_title: Why Choose BBL | Port Arthur, TX CPA Firm Since 1950
-meta_description: See why Southeast Texas business owners choose BBL: flat monthly fees, real-time online access, year-round tax support, and 70+ years in Port Arthur, TX.
+meta_description: "See why Southeast Texas business owners choose BBL: flat monthly fees, real-time online access, year-round tax support, and 70+ years in Port Arthur, TX."
 target_keyword: why choose bbl port arthur, tx
 secondary_keywords: []
 canonical_url: https://www.bblcpa.com/why-bbl

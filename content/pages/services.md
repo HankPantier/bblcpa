@@ -2,7 +2,7 @@
 title: Services | Brammer, Begnaud, & Lattimore CPAs & Consultants
 url: /services
 meta_title: CPA Services in Port Arthur, TX | Brammer, Begnaud & Lattimore
-meta_description: Full-service CPA services in Port Arthur, TX: outsourced accounting, payroll, tax, and audit protection bundled into one fixed monthly fee. Serving Southeast Texas since 1950.
+meta_description: "Full-service CPA services in Port Arthur, TX: outsourced accounting, payroll, tax, and audit protection bundled into one fixed monthly fee. Serving Southeast Texas since 1950."
 target_keyword: services port arthur, tx
 secondary_keywords: [outsourced accounting port arthur, cpa firm southeast texas, fixed monthly fee accounting, business tax planning port arthur]
 canonical_url: https://www.bblcpa.com/services
