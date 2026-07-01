@@ -1,38 +1,29 @@
-# Template default. The Phase I deliverable's own robots.txt (when unpacked)
-# overwrites this file — see docs/how-to-new-site.md step 2. Edit per client
-# after unpack if you need to tighten or loosen access.
-
-# All general crawlers
 User-agent: *
 Allow: /
-Disallow: /api/
 
-# AI / agent crawlers — explicit Allow so a missing rule isn't ambiguous.
-# Remove a block (or switch Allow→Disallow) per client if the firm prefers
-# not to be indexed by that crawler.
-
+# AI crawlers — explicitly allowed
 User-agent: GPTBot
 Allow: /
 
 User-agent: ClaudeBot
 Allow: /
 
-User-agent: anthropic-ai
+User-agent: PerplexityBot
 Allow: /
 
-User-agent: PerplexityBot
+User-agent: GoogleOther
+Allow: /
+
+User-agent: Googlebot-Extended
+Allow: /
+
+User-agent: anthropic-ai
 Allow: /
 
 User-agent: CCBot
 Allow: /
 
-User-agent: OAI-SearchBot
-Allow: /
-
-User-agent: Google-Extended
-Allow: /
-
-# Sitemap. Generated dynamically by src/app/sitemap.ts (includes every post),
-# served at the canonical URL. Do not ship a static public/sitemap.xml — it
-# would shadow this route and freeze the sitemap at packaging time.
-Sitemap: /sitemap.xml
+# Sitemap and LLM context files
+Sitemap: https://www.bblcpa.com/sitemap.xml
+Sitemap: https://www.bblcpa.com/llms.txt
+Sitemap: https://www.bblcpa.com/llms-full.txt

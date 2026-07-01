@@ -1,23 +1,36 @@
 {
   "firm": {
-    "name": "Korbey Lague PLLP",
-    "tagline": "CPAs you can talk to",
-    "foundingYear": "1972"
+    "name": "Brammer, Begnaud, & Lattimore CPAs & Consultants",
+    "tagline": "Let us guide you toward a healthy financial future",
+    "foundingYear": "1950"
   },
   "contact": {
-    "address": { "street": "123 Main St", "city": "Tyngsborough", "state": "MA", "zip": "01879" },
-    "phone": "978-555-0100",
-    "email": "info@korbeylague.com"
+    "address": {
+      "street": "3240 Central Mall Drive",
+      "city": "Port Arthur",
+      "state": "TX",
+      "zip": "77642"
+    },
+    "phone": "(409) 983-1669",
+    "email": "service@bblcpa.com"
   },
   "palette": {
-    "primary": "#003B71",
-    "secondary": "#6C7278",
-    "complementary": "#B8422E",
-    "action": "#00C1DE",
-    "nearBlack": "#1A1C1E",
-    "nearWhite": "#F7F5F2"
+    "primary": "#003767",
+    "secondary": "#043464",
+    "complementary": "#f57f09",
+    "action": "#ff8e27",
+    "nearBlack": "#222222",
+    "nearWhite": "#FeFefe"
   },
-  "social": [],
+  "social": [
+    {
+      "platform": "facebook",
+      "url": "https://www.facebook.com/Brammer-Begnaud-Lattimore-CPA-159585024114584/"
+    }
+  ],
   "certifications": [],
-  "logo": { "primary": "", "alt": "Korbey Lague PLLP logo" }
+  "logo": {
+    "primary": "bblcpa-logo.png",
+    "alt": "Brammer, Begnaud, & Lattimore CPAs & Consultants logo"
+  }
 }

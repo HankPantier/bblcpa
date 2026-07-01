@@ -1,0 +1,5 @@
+# This file controls 301 redirects for the live site.
+# Edit, add, or remove rows; changes take effect on the next `npm run build` (or `npm run dev`).
+# Format: old_url,new_url,status_code,reason
+# Lines starting with # are ignored by the Next.js redirect loader.
+old_url,new_url,status_code,reason

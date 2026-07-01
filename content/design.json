@@ -1,12 +1,25 @@
 {
   "typography": {
-    "headingFont": "Public Sans",
-    "bodyFont": "Public Sans",
-    "googleFontsUrl": "https://fonts.googleapis.com/css2?family=Public+Sans:wght@400;500;700&display=swap"
+    "headingFont": "Nunito",
+    "bodyFont": "Nunito",
+    "googleFontsUrl": "https://fonts.googleapis.com/css2?family=Nunito:wght@400;500;700&display=swap"
   },
-  "roundness": "pill",
-  "density": "balanced",
-  "visualFeel": "modern",
-  "spacing": { "xs": "4px", "sm": "8px", "md": "16px", "lg": "24px", "xl": "48px", "2xl": "96px" },
-  "radius": { "none": "0px", "sm": "4px", "md": "8px", "lg": "16px", "pill": "9999px" }
+  "roundness": "sharp",
+  "density": "airy",
+  "visualFeel": "editorial",
+  "spacing": {
+    "xs": "4px",
+    "sm": "8px",
+    "md": "16px",
+    "lg": "24px",
+    "xl": "64px",
+    "2xl": "128px"
+  },
+  "radius": {
+    "none": "0px",
+    "sm": "4px",
+    "md": "8px",
+    "lg": "16px",
+    "pill": "4px"
+  }
 }
