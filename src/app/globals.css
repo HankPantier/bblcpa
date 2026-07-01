@@ -1,0 +1,84 @@
+@import "tailwindcss";
+@import "../styles/theme.css";
+@import "../../content/design-overrides.css";
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+  body {
+    @apply bg-background text-foreground antialiased;
+    font-family: var(--font-body);
+  }
+  h1, h2, h3, h4, h5, h6 {
+    font-family: var(--font-heading);
+  }
+}
+
+/* Baseline prose spacing for ReactMarkdown-rendered content.
+ *
+ * @tailwindcss/typography isn't installed, so the .prose Tailwind classes
+ * ship as no-ops by default. These manual rules give multi-paragraph body
+ * copy a readable vertical rhythm inside any wrapper marked .prose
+ * (CtaBanner, ContentSplit, ContentProse, IntroText, FaqAccordion answers,
+ * TeamGrid bios, etc.).
+ *
+ * Defined outside @layer base because Tailwind v4 tree-shakes custom class
+ * selectors from base unless they're used as utilities. Bare CSS sits in
+ * the default cascade and is always emitted.
+ *
+ * Per-client overrides should live in content/design-overrides.css with a
+ * higher-specificity selector (e.g. [data-block="cta-banner"] .prose p)
+ * rather than redefining these base rules. */
+.prose p,
+.prose ul,
+.prose ol,
+.prose blockquote {
+  margin-top: 0;
+  margin-bottom: 1em;
+}
+.prose p:last-child,
+.prose ul:last-child,
+.prose ol:last-child,
+.prose blockquote:last-child {
+  margin-bottom: 0;
+}
+.prose ul {
+  list-style: disc;
+  padding-left: 1.5em;
+}
+.prose ol {
+  list-style: decimal;
+  padding-left: 1.5em;
+}
+.prose li + li {
+  margin-top: 0.25em;
+}
+.prose h2,
+.prose h3,
+.prose h4 {
+  font-weight: 600;
+  margin-top: 1.25em;
+  margin-bottom: 0.5em;
+}
+.prose a {
+  text-decoration: underline;
+}
+.prose strong {
+  font-weight: 600;
+}
+
+/* Respect the OS "reduce motion" setting. The template's animations are all
+ * decorative (carousel autoplay, scroll-triggered nav border, hover/scale
+ * transitions), so collapse them to near-instant for users who opt out of
+ * motion rather than maintaining a per-component allowlist. */
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+}

@@ -1,0 +1,14 @@
+/* design-overrides.css — per-client CSS authored or refined by Claude.ai Design.
+ *
+ * This file is loaded AFTER src/styles/theme.css, so any rules here override
+ * the default block styling. Target blocks via the data-block attribute:
+ *
+ *   [data-block="hero"] { ... }
+ *   [data-block="feature-grid"] h2 { ... }
+ *
+ * Cascade order: tailwindcss → theme.css → design-overrides.css. Use specific
+ * selectors (data-block attribute + descendant) instead of !important.
+ *
+ * To regenerate: run `npm run export-brief`, paste the brief into Claude.ai
+ * Design, save the returned CSS as this file, then `npm run dev`.
+ */

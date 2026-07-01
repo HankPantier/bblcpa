@@ -1,0 +1,247 @@
+# Changelog
+
+All notable changes to this template are recorded here. The format follows [Keep a Changelog](https://keepachangelog.com/en/1.1.0/) and the project loosely follows semver — though as a per-client template, "release" means "checkpoint on `main`" rather than a published package version.
+
+## [Unreleased] — 2026-05-28 product-polish pass (7 batches)
+
+Sweep through the 18-item analysis covering functionality, structure, and
+design workflow. Each batch landed in its own commit; this is the umbrella
+note. Visitor-facing wins are in Batches 2, 4, 5; operator workflow wins
+in Batches 6, 7; foundation in Batch 1; brand schema bump in Batch 3.
+
+### Added
+- **`generate_lead` GA4/GTM event** fired from `FormFields` on every
+  successful form submission (real submit + mailto-fallback path,
+  differentiated by `method`). Bots/honeypot trips are not tracked.
+- **Booking block** (`<!-- block: booking -->`) that embeds the client's
+  Calendly via the official inline widget or a lighter `<iframe>`, gated
+  by a new `siteConfig.booking` config. Renders nothing until wired.
+- **Programmatic favicon + Apple touch icon** (`src/app/icon.tsx` and
+  `apple-icon.tsx`) — initials on `brand.palette.primary`. Zero-config
+  branded favicons in every client clone, no static asset required.
+- **Auto-generated OG images** via `/api/og/[[...slug]]/route.tsx` (next/og
+  `ImageResponse`); branded 1200×630 PNG built from page title + brand
+  colors. Replaces the per-deliverable `/og-images/<slug>.png` convention.
+- **Branded 404** at `src/app/not-found.tsx` — renders the firm's primary
+  nav as recovery links + a back-to-home CTA.
+- **Insights blog** at `/insights` + `/insights/[slug]` with full
+  BlogPosting JSON-LD, Article OG type, and per-post canonical/published
+  metadata. Posts live in `content/posts/*.md`. Empty-state UX when no
+  posts exist — fresh clones don't crash.
+- **RSS 2.0 feed** at `/feed.xml`; global `Link: rel=alternate` header
+  added to `next.config.ts` so feed readers + agents auto-discover it.
+- **ResourceList lead-magnet block** (`<!-- block: resource-list -->`)
+  with a card grid of downloads and an inline newsletter signup CTA.
+  Files in `public/resources/`; ungated by design.
+- **Dev-only block showcase** at `/showcase` — renders every block in
+  the registry with realistic sample content. `notFound()` in production.
+- **`npm run new-client <zip>`** — one-shot bootstrap: install + unpack +
+  validate + initial commit. Idempotent.
+- **`npm run design-preview`** — watches `content/` + `site.config.ts`
+  and re-runs `export-brief` so the Claude.ai handoff brief stays fresh.
+- **`npm run analyze`** — production build with `@next/bundle-analyzer`
+  (gated by `ANALYZE=true`); no-op for regular builds.
+
+### Changed
+- **`BlockRenderer` refactored** to a typed `BLOCK_REGISTRY` map
+  (`src/components/assembly/block-registry.tsx`). Same behavior, much
+  thinner dispatch — adding a new block is one registry entry instead of
+  edits across three locations. Same `UnknownBlockPlaceholder` fallback
+  for unregistered ids.
+- **`parsePageMd` now validates frontmatter via Zod** (`PageFrontmatterSchema`),
+  catching the kind of type-shape errors (`faq_block: "broken"`) the old
+  `String(x ?? '')` casts silently swallowed.
+- **`/api/contact` page handler degradation:** wraps the load + parse in
+  a single `try/catch` so runtime parse failures become `notFound()`
+  rather than a 500.
+- **CI workflow runs `npm run validate`** between install and lint, so a
+  malformed deliverable fails CI before any other step.
+- **`BrandJson.logo`** gains optional `mark` / `stacked` / `horizontal` /
+  `monochrome` variants alongside `primary` / `footer`. Type-only;
+  existing deliverables keep building.
+- **`generateMetadata` in both page handlers** no longer references
+  `/og-images/*.png`; OG + Twitter images now point at the new
+  `/api/og/[[...slug]]` route.
+- **`sitemap.ts`** includes `/insights` + per-post URLs when at least
+  one post exists.
+
+### Tests
+- New: `page-frontmatter-schema` (6), `track-event` (5),
+  `post-frontmatter-schema` (4), `block-registry` smoke (23 — registry
+  size lock + one per block).
+- **138 → 176 tests** across 11 files.
+
+### Notes
+- The previous `/og-images/<slug>.png` deliverable convention is no
+  longer used by `generateMetadata`. Clients with a hand-crafted PNG
+  for a specific non-catch-all route can still drop a static
+  `opengraph-image.png` in that route's folder (Next file-based
+  convention picks it up over the route handler).
+
+## [Unreleased] — 2026-05-28 agent-readiness pass
+
+Compared the codebase against the "agent-ready website" best-practices
+([suganthan.com/blog/how-to-make-website-agent-ready](https://suganthan.com/blog/how-to-make-website-agent-ready))
+and closed the three real gaps. Most of the article's checklist was already
+satisfied (per-page JSON-LD, OG / Twitter card metadata, canonical URLs,
+semantic HTML + Microdata, dynamic sitemap, CLS-safe layout).
+
+### Added
+- **Default `public/robots.txt`** with explicit `Allow:` rules for GPTBot,
+  ClaudeBot, anthropic-ai, PerplexityBot, CCBot, OAI-SearchBot, and
+  Google-Extended, plus a `Sitemap:` line. Fresh clones are no longer blank
+  to AI bots; the Phase I deliverable's `robots.txt` overwrites this default
+  when unpacked.
+- **Markdown endpoint** for every page. `src/proxy.ts` (Next 16's renamed
+  middleware) rewrites `<page>.md` URLs to a new optional-catch-all route
+  handler `src/app/api/md/[[...slug]]/route.ts` that serves `text/markdown`.
+  Frontmatter is preserved (machine-readable metadata) and block annotations
+  (`<!-- block: ... -->`) are stripped via the new pure helper
+  `src/lib/content/strip-block-annotations.ts` (7 vitest cases). The proxy
+  also appends a per-URL `Link: <foo.md>; rel="alternate";
+  type="text/markdown"` header on every HTML page response so agents can
+  discover the markdown via a `curl -I`.
+- **Global `Link` headers** in `next.config.ts`:
+  `</llms.txt>; rel="describedby"; type="text/markdown"` and
+  `</sitemap.xml>; rel="sitemap"`.
+
+### Changed
+- `docs/architecture.md` — new "Agent readiness" section documents the
+  layered design (robots.txt default + Link headers + .md endpoint + the
+  deliberately-out-of-scope items: OpenAPI / WebMCP / MCP server card stay
+  *off* so `/api/contact` isn't advertised to the bots the BotID layer is
+  there to block).
+- `docs/how-to-new-site.md` — step 2 notes the robots.txt default + overwrite
+  behavior; step 5 includes optional `curl -I` checks for the Link headers
+  and the `.md` endpoint.
+- `README.md` — new "Agent readiness" section linking the deeper doc.
+
+### Tests
+- `strip-block-annotations.test.ts` (7) — pure helper edges.
+- `src/app/api/md/[[...slug]]/route.test.ts` (2) — handler returns
+  `text/markdown` w/ frontmatter + stripped annotations on hit; `404` on miss.
+- `src/proxy.test.ts` (4) — rewrite branch for `.md` URLs (incl. `/index.md`
+  → `/api/md` and slug shapes); Link-header branch for HTML pages.
+- Total: **125 → 138 tests** across 7 test files.
+
+### Out of scope (recorded)
+- Sitewide `Organization` JSON-LD in the root layout, and a
+  `/.well-known/agent.json` (A2A) — Tier 2 items in the analysis; can be
+  added in a later pass.
+
+## [Unreleased] — 2026-05-25 form spam protection
+
+Layered spam / bogus-entry defenses on the built-in Resend contact route, all **on by default** in every client clone. Rate limiting was intentionally left out of this pass (see Deferred).
+
+### Added
+- **Vercel BotID** (`botid`) — invisible CAPTCHA against headless/Playwright bots. `next.config.ts` is wrapped with `withBotId()`; `src/instrumentation-client.ts` calls `initBotId({ protect: [{ path: '/api/contact', method: 'POST' }] })`; the route calls `checkBotId()` and returns 403 on a bot. Basic mode is free, inert in local dev / off-Vercel, served same-origin so no CSP change is needed. Deep Analysis is an opt-in Vercel dashboard toggle.
+- **`src/lib/forms/spam.ts`** — pure, unit-tested heuristics: server-side honeypot (`isHoneypotFilled`), timing trap (`isSubmittedTooFast`, 3s minimum), and content scoring (`scoreContent` — link density + spam-keyword list). Covered by `src/lib/forms/spam.test.ts`.
+- **`/api/contact` spam layers** in cheapest-first order: honeypot → timing → content → BotID, ahead of the Resend send. Honeypot/timing/link-flood return a **covert `{ok:true}`** (no email, no signal to spammers); lightly suspicious content is still delivered with a `[likely spam]` subject prefix + body note so no real lead is lost. New `route.test.ts` cases cover each layer.
+
+### Changed
+- **`FormSubmitPayload`** gained top-level `hp` (honeypot) and `t` (form-mount timestamp) fields — kept out of `fields` so the Zod schemas (which strip unknown keys) don't discard them before the spam check.
+- **`FormFields.tsx`** now sends `hp` + `t` with each built-in submission and treats a **403 like a 503** → `mailto:` fallback, so a rare false-positive human still reaches the firm.
+
+### Deferred
+- **Rate limiting** — skipped for now. Future options: Vercel WAF rate rules (no app code) or Upstash Redis (Marketplace) + `@upstash/ratelimit` for durable per-IP limits on Fluid/serverless.
+
+## [Unreleased] — 2026-05-24 deferred-items cleanup
+
+Clears the three items left in the 2026-05-22 "Deferred" list below.
+
+### Fixed
+- **`secondary-fg / secondary` contrast now passes WCAG AA.** Was 4.47 : 1, under the 4.5 : 1 threshold. `scripts/generate-theme.ts` gains an `ensureContrast()` step that nudges a brand *surface* token's lightness (preserving hue + saturation) until it meets AA against its chosen foreground — a no-op for pairs that already pass. For the default palette this shifts `--color-secondary` from `hsl(210 5% 45%)` to `hsl(210 5% 44%)`, an imperceptible change that lifts the pair to **4.59 : 1**. Generic by design: any future client palette with a borderline surface is auto-corrected instead of shipping an audit failure. The `REQUIRED_PAIRS` verifier now checks the corrected surfaces.
+
+### Changed
+- **`react-markdown` removed from the FaqAccordion client bundle.** `FaqAccordion.tsx` is now a server wrapper that pre-renders each answer's markdown to a React node and passes it to the new `FaqAccordionClient.tsx` (`'use client'`), which keeps only the interactive Radix accordion. Mirrors the `Form.tsx` / `FormFields.tsx` split. `react-markdown` + `remark-gfm` no longer ship in any client bundle.
+
+### Performance
+- **Image CLS sweep — verified, no code change required.** Audited every `next/image` usage in `LogoBar`, `TeamGrid`, `ContentCards`, and `ChecklistSection`. All already render with `fill` inside space-reserving containers (`h-12`, `aspect-[4/5]`, `aspect-video`, `aspect-[4/3]`), so layout space is reserved before the image loads — no cumulative layout shift. Closed as verified.
+
+## [Unreleased] — 2026-05-22 audit + features pass
+
+### Added
+- **Analytics (GA4 / GTM) with cookie consent.** Optional analytics via the official `@next/third-parties` package, gated by a server-rendered consent banner. Configured via `NEXT_PUBLIC_GA4_ID` and `NEXT_PUBLIC_GTM_ID` env vars; when both are set, GTM wins. Consent decision persists in the `analytics-consent` cookie (365-day expiry), revisited via a "Cookie preferences" link in the footer. See `docs/architecture.md#analytics--consent`.
+- **Cookie consent banner in the design-brief.** `scripts/export-design-brief.ts` now sends `Cookie: _cookie-preview=1` on its chrome fetch and emits a "Cookie Consent Banner" subsection in the brief output. Per-client banner styling flows through `content/design-overrides.css` the same way navbar + footer chrome does. Spec at `docs/superpowers/specs/2026-05-22-analytics-and-consent-design.md`.
+- **Optional `brand.logo.footer`** override on the `BrandJson` type. When set, the footer renders this asset directly; when unset, falls back to the prior primary-with-invert behavior. Fixes silent-breakage for clients whose primary logo is already light.
+- **`siteConfig.forms.serviceOptions`** moved out of a hard-coded Form.tsx constant so each client edits one file.
+- **Security headers** on every response: `X-Content-Type-Options`, `X-Frame-Options: SAMEORIGIN`, `Referrer-Policy: strict-origin-when-cross-origin`, `Permissions-Policy` (camera/mic/geolocation off). CSP deferred — see Deferred below.
+- **`@next/third-parties`** dependency (analytics scripts + SPA pageview tracking).
+- **`@icons-pack/react-simple-icons`** dependency (replaces hand-rolled social SVGs).
+- **`/api/contact` integration tests** (8 cases): missing API key, oversized payload, unknown variant, schema failure, happy path with assertions on To/From/replyTo/subject, Resend rejection, malformed JSON. Vitest tests jumped 100 → 108.
+- **`CHANGELOG.md`** (this file) and **`docs/architecture.md`** for the architecture rationale of the new subsystems.
+
+### Changed
+- **`site.config.ts` restructured** — `formEndpoint` and `formFromEmail` removed from the top level; replaced with a typed `forms: { endpoint, fromEmail, toEmail, serviceOptions }` block. `toEmail` is an optional override; it falls back to `brand.contact.email` when blank. README's "Form / email setup" section documents the new shape.
+- **Social icons** in the footer now use `@icons-pack/react-simple-icons` (Facebook, X, Instagram, YouTube). LinkedIn stays as an inline SVG because Simple Icons honored a takedown request from LinkedIn and lucide v1 doesn't ship brand marks either. The exported `SocialIcon` component API is unchanged, so no consumer changed.
+- **NavBar scroll listener** now coalesces state updates through `requestAnimationFrame` so React re-renders cap at one per animation frame instead of one per scroll event.
+- **Public Sans font** is loaded once and aliased to both `--font-heading-loaded` and `--font-body-loaded` via inline style on `<html>`, avoiding a duplicate font loader call.
+- **Consent banner reload removed.** Accepting / declining now calls `useRouter().refresh()` instead of `window.location.reload()`, so the GA / GTM script appears in place without losing scroll position or re-fetching static assets.
+- **Form.tsx split into server wrapper + `FormFields.tsx` client component.** The server wrapper pre-renders the markdown `intro` (via `InlineProse`) and `sidebar_content` (via `ReactMarkdown` + `remark-gfm`) and hands them to the client as React nodes. `react-markdown`, `remark-gfm`, and `InlineProse` no longer ship in the client bundles for contact/quote/newsletter/custom routes (~60 KB gzipped saved).
+- **Footer text contrast** — six muted-text sites bumped from `text-background/{60,70,80}` to `text-background/90` so all rendered text passes WCAG AA on the dark footer surface. `scripts/generate-theme.ts` gains a new `REQUIRED_PAIRS` entry that verifies the `/90`-over-`bg-foreground` pair via `chroma.mix` alpha-blend.
+- **`ConsentBannerClient.tsx` renamed to `ConsentBanner.tsx`** for consistency — the `'use client'` directive is the marker; no need for a suffix.
+- **Footer "Cookie preferences" link** added to the legal bar. Clears the `analytics-consent` cookie and reloads, satisfying the GDPR right-to-withdraw.
+
+### Fixed
+- **Open-redirect in `content/redirects.csv`.** `next.config.ts`'s loader now rejects rows whose destination doesn't start with `/`. A row like `/old,https://attacker.com` would otherwise have shipped as a 308 to an attacker-controlled URL.
+- **Zip-slip in `scripts/unpack-deliverable.ts`.** Entries that resolve outside the repo root are refused before `extractAllTo` runs. `adm-zip` 0.5.x has no built-in protection.
+- **Email reply-To header injection.** `/api/contact` strips CR/LF from the visitor's email before passing as Resend `replyTo`. Defense in depth — Zod also rejects the malformed input first.
+- **Unbounded payloads on `/api/contact`.** Early `Content-Length` check caps requests at 64 KB (legitimate payloads are around 6 KB).
+- **Info leak on unknown form variant.** `/api/contact` now returns a generic `Invalid request` 400; the verbose variant name goes to `console.error`.
+- **All 5 ESLint warnings eliminated.** Lint output is now empty.
+  - `scripts/check-all-blocks.ts` — `void BlockRenderer` keeps the import live as the module-load assertion intends.
+  - `scripts/generate-theme.ts` — dropped unused `firmName` destructure.
+  - `src/lib/assembly/extract-block-props.ts` — stopped binding unused `_cta`.
+  - `src/lib/assembly/md-utils.ts` — deleted unreached `metaLinePattern`.
+  - `.remember/**` added to ESLint `globalIgnores`.
+- **Cross-platform lockfile.** `npm install` populated `@next/swc-*` entries for Linux/Windows/etc. so CI no longer needs a fresh install to resolve the SWC binary.
+
+### Security
+The following defense-in-depth changes are summarized in **Fixed** above but worth calling out in a security context too:
+- Open-redirect destination allowlist
+- Zip-slip path validation
+- CR/LF strip on email reply-To
+- Request body size cap
+- Generic error messages on unknown input
+- Four platform-wide security response headers
+
+### Performance — Cache Components / PPR (follow-up to the earlier deferral)
+- **`cacheComponents: true`** enabled in `next.config.ts`. Next 16's unified caching model: data fetches are excluded from prerenders unless wrapped in `'use cache'`, and dynamic islands (anything reading `cookies()` / `headers()` / per-request data) stream in via Suspense boundaries while the surrounding shell stays static.
+- All four content loaders converted to **`'use cache'` + `cacheLife('max')`**:
+  - `src/lib/brand/get-brand-config.ts`
+  - `src/lib/nav/get-nav-config.ts`
+  - `src/lib/theme/get-theme-vars.ts`
+  - `src/lib/content/get-page.ts` (both `getPageMarkdown` and `listPageSlugs`)
+  The prior manual in-memory cache pattern (`let cached: T | null = null; if (NODE_ENV === 'production' && cached) return cached`) is removed — Next's cache supersedes it.
+- **`<Analytics />` wrapped in `<Suspense fallback={null}>`** in `src/app/layout.tsx` so the `cookies()` read doesn't bubble dynamism up to the whole page.
+- **`Footer.tsx` marked `'use cache'`** so its `new Date().getFullYear()` copyright doesn't get treated as per-request data.
+- **`sitemap.ts` marked `'use cache'` + `cacheLife('max')`** for the same reason.
+- **`[...slug]` `generateStaticParams` placeholder.** Cache Components requires `generateStaticParams` to return at least one entry. When `content/pages/` only has `home.md` (the fresh-clone state), the function now returns a `__no_pages__` placeholder, and the page handler maps that to `notFound()`. Once a client unpacks a real deliverable, the actual slugs take over and the placeholder disappears.
+- **`runtime = 'nodejs'` removed from `/api/contact`.** Under Cache Components, route segment `runtime` config is rejected at build time (Node is the default and only setting; explicit export is disallowed).
+- **Route table outcome:**
+  - `/` flipped from `ƒ (Dynamic)` → **`◐ (Partial Prerender)`** — static shell + dynamic Analytics island.
+  - `/_not-found` same.
+  - `/[...slug]` placeholder is `○ (Static)`; runtime fallback for un-prerendered slugs stays `ƒ` (expected). Real client pages from the deliverable will each be `◐`.
+  - `/sitemap.xml` flipped from `ƒ` → **`○ (Static)`**.
+  - `/api/contact` stays `ƒ` (correct for POST endpoint).
+
+### Security — Content-Security-Policy (follow-up to the earlier deferral)
+- **CSP header enabled by default** in `enforce` mode, set in `next.config.ts` via `buildCsp()` and configured under `siteConfig.csp` in `site.config.ts`. The directive set:
+  - `default-src 'self'`
+  - `script-src 'self' 'unsafe-inline' https://*.googletagmanager.com https://*.google-analytics.com` (`'unsafe-eval'` added in dev for React's debug eval)
+  - `style-src 'self' 'unsafe-inline'` (Tailwind + the inline font-variable alias need it)
+  - `font-src 'self'` (next/font self-hosts Google Fonts under `/_next/static`)
+  - `img-src 'self' data: blob: https:` (permissive: content assets, OG images, certifications, markdown-embedded images)
+  - `connect-src 'self' https://*.google-analytics.com https://*.analytics.google.com https://*.googletagmanager.com`
+  - `frame-src https://www.google.com https://*.google.com` (Google Maps embed in `Map.tsx`)
+  - `object-src 'none'`, `base-uri 'self'`, `form-action 'self'`, `frame-ancestors 'self'`, `upgrade-insecure-requests`
+- **Approach: `'unsafe-inline'` + explicit third-party allowlist, NOT nonces.** Nonce-based CSP requires per-request rendering, which Next's PPR docs explicitly note is incompatible with Cache Components — going nonce would undo the static-prerender win from the prior commit. The CSP we ship still meaningfully defends against clickjacking, base-URI hijacks, form-action redirects, plugin abuse, and mixed content. XSS protection comes from upstream markdown sanitization (`react-markdown`), not from CSP blocking inline scripts.
+- **`siteConfig.csp` config block** with three knobs:
+  - `mode: 'enforce' | 'report-only' | 'off'` — defaults to `enforce`. Set `report-only` when wiring up a client for the first time or adding a new third-party service to catch violations in the browser console without blocking content.
+  - `extraOrigins: string[]` — additional origins added to `script-src`, `style-src`, `connect-src`, `img-src`, and `frame-src` all at once. Example: `['https://*.calendly.com', 'https://*.stripe.com']`. Per-directive control requires editing `buildCsp()` directly.
+
+### Deferred
+These three items were carried out of this pass and **all resolved in the 2026-05-24 deferred-items cleanup** (see the section above):
+- **`secondary-fg / secondary` contrast pair** shipped at 4.47 : 1 vs. the 4.5 : 1 AA threshold. → Fixed (now 4.59 : 1).
+- **react-markdown in `FaqAccordion.tsx` client bundle.** → Fixed (server/client split).
+- **Image aspect-ratio sweep** across LogoBar, TeamGrid, ContentCards, ChecklistSection. → Verified already CLS-safe; no change needed.

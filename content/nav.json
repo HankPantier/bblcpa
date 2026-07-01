@@ -1,0 +1,8 @@
+{
+  "primary": [
+    { "label": "Services", "url": "/services" },
+    { "label": "About", "url": "/about" },
+    { "label": "Resources", "url": "/resources" },
+    { "label": "Contact", "url": "/contact" }
+  ]
+}
