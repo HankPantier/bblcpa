@@ -1,6 +1,6 @@
 import { Section } from './Section'
 import { Button } from '@/components/ui/button'
-import Link from 'next/link'
+import { SmartLink as Link } from '@/components/ui/smart-link'
 import Image from 'next/image'
 import ReactMarkdown from 'react-markdown'
 import remarkGfm from 'remark-gfm'

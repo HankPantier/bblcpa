@@ -1,6 +1,6 @@
 import { Section } from './Section'
 import { Button } from '@/components/ui/button'
-import Link from 'next/link'
+import { SmartLink as Link } from '@/components/ui/smart-link'
 import Image from 'next/image'
 import type { HeroSplitProps } from '@/lib/assembly/extract-block-props'
 import { resolveImageSrc } from '@/lib/assembly/resolve-image'

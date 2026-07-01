@@ -1,7 +1,7 @@
 import Image from 'next/image'
 import { Section } from './Section'
 import { Button } from '@/components/ui/button'
-import Link from 'next/link'
+import { SmartLink as Link } from '@/components/ui/smart-link'
 import ReactMarkdown from 'react-markdown'
 import remarkGfm from 'remark-gfm'
 import { MD_LINK_COMPONENTS } from '@/lib/markdown-components'

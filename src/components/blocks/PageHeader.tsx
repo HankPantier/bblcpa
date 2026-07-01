@@ -1,5 +1,5 @@
 import { Section } from './Section'
-import Link from 'next/link'
+import { SmartLink as Link } from '@/components/ui/smart-link'
 import type { PageHeaderProps } from '@/lib/assembly/extract-block-props'
 
 export type { PageHeaderProps }

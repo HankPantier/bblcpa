@@ -2,7 +2,7 @@ import { Section } from './Section'
 import { InlineProse } from './InlineProse'
 import { Icon } from './Icon'
 import { Card } from '@/components/ui/card'
-import Link from 'next/link'
+import { SmartLink as Link } from '@/components/ui/smart-link'
 import { cn } from '@/lib/utils'
 import type { IndustryCardsProps } from '@/lib/assembly/extract-block-props'
 

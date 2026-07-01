@@ -1,4 +1,4 @@
-import Link from 'next/link'
+import { SmartLink as Link } from '@/components/ui/smart-link'
 import { Section } from './Section'
 import type { InternalLink } from '@/lib/assembly/parse-page-md'
 
