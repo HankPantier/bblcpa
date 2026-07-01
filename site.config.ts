@@ -87,7 +87,7 @@ export type SiteConfig = {
 }
 
 export const siteConfig: SiteConfig = {
-  siteUrl: 'https://korbeylague.com',
+  siteUrl: 'https://www.bblcpa.com',
   legalLinks: [
     { label: 'Privacy Policy', url: '/privacy' },
     { label: 'Terms of Service', url: '/terms' },
