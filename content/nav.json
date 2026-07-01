@@ -1,153 +1,148 @@
 {
   "primary": [
     {
-      "url": "https://www.bblcpa.com/",
       "label": "Home",
-      "children": []
+      "url": "https://www.bblcpa.com/"
     },
     {
-      "url": "https://www.bblcpa.com/who-we-are",
       "label": "Who We Are",
+      "url": "https://www.bblcpa.com/who-we-are",
       "children": [
         {
-          "url": "/our-team",
-          "label": "Meet our team"
+          "label": "Meet our team",
+          "url": "/our-team"
         },
         {
-          "url": "/why-bbl",
-          "label": "Why choose BBL"
+          "label": "Why choose BBL",
+          "url": "/why-bbl"
         }
       ]
     },
     {
-      "url": "/services",
       "label": "Services",
+      "url": "/services",
       "children": [
         {
-          "url": "https://www.bblcpa.com/what-we-do/outsourced-accounting",
-          "label": "Outsourced accounting | Brammer, Begnaud, & Lattimore CPAs & Consultants"
+          "label": "Outsourced accounting | Brammer, Begnaud, & Lattimore CPAs & Consultants",
+          "url": "https://www.bblcpa.com/what-we-do/outsourced-accounting"
         },
         {
-          "url": "https://www.bblcpa.com/what-we-do/accounting",
-          "label": "Accounting and bookkeeping | Brammer, Begnaud, & Lattimore CPAs & Consultants"
+          "label": "Accounting and bookkeeping | Brammer, Begnaud, & Lattimore CPAs & Consultants",
+          "url": "https://www.bblcpa.com/what-we-do/accounting"
         },
         {
-          "url": "https://www.bblcpa.com/what-we-do/payroll",
-          "label": "Payroll services | Brammer, Begnaud, & Lattimore CPAs & Consultants"
+          "label": "Payroll services | Brammer, Begnaud, & Lattimore CPAs & Consultants",
+          "url": "https://www.bblcpa.com/what-we-do/payroll"
         },
         {
-          "url": "https://www.bblcpa.com/what-we-do/tax",
-          "label": "Business tax planning and preparation | Brammer, Begnaud, & Lattimore CPAs & Consultants"
+          "label": "Business tax planning and preparation | Brammer, Begnaud, & Lattimore CPAs & Consultants",
+          "url": "https://www.bblcpa.com/what-we-do/tax"
         },
         {
-          "url": "https://www.bblcpa.com/what-we-do/personal-income-tax",
-          "label": "Personal tax prep and planning | Brammer, Begnaud, & Lattimore CPAs & Consultants"
+          "label": "Personal Tax Prep & Planning",
+          "url": "https://www.bblcpa.com/what-we-do/personal-income-tax"
         },
         {
-          "url": "https://www.bblcpa.com/what-we-do/audit-protection",
-          "label": "Audit protection and IRS representation | Brammer, Begnaud, & Lattimore CPAs & Consultants"
+          "label": "Audit protection and IRS representation | Brammer, Begnaud, & Lattimore CPAs & Consultants",
+          "url": "https://www.bblcpa.com/what-we-do/audit-protection"
         },
         {
-          "url": "https://www.bblcpa.com/what-we-do/business-management-services",
-          "label": "Business management services | Brammer, Begnaud, & Lattimore CPAs & Consultants"
+          "label": "Business management services | Brammer, Begnaud, & Lattimore CPAs & Consultants",
+          "url": "https://www.bblcpa.com/what-we-do/business-management-services"
         },
         {
-          "url": "https://www.bblcpa.com/what-we-do/business-foundation-services",
-          "label": "Business foundation services | Brammer, Begnaud, & Lattimore CPAs & Consultants"
+          "label": "Business foundation services | Brammer, Begnaud, & Lattimore CPAs & Consultants",
+          "url": "https://www.bblcpa.com/what-we-do/business-foundation-services"
         },
         {
-          "url": "https://www.bblcpa.com/what-we-do/entity-type-analysis",
-          "label": "Entity type analysis | Brammer, Begnaud, & Lattimore CPAs & Consultants"
+          "label": "Entity type analysis | Brammer, Begnaud, & Lattimore CPAs & Consultants",
+          "url": "https://www.bblcpa.com/what-we-do/entity-type-analysis"
         },
         {
-          "url": "https://www.bblcpa.com/what-we-do/accounting-system-setup",
-          "label": "Accounting system setup | Brammer, Begnaud, & Lattimore CPAs & Consultants"
+          "label": "Accounting system setup | Brammer, Begnaud, & Lattimore CPAs & Consultants",
+          "url": "https://www.bblcpa.com/what-we-do/accounting-system-setup"
         },
         {
-          "url": "https://www.bblcpa.com/what-we-do/retirement-plan-analysis",
-          "label": "Retirement plan analysis | Brammer, Begnaud, & Lattimore CPAs & Consultants"
+          "label": "Retirement plan analysis | Brammer, Begnaud, & Lattimore CPAs & Consultants",
+          "url": "https://www.bblcpa.com/what-we-do/retirement-plan-analysis"
         },
         {
-          "url": "https://www.bblcpa.com/what-we-do/credit-card-rewards",
-          "label": "Business credit card rewards advisory | Brammer, Begnaud, & Lattimore CPAs & Consultants"
+          "label": "Business credit card rewards advisory | Brammer, Begnaud, & Lattimore CPAs & Consultants",
+          "url": "https://www.bblcpa.com/what-we-do/credit-card-rewards"
         }
       ]
     },
     {
-      "url": "/industries",
       "label": "Industries We Serve",
+      "url": "/industries",
       "children": [
         {
-          "url": "/industries/physicians",
-          "label": "Accounting and tax services for physicians"
+          "label": "Accounting and tax services for physicians",
+          "url": "/industries/physicians"
         },
         {
-          "url": "/industries/dentists",
-          "label": "Accounting and tax services for dental practices"
+          "label": "Accounting and tax services for dental practices",
+          "url": "/industries/dentists"
         },
         {
-          "url": "/industries/restaurants",
-          "label": "Accounting and payroll services for restaurants"
+          "label": "Accounting and payroll services for restaurants",
+          "url": "/industries/restaurants"
         },
         {
-          "url": "/industries/agriculture",
-          "label": "Accounting and advisory services for agriculture businesses"
+          "label": "Accounting and advisory services for agriculture businesses",
+          "url": "/industries/agriculture"
         },
         {
-          "url": "/industries/small-business-owners",
-          "label": "Accounting and advisory services for small business owners"
+          "label": "Accounting and advisory services for small business owners",
+          "url": "/industries/small-business-owners"
         },
         {
-          "url": "/industries/new-business-owners",
-          "label": "Startup accounting and advisory services for new business owners"
+          "label": "Startup accounting and advisory services for new business owners",
+          "url": "/industries/new-business-owners"
         }
       ]
     },
     {
-      "url": "/get-started",
       "label": "Get Started with BBL",
-      "children": []
+      "url": "/get-started"
     },
     {
-      "url": "https://www.bblcpa.com/contact",
       "label": "Contact",
-      "children": []
+      "url": "https://www.bblcpa.com/contact"
     },
     {
-      "url": "/resources",
       "label": "Resources",
+      "url": "/resources",
       "children": [
         {
-          "url": "https://www.bblcpa.com/resources/resources-library",
-          "label": "Resources library | Brammer, Begnaud, & Lattimore CPAs & Consultants"
+          "label": "Resources library | Brammer, Begnaud, & Lattimore CPAs & Consultants",
+          "url": "https://www.bblcpa.com/resources/resources-library"
         },
         {
-          "url": "https://www.bblcpa.com/resources/e-books",
-          "label": "eBooks | Brammer, Begnaud, & Lattimore CPAs & Consultants"
+          "label": "eBooks | Brammer, Begnaud, & Lattimore CPAs & Consultants",
+          "url": "https://www.bblcpa.com/resources/e-books"
         },
         {
-          "url": "https://www.bblcpa.com/resources/forms-documents-and-links",
-          "label": "Forms, documents and links | Brammer, Begnaud, & Lattimore CPAs & Consultants"
+          "label": "Forms, documents and links | Brammer, Begnaud, & Lattimore CPAs & Consultants",
+          "url": "https://www.bblcpa.com/resources/forms-documents-and-links"
         },
         {
-          "url": "https://www.bblcpa.com/resources/refund-tracker",
-          "label": "Refund tracker | Brammer, Begnaud, & Lattimore CPAs & Consultants"
+          "label": "Refund tracker | Brammer, Begnaud, & Lattimore CPAs & Consultants",
+          "url": "https://www.bblcpa.com/resources/refund-tracker"
         },
         {
-          "url": "/resources/quick-reads",
-          "label": "Quick reads for small business owners"
+          "label": "Quick reads for small business owners",
+          "url": "/resources/quick-reads"
         }
       ]
     },
     {
-      "url": "https://www.bblcpa.com/privacy-policy",
       "label": "Privacy policy",
-      "children": []
+      "url": "https://www.bblcpa.com/privacy-policy"
     },
     {
-      "url": "/terms-of-use",
       "label": "Terms of Use",
-      "children": []
+      "url": "/terms-of-use"
     }
   ]
 }
