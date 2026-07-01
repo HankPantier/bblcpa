@@ -1,5 +1,5 @@
 ---
-title: Home | Brammer, Begnaud, & Lattimore CPAs & Consultants | Brammer, Begnaud, & Lattimore CPAs & Consultants
+title: Home | Brammer, Begnaud, & Lattimore CPAs & Consultants
 url: https://www.bblcpa.com/
 meta_title: Brammer, Begnaud & Lattimore CPAs | Port Arthur, TX
 meta_description: Brammer, Begnaud, & Lattimore CPAs & Consultants has served Port Arthur, TX businesses since 1950 with fixed-fee accounting, payroll, and tax support.
