@@ -24,51 +24,55 @@
       "children": [
         {
           "label": "Outsourced Accounting",
-          "url": "https://www.bblcpa.com/what-we-do/outsourced-accounting"
-        },
-        {
-          "label": "Accounting & bookkeeping",
-          "url": "https://www.bblcpa.com/what-we-do/accounting"
-        },
-        {
-          "label": "Payroll Services",
-          "url": "https://www.bblcpa.com/what-we-do/payroll"
-        },
-        {
-          "label": "Business Tax Planning & Preparation",
-          "url": "https://www.bblcpa.com/what-we-do/tax"
+          "url": "https://www.bblcpa.com/what-we-do/outsourced-accounting",
+          "children": [
+            {
+              "label": "Accounting & bookkeeping",
+              "url": "https://www.bblcpa.com/what-we-do/accounting"
+            },
+            {
+              "label": "Payroll Services",
+              "url": "https://www.bblcpa.com/what-we-do/payroll"
+            },
+            {
+              "label": "Business Tax Planning & Preparation",
+              "url": "https://www.bblcpa.com/what-we-do/tax"
+            },
+            {
+              "label": "Audit Protection & IRS Representation",
+              "url": "https://www.bblcpa.com/what-we-do/audit-protection"
+            }
+          ]
         },
         {
           "label": "Personal Tax Prep & Planning",
           "url": "https://www.bblcpa.com/what-we-do/personal-income-tax"
         },
         {
-          "label": "Audit Protection & IRS Representation",
-          "url": "https://www.bblcpa.com/what-we-do/audit-protection"
+          "label": "Business Foundation Services",
+          "url": "https://www.bblcpa.com/what-we-do/business-foundation-services",
+          "children": [
+            {
+              "label": "Entity Type Analysis",
+              "url": "https://www.bblcpa.com/what-we-do/entity-type-analysis"
+            },
+            {
+              "label": "Accounting System Setup",
+              "url": "https://www.bblcpa.com/what-we-do/accounting-system-setup"
+            },
+            {
+              "label": "Retirement Plan Analysis",
+              "url": "https://www.bblcpa.com/what-we-do/retirement-plan-analysis"
+            },
+            {
+              "label": "Business Credit Card Rewards Advisory",
+              "url": "https://www.bblcpa.com/what-we-do/credit-card-rewards"
+            }
+          ]
         },
         {
           "label": "Business Management Services",
           "url": "https://www.bblcpa.com/what-we-do/business-management-services"
-        },
-        {
-          "label": "Business Foundation Services",
-          "url": "https://www.bblcpa.com/what-we-do/business-foundation-services"
-        },
-        {
-          "label": "Entity Type Analysis",
-          "url": "https://www.bblcpa.com/what-we-do/entity-type-analysis"
-        },
-        {
-          "label": "Accounting System Setup",
-          "url": "https://www.bblcpa.com/what-we-do/accounting-system-setup"
-        },
-        {
-          "label": "Retirement Plan Analysis",
-          "url": "https://www.bblcpa.com/what-we-do/retirement-plan-analysis"
-        },
-        {
-          "label": "Business Credit Card Rewards Advisory",
-          "url": "https://www.bblcpa.com/what-we-do/credit-card-rewards"
         }
       ]
     },
