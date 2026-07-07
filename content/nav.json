@@ -10,11 +10,11 @@
       "children": [
         {
           "label": "Meet Our Team",
-          "url": "/our-team"
+          "url": "https://www.bblcpa.com/who-we-are/our-team"
         },
         {
           "label": "Why Choose BBL",
-          "url": "/why-bbl"
+          "url": "https://www.bblcpa.com/who-we-are/why-bbl"
         }
       ]
     },
@@ -24,55 +24,55 @@
       "children": [
         {
           "label": "Outsourced Accounting",
-          "url": "https://www.bblcpa.com/services/outsourced-accounting",
+          "url": "/services/outsourced-accounting",
           "children": [
             {
               "label": "Accounting & bookkeeping",
-              "url": "https://www.bblcpa.com/services/outsourced-accounting/accounting"
+              "url": "/services/outsourced-accounting/accounting"
             },
             {
               "label": "Payroll Services",
-              "url": "https://www.bblcpa.com/services/outsourced-accounting/payroll"
+              "url": "/services/outsourced-accounting/payroll"
             },
             {
               "label": "Business Tax Planning & Preparation",
-              "url": "https://www.bblcpa.com/services/outsourced-accounting/tax"
+              "url": "/services/outsourced-accounting/tax"
             },
             {
               "label": "Audit Protection & IRS Representation",
-              "url": "https://www.bblcpa.com/services/outsourced-accounting/audit-protection"
+              "url": "/services/outsourced-accounting/audit-protection"
             }
           ]
         },
         {
           "label": "Personal Tax Prep & Planning",
-          "url": "https://www.bblcpa.com/services/personal-income-tax"
+          "url": "/services/personal-income-tax"
         },
         {
           "label": "Business Foundation Services",
-          "url": "https://www.bblcpa.com/services/business-foundation-services",
+          "url": "/services/business-foundation-services",
           "children": [
             {
               "label": "Entity Type Analysis",
-              "url": "https://www.bblcpa.com/services/business-foundation-services/entity-type-analysis"
+              "url": "/services/business-foundation-services/entity-type-analysis"
             },
             {
               "label": "Accounting System Setup",
-              "url": "https://www.bblcpa.com/services/business-foundation-services/accounting-system-setup"
+              "url": "/services/business-foundation-services/accounting-system-setup"
             },
             {
               "label": "Retirement Plan Analysis",
-              "url": "https://www.bblcpa.com/services/business-foundation-services/retirement-plan-analysis"
+              "url": "/services/business-foundation-services/retirement-plan-analysis"
             },
             {
               "label": "Business Credit Card Rewards Advisory",
-              "url": "https://www.bblcpa.com/services/business-foundation-services/credit-card-rewards"
+              "url": "/services/business-foundation-services/credit-card-rewards"
             }
           ]
         },
         {
           "label": "Business Management Services",
-          "url": "https://www.bblcpa.com/services/business-management-services"
+          "url": "/services/business-management-services"
         }
       ]
     },
@@ -111,7 +111,7 @@
       "url": "/get-started"
     },
     {
-      "label": "Contact",
+      "label": "Contact Us",
       "url": "https://www.bblcpa.com/contact"
     },
     {
@@ -120,19 +120,19 @@
       "children": [
         {
           "label": "Resources library",
-          "url": "https://www.bblcpa.com/resources/resources-library"
+          "url": "/resources/resources-library"
         },
         {
           "label": "eBooks",
-          "url": "https://www.bblcpa.com/resources/e-books"
+          "url": "/resources/e-books"
         },
         {
           "label": "Forms, documents and links",
-          "url": "https://www.bblcpa.com/resources/forms-documents-and-links"
+          "url": "/resources/forms-documents-and-links"
         },
         {
           "label": "Refund tracker",
-          "url": "https://www.bblcpa.com/resources/refund-tracker"
+          "url": "/resources/refund-tracker"
         },
         {
           "label": "Quick reads for small business owners",
