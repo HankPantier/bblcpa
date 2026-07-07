@@ -1,11 +1,11 @@
 ---
 title: Meet our team | Brammer, Begnaud, & Lattimore CPAs & Consultants
-url: /our-team
+url: /who-we-are/meet-our-team
 meta_title: Meet Our Team | Port Arthur, TX CPAs | BBL
 meta_description: Meet the Port Arthur, TX CPA team at Brammer, Begnaud, & Lattimore. Five accountants, seven decades of local experience, and a fixed-fee model since 1950.
 target_keyword: meet our team port arthur, tx
 secondary_keywords: []
-canonical_url: https://www.bblcpa.com/our-team
+canonical_url: https://www.bblcpa.com/who-we-are/meet-our-team
 schema_markup: LocalBusiness
 hero: hero-split
 hero_variant: image-right

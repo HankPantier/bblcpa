@@ -15,3 +15,5 @@ old_url,new_url,status_code,reason
 /what-we-do/retirement-plan-analysis,/services/business-foundation-services/retirement-plan-analysis,301,Nested service URLs
 /what-we-do/credit-card-rewards,/services/business-foundation-services/credit-card-rewards,301,Nested service URLs
 /what-we-do/business-management-services,/services/business-management-services,301,Nested service URLs
+/our-team,/who-we-are/meet-our-team,301,Nested via nav editor
+/why-bbl,/who-we-are/why-choose-bbl,301,Nested via nav editor
