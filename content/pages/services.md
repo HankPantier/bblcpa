@@ -15,7 +15,7 @@ hero_subhead: Accounting, payroll, and tax bundled into one predictable monthly 
 hero_headline: "Seventy-plus years of keeping Southeast Texas businesses on solid ground"
 answer_block: "Brammer, Begnaud, & Lattimore CPAs & Consultants offers full-service accounting in Port Arthur, TX, including outsourced accounting, bookkeeping, payroll, business and personal tax, audit protection, and CFO-level business management. Most services come bundled into one fixed monthly fee with no surprise billing, delivered through a secure online platform with year-round support."
 eeat_signals: ["Established in Port Arthur, Texas in 1950, over 70 years in operation","Full-service CPA and consulting firm serving Southeast Texas","Provides IRS representation through dedicated audit protection service","Specialized industry experience with physicians, dentists, restaurants, and agriculture businesses","CFO-level business management guidance delivered at a fraction of full-time executive cost"]
-internal_links: [{"url":"https://www.bblcpa.com/what-we-do/outsourced-accounting","reason":"Drives readers from the flagship differentiator section to the primary service page","anchor_text":"See how outsourced accounting works"},{"url":"https://www.bblcpa.com/what-we-do/business-management-services","reason":"Connects the CFO-level guidance claim to its dedicated service page","anchor_text":"Business Management Services"},{"url":"https://www.bblcpa.com/what-we-do/audit-protection","reason":"Supports the IRS representation trust signal with a deeper service page","anchor_text":"Audit Protection"},{"url":"/industries/physicians","reason":"Routes industry searchers to the matching niche page","anchor_text":"See our work with physicians"},{"url":"/industries/restaurants","reason":"Routes restaurant owners to the matching niche page","anchor_text":"See our work with restaurants"},{"url":"/contact","reason":"Primary page CTA to the contact page","anchor_text":"Schedule a consultation"}]
+internal_links: [{"url":"https://www.bblcpa.com/services/outsourced-accounting","reason":"Drives readers from the flagship differentiator section to the primary service page","anchor_text":"See how outsourced accounting works"},{"url":"https://www.bblcpa.com/services/business-management-services","reason":"Connects the CFO-level guidance claim to its dedicated service page","anchor_text":"Business Management Services"},{"url":"https://www.bblcpa.com/services/outsourced-accounting/audit-protection","reason":"Supports the IRS representation trust signal with a deeper service page","anchor_text":"Audit Protection"},{"url":"/industries/physicians","reason":"Routes industry searchers to the matching niche page","anchor_text":"See our work with physicians"},{"url":"/industries/restaurants","reason":"Routes restaurant owners to the matching niche page","anchor_text":"See our work with restaurants"},{"url":"/contact","reason":"Primary page CTA to the contact page","anchor_text":"Schedule a consultation"}]
 faq_block: [{"answer":"Our outsourced accounting service bundles bookkeeping, payroll, tax support, and day-to-day questions into one flat monthly fee. You know the cost before the invoice arrives, with no hourly meter and no surprise charges at tax time. Everything runs through a secure online platform you can access anytime.","question":"How does the fixed monthly fee work?"},{"answer":"We provide outsourced accounting, bookkeeping, payroll, business tax, personal income tax, audit protection, business management, business foundation services, entity type analysis, accounting system setup, retirement plan analysis, and credit card rewards advisory. As a full-service firm in Port Arthur, we cover the financial side of running a business.","question":"What services does Brammer, Begnaud, & Lattimore offer?"},{"answer":"Yes. Your accounting team answers questions year-round, not just from January to April. Effective tax planning happens throughout the year, and our business management services give you ongoing guidance on hiring, pricing, and growth whenever you need it.","question":"Are you available outside of tax season?"},{"answer":"We work closely with physicians, dentists, restaurants, agriculture businesses, small business owners, and new business owners across Southeast Texas. Each of these industries faces specific accounting and tax challenges, and our experience since 1950 means we already understand them.","question":"Which industries do you specialize in?"},{"answer":"Our audit protection service puts a professional between you and the IRS. We handle the notices, letters, and proceedings on your behalf, so you are not interpreting tax code on your own. You stay focused on your business while we manage the correspondence.","question":"What happens if I get a notice from the IRS?"}]
 llm_citation_note: "An AI tool would most likely cite that Brammer, Begnaud, & Lattimore bundles accounting, payroll, and tax into one fixed monthly fee with no surprise billing, delivered via a secure online platform, and has served Port Arthur and Southeast Texas since 1950."
 ---
@@ -42,7 +42,7 @@ Here is what the bundle gives you:
 - CFO-level guidance on the big decisions, at a fraction of the cost of a full-time hire
 - One point of contact for accounting, payroll, and tax instead of three separate vendors
 
-[See how outsourced accounting works](https://www.bblcpa.com/what-we-do/outsourced-accounting) and what it could mean for your business.
+[See how outsourced accounting works](https://www.bblcpa.com/services/outsourced-accounting) and what it could mean for your business.
 
 <!-- block: service-cards | variant: 3-col -->
 ## The full list of services we handle so you don't have to
@@ -50,62 +50,62 @@ Here is what the bundle gives you:
 ### Outsourced Accounting
 icon: Calculator
 
-A fully bundled accounting service delivered for one fixed monthly fee through a secure online platform. You get bookkeeping, payroll, and tax support without juggling separate vendors or watching the clock on hourly bills. [Learn more](https://www.bblcpa.com/what-we-do/outsourced-accounting)
+A fully bundled accounting service delivered for one fixed monthly fee through a secure online platform. You get bookkeeping, payroll, and tax support without juggling separate vendors or watching the clock on hourly bills. [Learn more](https://www.bblcpa.com/services/outsourced-accounting)
 
 ### Accounting and Bookkeeping
 icon: Receipt
 
-Comprehensive bookkeeping handled by a seasoned team, including transaction classification, reconciliations, and clean monthly financials. You get books you can actually trust when it is time to make a decision. [Learn more](https://www.bblcpa.com/what-we-do/accounting)
+Comprehensive bookkeeping handled by a seasoned team, including transaction classification, reconciliations, and clean monthly financials. You get books you can actually trust when it is time to make a decision. [Learn more](https://www.bblcpa.com/services/outsourced-accounting/accounting)
 
 ### Payroll
 icon: Users
 
-Full-service payroll management run through a secure online platform, covering wage calculations, tax filings, and direct deposit. Your employees get paid on time and your filings stay current. [Learn more](https://www.bblcpa.com/what-we-do/payroll)
+Full-service payroll management run through a secure online platform, covering wage calculations, tax filings, and direct deposit. Your employees get paid on time and your filings stay current. [Learn more](https://www.bblcpa.com/services/outsourced-accounting/payroll)
 
 ### Business Tax
 icon: FileText
 
-Strategic business tax planning and preparation delivered through a digital workflow. We look for the moves that lower your bill before the year closes, not after. [Learn more](https://www.bblcpa.com/what-we-do/tax)
+Strategic business tax planning and preparation delivered through a digital workflow. We look for the moves that lower your bill before the year closes, not after. [Learn more](https://www.bblcpa.com/services/outsourced-accounting/tax)
 
 ### Personal Income Tax
 icon: FileCheck
 
-Individual tax preparation paired with year-round planning, all handled through a convenient digital process. Bring us your situation in July, not just in April. [Learn more](https://www.bblcpa.com/what-we-do/personal-income-tax)
+Individual tax preparation paired with year-round planning, all handled through a convenient digital process. Bring us your situation in July, not just in April. [Learn more](https://www.bblcpa.com/services/personal-income-tax)
 
 ### Audit Protection
 icon: ShieldCheck
 
-Expert IRS representation that handles notices, letters, and proceedings on your behalf. If the IRS comes calling, you have a professional answering the phone instead of you. [Learn more](https://www.bblcpa.com/what-we-do/audit-protection)
+Expert IRS representation that handles notices, letters, and proceedings on your behalf. If the IRS comes calling, you have a professional answering the phone instead of you. [Learn more](https://www.bblcpa.com/services/outsourced-accounting/audit-protection)
 
 ### Business Management Services
 icon: ChartLine
 
-CFO-level financial oversight at a fraction of the cost of a full-time executive, including regular financial reviews and forward-looking guidance. You get a seat-of-the-table advisor without the six-figure salary. [Learn more](https://www.bblcpa.com/what-we-do/business-management-services)
+CFO-level financial oversight at a fraction of the cost of a full-time executive, including regular financial reviews and forward-looking guidance. You get a seat-of-the-table advisor without the six-figure salary. [Learn more](https://www.bblcpa.com/services/business-management-services)
 
 ### Business Foundation Services
 icon: Building2
 
-Startup advisory for new business owners who want to launch with a strong financial structure from day one. We help you set up the right way so you are not untangling problems later. [Learn more](https://www.bblcpa.com/what-we-do/business-foundation-services)
+Startup advisory for new business owners who want to launch with a strong financial structure from day one. We help you set up the right way so you are not untangling problems later. [Learn more](https://www.bblcpa.com/services/business-foundation-services)
 
 ### Entity Type Analysis
 icon: Scale
 
-Guidance on choosing the right business entity, from LLC to S corp to partnership, including the tax and liability tradeoffs of each. The structure you pick shapes your taxes for years, so it pays to get it right. [Learn more](https://www.bblcpa.com/what-we-do/entity-type-analysis)
+Guidance on choosing the right business entity, from LLC to S corp to partnership, including the tax and liability tradeoffs of each. The structure you pick shapes your taxes for years, so it pays to get it right. [Learn more](https://www.bblcpa.com/services/business-foundation-services/entity-type-analysis)
 
 ### Accounting System Setup
 icon: Cog
 
-Professional setup or cleanup of your accounting system to keep workflows streamlined and reporting accurate. Whether you are starting fresh or fixing a mess, we get the system working for you. [Learn more](https://www.bblcpa.com/what-we-do/accounting-system-setup)
+Professional setup or cleanup of your accounting system to keep workflows streamlined and reporting accurate. Whether you are starting fresh or fixing a mess, we get the system working for you. [Learn more](https://www.bblcpa.com/services/business-foundation-services/accounting-system-setup)
 
 ### Retirement Plan Analysis
 icon: PiggyBank
 
-Research and comparison of retirement plan options to help business owners pick the right fit for themselves and their teams. We weigh the contribution limits and tax benefits so you do not have to. [Learn more](https://www.bblcpa.com/what-we-do/retirement-plan-analysis)
+Research and comparison of retirement plan options to help business owners pick the right fit for themselves and their teams. We weigh the contribution limits and tax benefits so you do not have to. [Learn more](https://www.bblcpa.com/services/business-foundation-services/retirement-plan-analysis)
 
 ### Credit Card Rewards
 icon: CreditCard
 
-Advisory help identifying the business credit card that returns the most value on your spending. A small change to how you pay can add up to real rewards over a year. [Learn more](https://www.bblcpa.com/what-we-do/credit-card-rewards)
+Advisory help identifying the business credit card that returns the most value on your spending. A small change to how you pay can add up to real rewards over a year. [Learn more](https://www.bblcpa.com/services/business-foundation-services/credit-card-rewards)
 
 <!-- block: industry-cards | variant: 3-col -->
 ## We specialize in the industries that need us most
@@ -186,9 +186,9 @@ Brammer, Begnaud, & Lattimore CPAs & Consultants offers full-service accounting 
 - CFO-level business management guidance delivered at a fraction of full-time executive cost
 
 **Internal Links:**
-- See how outsourced accounting works → https://www.bblcpa.com/what-we-do/outsourced-accounting — Drives readers from the flagship differentiator section to the primary service page
-- Business Management Services → https://www.bblcpa.com/what-we-do/business-management-services — Connects the CFO-level guidance claim to its dedicated service page
-- Audit Protection → https://www.bblcpa.com/what-we-do/audit-protection — Supports the IRS representation trust signal with a deeper service page
+- See how outsourced accounting works → https://www.bblcpa.com/services/outsourced-accounting — Drives readers from the flagship differentiator section to the primary service page
+- Business Management Services → https://www.bblcpa.com/services/business-management-services — Connects the CFO-level guidance claim to its dedicated service page
+- Audit Protection → https://www.bblcpa.com/services/outsourced-accounting/audit-protection — Supports the IRS representation trust signal with a deeper service page
 - See our work with physicians → /industries/physicians — Routes industry searchers to the matching niche page
 - See our work with restaurants → /industries/restaurants — Routes restaurant owners to the matching niche page
 - Schedule a consultation → /contact — Primary page CTA to the contact page

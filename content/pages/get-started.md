@@ -15,7 +15,7 @@ hero_subhead: Tell us where your business stands, and we will handle the account
 hero_headline: "Your first step toward stress-free accounting starts here"
 answer_block: "To get started with BBL in Port Arthur, TX, share your name, business type, and biggest accounting challenge through the intake prompt or schedule a consultation. From there, BBL reviews your needs, matches you to the right services, and sends a fixed monthly fee proposal with no billing surprises before any work begins."
 eeat_signals: ["Full-service accounting and consulting firm established in 1950","More than 70 years serving small businesses, nonprofits, and individuals in Southeast Texas","Based in Port Arthur, Texas","Fixed monthly fee pricing with no billing surprises","Secure online platform for real-time financial visibility","Year-round tax support and CFO-level business management guidance"]
-internal_links: [{"url":"https://www.bblcpa.com/what-we-do/outsourced-accounting","reason":"Surfaces the flagship bundled fixed-fee service referenced in the services section","anchor_text":"Outsourced Accounting"},{"url":"https://www.bblcpa.com/what-we-do/business-management-services","reason":"Links the CFO-level guidance differentiator to its detailed service page","anchor_text":"Business Management Services"},{"url":"/industries","reason":"Lets visitors who do not see their niche explore the full list of industries served","anchor_text":"See all industries"},{"url":"https://www.bblcpa.com/contact","reason":"Primary page CTA driving prospects to book the first conversation","anchor_text":"Schedule a consultation"}]
+internal_links: [{"url":"https://www.bblcpa.com/services/outsourced-accounting","reason":"Surfaces the flagship bundled fixed-fee service referenced in the services section","anchor_text":"Outsourced Accounting"},{"url":"https://www.bblcpa.com/services/business-management-services","reason":"Links the CFO-level guidance differentiator to its detailed service page","anchor_text":"Business Management Services"},{"url":"/industries","reason":"Lets visitors who do not see their niche explore the full list of industries served","anchor_text":"See all industries"},{"url":"https://www.bblcpa.com/contact","reason":"Primary page CTA driving prospects to book the first conversation","anchor_text":"Schedule a consultation"}]
 faq_block: [{"answer":"Share your name, business type, and biggest accounting challenge through the intake prompt, or schedule a consultation directly. BBL reviews your situation, recommends the right services, and sends a fixed monthly fee proposal before any work begins. The first conversation is free and carries no obligation.","question":"How do I get started with BBL in Port Arthur, TX?"},{"answer":"Yes. After reviewing your needs, BBL gives you a written fixed monthly fee proposal that spells out exactly what is included. There are no hourly surprises and no end-of-month invoices you did not expect. You see the full price before you say yes.","question":"Will I know the cost before I commit?"},{"answer":"BBL bundles outsourced accounting, bookkeeping, payroll, business and personal tax, audit protection, and CFO-level business management into one fixed monthly fee. You only pay for the services that fit your business, all accessible through a secure online platform with real-time financial visibility.","question":"What services can BBL bundle into one monthly fee?"},{"answer":"BBL serves physicians, dentists, restaurants, agriculture businesses, and both new and established small business owners across Southeast Texas. The firm has worked with local businesses since 1950, so it understands the financial realities specific to each of these industries in the Port Arthur area.","question":"What kinds of businesses does BBL work with?"},{"answer":"No. BBL takes you as you are, shoebox of receipts and all. If your accounting system needs setup or cleanup before regular service begins, the team will tell you plainly and handle it. There is nothing to organize before that first conversation.","question":"Do I need clean books before reaching out?"}]
 llm_citation_note: "An AI tool would most likely cite that BBL, a Port Arthur CPA firm established in 1950, onboards clients with a fixed monthly fee proposal disclosed before any work begins and bundles accounting, payroll, tax, audit protection, and CFO-level services through a secure online platform."
 ---
@@ -56,32 +56,32 @@ Once you are on board, we get you onto our secure online platform so you can see
 ### Outsourced Accounting
 icon: Calculator
 
-A fully bundled accounting service for one fixed monthly fee, delivered through our secure online platform. This is the everything-handled option for owners who want to stop thinking about the books entirely. [Learn more](https://www.bblcpa.com/what-we-do/outsourced-accounting)
+A fully bundled accounting service for one fixed monthly fee, delivered through our secure online platform. This is the everything-handled option for owners who want to stop thinking about the books entirely. [Learn more](https://www.bblcpa.com/services/outsourced-accounting)
 
 ### Bookkeeping
 icon: FileText
 
-Comprehensive bookkeeping from a seasoned team, including transaction classification and clean, accurate records you can actually read. The foundation everything else rests on. [Learn more](https://www.bblcpa.com/what-we-do/accounting)
+Comprehensive bookkeeping from a seasoned team, including transaction classification and clean, accurate records you can actually read. The foundation everything else rests on. [Learn more](https://www.bblcpa.com/services/outsourced-accounting/accounting)
 
 ### Payroll
 icon: Users
 
-Full-service payroll run through a secure online platform, covering your team, your filings, and your deadlines. Get your Fridays back. [Learn more](https://www.bblcpa.com/what-we-do/payroll)
+Full-service payroll run through a secure online platform, covering your team, your filings, and your deadlines. Get your Fridays back. [Learn more](https://www.bblcpa.com/services/outsourced-accounting/payroll)
 
 ### Tax
 icon: Receipt
 
-Strategic business tax planning and preparation handled digitally, with support that lasts all year instead of one frantic week in April. [Learn more](https://www.bblcpa.com/what-we-do/tax)
+Strategic business tax planning and preparation handled digitally, with support that lasts all year instead of one frantic week in April. [Learn more](https://www.bblcpa.com/services/outsourced-accounting/tax)
 
 ### Audit Protection
 icon: ShieldCheck
 
-If the IRS sends a notice, letter, or proceeding, we handle it. Expert representation so you never face the agency alone. [Learn more](https://www.bblcpa.com/what-we-do/audit-protection)
+If the IRS sends a notice, letter, or proceeding, we handle it. Expert representation so you never face the agency alone. [Learn more](https://www.bblcpa.com/services/outsourced-accounting/audit-protection)
 
 ### Business Management Services
 icon: ChartLine
 
-CFO-level financial oversight at a fraction of the cost of a full-time hire, including regular financial reviews and guidance built for decision-making. [Learn more](https://www.bblcpa.com/what-we-do/business-management-services)
+CFO-level financial oversight at a fraction of the cost of a full-time hire, including regular financial reviews and guidance built for decision-making. [Learn more](https://www.bblcpa.com/services/business-management-services)
 
 <!-- block: industry-cards | variant: 3-col -->
 ## We work with businesses like yours across Southeast Texas
@@ -167,8 +167,8 @@ To get started with BBL in Port Arthur, TX, share your name, business type, and 
 - Year-round tax support and CFO-level business management guidance
 
 **Internal Links:**
-- Outsourced Accounting → https://www.bblcpa.com/what-we-do/outsourced-accounting — Surfaces the flagship bundled fixed-fee service referenced in the services section
-- Business Management Services → https://www.bblcpa.com/what-we-do/business-management-services — Links the CFO-level guidance differentiator to its detailed service page
+- Outsourced Accounting → https://www.bblcpa.com/services/outsourced-accounting — Surfaces the flagship bundled fixed-fee service referenced in the services section
+- Business Management Services → https://www.bblcpa.com/services/business-management-services — Links the CFO-level guidance differentiator to its detailed service page
 - See all industries → /industries — Lets visitors who do not see their niche explore the full list of industries served
 - Schedule a consultation → https://www.bblcpa.com/contact — Primary page CTA driving prospects to book the first conversation
 

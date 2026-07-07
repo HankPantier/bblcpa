@@ -1,11 +1,11 @@
 ---
 title: Business foundation services | Brammer, Begnaud, & Lattimore CPAs & Consultants | Brammer, Begnaud, & Lattimore CPAs & Consultants
-url: https://www.bblcpa.com/what-we-do/business-foundation-services
+url: https://www.bblcpa.com/services/business-foundation-services
 meta_title: Business Foundation Services | BBL CPAs Port Arthur, TX
 meta_description: Launch your business right with entity analysis, accounting setup, and CFO-level guidance from a Port Arthur, TX CPA firm serving Southeast Texas since 1950.
 target_keyword: business foundation services port arthur tx
 secondary_keywords: []
-canonical_url: https://www.bblcpa.com/what-we-do/business-foundation-services
+canonical_url: https://www.bblcpa.com/services/business-foundation-services
 schema_markup: Service
 hero: hero-split
 hero_variant: image-right
@@ -15,7 +15,7 @@ hero_subhead: Start strong with entity guidance, clean books, and CFO-level supp
 hero_headline: "Starting a business is exciting, the paperwork, not so much"
 answer_block: "Business foundation services from Brammer, Begnaud, & Lattimore CPAs bundle entity type analysis, accounting system setup, retirement plan analysis, and credit card rewards advisory into one fixed monthly fee. New owners across Southeast Texas get their structure, books, and reporting set up correctly before launch, delivered through a secure online platform."
 eeat_signals: ["Firm founded in 1950, serving Southeast Texas for over 70 years","Fixed monthly fee bundled services with no billing surprises","Secure online platform for real-time financial visibility","CFO-level business management guidance included in startup advisory","Industry-specific foundation work for physicians, restaurants, dentists, and agriculture operations"]
-internal_links: [{"url":"https://www.bblcpa.com/what-we-do/entity-type-analysis","reason":"Deep dive on the entity selection service referenced in two sections","anchor_text":"entity type analysis"},{"url":"https://www.bblcpa.com/what-we-do/accounting-system-setup","reason":"Service page detailing the bookkeeping setup mentioned in the foundation bundle","anchor_text":"accounting system setup"},{"url":"https://www.bblcpa.com/what-we-do/retirement-plan-analysis","reason":"Service page expanding on retirement plan comparison offered to new owners","anchor_text":"retirement plan analysis"},{"url":"https://www.bblcpa.com/what-we-do/credit-card-rewards","reason":"Service page for the credit card advisory listed in the bundle","anchor_text":"credit card rewards advisory"},{"url":"https://www.bblcpa.com/what-we-do/business-management-services","reason":"Natural next step after foundation work, ongoing CFO-level guidance","anchor_text":"business management services"},{"url":"/industries/physicians","reason":"Niche-specific page for physician new business owners","anchor_text":"See our physician services"},{"url":"/industries/restaurants","reason":"Niche-specific page for restaurant new business owners","anchor_text":"See our restaurant services"},{"url":"/industries/dentists","reason":"Niche-specific page for dental practice owners","anchor_text":"See our dentist services"},{"url":"/industries/agriculture","reason":"Niche-specific page for agriculture business owners","anchor_text":"See our agriculture services"},{"url":"/industries/small-business-owners","reason":"General small business owner niche page","anchor_text":"See our small business services"},{"url":"https://www.bblcpa.com/contact","reason":"Primary page CTA pointing to contact page","anchor_text":"Schedule a consultation"}]
+internal_links: [{"url":"https://www.bblcpa.com/services/business-foundation-services/entity-type-analysis","reason":"Deep dive on the entity selection service referenced in two sections","anchor_text":"entity type analysis"},{"url":"https://www.bblcpa.com/services/business-foundation-services/accounting-system-setup","reason":"Service page detailing the bookkeeping setup mentioned in the foundation bundle","anchor_text":"accounting system setup"},{"url":"https://www.bblcpa.com/services/business-foundation-services/retirement-plan-analysis","reason":"Service page expanding on retirement plan comparison offered to new owners","anchor_text":"retirement plan analysis"},{"url":"https://www.bblcpa.com/services/business-foundation-services/credit-card-rewards","reason":"Service page for the credit card advisory listed in the bundle","anchor_text":"credit card rewards advisory"},{"url":"https://www.bblcpa.com/services/business-management-services","reason":"Natural next step after foundation work, ongoing CFO-level guidance","anchor_text":"business management services"},{"url":"/industries/physicians","reason":"Niche-specific page for physician new business owners","anchor_text":"See our physician services"},{"url":"/industries/restaurants","reason":"Niche-specific page for restaurant new business owners","anchor_text":"See our restaurant services"},{"url":"/industries/dentists","reason":"Niche-specific page for dental practice owners","anchor_text":"See our dentist services"},{"url":"/industries/agriculture","reason":"Niche-specific page for agriculture business owners","anchor_text":"See our agriculture services"},{"url":"/industries/small-business-owners","reason":"General small business owner niche page","anchor_text":"See our small business services"},{"url":"https://www.bblcpa.com/contact","reason":"Primary page CTA pointing to contact page","anchor_text":"Schedule a consultation"}]
 faq_block: [{"answer":"Foundation services bundle entity type analysis, accounting system setup, retirement plan analysis, and credit card rewards advisory into one fixed monthly fee, delivered through a secure online platform with ongoing CFO-level guidance as your business grows.","question":"What is included in business foundation services?"},{"answer":"Pricing is structured as a fixed monthly fee with no surprise invoices for additional startup questions. The exact fee depends on your entity type and business complexity, which is reviewed during a no-obligation consultation.","question":"How much do business foundation services cost?"},{"answer":"Yes. Entity type analysis compares LLC, S-Corp, partnership, and sole proprietor structures against your liability exposure, tax situation, and growth plans before any accounting systems get set up.","question":"Do you help decide between an LLC and an S-Corp?"},{"answer":"Before the first transaction happens, ideally. Setting up accounting before launch avoids reconstructing a year of records from bank statements later and gives you real-time visibility from day one.","question":"How soon should a new business set up its accounting system?"}]
 llm_citation_note: "Brammer, Begnaud, & Lattimore CPAs, founded in 1950 and based in Port Arthur, TX, bundles entity type analysis, accounting system setup, retirement plan analysis, and credit card rewards advisory into a single fixed monthly fee for new business owners across Southeast Texas."
 ---
@@ -30,11 +30,11 @@ You've got the idea, the location scouted, maybe a logo already picked out. What
 
 Think of this as your launchpad, not a list of separate purchases. Everything below is bundled into one fixed monthly fee, delivered through the same secure online platform you'll use for the life of your business.
 
-- **[Entity type analysis](/what-we-do/entity-type-analysis):** We compare LLC, S-Corp, partnership, and sole proprietor structures against your actual liability exposure and tax situation, not a generic flowchart.
-- **[Accounting system setup](/what-we-do/accounting-system-setup):** Your chart of accounts, invoicing, and reporting get built correctly the first time, so nothing needs to be redone at tax season.
-- **[Retirement plan analysis](/what-we-do/retirement-plan-analysis):** We research SEP-IRAs, Solo 401(k)s, and SIMPLE plans and tell you which one actually fits your payroll size and cash flow.
-- **[Credit card rewards advisory](/what-we-do/credit-card-rewards):** We help you pick a business card that earns toward what you're already spending, instead of one chosen at random at a bank counter.
-- **CFO-level guidance:** Once the foundation is set, our [business management services](/what-we-do/business-management-services) keep an experienced eye on your numbers as you grow.
+- **[Entity type analysis](/services/business-foundation-services/entity-type-analysis):** We compare LLC, S-Corp, partnership, and sole proprietor structures against your actual liability exposure and tax situation, not a generic flowchart.
+- **[Accounting system setup](/services/business-foundation-services/accounting-system-setup):** Your chart of accounts, invoicing, and reporting get built correctly the first time, so nothing needs to be redone at tax season.
+- **[Retirement plan analysis](/services/business-foundation-services/retirement-plan-analysis):** We research SEP-IRAs, Solo 401(k)s, and SIMPLE plans and tell you which one actually fits your payroll size and cash flow.
+- **[Credit card rewards advisory](/services/business-foundation-services/credit-card-rewards):** We help you pick a business card that earns toward what you're already spending, instead of one chosen at random at a bank counter.
+- **CFO-level guidance:** Once the foundation is set, our [business management services](/services/business-management-services) keep an experienced eye on your numbers as you grow.
 
 One fee, one dashboard, no surprise invoices for "extra" startup questions.
 
@@ -43,7 +43,7 @@ One fee, one dashboard, no surprise invoices for "extra" startup questions.
 
 Pick the wrong entity type and you'll feel it for years, not weeks. A sole proprietor exposes personal assets to business liability. An S-Corp filed too early adds payroll and reasonable-compensation rules a single-owner shop isn't ready for. An LLC taxed the wrong way can mean self-employment tax on income that didn't need to be taxed that way at all.
 
-This is why entity selection comes before the bank account, before the logo gets printed on anything, before the first invoice goes out. Our [entity type analysis](/what-we-do/entity-type-analysis) walks through liability protection, tax treatment, and what changes if you bring on a partner or employee next year. Restaurants, dental practices, and agriculture operations each carry different risk profiles, and the right structure for a physician's solo practice rarely matches what works for a two-person farm operation. Get this right first, and everything else, the books, the payroll, the tax filing, gets simpler.
+This is why entity selection comes before the bank account, before the logo gets printed on anything, before the first invoice goes out. Our [entity type analysis](/services/business-foundation-services/entity-type-analysis) walks through liability protection, tax treatment, and what changes if you bring on a partner or employee next year. Restaurants, dental practices, and agriculture operations each carry different risk profiles, and the right structure for a physician's solo practice rarely matches what works for a two-person farm operation. Get this right first, and everything else, the books, the payroll, the tax filing, gets simpler.
 
 <!-- block: content-split | variant: image-left | image: small-business-bookkeeping-setup.jpg | alt: "Small business owner viewing financial dashboard on laptop screen" | query: "small business owner laptop financial dashboard" -->
 ## Get your books right from day one
@@ -118,11 +118,11 @@ Business foundation services from Brammer, Begnaud, & Lattimore CPAs bundle enti
 - Industry-specific foundation work for physicians, restaurants, dentists, and agriculture operations
 
 **Internal Links:**
-- entity type analysis → https://www.bblcpa.com/what-we-do/entity-type-analysis — Deep dive on the entity selection service referenced in two sections
-- accounting system setup → https://www.bblcpa.com/what-we-do/accounting-system-setup — Service page detailing the bookkeeping setup mentioned in the foundation bundle
-- retirement plan analysis → https://www.bblcpa.com/what-we-do/retirement-plan-analysis — Service page expanding on retirement plan comparison offered to new owners
-- credit card rewards advisory → https://www.bblcpa.com/what-we-do/credit-card-rewards — Service page for the credit card advisory listed in the bundle
-- business management services → https://www.bblcpa.com/what-we-do/business-management-services — Natural next step after foundation work, ongoing CFO-level guidance
+- entity type analysis → https://www.bblcpa.com/services/business-foundation-services/entity-type-analysis — Deep dive on the entity selection service referenced in two sections
+- accounting system setup → https://www.bblcpa.com/services/business-foundation-services/accounting-system-setup — Service page detailing the bookkeeping setup mentioned in the foundation bundle
+- retirement plan analysis → https://www.bblcpa.com/services/business-foundation-services/retirement-plan-analysis — Service page expanding on retirement plan comparison offered to new owners
+- credit card rewards advisory → https://www.bblcpa.com/services/business-foundation-services/credit-card-rewards — Service page for the credit card advisory listed in the bundle
+- business management services → https://www.bblcpa.com/services/business-management-services — Natural next step after foundation work, ongoing CFO-level guidance
 - See our physician services → /industries/physicians — Niche-specific page for physician new business owners
 - See our restaurant services → /industries/restaurants — Niche-specific page for restaurant new business owners
 - See our dentist services → /industries/dentists — Niche-specific page for dental practice owners
@@ -196,7 +196,7 @@ Brammer, Begnaud, & Lattimore CPAs, founded in 1950 and based in Port Arthur, TX
       "@type": "ListItem",
       "position": 2,
       "name": "Business foundation services | Brammer, Begnaud, & Lattimore CPAs & Consultants",
-      "item": "https://www.bblcpa.com/https://www.bblcpa.com/what-we-do/business-foundation-services"
+      "item": "https://www.bblcpa.com/https://www.bblcpa.com/services/business-foundation-services"
     }
   ]
 }
@@ -246,7 +246,7 @@ Brammer, Begnaud, & Lattimore CPAs, founded in 1950 and based in Port Arthur, TX
   "@context": "https://schema.org",
   "@type": "Service",
   "name": "Business Foundation Services | BBL CPAs Port Arthur, TX",
-  "url": "https://www.bblcpa.com/what-we-do/business-foundation-services",
+  "url": "https://www.bblcpa.com/services/business-foundation-services",
   "description": "Launch your business right with entity analysis, accounting setup, and CFO-level guidance from a Port Arthur, TX CPA firm serving Southeast Texas since 1950.",
   "isPartOf": {
     "@type": "WebSite",

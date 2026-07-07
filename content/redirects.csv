@@ -3,3 +3,15 @@
 # Format: old_url,new_url,status_code,reason
 # Lines starting with # are ignored by the Next.js redirect loader.
 old_url,new_url,status_code,reason
+/what-we-do/outsourced-accounting,/services/outsourced-accounting,301,Nested service URLs
+/what-we-do/accounting,/services/outsourced-accounting/accounting,301,Nested service URLs
+/what-we-do/payroll,/services/outsourced-accounting/payroll,301,Nested service URLs
+/what-we-do/tax,/services/outsourced-accounting/tax,301,Nested service URLs
+/what-we-do/audit-protection,/services/outsourced-accounting/audit-protection,301,Nested service URLs
+/what-we-do/personal-income-tax,/services/personal-income-tax,301,Nested service URLs
+/what-we-do/business-foundation-services,/services/business-foundation-services,301,Nested service URLs
+/what-we-do/entity-type-analysis,/services/business-foundation-services/entity-type-analysis,301,Nested service URLs
+/what-we-do/accounting-system-setup,/services/business-foundation-services/accounting-system-setup,301,Nested service URLs
+/what-we-do/retirement-plan-analysis,/services/business-foundation-services/retirement-plan-analysis,301,Nested service URLs
+/what-we-do/credit-card-rewards,/services/business-foundation-services/credit-card-rewards,301,Nested service URLs
+/what-we-do/business-management-services,/services/business-management-services,301,Nested service URLs

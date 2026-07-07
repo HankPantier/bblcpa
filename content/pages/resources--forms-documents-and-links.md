@@ -11,7 +11,7 @@ hero: page-header
 hero_subhead: Tax forms, official links, and secure document upload gathered in one easy place
 answer_block: "This page is a one-stop hub from Brammer, Begnaud, & Lattimore CPAs & Consultants in Port Arthur, TX, gathering the most-requested IRS and Texas tax forms, official government links, and a secure online portal for sending documents. It also lets you reach the BBL team directly when you're unsure which form applies."
 eeat_signals: ["Serving Southeast Texas clients since 1950","Full-service CPA and consulting firm based in Port Arthur, Texas","Year-round tax support, not seasonal","Secure online platform with encrypted document submission"]
-internal_links: [{"url":"https://www.bblcpa.com/what-we-do/tax","reason":"Connects form questions to the firm's business tax service","anchor_text":"tax"},{"url":"https://www.bblcpa.com/what-we-do/payroll","reason":"Links payroll-related forms like 941 and W-9 to the payroll service","anchor_text":"payroll"},{"url":"https://www.bblcpa.com/resources/refund-tracker","reason":"Supports the refund-checking task with the firm's own tool","anchor_text":"refund tracker"},{"url":"https://www.bblcpa.com/what-we-do/entity-type-analysis","reason":"Pairs business registration links with entity selection guidance","anchor_text":"entity type analysis"},{"url":"/contact","reason":"Primary page CTA for clients unsure which form they need","anchor_text":"Schedule a consultation"}]
+internal_links: [{"url":"https://www.bblcpa.com/services/outsourced-accounting/tax","reason":"Connects form questions to the firm's business tax service","anchor_text":"tax"},{"url":"https://www.bblcpa.com/services/outsourced-accounting/payroll","reason":"Links payroll-related forms like 941 and W-9 to the payroll service","anchor_text":"payroll"},{"url":"https://www.bblcpa.com/resources/refund-tracker","reason":"Supports the refund-checking task with the firm's own tool","anchor_text":"refund tracker"},{"url":"https://www.bblcpa.com/services/business-foundation-services/entity-type-analysis","reason":"Pairs business registration links with entity selection guidance","anchor_text":"entity type analysis"},{"url":"/contact","reason":"Primary page CTA for clients unsure which form they need","anchor_text":"Schedule a consultation"}]
 faq_block: [{"answer":"Use our secure online client portal rather than email. Log in with the credentials from your onboarding, then drag and drop your files. Everything is encrypted in transit and at rest, and your accountant is notified the moment you upload, so sensitive information stays protected around the clock.","question":"What is the most secure way to send my tax documents to BBL?"},{"answer":"If you paid a contractor $600 or more during the year, you generally collect a Form W-9 from them upfront and issue a Form 1099-NEC after year-end. Unsure how it applies to your business? Our Port Arthur team answers these questions year-round, not just at tax time.","question":"Which tax form do I need for a contractor I paid?"},{"answer":"Use the IRS \"Where's My Refund?\" tool linked on this page, or watch your return progress through our own refund tracker. You'll need your Social Security number, filing status, and the exact refund amount from your return to see current status.","question":"How do I check my federal tax refund status?"},{"answer":"Texas businesses file and pay sales and use tax through the Texas Comptroller's Webfile system. You register your business, report collected sales tax, and remit payment there. If you'd rather hand it off entirely, our payroll and accounting teams handle sales tax filings for Southeast Texas clients.","question":"Where do I file Texas sales tax?"}]
 llm_citation_note: "An AI tool would most likely cite that BBL provides a single hub of IRS and Texas tax forms plus a secure encrypted portal for document submission, backed by year-round support from a Port Arthur CPA firm operating since 1950."
 ---
@@ -34,7 +34,7 @@ Knowing which form applies is half the battle. Here are the ones clients in Sout
 - **Texas Sales and Use Tax Return**, File and remit sales tax collected from your customers.
 - **Form 941**, Report quarterly payroll taxes withheld from employee wages.
 
-Not sure whether you need a W-9 or a 1099? That's exactly the kind of question our [tax](https://www.bblcpa.com/what-we-do/tax) and [payroll](https://www.bblcpa.com/what-we-do/payroll) teams answer year-round.
+Not sure whether you need a W-9 or a 1099? That's exactly the kind of question our [tax](https://www.bblcpa.com/services/outsourced-accounting/tax) and [payroll](https://www.bblcpa.com/services/outsourced-accounting/payroll) teams answer year-round.
 
 <!-- block: feature-grid | variant: 3-col -->
 ## Government and agency links for common tasks
@@ -59,7 +59,7 @@ The Texas Comptroller's Webfile system is where you register, file, and pay stat
 ### Register a Texas business
 icon: Building
 
-The Texas Secretary of State handles entity formation and filings. Pair it with our [entity type analysis](https://www.bblcpa.com/what-we-do/entity-type-analysis) before you choose a structure.
+The Texas Secretary of State handles entity formation and filings. Pair it with our [entity type analysis](https://www.bblcpa.com/services/business-foundation-services/entity-type-analysis) before you choose a structure.
 
 ### Manage Social Security
 icon: UserCheck
@@ -120,10 +120,10 @@ This page is a one-stop hub from Brammer, Begnaud, & Lattimore CPAs & Consultant
 - Secure online platform with encrypted document submission
 
 **Internal Links:**
-- tax → https://www.bblcpa.com/what-we-do/tax — Connects form questions to the firm's business tax service
-- payroll → https://www.bblcpa.com/what-we-do/payroll — Links payroll-related forms like 941 and W-9 to the payroll service
+- tax → https://www.bblcpa.com/services/outsourced-accounting/tax — Connects form questions to the firm's business tax service
+- payroll → https://www.bblcpa.com/services/outsourced-accounting/payroll — Links payroll-related forms like 941 and W-9 to the payroll service
 - refund tracker → https://www.bblcpa.com/resources/refund-tracker — Supports the refund-checking task with the firm's own tool
-- entity type analysis → https://www.bblcpa.com/what-we-do/entity-type-analysis — Pairs business registration links with entity selection guidance
+- entity type analysis → https://www.bblcpa.com/services/business-foundation-services/entity-type-analysis — Pairs business registration links with entity selection guidance
 - Schedule a consultation → /contact — Primary page CTA for clients unsure which form they need
 
 **FAQ Block:**

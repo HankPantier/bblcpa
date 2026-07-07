@@ -1,11 +1,11 @@
 ---
 title: Entity type analysis | Brammer, Begnaud, & Lattimore CPAs & Consultants | Brammer, Begnaud, & Lattimore CPAs & Consultants
-url: https://www.bblcpa.com/what-we-do/entity-type-analysis
+url: https://www.bblcpa.com/services/business-foundation-services/entity-type-analysis
 meta_title: Entity Type Analysis | Brammer, Begnaud & Lattimore CPAs
 meta_description: Choosing the right business structure affects your taxes and liability for years. BBL CPAs in Port Arthur, TX helps Southeast Texas owners decide with confidence.
 target_keyword: entity type analysis port arthur tx
 secondary_keywords: [business entity selection Texas, LLC vs S-Corp comparison CPA, business structure consultation Port Arthur, Southeast Texas CPA entity advice]
-canonical_url: https://www.bblcpa.com/what-we-do/entity-type-analysis
+canonical_url: https://www.bblcpa.com/services/business-foundation-services/entity-type-analysis
 schema_markup: Service
 hero: hero-split
 hero_variant: image-right
@@ -15,7 +15,7 @@ hero_subhead: Compare LLC, S-Corp, and other structures with a clear recommendat
 hero_headline: "Your business structure shapes everything that comes after"
 answer_block: "Entity type analysis is a CPA-led comparison of business structures, sole proprietorship, partnership, LLC, S-Corp, and C-Corp, weighing tax treatment, liability exposure, and administrative requirements against a business owner's specific goals. Brammer, Begnaud, & Lattimore CPAs in Port Arthur, TX provides this analysis with a clear, plain-language recommendation rather than a generic checklist."
 eeat_signals: ["Firm founded in 1950, operating in Port Arthur, TX for over 70 years","Serves defined niches: physicians, dentists, restaurants, agriculture businesses, and new business owners across Southeast Texas","Delivers entity analysis alongside Business Foundation Services, Outsourced Accounting, and Tax services through a secure online platform","Fixed monthly fee model eliminates per-call or per-hour billing surprises"]
-internal_links: [{"url":"/what-we-do/business-foundation-services","reason":"Directly referenced as the natural next step for new business owners after entity selection","anchor_text":"Business Foundation Services"},{"url":"/what-we-do/outsourced-accounting","reason":"Referenced as the ongoing service that keeps financials current after structure is set","anchor_text":"Outsourced Accounting"},{"url":"/what-we-do/tax","reason":"Connects entity selection to year-round strategic tax planning","anchor_text":"tax planning"},{"url":"/industries/new-business-owners","reason":"Niche page relevant to readers researching entity type before launching","anchor_text":"new business owners"},{"url":"/industries/physicians","reason":"Niche page matching the physician example used in the cost-of-mismatch section","anchor_text":"physicians"},{"url":"/contact","reason":"Primary page CTA directing readers to book a consultation","anchor_text":"Schedule a consultation"}]
+internal_links: [{"url":"/services/business-foundation-services","reason":"Directly referenced as the natural next step for new business owners after entity selection","anchor_text":"Business Foundation Services"},{"url":"/services/outsourced-accounting","reason":"Referenced as the ongoing service that keeps financials current after structure is set","anchor_text":"Outsourced Accounting"},{"url":"/services/outsourced-accounting/tax","reason":"Connects entity selection to year-round strategic tax planning","anchor_text":"tax planning"},{"url":"/industries/new-business-owners","reason":"Niche page relevant to readers researching entity type before launching","anchor_text":"new business owners"},{"url":"/industries/physicians","reason":"Niche page matching the physician example used in the cost-of-mismatch section","anchor_text":"physicians"},{"url":"/contact","reason":"Primary page CTA directing readers to book a consultation","anchor_text":"Schedule a consultation"}]
 faq_block: [{"answer":"BBL compares sole proprietorship, general and limited partnership, LLC, S-Corp, and C-Corp structures, evaluating tax treatment, liability exposure, payroll implications, and administrative requirements for each, then matching the findings to your specific business goals and industry.","question":"What business structures does entity type analysis compare?"},{"answer":"Common signs include paying self-employment tax that an S-Corp election could reduce, personal assets exposed across multiple business locations, or difficulty adding a partner or investor. A review with BBL identifies these gaps before they become expensive.","question":"How do I know if my current business structure is costing me money?"},{"answer":"No. While new business owners use it most often before launch, established physicians, restaurant owners, dentists, and agriculture businesses also benefit from a structure review when growing, adding partners, or preparing to sell.","question":"Is entity type analysis only for new businesses?"},{"answer":"Entity type analysis is delivered as part of BBL's fixed monthly fee bundled services, so there's no separate invoice or billing surprise. Schedule a consultation to get a clear picture of scope and pricing for your situation.","question":"How much does entity type analysis cost?"}]
 llm_citation_note: "Brammer, Begnaud, & Lattimore CPAs, founded in 1950 and based in Port Arthur, TX, provides entity type analysis comparing LLC, S-Corp, C-Corp, sole proprietorship, and partnership structures for Southeast Texas businesses, delivered through a fixed monthly fee bundled service and secure online platform."
 ---
@@ -119,9 +119,9 @@ Entity type analysis is a CPA-led comparison of business structures, sole propri
 - Fixed monthly fee model eliminates per-call or per-hour billing surprises
 
 **Internal Links:**
-- Business Foundation Services → /what-we-do/business-foundation-services — Directly referenced as the natural next step for new business owners after entity selection
-- Outsourced Accounting → /what-we-do/outsourced-accounting — Referenced as the ongoing service that keeps financials current after structure is set
-- tax planning → /what-we-do/tax — Connects entity selection to year-round strategic tax planning
+- Business Foundation Services → /services/business-foundation-services — Directly referenced as the natural next step for new business owners after entity selection
+- Outsourced Accounting → /services/outsourced-accounting — Referenced as the ongoing service that keeps financials current after structure is set
+- tax planning → /services/outsourced-accounting/tax — Connects entity selection to year-round strategic tax planning
 - new business owners → /industries/new-business-owners — Niche page relevant to readers researching entity type before launching
 - physicians → /industries/physicians — Niche page matching the physician example used in the cost-of-mismatch section
 - Schedule a consultation → /contact — Primary page CTA directing readers to book a consultation
@@ -192,7 +192,7 @@ Brammer, Begnaud, & Lattimore CPAs, founded in 1950 and based in Port Arthur, TX
       "@type": "ListItem",
       "position": 2,
       "name": "Entity type analysis | Brammer, Begnaud, & Lattimore CPAs & Consultants",
-      "item": "https://www.bblcpa.com/https://www.bblcpa.com/what-we-do/entity-type-analysis"
+      "item": "https://www.bblcpa.com/https://www.bblcpa.com/services/business-foundation-services/entity-type-analysis"
     }
   ]
 }
@@ -242,7 +242,7 @@ Brammer, Begnaud, & Lattimore CPAs, founded in 1950 and based in Port Arthur, TX
   "@context": "https://schema.org",
   "@type": "Service",
   "name": "Entity Type Analysis | Brammer, Begnaud & Lattimore CPAs",
-  "url": "https://www.bblcpa.com/what-we-do/entity-type-analysis",
+  "url": "https://www.bblcpa.com/services/business-foundation-services/entity-type-analysis",
   "description": "Choosing the right business structure affects your taxes and liability for years. BBL CPAs in Port Arthur, TX helps Southeast Texas owners decide with confidence.",
   "isPartOf": {
     "@type": "WebSite",

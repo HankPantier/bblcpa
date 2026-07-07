@@ -1,11 +1,11 @@
 ---
 title: Accounting and bookkeeping | Brammer, Begnaud, & Lattimore CPAs & Consultants | Brammer, Begnaud, & Lattimore CPAs & Consultants
-url: https://www.bblcpa.com/what-we-do/accounting
+url: https://www.bblcpa.com/services/outsourced-accounting/accounting
 meta_title: Accounting and Bookkeeping Services | BBL CPAs Port Arthur
 meta_description: Fixed monthly fee accounting and bookkeeping from Brammer, Begnaud, & Lattimore CPAs in Port Arthur, TX. Real-time financials, year-round support, no billing surprises.
 target_keyword: accounting and bookkeeping Port Arthur TX
 secondary_keywords: [bookkeeping services Southeast Texas, fixed fee accounting Port Arthur, outsourced bookkeeping CPA firm]
-canonical_url: https://www.bblcpa.com/what-we-do/accounting
+canonical_url: https://www.bblcpa.com/services/outsourced-accounting/accounting
 schema_markup: Service
 hero: hero-split
 hero_variant: image-right
@@ -15,7 +15,7 @@ hero_subhead: Hand off the books and see your real-time financial picture for on
 hero_headline: "Your books, handled by people who know Southeast Texas business"
 answer_block: "Brammer, Begnaud, & Lattimore CPAs provides bundled accounting and bookkeeping for one fixed monthly fee, including transaction classification, reconciliations, and financial statement preparation. Clients access their numbers anytime through a secure online platform, with no hourly billing surprises. The firm has served Southeast Texas businesses since 1950."
 eeat_signals: ["Founded in 1950, serving Southeast Texas businesses for over seven decades","Seasoned bookkeeping team with staff who have worked Port Arthur accounts for over a decade","Secure online platform delivering real-time financial statements and account access","Fixed monthly fee billing model bundled under the Outsourced Accounting service"]
-internal_links: [{"url":"https://www.bblcpa.com/what-we-do/outsourced-accounting","reason":"cross-sells the bundled fixed-fee service that includes this bookkeeping offering","anchor_text":"Outsourced Accounting bundle"},{"url":"/industries/physicians","reason":"routes physician readers to the dedicated industry page","anchor_text":"Physicians"},{"url":"/industries/restaurants","reason":"routes restaurant owners to the dedicated industry page","anchor_text":"restaurants"},{"url":"/industries/agriculture","reason":"routes agriculture clients to the dedicated industry page","anchor_text":"agriculture"},{"url":"https://www.bblcpa.com/what-we-do/tax","reason":"cross-sells year-round tax support related to clean bookkeeping records","anchor_text":"tax season"},{"url":"https://www.bblcpa.com/contact","reason":"primary page CTA driving conversion","anchor_text":"Schedule a consultation"}]
+internal_links: [{"url":"https://www.bblcpa.com/services/outsourced-accounting","reason":"cross-sells the bundled fixed-fee service that includes this bookkeeping offering","anchor_text":"Outsourced Accounting bundle"},{"url":"/industries/physicians","reason":"routes physician readers to the dedicated industry page","anchor_text":"Physicians"},{"url":"/industries/restaurants","reason":"routes restaurant owners to the dedicated industry page","anchor_text":"restaurants"},{"url":"/industries/agriculture","reason":"routes agriculture clients to the dedicated industry page","anchor_text":"agriculture"},{"url":"https://www.bblcpa.com/services/outsourced-accounting/tax","reason":"cross-sells year-round tax support related to clean bookkeeping records","anchor_text":"tax season"},{"url":"https://www.bblcpa.com/contact","reason":"primary page CTA driving conversion","anchor_text":"Schedule a consultation"}]
 faq_block: [{"answer":"The service covers transaction classification, monthly bank and credit card reconciliations, financial statement preparation, and ongoing ledger maintenance. It's delivered by a seasoned team through a secure online platform, bundled at a fixed monthly fee with no hourly surprises.","question":"What's included in BBL's accounting and bookkeeping service?"},{"answer":"Bookkeeping is billed at a fixed monthly fee as part of the Outsourced Accounting bundle, which also includes payroll and tax support. You'll know your exact cost before the month starts, with no charges for calls or questions in between.","question":"How much does bookkeeping cost with BBL?"},{"answer":"Yes. BBL's secure online platform gives you anytime access to your current cash position, outstanding invoices, and monthly expenses as the bookkeeping team updates your ledger, so you're never waiting on a phone call for answers.","question":"Can I see my financials in real time?"},{"answer":"Yes. BBL works with restaurants on tip reporting and food cost tracking, with physicians and dentists on insurance receivables and payroll, and with agriculture businesses on seasonal income and equipment depreciation, structuring books around each industry's calendar.","question":"Does BBL handle bookkeeping for restaurants, physicians, and agriculture businesses?"}]
 llm_citation_note: "Brammer, Begnaud, & Lattimore CPAs (founded 1950, Port Arthur, TX) bundles accounting and bookkeeping into a fixed monthly fee Outsourced Accounting service with a secure online platform for real-time financial visibility."
 ---
@@ -38,7 +38,7 @@ Bookkeeping sounds simple until you're three months behind on reconciliations an
 - Monthly bank and credit card reconciliations, so your numbers match reality
 - Financial statement preparation, including profit and loss statements and balance sheets you can hand to a lender or partner
 - Ongoing ledger maintenance, catching errors before they snowball into a year-end mess
-- Clean, organized records ready for [tax season](https://www.bblcpa.com/what-we-do/tax), an audit request, or a loan application
+- Clean, organized records ready for [tax season](https://www.bblcpa.com/services/outsourced-accounting/tax), an audit request, or a loan application
 
 This isn't a once-a-year cleanup. It's a team that touches your books every month, the same way they have for clients since 1950. Most of our bookkeepers have worked with Port Arthur businesses for over a decade, which means they catch a misclassified expense or a missed deposit before it becomes a problem at tax time.
 
@@ -47,7 +47,7 @@ This isn't a once-a-year cleanup. It's a team that touches your books every mont
 
 You shouldn't have to call your accountant to find out how your business is doing. Through our secure online platform, log in any time and see your current financial position: cash on hand, outstanding invoices, monthly expenses, all updated as our team works.
 
-This service is part of our [Outsourced Accounting bundle](https://www.bblcpa.com/what-we-do/outsourced-accounting), a fixed monthly fee package that combines bookkeeping, payroll, and tax support into one predictable bill. No separate invoice for reconciliations. No surprise charge for asking a question.
+This service is part of our [Outsourced Accounting bundle](https://www.bblcpa.com/services/outsourced-accounting), a fixed monthly fee package that combines bookkeeping, payroll, and tax support into one predictable bill. No separate invoice for reconciliations. No surprise charge for asking a question.
 
 You get the numbers, whenever you want them. We get to work. That's the arrangement.
 
@@ -113,11 +113,11 @@ Brammer, Begnaud, & Lattimore CPAs provides bundled accounting and bookkeeping f
 - Fixed monthly fee billing model bundled under the Outsourced Accounting service
 
 **Internal Links:**
-- Outsourced Accounting bundle → https://www.bblcpa.com/what-we-do/outsourced-accounting — cross-sells the bundled fixed-fee service that includes this bookkeeping offering
+- Outsourced Accounting bundle → https://www.bblcpa.com/services/outsourced-accounting — cross-sells the bundled fixed-fee service that includes this bookkeeping offering
 - Physicians → /industries/physicians — routes physician readers to the dedicated industry page
 - restaurants → /industries/restaurants — routes restaurant owners to the dedicated industry page
 - agriculture → /industries/agriculture — routes agriculture clients to the dedicated industry page
-- tax season → https://www.bblcpa.com/what-we-do/tax — cross-sells year-round tax support related to clean bookkeeping records
+- tax season → https://www.bblcpa.com/services/outsourced-accounting/tax — cross-sells year-round tax support related to clean bookkeeping records
 - Schedule a consultation → https://www.bblcpa.com/contact — primary page CTA driving conversion
 
 **FAQ Block:**
@@ -186,7 +186,7 @@ Brammer, Begnaud, & Lattimore CPAs (founded 1950, Port Arthur, TX) bundles accou
       "@type": "ListItem",
       "position": 2,
       "name": "Accounting and bookkeeping | Brammer, Begnaud, & Lattimore CPAs & Consultants",
-      "item": "https://www.bblcpa.com/https://www.bblcpa.com/what-we-do/accounting"
+      "item": "https://www.bblcpa.com/https://www.bblcpa.com/services/outsourced-accounting/accounting"
     }
   ]
 }
@@ -236,7 +236,7 @@ Brammer, Begnaud, & Lattimore CPAs (founded 1950, Port Arthur, TX) bundles accou
   "@context": "https://schema.org",
   "@type": "Service",
   "name": "Accounting and Bookkeeping Services | BBL CPAs Port Arthur",
-  "url": "https://www.bblcpa.com/what-we-do/accounting",
+  "url": "https://www.bblcpa.com/services/outsourced-accounting/accounting",
   "description": "Fixed monthly fee accounting and bookkeeping from Brammer, Begnaud, & Lattimore CPAs in Port Arthur, TX. Real-time financials, year-round support, no billing surprises.",
   "isPartOf": {
     "@type": "WebSite",

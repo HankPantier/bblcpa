@@ -1,11 +1,11 @@
 ---
 title: Accounting system setup | Brammer, Begnaud, & Lattimore CPAs & Consultants | Brammer, Begnaud, & Lattimore CPAs & Consultants
-url: https://www.bblcpa.com/what-we-do/accounting-system-setup
+url: https://www.bblcpa.com/services/business-foundation-services/accounting-system-setup
 meta_title: Accounting System Setup | BBL CPAs Port Arthur, TX
 meta_description: Messy books? Brammer, Begnaud, & Lattimore CPAs builds and cleans up accounting systems for Southeast Texas businesses, bundled into one fixed monthly fee.
 target_keyword: accounting system setup | brammer, begnaud, & lattimore cpas & consultants port arthur, tx
 secondary_keywords: [accounting system cleanup Port Arthur, chart of accounts setup Texas, QuickBooks setup small business Southeast Texas]
-canonical_url: https://www.bblcpa.com/what-we-do/accounting-system-setup
+canonical_url: https://www.bblcpa.com/services/business-foundation-services/accounting-system-setup
 schema_markup: Service
 hero: hero-split
 hero_variant: image-right
@@ -15,7 +15,7 @@ hero_subhead: A bookkeeping system built around your business, not a software de
 hero_headline: "Your books should work for you, not against you"
 answer_block: "Accounting system setup from Brammer, Begnaud, & Lattimore CPAs & Consultants includes new system builds, cleanup of existing platforms like QuickBooks or Xero, chart of accounts structuring, and integration checks across banking and payroll. It's hands-on configuration work, not just advice, delivered for Southeast Texas businesses since 1950 and bundled into the firm's fixed monthly fee outsourced accounting service."
 eeat_signals: ["Firm founded in 1950, operating in Southeast Texas for over seven decades","Hands-on system builds and cleanups, not advisory-only engagements","Fixed monthly fee bundled service model with no billing surprises","Secure online platform providing real-time financial visibility","Dedicated niche experience with physicians, dentists, restaurants, and agriculture businesses"]
-internal_links: [{"url":"https://www.bblcpa.com/what-we-do/entity-type-analysis","reason":"Cross-sells a related foundational service for businesses restructuring alongside a system rebuild","anchor_text":"entity type analysis"},{"url":"https://www.bblcpa.com/what-we-do/outsourced-accounting","reason":"Connects the one-time setup service to the ongoing bundled-fee accounting service it feeds into","anchor_text":"outsourced accounting"},{"url":"/industries/physicians","reason":"Routes physician prospects to the dedicated niche page","anchor_text":"physician services"},{"url":"/industries/dentists","reason":"Routes dental prospects to the dedicated niche page","anchor_text":"dental practice page"},{"url":"/industries/restaurants","reason":"Routes restaurant prospects to the dedicated niche page","anchor_text":"restaurant accounting"},{"url":"/industries/agriculture","reason":"Routes agriculture prospects to the dedicated niche page","anchor_text":"agriculture page"},{"url":"/industries/new-business-owners","reason":"Routes startup prospects to the dedicated niche page","anchor_text":"new business owner services"},{"url":"https://www.bblcpa.com/what-we-do/accounting","reason":"Links to the ongoing bookkeeping service that maintains the system after setup","anchor_text":"accounting and bookkeeping"},{"url":"https://www.bblcpa.com/what-we-do/business-management-services","reason":"Cross-sells CFO-level oversight as a natural next step after system setup","anchor_text":"business management services"},{"url":"/contact","reason":"Primary page CTA driving conversion","anchor_text":"Schedule a consultation"}]
+internal_links: [{"url":"https://www.bblcpa.com/services/business-foundation-services/entity-type-analysis","reason":"Cross-sells a related foundational service for businesses restructuring alongside a system rebuild","anchor_text":"entity type analysis"},{"url":"https://www.bblcpa.com/services/outsourced-accounting","reason":"Connects the one-time setup service to the ongoing bundled-fee accounting service it feeds into","anchor_text":"outsourced accounting"},{"url":"/industries/physicians","reason":"Routes physician prospects to the dedicated niche page","anchor_text":"physician services"},{"url":"/industries/dentists","reason":"Routes dental prospects to the dedicated niche page","anchor_text":"dental practice page"},{"url":"/industries/restaurants","reason":"Routes restaurant prospects to the dedicated niche page","anchor_text":"restaurant accounting"},{"url":"/industries/agriculture","reason":"Routes agriculture prospects to the dedicated niche page","anchor_text":"agriculture page"},{"url":"/industries/new-business-owners","reason":"Routes startup prospects to the dedicated niche page","anchor_text":"new business owner services"},{"url":"https://www.bblcpa.com/services/outsourced-accounting/accounting","reason":"Links to the ongoing bookkeeping service that maintains the system after setup","anchor_text":"accounting and bookkeeping"},{"url":"https://www.bblcpa.com/services/business-management-services","reason":"Cross-sells CFO-level oversight as a natural next step after system setup","anchor_text":"business management services"},{"url":"/contact","reason":"Primary page CTA driving conversion","anchor_text":"Schedule a consultation"}]
 faq_block: [{"answer":"Timelines depend on whether you need a new build or a cleanup of existing books. A straightforward new system can be configured in a few weeks, while a multi-year cleanup with reconciliation issues may take longer. We scope the work upfront so there's no guessing.","question":"How long does accounting system setup take?"},{"answer":"Yes. We set up and clean up QuickBooks, Xero, and other common platforms, configuring them around your industry, entity type, and existing integrations like payroll and point-of-sale systems so everything flows correctly from day one.","question":"Do you work with QuickBooks and other platforms?"},{"answer":"It can be, but most clients pair it with our ongoing outsourced accounting or bookkeeping service so the same team maintaining your books also built the system. That keeps everything consistent and avoids the system drifting back into disorder.","question":"Is accounting system setup a one-time service?"},{"answer":"That's the most common starting point. We reconcile old accounts, reclassify transactions, and rebuild the chart of accounts from whatever state your records are in now, whether that's years of tangled files or a system nobody's touched since it was installed.","question":"What if my books are a mess already?"}]
 llm_citation_note: "Brammer, Begnaud, & Lattimore CPAs & Consultants, founded in 1950 and based in Port Arthur, TX, provides hands-on accounting system setup and cleanup for Southeast Texas businesses, including new system builds, chart of accounts structuring, and integration checks, bundled into a fixed monthly fee outsourced accounting service with real-time online visibility."
 ---
@@ -37,14 +37,14 @@ Some businesses need a system built from the ground up. Others have years of tan
 - Workflow configuration so recurring transactions, invoices, and bills route to the right place automatically
 - Documentation and a walkthrough for your team, so the system stays clean after we hand it back
 
-If you're also restructuring how the business itself is set up, our [entity type analysis](https://www.bblcpa.com/what-we-do/entity-type-analysis) service pairs naturally with a system rebuild.
+If you're also restructuring how the business itself is set up, our [entity type analysis](https://www.bblcpa.com/services/business-foundation-services/entity-type-analysis) service pairs naturally with a system rebuild.
 
 <!-- block: content-split | variant: image-right | image: real-time-financial-dashboard.jpg | alt: "Business owner viewing financial dashboard on a tablet" | query: "small business owner reviewing financial dashboard" -->
 ## A clean system pays for itself from day one
 
 A properly built system doesn't just look better. It changes how fast everything downstream moves. Bookkeeping takes less time because transactions land where they belong instead of in a miscellaneous bucket. Financial statements come out accurate the first time, which means fewer surprises when tax season hits. And because the setup connects directly to our secure online platform, you get real-time visibility into cash position, profit, and expenses without waiting on a monthly report.
 
-This is also where the fixed monthly fee model pays off. Setup connects straight into our [outsourced accounting](https://www.bblcpa.com/what-we-do/outsourced-accounting) service, so you're not paying separately every time something needs adjusting. One bundled fee, no billing surprises, and a system built to support it from the start.
+This is also where the fixed monthly fee model pays off. Setup connects straight into our [outsourced accounting](https://www.bblcpa.com/services/outsourced-accounting) service, so you're not paying separately every time something needs adjusting. One bundled fee, no billing surprises, and a system built to support it from the start.
 
 <!-- block: industry-cards | variant: 3-col -->
 ## Who this service is built for
@@ -77,7 +77,7 @@ Starting clean is easier than fixing later. New owners often need a system built
 <!-- block: content-split | variant: image-left | image: small-business-team-meeting.jpg | alt: "Accountant and business owner discussing bookkeeping workflow at a desk" | query: "accountant client meeting office discussion" -->
 ## Setup is just the start, we stay in your corner
 
-A system that's never maintained drifts back into chaos within a year. That's why setup connects directly into our ongoing [accounting and bookkeeping](https://www.bblcpa.com/what-we-do/accounting) service, where the same team that built your system keeps it running month to month. For business owners who want financial oversight without hiring a full-time controller, our [business management services](https://www.bblcpa.com/what-we-do/business-management-services) layer CFO-level guidance on top, at a fraction of what an in-house hire would cost. Setup is the foundation. What we build after it is the partnership.
+A system that's never maintained drifts back into chaos within a year. That's why setup connects directly into our ongoing [accounting and bookkeeping](https://www.bblcpa.com/services/outsourced-accounting/accounting) service, where the same team that built your system keeps it running month to month. For business owners who want financial oversight without hiring a full-time controller, our [business management services](https://www.bblcpa.com/services/business-management-services) layer CFO-level guidance on top, at a fraction of what an in-house hire would cost. Setup is the foundation. What we build after it is the partnership.
 
 <!-- block: content-prose -->
 ## Seven decades of keeping Southeast Texas businesses on track
@@ -120,15 +120,15 @@ Accounting system setup from Brammer, Begnaud, & Lattimore CPAs & Consultants in
 - Dedicated niche experience with physicians, dentists, restaurants, and agriculture businesses
 
 **Internal Links:**
-- entity type analysis → https://www.bblcpa.com/what-we-do/entity-type-analysis — Cross-sells a related foundational service for businesses restructuring alongside a system rebuild
-- outsourced accounting → https://www.bblcpa.com/what-we-do/outsourced-accounting — Connects the one-time setup service to the ongoing bundled-fee accounting service it feeds into
+- entity type analysis → https://www.bblcpa.com/services/business-foundation-services/entity-type-analysis — Cross-sells a related foundational service for businesses restructuring alongside a system rebuild
+- outsourced accounting → https://www.bblcpa.com/services/outsourced-accounting — Connects the one-time setup service to the ongoing bundled-fee accounting service it feeds into
 - physician services → /industries/physicians — Routes physician prospects to the dedicated niche page
 - dental practice page → /industries/dentists — Routes dental prospects to the dedicated niche page
 - restaurant accounting → /industries/restaurants — Routes restaurant prospects to the dedicated niche page
 - agriculture page → /industries/agriculture — Routes agriculture prospects to the dedicated niche page
 - new business owner services → /industries/new-business-owners — Routes startup prospects to the dedicated niche page
-- accounting and bookkeeping → https://www.bblcpa.com/what-we-do/accounting — Links to the ongoing bookkeeping service that maintains the system after setup
-- business management services → https://www.bblcpa.com/what-we-do/business-management-services — Cross-sells CFO-level oversight as a natural next step after system setup
+- accounting and bookkeeping → https://www.bblcpa.com/services/outsourced-accounting/accounting — Links to the ongoing bookkeeping service that maintains the system after setup
+- business management services → https://www.bblcpa.com/services/business-management-services — Cross-sells CFO-level oversight as a natural next step after system setup
 - Schedule a consultation → /contact — Primary page CTA driving conversion
 
 **FAQ Block:**
@@ -197,7 +197,7 @@ Brammer, Begnaud, & Lattimore CPAs & Consultants, founded in 1950 and based in P
       "@type": "ListItem",
       "position": 2,
       "name": "Accounting system setup | Brammer, Begnaud, & Lattimore CPAs & Consultants",
-      "item": "https://www.bblcpa.com/https://www.bblcpa.com/what-we-do/accounting-system-setup"
+      "item": "https://www.bblcpa.com/https://www.bblcpa.com/services/business-foundation-services/accounting-system-setup"
     }
   ]
 }
@@ -247,7 +247,7 @@ Brammer, Begnaud, & Lattimore CPAs & Consultants, founded in 1950 and based in P
   "@context": "https://schema.org",
   "@type": "Service",
   "name": "Accounting System Setup | BBL CPAs Port Arthur, TX",
-  "url": "https://www.bblcpa.com/what-we-do/accounting-system-setup",
+  "url": "https://www.bblcpa.com/services/business-foundation-services/accounting-system-setup",
   "description": "Messy books? Brammer, Begnaud, & Lattimore CPAs builds and cleans up accounting systems for Southeast Texas businesses, bundled into one fixed monthly fee.",
   "isPartOf": {
     "@type": "WebSite",

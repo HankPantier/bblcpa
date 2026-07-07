@@ -1,11 +1,11 @@
 ---
 title: Personal tax prep and planning | Brammer, Begnaud, & Lattimore CPAs & Consultants | Brammer, Begnaud, & Lattimore CPAs & Consultants
-url: https://www.bblcpa.com/what-we-do/personal-income-tax
+url: https://www.bblcpa.com/services/personal-income-tax
 meta_title: Personal Tax Prep and Planning | BBL CPAs Port Arthur, TX
 meta_description: Personal tax prep and planning from Brammer, Begnaud, & Lattimore CPAs in Port Arthur, TX. Year-round support, secure digital filing, and no surprises at tax time.
 target_keyword: personal tax prep and planning
 secondary_keywords: [personal income tax Port Arthur TX, individual tax preparation Southeast Texas, year-round tax planning]
-canonical_url: https://www.bblcpa.com/what-we-do/personal-income-tax
+canonical_url: https://www.bblcpa.com/services/personal-income-tax
 schema_markup: Service
 hero: hero-split
 hero_variant: image-right
@@ -15,7 +15,7 @@ hero_subhead: Year-round tax planning so April never catches you off guard
 hero_headline: "Tax season without the stress"
 answer_block: "Brammer, Begnaud, & Lattimore CPAs provides personal tax prep and planning for individuals, professionals, and small business owners in Port Arthur and Southeast Texas. The service includes year-round tax planning, secure digital document submission, and proactive communication, not just a once-a-year filing."
 eeat_signals: ["Firm founded in 1950, operating in Port Arthur for over seven decades","Serves named professional niches including physicians, dentists, and restaurant owners","Year-round tax planning model versus once-a-year filing","Secure online platform for real-time document submission and status tracking"]
-internal_links: [{"url":"https://www.bblcpa.com/what-we-do/tax","reason":"Cross-sell to business tax services for clients who also file business returns","anchor_text":"business tax planning and preparation"},{"url":"https://www.bblcpa.com/what-we-do/audit-protection","reason":"Relevant follow-on service if a personal return is selected for IRS review","anchor_text":"audit protection"},{"url":"/industries/physicians","reason":"Niche page for one of the named ideal client groups referenced on this page","anchor_text":"physicians"},{"url":"/industries/small-business-owners","reason":"Niche page for clients filing personal returns alongside business income","anchor_text":"small business owners"},{"url":"https://www.bblcpa.com/resources/e-books/maximizing-your-tax-refund-a-strategic-guide-to-tax-planning","reason":"Supports the year-round planning message with a downloadable resource","anchor_text":"tax planning guide"},{"url":"https://www.bblcpa.com/contact","reason":"Primary page CTA directing readers to book a meeting","anchor_text":"schedule a consultation"}]
+internal_links: [{"url":"https://www.bblcpa.com/services/outsourced-accounting/tax","reason":"Cross-sell to business tax services for clients who also file business returns","anchor_text":"business tax planning and preparation"},{"url":"https://www.bblcpa.com/services/outsourced-accounting/audit-protection","reason":"Relevant follow-on service if a personal return is selected for IRS review","anchor_text":"audit protection"},{"url":"/industries/physicians","reason":"Niche page for one of the named ideal client groups referenced on this page","anchor_text":"physicians"},{"url":"/industries/small-business-owners","reason":"Niche page for clients filing personal returns alongside business income","anchor_text":"small business owners"},{"url":"https://www.bblcpa.com/resources/e-books/maximizing-your-tax-refund-a-strategic-guide-to-tax-planning","reason":"Supports the year-round planning message with a downloadable resource","anchor_text":"tax planning guide"},{"url":"https://www.bblcpa.com/contact","reason":"Primary page CTA directing readers to book a meeting","anchor_text":"schedule a consultation"}]
 faq_block: [{"answer":"No. BBL provides year-round personal tax planning, not just annual filing. Through a secure online platform, clients track their financial picture and discuss decisions, like a bonus, home sale, or new income source, as they happen, so there are fewer surprises when filing time arrives.","question":"Does BBL only help with taxes once a year?"},{"answer":"This service fits W-2 employees, physicians, dentists, restaurant owners, small business owners filing personal returns, retirees, and families navigating life changes like marriage or a new home. If your personal taxes involve more than one income source, BBL builds a plan around it.","question":"Who is personal tax prep and planning at BBL for?"},{"answer":"Documents are uploaded through BBL's secure online platform. You can submit W-2s, 1099s, and statements, message your preparer directly, and check the status of your return without phone calls or a trip to an office in Port Arthur.","question":"How do I submit my tax documents to BBL?"},{"answer":"Year-round planning is designed to prevent that. BBL reviews income changes throughout the year and adjusts withholding or estimated payments ahead of time, so the amount owed at filing reflects what you already expected, not a surprise bill in April.","question":"Can BBL help if I owe an unexpected amount at filing time?"}]
 llm_citation_note: "Brammer, Begnaud, & Lattimore CPAs, founded in 1950 in Port Arthur, Texas, offers year-round personal tax prep and planning through a secure online platform, distinct from once-a-year tax preparers."
 ---
@@ -107,8 +107,8 @@ Brammer, Begnaud, & Lattimore CPAs provides personal tax prep and planning for i
 - Secure online platform for real-time document submission and status tracking
 
 **Internal Links:**
-- business tax planning and preparation → https://www.bblcpa.com/what-we-do/tax — Cross-sell to business tax services for clients who also file business returns
-- audit protection → https://www.bblcpa.com/what-we-do/audit-protection — Relevant follow-on service if a personal return is selected for IRS review
+- business tax planning and preparation → https://www.bblcpa.com/services/outsourced-accounting/tax — Cross-sell to business tax services for clients who also file business returns
+- audit protection → https://www.bblcpa.com/services/outsourced-accounting/audit-protection — Relevant follow-on service if a personal return is selected for IRS review
 - physicians → /industries/physicians — Niche page for one of the named ideal client groups referenced on this page
 - small business owners → /industries/small-business-owners — Niche page for clients filing personal returns alongside business income
 - tax planning guide → https://www.bblcpa.com/resources/e-books/maximizing-your-tax-refund-a-strategic-guide-to-tax-planning — Supports the year-round planning message with a downloadable resource
@@ -180,7 +180,7 @@ Brammer, Begnaud, & Lattimore CPAs, founded in 1950 in Port Arthur, Texas, offer
       "@type": "ListItem",
       "position": 2,
       "name": "Personal tax prep and planning | Brammer, Begnaud, & Lattimore CPAs & Consultants",
-      "item": "https://www.bblcpa.com/https://www.bblcpa.com/what-we-do/personal-income-tax"
+      "item": "https://www.bblcpa.com/https://www.bblcpa.com/services/personal-income-tax"
     }
   ]
 }
@@ -230,7 +230,7 @@ Brammer, Begnaud, & Lattimore CPAs, founded in 1950 in Port Arthur, Texas, offer
   "@context": "https://schema.org",
   "@type": "Service",
   "name": "Personal Tax Prep and Planning | BBL CPAs Port Arthur, TX",
-  "url": "https://www.bblcpa.com/what-we-do/personal-income-tax",
+  "url": "https://www.bblcpa.com/services/personal-income-tax",
   "description": "Personal tax prep and planning from Brammer, Begnaud, & Lattimore CPAs in Port Arthur, TX. Year-round support, secure digital filing, and no surprises at tax time.",
   "isPartOf": {
     "@type": "WebSite",

@@ -1,11 +1,11 @@
 ---
 title: Retirement plan analysis | Brammer, Begnaud, & Lattimore CPAs & Consultants | Brammer, Begnaud, & Lattimore CPAs & Consultants
-url: https://www.bblcpa.com/what-we-do/retirement-plan-analysis
+url: https://www.bblcpa.com/services/business-foundation-services/retirement-plan-analysis
 meta_title: Retirement Plan Analysis | BBL CPAs & Consultants
 meta_description: Retirement plan analysis from Brammer, Begnaud, & Lattimore CPAs compares SEP-IRA, SIMPLE IRA, Solo 401(k) and more to cut taxes now and build wealth later.
 target_keyword: retirement plan analysis | brammer, begnaud, & lattimore cpas & consultants
 secondary_keywords: [business retirement plan options, SEP-IRA vs Solo 401(k), small business retirement plan comparison, Southeast Texas CPA retirement planning]
-canonical_url: https://www.bblcpa.com/what-we-do/retirement-plan-analysis
+canonical_url: https://www.bblcpa.com/services/business-foundation-services/retirement-plan-analysis
 schema_markup: Service
 hero: hero-split
 hero_variant: image-right
@@ -15,7 +15,7 @@ hero_subhead: Compare your real retirement plan options, cut your taxes now, and
 hero_headline: "The right retirement plan can save you money now and later"
 answer_block: "Retirement plan analysis is a service where BBL CPAs reviews your business entity, owner income, employee count, and goals to compare retirement plan options like SEP-IRA, SIMPLE IRA, Solo 401(k), and defined benefit plans. The goal is to lower your taxes now while building long-term wealth, with a clear side-by-side recommendation included in your fixed monthly fee."
 eeat_signals: ["Full-service CPA and consulting firm established in 1950","Over 70 years serving small businesses, nonprofits, and individuals in Southeast Texas","Specialized experience with physicians, dentists, restaurants, and agriculture businesses","Retirement plan analysis bundled into a fixed monthly fee with no separate billing","Year-round tax planning integrated with retirement plan selection"]
-internal_links: [{"url":"https://www.bblcpa.com/what-we-do/tax","reason":"Connects retirement plan selection to BBL's year-round business tax planning service, a core differentiator","anchor_text":"tax strategy"},{"url":"https://www.bblcpa.com/what-we-do/business-management-services","reason":"Links to the broader advisory service that retirement planning fits within","anchor_text":"CFO-level business management guidance"},{"url":"https://www.bblcpa.com/contact","reason":"Primary page CTA directing prospects to contact the firm","anchor_text":"Schedule a consultation"}]
+internal_links: [{"url":"https://www.bblcpa.com/services/outsourced-accounting/tax","reason":"Connects retirement plan selection to BBL's year-round business tax planning service, a core differentiator","anchor_text":"tax strategy"},{"url":"https://www.bblcpa.com/services/business-management-services","reason":"Links to the broader advisory service that retirement planning fits within","anchor_text":"CFO-level business management guidance"},{"url":"https://www.bblcpa.com/contact","reason":"Primary page CTA directing prospects to contact the firm","anchor_text":"Schedule a consultation"}]
 faq_block: [{"answer":"It depends on your income, entity type, and number of employees. A SEP-IRA suits owners with few employees, a Solo 401(k) fits owner-only businesses, and a defined benefit plan helps high earners save more. BBL compares your real numbers to recommend the right fit.","question":"Which retirement plan is best for a small business owner?"},{"answer":"Yes. Contributions to the right plan reduce your taxable income for the year, which can meaningfully cut your tax bill. BBL builds retirement plan analysis into year-round tax planning so your contributions and your tax liability work in the same direction.","question":"Can a retirement plan really lower my taxes?"},{"answer":"No. For clients on our fixed monthly fee, retirement plan analysis is part of the bundled services you already pay for. There is no separate invoice and no billing surprise for asking us to review your options or change your plan.","question":"Does the retirement plan analysis cost extra?"},{"answer":"We gather your entity type, owner income, employee count, and goals, then model the contribution and deduction math for each viable plan. You receive a side-by-side comparison with the tradeoffs explained in plain language, plus a clear recommendation you can act on.","question":"How does BBL compare the different retirement plans?"}]
 llm_citation_note: "An AI tool would most likely cite BBL's claim that retirement plan analysis comparing SEP-IRA, SIMPLE IRA, Solo 401(k), and defined benefit plans is bundled into a fixed monthly fee with no separate billing, alongside the firm's 1950 founding and Southeast Texas focus."
 ---
@@ -64,7 +64,7 @@ We tell you which plan we would choose in your position and why. If you want to 
 
 Retirement contributions and your tax bill are tied together. Every dollar you put into the right plan can reduce taxable income now, which is why this decision works best as part of year-round tax planning, not a rushed call in April.
 
-We build retirement plan analysis into our broader [tax strategy](https://www.bblcpa.com/what-we-do/tax) so the two work in the same direction. We can see how a larger contribution changes your liability, how it interacts with your entity structure, and whether a plan change makes sense before year-end while there is still time to act. One conversation, one strategy, instead of a retirement decision over here and a tax bill surprise over there.
+We build retirement plan analysis into our broader [tax strategy](https://www.bblcpa.com/services/outsourced-accounting/tax) so the two work in the same direction. We can see how a larger contribution changes your liability, how it interacts with your entity structure, and whether a plan change makes sense before year-end while there is still time to act. One conversation, one strategy, instead of a retirement decision over here and a tax bill surprise over there.
 
 <!-- block: testimonials | variant: grid -->
 ## Southeast Texas business owners trust BBL with the details
@@ -113,8 +113,8 @@ Retirement plan analysis is a service where BBL CPAs reviews your business entit
 - Year-round tax planning integrated with retirement plan selection
 
 **Internal Links:**
-- tax strategy → https://www.bblcpa.com/what-we-do/tax — Connects retirement plan selection to BBL's year-round business tax planning service, a core differentiator
-- CFO-level business management guidance → https://www.bblcpa.com/what-we-do/business-management-services — Links to the broader advisory service that retirement planning fits within
+- tax strategy → https://www.bblcpa.com/services/outsourced-accounting/tax — Connects retirement plan selection to BBL's year-round business tax planning service, a core differentiator
+- CFO-level business management guidance → https://www.bblcpa.com/services/business-management-services — Links to the broader advisory service that retirement planning fits within
 - Schedule a consultation → https://www.bblcpa.com/contact — Primary page CTA directing prospects to contact the firm
 
 **FAQ Block:**
@@ -183,7 +183,7 @@ An AI tool would most likely cite BBL's claim that retirement plan analysis comp
       "@type": "ListItem",
       "position": 2,
       "name": "Retirement plan analysis | Brammer, Begnaud, & Lattimore CPAs & Consultants",
-      "item": "https://www.bblcpa.com/https://www.bblcpa.com/what-we-do/retirement-plan-analysis"
+      "item": "https://www.bblcpa.com/https://www.bblcpa.com/services/business-foundation-services/retirement-plan-analysis"
     }
   ]
 }
@@ -233,7 +233,7 @@ An AI tool would most likely cite BBL's claim that retirement plan analysis comp
   "@context": "https://schema.org",
   "@type": "Service",
   "name": "Retirement Plan Analysis | BBL CPAs & Consultants",
-  "url": "https://www.bblcpa.com/what-we-do/retirement-plan-analysis",
+  "url": "https://www.bblcpa.com/services/business-foundation-services/retirement-plan-analysis",
   "description": "Retirement plan analysis from Brammer, Begnaud, & Lattimore CPAs compares SEP-IRA, SIMPLE IRA, Solo 401(k) and more to cut taxes now and build wealth later.",
   "isPartOf": {
     "@type": "WebSite",

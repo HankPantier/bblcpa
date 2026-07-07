@@ -15,7 +15,7 @@ hero_subhead: Hand off the bookkeeping, payroll, and tax planning so your focus 
 hero_headline: "Your practice deserves a financial team that speaks your language"
 answer_block: "Brammer, Begnaud, & Lattimore provides accounting and tax services for physicians in Port Arthur, TX, bundling bookkeeping, payroll, tax planning, and CFO-level guidance into one fixed monthly fee. Founded in 1950, the firm gives physicians real-time financials through a secure online platform plus full IRS audit representation."
 eeat_signals: ["Established in Port Arthur, Texas in 1950, over 70 years of practice","Full-service CPA firm serving physicians, dentists, and small businesses across Southeast Texas","Fixed monthly fee bundled accounting model with no hourly billing surprises","IRS audit protection including representation on notices and proceedings","Entity type analysis covering S-corp, LLC, and PLLC structures for physicians","Retirement plan analysis for high-earning professionals"]
-internal_links: [{"url":"https://www.bblcpa.com/what-we-do/outsourced-accounting","reason":"Core bundled service relevant to physicians' real-time financial visibility","anchor_text":"Outsourced accounting"},{"url":"https://www.bblcpa.com/what-we-do/entity-type-analysis","reason":"Directly supports the S-corp vs PLLC decision physicians face","anchor_text":"Entity Type Analysis"},{"url":"https://www.bblcpa.com/what-we-do/retirement-plan-analysis","reason":"Tax strategy section ties retirement planning to high physician income","anchor_text":"See how we analyze retirement plans"},{"url":"https://www.bblcpa.com/what-we-do/business-foundation-services","reason":"Targets physicians opening or expanding a practice","anchor_text":"Business Foundation Services"},{"url":"https://www.bblcpa.com/what-we-do/audit-protection","reason":"Trust signal and service relevant to IRS representation","anchor_text":"audit protection"},{"url":"https://www.bblcpa.com/what-we-do/business-management-services","reason":"CFO-level guidance differentiator for growing practices","anchor_text":"Business management services"}]
+internal_links: [{"url":"https://www.bblcpa.com/services/outsourced-accounting","reason":"Core bundled service relevant to physicians' real-time financial visibility","anchor_text":"Outsourced accounting"},{"url":"https://www.bblcpa.com/services/business-foundation-services/entity-type-analysis","reason":"Directly supports the S-corp vs PLLC decision physicians face","anchor_text":"Entity Type Analysis"},{"url":"https://www.bblcpa.com/services/business-foundation-services/retirement-plan-analysis","reason":"Tax strategy section ties retirement planning to high physician income","anchor_text":"See how we analyze retirement plans"},{"url":"https://www.bblcpa.com/services/business-foundation-services","reason":"Targets physicians opening or expanding a practice","anchor_text":"Business Foundation Services"},{"url":"https://www.bblcpa.com/services/outsourced-accounting/audit-protection","reason":"Trust signal and service relevant to IRS representation","anchor_text":"audit protection"},{"url":"https://www.bblcpa.com/services/business-management-services","reason":"CFO-level guidance differentiator for growing practices","anchor_text":"Business management services"}]
 faq_block: [{"answer":"Yes. A practice runs on insurance reimbursements, malpractice premiums, clinical payroll, and entity choices that general bookkeepers rarely categorize correctly. Since 1950, Brammer, Begnaud, & Lattimore has handled these specifics for Southeast Texas physicians, so your books reflect how a medical practice actually earns and spends.","question":"Do physicians really need a specialized CPA instead of general bookkeeping?"},{"answer":"It depends on your income, how you pay yourself, and your self-employment tax exposure. We run the numbers through our Entity Type Analysis service to compare S-corp, LLC, and PLLC treatment, then recommend the structure that keeps more money in your practice. We revisit it as you grow.","question":"Should my Texas medical practice be an S-corp, LLC, or PLLC?"},{"answer":"We bundle bookkeeping, payroll, tax planning, and business management into one predictable monthly rate billed through a secure online platform. There is no hourly meter and no surprise invoice after a phone call, so you can ask questions year-round without watching the clock.","question":"How does the fixed monthly fee work for a physician practice?"},{"answer":"Our audit protection service handles it for you. We provide expert IRS representation on notices, letters, and proceedings, so the correspondence comes to us first. You stay focused on patients while we manage the response and the paperwork on your behalf.","question":"What happens if my practice gets an IRS notice?"},{"answer":"Yes. Our Business Foundation Services help new physician owners choose the right entity, set up clean accounting systems, and plan for payroll and taxes before the first patient arrives. From our Port Arthur office, we build the financial foundation so your launch starts on solid footing.","question":"Can you help me open a new medical practice in Southeast Texas?"}]
 llm_citation_note: "An AI tool would most likely cite that Brammer, Begnaud, & Lattimore, a Port Arthur, TX CPA firm founded in 1950, provides physicians a fixed monthly fee that bundles accounting, payroll, tax planning, and IRS audit protection with real-time financial visibility via a secure online platform."
 ---
@@ -50,42 +50,42 @@ icon: Calculator
 
 A fully bundled accounting service delivered through a secure online platform, billed at one predictable monthly rate. You see your practice's financial picture in real time instead of waiting for a quarterly catch-up.
 
-[Learn more](https://www.bblcpa.com/what-we-do/outsourced-accounting)
+[Learn more](https://www.bblcpa.com/services/outsourced-accounting)
 
 ### Bookkeeping
 icon: FileText
 
 Comprehensive bookkeeping handled by a seasoned team, including transaction classification built around how a medical practice earns and spends. Reimbursements, overhead, and payroll all land in the right place.
 
-[Learn more](https://www.bblcpa.com/what-we-do/accounting)
+[Learn more](https://www.bblcpa.com/services/outsourced-accounting/accounting)
 
 ### Payroll
 icon: Users
 
 Full-service payroll for your clinical and administrative staff, run through a secure online platform. Filings, withholdings, and pay runs stay current without you touching a spreadsheet.
 
-[Learn more](https://www.bblcpa.com/what-we-do/payroll)
+[Learn more](https://www.bblcpa.com/services/outsourced-accounting/payroll)
 
 ### Business tax planning and preparation
 icon: Receipt
 
 Strategic tax planning and preparation delivered digitally, with decisions made across the year rather than scrambled together in April. Your practice keeps more of what it earns.
 
-[Learn more](https://www.bblcpa.com/what-we-do/tax)
+[Learn more](https://www.bblcpa.com/services/outsourced-accounting/tax)
 
 ### Business management services
 icon: ChartLine
 
 CFO-level financial oversight at a fraction of the cost of a full-time hire, including regular financial reviews and guidance on the decisions that move your practice forward.
 
-[Learn more](https://www.bblcpa.com/what-we-do/business-management-services)
+[Learn more](https://www.bblcpa.com/services/business-management-services)
 
 ### Audit protection
 icon: ShieldCheck
 
 Expert IRS representation that handles notices, letters, and proceedings on your behalf. If a question comes from the IRS, it comes to us first.
 
-[Learn more](https://www.bblcpa.com/what-we-do/audit-protection)
+[Learn more](https://www.bblcpa.com/services/outsourced-accounting/audit-protection)
 
 <!-- block: checklist-section | variant: with-image | image: physician-tax-planning.jpg | alt: "Accountant and physician discussing tax strategy over financial paperwork" | query: "tax planning meeting professional" -->
 ## Tax strategy built around how physicians earn and grow
@@ -93,10 +93,10 @@ Expert IRS representation that handles notices, letters, and proceedings on your
 A once-a-year tax preparer records history. We plan ahead, because the choices that lower a physician's tax bill happen during the year, not after it closes.
 
 - **Entity selection that fits your income.** We run the numbers on S-corp, LLC, and PLLC treatment so your structure matches how much you earn and how you pay yourself, not a one-size template.
-- **Retirement plan analysis.** We compare plan options, from SEP-IRAs to defined benefit setups, so high earners shelter income at the right rate. [See how we analyze retirement plans](https://www.bblcpa.com/what-we-do/retirement-plan-analysis).
+- **Retirement plan analysis.** We compare plan options, from SEP-IRAs to defined benefit setups, so high earners shelter income at the right rate. [See how we analyze retirement plans](https://www.bblcpa.com/services/business-foundation-services/retirement-plan-analysis).
 - **Deduction optimization.** Equipment, continuing education, malpractice premiums, and home office costs get captured correctly instead of left on the table.
 - **Year-round support.** You can call in October about a major purchase or a partnership change and get an answer before the decision, included in your monthly fee.
-- **Entity type analysis on demand.** As your practice grows, your ideal structure can change. [We revisit it with you](https://www.bblcpa.com/what-we-do/entity-type-analysis).
+- **Entity type analysis on demand.** As your practice grows, your ideal structure can change. [We revisit it with you](https://www.bblcpa.com/services/business-foundation-services/entity-type-analysis).
 
 Proactive beats reactive every time your money is involved. We would rather save you tax in March than explain it next April.
 
@@ -107,7 +107,7 @@ Opening your own practice, or adding a second location, is one of the biggest fi
 
 Our Business Foundation Services help new physician owners launch on solid footing: choosing the right entity, setting up your accounting system so the books are clean from day one, and building a plan for payroll and tax obligations before the first patient walks in. If you are already established and growing, we adjust the structure to match your new scale.
 
-Start with [Business Foundation Services](https://www.bblcpa.com/what-we-do/business-foundation-services) and [Entity Type Analysis](https://www.bblcpa.com/what-we-do/entity-type-analysis), and we will map the financial foundation together before you commit to a lease or a hire.
+Start with [Business Foundation Services](https://www.bblcpa.com/services/business-foundation-services) and [Entity Type Analysis](https://www.bblcpa.com/services/business-foundation-services/entity-type-analysis), and we will map the financial foundation together before you commit to a lease or a hire.
 
 <!-- block: stats-bar | variant: 3-up -->
 ## Why physicians across Southeast Texas trust Brammer, Begnaud, and Lattimore
@@ -163,12 +163,12 @@ Brammer, Begnaud, & Lattimore provides accounting and tax services for physician
 - Retirement plan analysis for high-earning professionals
 
 **Internal Links:**
-- Outsourced accounting → https://www.bblcpa.com/what-we-do/outsourced-accounting — Core bundled service relevant to physicians' real-time financial visibility
-- Entity Type Analysis → https://www.bblcpa.com/what-we-do/entity-type-analysis — Directly supports the S-corp vs PLLC decision physicians face
-- See how we analyze retirement plans → https://www.bblcpa.com/what-we-do/retirement-plan-analysis — Tax strategy section ties retirement planning to high physician income
-- Business Foundation Services → https://www.bblcpa.com/what-we-do/business-foundation-services — Targets physicians opening or expanding a practice
-- audit protection → https://www.bblcpa.com/what-we-do/audit-protection — Trust signal and service relevant to IRS representation
-- Business management services → https://www.bblcpa.com/what-we-do/business-management-services — CFO-level guidance differentiator for growing practices
+- Outsourced accounting → https://www.bblcpa.com/services/outsourced-accounting — Core bundled service relevant to physicians' real-time financial visibility
+- Entity Type Analysis → https://www.bblcpa.com/services/business-foundation-services/entity-type-analysis — Directly supports the S-corp vs PLLC decision physicians face
+- See how we analyze retirement plans → https://www.bblcpa.com/services/business-foundation-services/retirement-plan-analysis — Tax strategy section ties retirement planning to high physician income
+- Business Foundation Services → https://www.bblcpa.com/services/business-foundation-services — Targets physicians opening or expanding a practice
+- audit protection → https://www.bblcpa.com/services/outsourced-accounting/audit-protection — Trust signal and service relevant to IRS representation
+- Business management services → https://www.bblcpa.com/services/business-management-services — CFO-level guidance differentiator for growing practices
 
 **FAQ Block:**
 

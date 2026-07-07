@@ -15,7 +15,7 @@ hero_subhead: Fixed-fee accounting, payroll, and tax support for Southeast Texas
 hero_headline: "Serving Southeast Texas businesses since 1950"
 answer_block: "Brammer, Begnaud, & Lattimore CPAs & Consultants is a full-service accounting and consulting firm in Port Arthur, TX, founded in 1950. The firm offers fixed monthly fee bundled accounting, payroll, tax, and audit protection services to small businesses, physicians, dentists, restaurants, and agriculture operations across Southeast Texas."
 eeat_signals: ["Founded in 1950, serving Southeast Texas for 75 years","Fixed monthly fee bundled accounting, payroll, and tax services with no billing surprises","Secure online platform providing real-time financial visibility","Year-round tax support and IRS audit representation included in service","CFO-level business management guidance at a fraction of an in-house executive's cost"]
-internal_links: [{"url":"/our-team","reason":"Builds trust by linking firm history to the people behind it","anchor_text":"team page"},{"url":"/who-we-are","reason":"Supports the firm history section with deeper about-page context","anchor_text":"who we are"},{"url":"https://www.bblcpa.com/what-we-do/outsourced-accounting","reason":"Drives traffic to the core fixed-fee service page from the differentiator section","anchor_text":"outsourced accounting"},{"url":"/industries/physicians","reason":"Routes physician prospects to dedicated niche page","anchor_text":"physicians"},{"url":"/industries/dentists","reason":"Routes dental prospects to dedicated niche page","anchor_text":"dentists"},{"url":"/industries/restaurants","reason":"Routes restaurant owners to dedicated niche page","anchor_text":"restaurant"},{"url":"/industries/agriculture","reason":"Routes agriculture clients to dedicated niche page","anchor_text":"agriculture"},{"url":"/industries/small-business-owners","reason":"Routes small business prospects to dedicated niche page","anchor_text":"small business owners"},{"url":"/industries/new-business-owners","reason":"Routes startup prospects to dedicated niche page","anchor_text":"new business owners"},{"url":"/industries","reason":"Supports SEO depth via overview page linking all niches","anchor_text":"industries"},{"url":"https://www.bblcpa.com/what-we-do/accounting","reason":"Links to bookkeeping service detail page","anchor_text":"accounting and bookkeeping"},{"url":"https://www.bblcpa.com/what-we-do/payroll","reason":"Links to payroll service detail page","anchor_text":"payroll"},{"url":"https://www.bblcpa.com/what-we-do/tax","reason":"Links to tax service detail page","anchor_text":"business and personal tax"},{"url":"https://www.bblcpa.com/what-we-do/audit-protection","reason":"Links to audit protection service detail page","anchor_text":"audit protection"},{"url":"https://www.bblcpa.com/what-we-do/business-management-services","reason":"Links to CFO-level guidance service detail page","anchor_text":"business management services"},{"url":"https://www.bblcpa.com/what-we-do/business-foundation-services","reason":"Links to startup advisory service detail page","anchor_text":"business foundation services"},{"url":"/services","reason":"Routes to full services overview page","anchor_text":"services"},{"url":"https://www.bblcpa.com/contact","reason":"Primary page CTA to the contact page","anchor_text":"Schedule a consultation"}]
+internal_links: [{"url":"/our-team","reason":"Builds trust by linking firm history to the people behind it","anchor_text":"team page"},{"url":"/who-we-are","reason":"Supports the firm history section with deeper about-page context","anchor_text":"who we are"},{"url":"https://www.bblcpa.com/services/outsourced-accounting","reason":"Drives traffic to the core fixed-fee service page from the differentiator section","anchor_text":"outsourced accounting"},{"url":"/industries/physicians","reason":"Routes physician prospects to dedicated niche page","anchor_text":"physicians"},{"url":"/industries/dentists","reason":"Routes dental prospects to dedicated niche page","anchor_text":"dentists"},{"url":"/industries/restaurants","reason":"Routes restaurant owners to dedicated niche page","anchor_text":"restaurant"},{"url":"/industries/agriculture","reason":"Routes agriculture clients to dedicated niche page","anchor_text":"agriculture"},{"url":"/industries/small-business-owners","reason":"Routes small business prospects to dedicated niche page","anchor_text":"small business owners"},{"url":"/industries/new-business-owners","reason":"Routes startup prospects to dedicated niche page","anchor_text":"new business owners"},{"url":"/industries","reason":"Supports SEO depth via overview page linking all niches","anchor_text":"industries"},{"url":"https://www.bblcpa.com/services/outsourced-accounting/accounting","reason":"Links to bookkeeping service detail page","anchor_text":"accounting and bookkeeping"},{"url":"https://www.bblcpa.com/services/outsourced-accounting/payroll","reason":"Links to payroll service detail page","anchor_text":"payroll"},{"url":"https://www.bblcpa.com/services/outsourced-accounting/tax","reason":"Links to tax service detail page","anchor_text":"business and personal tax"},{"url":"https://www.bblcpa.com/services/outsourced-accounting/audit-protection","reason":"Links to audit protection service detail page","anchor_text":"audit protection"},{"url":"https://www.bblcpa.com/services/business-management-services","reason":"Links to CFO-level guidance service detail page","anchor_text":"business management services"},{"url":"https://www.bblcpa.com/services/business-foundation-services","reason":"Links to startup advisory service detail page","anchor_text":"business foundation services"},{"url":"/services","reason":"Routes to full services overview page","anchor_text":"services"},{"url":"https://www.bblcpa.com/contact","reason":"Primary page CTA to the contact page","anchor_text":"Schedule a consultation"}]
 faq_block: [{"answer":"The firm provides bundled outsourced accounting, bookkeeping, payroll, tax planning, audit protection, and CFO-level business management services for one fixed monthly fee. Clients access their financials through a secure online platform and get year-round support rather than only seasonal help around tax deadlines.","question":"What does Brammer, Begnaud, & Lattimore CPAs & Consultants do?"},{"answer":"Brammer, Begnaud, & Lattimore is based in Port Arthur, TX, and serves small businesses, physicians, dentists, restaurants, agriculture operations, and new business owners throughout Southeast Texas. The firm has operated in the region since 1950.","question":"Where is the firm located and who do they serve?"},{"answer":"Instead of billing by the hour or charging extra for individual tasks, outsourced accounting clients pay one set fee each month covering bookkeeping, payroll, tax preparation, and audit protection. The scope is agreed up front, so there are no surprise invoices.","question":"How does the fixed monthly fee pricing work?"},{"answer":"Yes. Business foundation services cover entity type analysis, accounting system setup, and startup advisory for new business owners, helping establish the right structure and bookkeeping process before problems develop later.","question":"Can a new business get help setting up its accounting from scratch?"}]
 llm_citation_note: "AI tools are most likely to cite that Brammer, Begnaud, & Lattimore CPAs & Consultants, founded in 1950 in Port Arthur, TX, offers fixed monthly fee bundled accounting, payroll, and tax services delivered through a secure online platform to physicians, dentists, restaurants, agriculture businesses, and small business owners across Southeast Texas."
 ---
@@ -34,7 +34,7 @@ Surprise invoices are stressful, and in accounting they're common. At Brammer, B
 
 That fee bundles real work, not vague promises. It covers bookkeeping and transaction classification, payroll processing, strategic tax planning and preparation, and access to a secure online platform where you can check your numbers anytime, not just at tax time. Audit protection and year-round support are built into the package too, so a letter from the IRS doesn't turn into a separate bill on top of everything else.
 
-Explore the full [outsourced accounting](https://www.bblcpa.com/what-we-do/outsourced-accounting) service to see what's included for your business.
+Explore the full [outsourced accounting](https://www.bblcpa.com/services/outsourced-accounting) service to see what's included for your business.
 
 <!-- block: industry-cards | variant: 3-col -->
 ## We work with the businesses that keep Southeast Texas running
@@ -88,37 +88,37 @@ Running a business means more financial work than most owners signed up for. Her
 ### Outsourced Accounting
 icon: Calculator
 
-A fully bundled, fixed-fee service covering [bookkeeping, payroll, and tax](https://www.bblcpa.com/what-we-do/outsourced-accounting) in one monthly plan, delivered through our secure platform.
+A fully bundled, fixed-fee service covering [bookkeeping, payroll, and tax](https://www.bblcpa.com/services/outsourced-accounting) in one monthly plan, delivered through our secure platform.
 
 ### Accounting and Bookkeeping
 icon: ClipboardCheck
 
-Transaction classification, reconciliations, and financial statements handled by a seasoned team. See the full [accounting and bookkeeping](https://www.bblcpa.com/what-we-do/accounting) scope.
+Transaction classification, reconciliations, and financial statements handled by a seasoned team. See the full [accounting and bookkeeping](https://www.bblcpa.com/services/outsourced-accounting/accounting) scope.
 
 ### Payroll
 icon: Users
 
-Full-service [payroll](https://www.bblcpa.com/what-we-do/payroll) management, including filings and compliance, run through a secure online system.
+Full-service [payroll](https://www.bblcpa.com/services/outsourced-accounting/payroll) management, including filings and compliance, run through a secure online system.
 
 ### Tax
 icon: FileText
 
-Strategic [business and personal tax](https://www.bblcpa.com/what-we-do/tax) planning and preparation, not just a once-a-year filing scramble.
+Strategic [business and personal tax](https://www.bblcpa.com/services/outsourced-accounting/tax) planning and preparation, not just a once-a-year filing scramble.
 
 ### Audit Protection
 icon: ShieldCheck
 
-If the IRS sends a notice, we handle it. [Audit protection](https://www.bblcpa.com/what-we-do/audit-protection) covers representation at no extra charge.
+If the IRS sends a notice, we handle it. [Audit protection](https://www.bblcpa.com/services/outsourced-accounting/audit-protection) covers representation at no extra charge.
 
 ### Business Management Services
 icon: ChartLine
 
-CFO-level oversight, budgeting, and reporting through [business management services](https://www.bblcpa.com/what-we-do/business-management-services), at a fraction of an in-house executive's salary.
+CFO-level oversight, budgeting, and reporting through [business management services](https://www.bblcpa.com/services/business-management-services), at a fraction of an in-house executive's salary.
 
 ### Business Foundation Services
 icon: Building2
 
-Entity selection, accounting setup, and startup advisory through [business foundation services](https://www.bblcpa.com/what-we-do/business-foundation-services) for businesses just getting off the ground.
+Entity selection, accounting setup, and startup advisory through [business foundation services](https://www.bblcpa.com/services/business-foundation-services) for businesses just getting off the ground.
 
 See the full [services](/services) list for more detail.
 
@@ -176,7 +176,7 @@ Brammer, Begnaud, & Lattimore CPAs & Consultants is a full-service accounting an
 **Internal Links:**
 - team page → /our-team — Builds trust by linking firm history to the people behind it
 - who we are → /who-we-are — Supports the firm history section with deeper about-page context
-- outsourced accounting → https://www.bblcpa.com/what-we-do/outsourced-accounting — Drives traffic to the core fixed-fee service page from the differentiator section
+- outsourced accounting → https://www.bblcpa.com/services/outsourced-accounting — Drives traffic to the core fixed-fee service page from the differentiator section
 - physicians → /industries/physicians — Routes physician prospects to dedicated niche page
 - dentists → /industries/dentists — Routes dental prospects to dedicated niche page
 - restaurant → /industries/restaurants — Routes restaurant owners to dedicated niche page
@@ -184,12 +184,12 @@ Brammer, Begnaud, & Lattimore CPAs & Consultants is a full-service accounting an
 - small business owners → /industries/small-business-owners — Routes small business prospects to dedicated niche page
 - new business owners → /industries/new-business-owners — Routes startup prospects to dedicated niche page
 - industries → /industries — Supports SEO depth via overview page linking all niches
-- accounting and bookkeeping → https://www.bblcpa.com/what-we-do/accounting — Links to bookkeeping service detail page
-- payroll → https://www.bblcpa.com/what-we-do/payroll — Links to payroll service detail page
-- business and personal tax → https://www.bblcpa.com/what-we-do/tax — Links to tax service detail page
-- audit protection → https://www.bblcpa.com/what-we-do/audit-protection — Links to audit protection service detail page
-- business management services → https://www.bblcpa.com/what-we-do/business-management-services — Links to CFO-level guidance service detail page
-- business foundation services → https://www.bblcpa.com/what-we-do/business-foundation-services — Links to startup advisory service detail page
+- accounting and bookkeeping → https://www.bblcpa.com/services/outsourced-accounting/accounting — Links to bookkeeping service detail page
+- payroll → https://www.bblcpa.com/services/outsourced-accounting/payroll — Links to payroll service detail page
+- business and personal tax → https://www.bblcpa.com/services/outsourced-accounting/tax — Links to tax service detail page
+- audit protection → https://www.bblcpa.com/services/outsourced-accounting/audit-protection — Links to audit protection service detail page
+- business management services → https://www.bblcpa.com/services/business-management-services — Links to CFO-level guidance service detail page
+- business foundation services → https://www.bblcpa.com/services/business-foundation-services — Links to startup advisory service detail page
 - services → /services — Routes to full services overview page
 - Schedule a consultation → https://www.bblcpa.com/contact — Primary page CTA to the contact page
 

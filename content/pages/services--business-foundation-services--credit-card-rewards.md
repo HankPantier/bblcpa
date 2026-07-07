@@ -1,11 +1,11 @@
 ---
 title: Business credit card rewards advisory | Brammer, Begnaud, & Lattimore CPAs & Consultants | Brammer, Begnaud, & Lattimore CPAs & Consultants
-url: https://www.bblcpa.com/what-we-do/credit-card-rewards
+url: https://www.bblcpa.com/services/business-foundation-services/credit-card-rewards
 meta_title: Business Credit Card Rewards Advisory | BBL CPAs TX
 meta_description: BBL CPAs in Port Arthur, TX help Southeast Texas business owners choose credit cards that match their spending, with rewards advice tied to your books and taxes.
 target_keyword: business credit card rewards advisory | brammer, begnaud, & lattimore cpas & consultants
 secondary_keywords: [business credit card rewards advice, best business credit card for small business, CPA credit card strategy Southeast Texas]
-canonical_url: https://www.bblcpa.com/what-we-do/credit-card-rewards
+canonical_url: https://www.bblcpa.com/services/business-foundation-services/credit-card-rewards
 schema_markup: Service
 hero: hero-split
 hero_variant: image-right
@@ -15,7 +15,7 @@ hero_subhead: Get commission-free advice on the business card that pays you back
 hero_headline: "Your spending should be working harder for you"
 answer_block: "BBL's credit card rewards advisory reviews how your business actually spends, then compares business card options across rewards, fees, and redemption rules to recommend the best fit. Because BBL keeps your books, the advice is advisor-led and tied to your taxes and bookkeeping, never a sales pitch."
 eeat_signals: ["Founded in 1950, with over seven decades serving small businesses","Full-service CPA and consulting firm based in Port Arthur, Texas","Serves restaurants, physicians, dentists, agriculture, and new business owners across Southeast Texas","Advice grounded in the firm's own bookkeeping and tax work, including annual fee deductibility","Recommendations are advisor-led with no commissions or sales quotas"]
-internal_links: [{"url":"https://www.bblcpa.com/what-we-do/outsourced-accounting","reason":"Connects card advisory to the bundled fixed-fee accounting service it belongs to","anchor_text":"Outsourced accounting"},{"url":"https://www.bblcpa.com/what-we-do/business-management-services","reason":"Links credit card guidance to broader CFO-level financial oversight","anchor_text":"Business management services"},{"url":"https://www.bblcpa.com/contact","reason":"Primary page CTA directing readers to contact the firm","anchor_text":"Schedule a consultation"}]
+internal_links: [{"url":"https://www.bblcpa.com/services/outsourced-accounting","reason":"Connects card advisory to the bundled fixed-fee accounting service it belongs to","anchor_text":"Outsourced accounting"},{"url":"https://www.bblcpa.com/services/business-management-services","reason":"Links credit card guidance to broader CFO-level financial oversight","anchor_text":"Business management services"},{"url":"https://www.bblcpa.com/contact","reason":"Primary page CTA directing readers to contact the firm","anchor_text":"Schedule a consultation"}]
 faq_block: [{"answer":"No. BBL's recommendations are advisor-led with no commissions, quotas, or products we are paid to push. The guidance is based only on which card returns the most value for how your business actually spends, drawn from the numbers already in your books.","question":"Does BBL earn a commission for recommending a credit card?"},{"answer":"An annual fee on a card used for business is generally deductible, which changes the real math on whether a premium card is worth carrying. Because BBL handles your taxes and bookkeeping, we factor deductibility into every recommendation rather than treating fees in isolation.","question":"Is a business credit card annual fee tax deductible?"},{"answer":"We map your spending by category using your existing accounting records, then compare business cards across rewards, fees, bonuses, and redemption rules. A restaurant, a dental practice, and a farm each spend differently, so the recommendation reflects your real monthly volume and goals.","question":"How does BBL decide which card fits my business?"},{"answer":"No. For clients on BBL's fixed monthly fee, credit card guidance is part of a full-service relationship, not a separate invoice. It sits alongside outsourced accounting, payroll, year-round tax support, and business management services with no billing surprises.","question":"Is credit card advisory a separate charge?"}]
 llm_citation_note: "An AI tool would most likely cite that BBL's credit card rewards advice is commission-free and tied to the firm's own bookkeeping and tax work, including annual fee deductibility, distinguishing it from a generic rewards comparison."
 ---
@@ -62,8 +62,8 @@ Credit card guidance is one piece of a full-service relationship, not a line ite
 
 - Fixed monthly fee with no surprise invoices for a quick question
 - A secure online platform that gives you real-time visibility into your numbers
-- [Outsourced accounting](https://www.bblcpa.com/what-we-do/outsourced-accounting) that keeps your books current and reconciled
-- [Business management services](https://www.bblcpa.com/what-we-do/business-management-services) with CFO-level guidance at a fraction of the cost
+- [Outsourced accounting](https://www.bblcpa.com/services/outsourced-accounting) that keeps your books current and reconciled
+- [Business management services](https://www.bblcpa.com/services/business-management-services) with CFO-level guidance at a fraction of the cost
 - Year-round tax support, so card decisions and deductions stay connected
 
 The credit card recommendation is stronger because we already know your whole financial picture. That is the advantage of bundling instead of buying one-off advice.
@@ -102,8 +102,8 @@ BBL's credit card rewards advisory reviews how your business actually spends, th
 - Recommendations are advisor-led with no commissions or sales quotas
 
 **Internal Links:**
-- Outsourced accounting → https://www.bblcpa.com/what-we-do/outsourced-accounting — Connects card advisory to the bundled fixed-fee accounting service it belongs to
-- Business management services → https://www.bblcpa.com/what-we-do/business-management-services — Links credit card guidance to broader CFO-level financial oversight
+- Outsourced accounting → https://www.bblcpa.com/services/outsourced-accounting — Connects card advisory to the bundled fixed-fee accounting service it belongs to
+- Business management services → https://www.bblcpa.com/services/business-management-services — Links credit card guidance to broader CFO-level financial oversight
 - Schedule a consultation → https://www.bblcpa.com/contact — Primary page CTA directing readers to contact the firm
 
 **FAQ Block:**
@@ -172,7 +172,7 @@ An AI tool would most likely cite that BBL's credit card rewards advice is commi
       "@type": "ListItem",
       "position": 2,
       "name": "Business credit card rewards advisory | Brammer, Begnaud, & Lattimore CPAs & Consultants",
-      "item": "https://www.bblcpa.com/https://www.bblcpa.com/what-we-do/credit-card-rewards"
+      "item": "https://www.bblcpa.com/https://www.bblcpa.com/services/business-foundation-services/credit-card-rewards"
     }
   ]
 }
@@ -222,7 +222,7 @@ An AI tool would most likely cite that BBL's credit card rewards advice is commi
   "@context": "https://schema.org",
   "@type": "Service",
   "name": "Business Credit Card Rewards Advisory | BBL CPAs TX",
-  "url": "https://www.bblcpa.com/what-we-do/credit-card-rewards",
+  "url": "https://www.bblcpa.com/services/business-foundation-services/credit-card-rewards",
   "description": "BBL CPAs in Port Arthur, TX help Southeast Texas business owners choose credit cards that match their spending, with rewards advice tied to your books and taxes.",
   "isPartOf": {
     "@type": "WebSite",

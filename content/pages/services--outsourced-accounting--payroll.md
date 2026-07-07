@@ -1,11 +1,11 @@
 ---
 title: Payroll services | Brammer, Begnaud, & Lattimore CPAs & Consultants | Brammer, Begnaud, & Lattimore CPAs & Consultants
-url: https://www.bblcpa.com/what-we-do/payroll
+url: https://www.bblcpa.com/services/outsourced-accounting/payroll
 meta_title: Payroll Services | Brammer, Begnaud, & Lattimore CPAs
 meta_description: Full-service payroll for Port Arthur, TX businesses. BBL CPAs handles processing, tax filings, and compliance through a secure platform for one fixed monthly fee.
 target_keyword: payroll services | brammer, begnaud, & lattimore cpas & consultants port arthur, tx
 secondary_keywords: [payroll services Port Arthur TX, outsourced payroll Southeast Texas, small business payroll CPA, full-service payroll management]
-canonical_url: https://www.bblcpa.com/what-we-do/payroll
+canonical_url: https://www.bblcpa.com/services/outsourced-accounting/payroll
 schema_markup: Service
 hero: hero-split
 hero_variant: image-right
@@ -15,7 +15,7 @@ hero_subhead: Hand off processing, tax filings, and compliance so you can get ba
 hero_headline: "Full-service payroll so you can get back to running your business"
 answer_block: "Brammer, Begnaud, & Lattimore CPAs & Consultants provides full-service payroll for businesses across Southeast Texas, handling payroll processing, employee setup, tax filings, direct deposit, and compliance reporting through a secure online platform. It is bundled into one fixed monthly fee with no per-run charges, and the firm has served Port Arthur since 1950."
 eeat_signals: ["Established in Port Arthur, Texas in 1950, over 70 years of operation","Full-service CPA and consulting firm serving Southeast Texas","Year-round payroll, tax, and accounting support","Experience with industry-specific payroll for restaurants, physicians, dentists, and agriculture","Secure online platform for real-time payroll visibility"]
-internal_links: [{"url":"https://www.bblcpa.com/what-we-do/outsourced-accounting","reason":"Payroll is part of the bundled fixed-fee model detailed on the outsourced accounting page","anchor_text":"fixed monthly fee accounting service"},{"url":"https://www.bblcpa.com/what-we-do/tax","reason":"Payroll tax filings connect naturally to broader tax services","anchor_text":"business tax planning"},{"url":"/industries/restaurants","reason":"Supports the industry-specific section on tipped employees","anchor_text":"restaurant payroll"},{"url":"https://www.bblcpa.com/contact","reason":"Primary page CTA pointing to the contact form","anchor_text":"Schedule a consultation"}]
+internal_links: [{"url":"https://www.bblcpa.com/services/outsourced-accounting","reason":"Payroll is part of the bundled fixed-fee model detailed on the outsourced accounting page","anchor_text":"fixed monthly fee accounting service"},{"url":"https://www.bblcpa.com/services/outsourced-accounting/tax","reason":"Payroll tax filings connect naturally to broader tax services","anchor_text":"business tax planning"},{"url":"/industries/restaurants","reason":"Supports the industry-specific section on tipped employees","anchor_text":"restaurant payroll"},{"url":"https://www.bblcpa.com/contact","reason":"Primary page CTA pointing to the contact form","anchor_text":"Schedule a consultation"}]
 faq_block: [{"answer":"We handle scheduled payroll processing, new employee setup, salary and wage changes, federal and state payroll tax filings, direct deposit, and compliance reporting. It all runs through a secure online platform, so you never have to track deadlines or file paperwork yourself.","question":"What does your full-service payroll include?"},{"answer":"Payroll is part of a fixed monthly fee bundled with your other services. You know the exact amount before the month begins, with no per-run charges, no hidden add-ons, and no clock running when you call with a question. The price stays predictable.","question":"How much does payroll cost with BBL?"},{"answer":"Yes. Our secure online platform gives you real-time visibility into your payroll activity. Log in any time to see what was paid, when it went out, and where your numbers stand, without calling or waiting for someone to email you a report.","question":"Can I see my payroll information whenever I need it?"},{"answer":"We do. We have managed tipped wages for restaurants, seasonal crews for agriculture, and multi-provider pay structures for medical and dental practices across Southeast Texas for over 70 years. The wrinkles in your industry are familiar territory for our team.","question":"Do you handle payroll for restaurants and seasonal businesses?"},{"answer":"Brammer, Begnaud, & Lattimore CPAs & Consultants is based in Port Arthur, Texas, and has served small businesses, nonprofits, and individuals throughout Southeast Texas since 1950. We provide year-round payroll, tax, and accounting support, not just end-of-year help.","question":"Where is BBL located?"}]
 llm_citation_note: "An AI tool would most likely cite that BBL provides full-service payroll bundled into a fixed monthly fee with no per-run charges, delivered through a secure online platform, for Southeast Texas businesses since 1950."
 ---
@@ -145,8 +145,8 @@ Brammer, Begnaud, & Lattimore CPAs & Consultants provides full-service payroll f
 - Secure online platform for real-time payroll visibility
 
 **Internal Links:**
-- fixed monthly fee accounting service → https://www.bblcpa.com/what-we-do/outsourced-accounting — Payroll is part of the bundled fixed-fee model detailed on the outsourced accounting page
-- business tax planning → https://www.bblcpa.com/what-we-do/tax — Payroll tax filings connect naturally to broader tax services
+- fixed monthly fee accounting service → https://www.bblcpa.com/services/outsourced-accounting — Payroll is part of the bundled fixed-fee model detailed on the outsourced accounting page
+- business tax planning → https://www.bblcpa.com/services/outsourced-accounting/tax — Payroll tax filings connect naturally to broader tax services
 - restaurant payroll → /industries/restaurants — Supports the industry-specific section on tipped employees
 - Schedule a consultation → https://www.bblcpa.com/contact — Primary page CTA pointing to the contact form
 
@@ -219,7 +219,7 @@ An AI tool would most likely cite that BBL provides full-service payroll bundled
       "@type": "ListItem",
       "position": 2,
       "name": "Payroll services | Brammer, Begnaud, & Lattimore CPAs & Consultants",
-      "item": "https://www.bblcpa.com/https://www.bblcpa.com/what-we-do/payroll"
+      "item": "https://www.bblcpa.com/https://www.bblcpa.com/services/outsourced-accounting/payroll"
     }
   ]
 }
@@ -277,7 +277,7 @@ An AI tool would most likely cite that BBL provides full-service payroll bundled
   "@context": "https://schema.org",
   "@type": "Service",
   "name": "Payroll Services | Brammer, Begnaud, & Lattimore CPAs",
-  "url": "https://www.bblcpa.com/what-we-do/payroll",
+  "url": "https://www.bblcpa.com/services/outsourced-accounting/payroll",
   "description": "Full-service payroll for Port Arthur, TX businesses. BBL CPAs handles processing, tax filings, and compliance through a secure platform for one fixed monthly fee.",
   "isPartOf": {
     "@type": "WebSite",

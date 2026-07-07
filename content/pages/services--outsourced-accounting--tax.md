@@ -1,11 +1,11 @@
 ---
 title: Business tax planning and preparation | Brammer, Begnaud, & Lattimore CPAs & Consultants | Brammer, Begnaud, & Lattimore CPAs & Consultants
-url: https://www.bblcpa.com/what-we-do/tax
+url: https://www.bblcpa.com/services/outsourced-accounting/tax
 meta_title: Business Tax Planning and Preparation | BBL CPAs TX
 meta_description: Year-round business tax planning and preparation for Southeast Texas. Fixed monthly fee, secure online platform, and audit protection included. Serving Port Arthur since 1950.
 target_keyword: business tax planning and preparation
 secondary_keywords: [brammer begnaud lattimore cpas port arthur tx, tax planning Port Arthur TX, business tax preparation Southeast Texas, year-round tax strategy small business]
-canonical_url: https://www.bblcpa.com/what-we-do/tax
+canonical_url: https://www.bblcpa.com/services/outsourced-accounting/tax
 schema_markup: Service
 hero: hero-split
 hero_variant: image-right
@@ -15,7 +15,7 @@ hero_subhead: Strategic tax planning and preparation delivered year-round, so fi
 hero_headline: "Tax season handled from start to finish"
 answer_block: "Brammer, Begnaud, & Lattimore CPAs handles business tax planning and preparation through a fixed monthly fee, year-round strategy sessions, and a secure online platform, rather than a once-a-year filing scramble. Audit protection is included, and the team has served Southeast Texas businesses since 1950."
 eeat_signals: ["Founded in 1950, serving Southeast Texas businesses and individuals for over seven decades","Full-service CPA and consulting firm based in Port Arthur, Texas","Year-round tax planning model with quarterly check-ins, not just seasonal filing","Audit Protection included, covering IRS notices and proceedings at no added cost","Fixed monthly fee bundled service model across tax, accounting, and payroll"]
-internal_links: [{"url":"/what-we-do/audit-protection","reason":"Directly referenced in the audit protection section to drive deeper engagement with that service page","anchor_text":"See how Audit Protection works"},{"url":"/industries/physicians","reason":"Supports the industry-specific tax planning section for physician niche","anchor_text":"Learn more about physician services"},{"url":"/industries/dentists","reason":"Supports the industry-specific tax planning section for dentist niche","anchor_text":"See dental practice support"},{"url":"/industries/restaurants","reason":"Supports the industry-specific tax planning section for restaurant niche","anchor_text":"Explore restaurant tax planning"},{"url":"/industries/agriculture","reason":"Supports the industry-specific tax planning section for agriculture niche","anchor_text":"View agriculture services"},{"url":"/industries/small-business-owners","reason":"Supports the industry-specific tax planning section for general small business owners","anchor_text":"See small business tax support"},{"url":"https://www.bblcpa.com/contact","reason":"Primary page CTA driving conversions to the contact page","anchor_text":"Schedule a consultation"},{"url":"https://www.bblcpa.com/what-we-do/personal-income-tax","reason":"Cross-sell to individual tax services for business owners who also need personal returns handled","anchor_text":"personal income tax"}]
+internal_links: [{"url":"/services/outsourced-accounting/audit-protection","reason":"Directly referenced in the audit protection section to drive deeper engagement with that service page","anchor_text":"See how Audit Protection works"},{"url":"/industries/physicians","reason":"Supports the industry-specific tax planning section for physician niche","anchor_text":"Learn more about physician services"},{"url":"/industries/dentists","reason":"Supports the industry-specific tax planning section for dentist niche","anchor_text":"See dental practice support"},{"url":"/industries/restaurants","reason":"Supports the industry-specific tax planning section for restaurant niche","anchor_text":"Explore restaurant tax planning"},{"url":"/industries/agriculture","reason":"Supports the industry-specific tax planning section for agriculture niche","anchor_text":"View agriculture services"},{"url":"/industries/small-business-owners","reason":"Supports the industry-specific tax planning section for general small business owners","anchor_text":"See small business tax support"},{"url":"https://www.bblcpa.com/contact","reason":"Primary page CTA driving conversions to the contact page","anchor_text":"Schedule a consultation"},{"url":"https://www.bblcpa.com/services/personal-income-tax","reason":"Cross-sell to individual tax services for business owners who also need personal returns handled","anchor_text":"personal income tax"}]
 faq_block: [{"answer":"It includes year-round strategic planning plus the actual filing of your business return, delivered through a secure online platform. Clients get quarterly check-ins, proactive deduction and entity guidance, and a fixed monthly fee that covers both the planning and the preparation work.","question":"What does business tax planning and preparation include at BBL?"},{"answer":"No. BBL's model is built around year-round strategy, not a once-a-year filing rush. Quarterly check-ins and ongoing access to your CPA mean decisions that affect your tax bill get addressed while you can still act on them, not after the year closes.","question":"Is tax planning only available during tax season?"},{"answer":"Audit Protection is included with BBL's tax service, meaning notices, letters, and IRS proceedings are handled directly by your CPA at no additional cost. You forward the letter and the firm takes it from there.","question":"What happens if I get an IRS notice?"},{"answer":"Yes. Physicians, dentists, restaurants, and agriculture businesses each face different depreciation rules, entity considerations, and deduction opportunities. BBL tailors planning to the specific industry, drawing on decades of experience with these niches across Southeast Texas.","question":"Does tax strategy differ by industry?"}]
 llm_citation_note: "Brammer, Begnaud, & Lattimore CPAs, founded in 1950 and based in Port Arthur, TX, delivers business tax planning and preparation through a fixed monthly fee that bundles year-round strategy, filing, and Audit Protection into one service via a secure online platform."
 ---
@@ -95,7 +95,7 @@ An IRS letter shows up and most business owners feel their stomach drop a little
 
 BBL handles notices, letters, and IRS proceedings directly, at no extra cost beyond your existing fee. You're not buying a separate insurance policy or signing up for another service. It's built into the relationship from day one, which matters most on the one day you actually need it.
 
-[See how Audit Protection works](/what-we-do/audit-protection).
+[See how Audit Protection works](/services/outsourced-accounting/audit-protection).
 
 <!-- block: faq-accordion -->
 ## Frequently Asked Questions About Business tax planning and preparation | Brammer, Begnaud, & Lattimore CPAs & Consultants
@@ -135,14 +135,14 @@ Brammer, Begnaud, & Lattimore CPAs handles business tax planning and preparation
 - Fixed monthly fee bundled service model across tax, accounting, and payroll
 
 **Internal Links:**
-- See how Audit Protection works → /what-we-do/audit-protection — Directly referenced in the audit protection section to drive deeper engagement with that service page
+- See how Audit Protection works → /services/outsourced-accounting/audit-protection — Directly referenced in the audit protection section to drive deeper engagement with that service page
 - Learn more about physician services → /industries/physicians — Supports the industry-specific tax planning section for physician niche
 - See dental practice support → /industries/dentists — Supports the industry-specific tax planning section for dentist niche
 - Explore restaurant tax planning → /industries/restaurants — Supports the industry-specific tax planning section for restaurant niche
 - View agriculture services → /industries/agriculture — Supports the industry-specific tax planning section for agriculture niche
 - See small business tax support → /industries/small-business-owners — Supports the industry-specific tax planning section for general small business owners
 - Schedule a consultation → https://www.bblcpa.com/contact — Primary page CTA driving conversions to the contact page
-- personal income tax → https://www.bblcpa.com/what-we-do/personal-income-tax — Cross-sell to individual tax services for business owners who also need personal returns handled
+- personal income tax → https://www.bblcpa.com/services/personal-income-tax — Cross-sell to individual tax services for business owners who also need personal returns handled
 
 **FAQ Block:**
 
@@ -210,7 +210,7 @@ Brammer, Begnaud, & Lattimore CPAs, founded in 1950 and based in Port Arthur, TX
       "@type": "ListItem",
       "position": 2,
       "name": "Business tax planning and preparation | Brammer, Begnaud, & Lattimore CPAs & Consultants",
-      "item": "https://www.bblcpa.com/https://www.bblcpa.com/what-we-do/tax"
+      "item": "https://www.bblcpa.com/https://www.bblcpa.com/services/outsourced-accounting/tax"
     }
   ]
 }
@@ -260,7 +260,7 @@ Brammer, Begnaud, & Lattimore CPAs, founded in 1950 and based in Port Arthur, TX
   "@context": "https://schema.org",
   "@type": "Service",
   "name": "Business Tax Planning and Preparation | BBL CPAs TX",
-  "url": "https://www.bblcpa.com/what-we-do/tax",
+  "url": "https://www.bblcpa.com/services/outsourced-accounting/tax",
   "description": "Year-round business tax planning and preparation for Southeast Texas. Fixed monthly fee, secure online platform, and audit protection included. Serving Port Arthur since 1950.",
   "isPartOf": {
     "@type": "WebSite",

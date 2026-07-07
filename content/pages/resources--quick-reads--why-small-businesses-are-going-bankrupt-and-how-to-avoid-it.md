@@ -11,7 +11,7 @@ hero: page-header
 hero_subhead: Spot the financial warning signs early and keep your business out of the danger zone
 answer_block: "Small businesses usually go bankrupt from a slow buildup of cash flow mismanagement, unpaid tax debt, and inconsistent bookkeeping, not a single bad event. Avoiding it requires consistent books, year-round tax planning, and real-time visibility into your numbers, which is exactly what BBL's outsourced accounting and tax services are built to provide for Southeast Texas businesses."
 eeat_signals: ["Founded in 1950, serving Southeast Texas businesses, nonprofits, and individuals for over 75 years","Year-round tax planning and preparation plus full IRS audit representation through Audit Protection","Secure online platform delivering real-time financial visibility to clients","Fixed monthly fee bundled accounting model with no billing surprises","CFO-level business management guidance offered at a fraction of in-house cost"]
-internal_links: [{"url":"https://www.bblcpa.com/what-we-do/tax","reason":"Links to BBL's year-round tax planning service referenced as a fix for tax debt issues","anchor_text":"Tax"},{"url":"https://www.bblcpa.com/what-we-do/audit-protection","reason":"Supports the section on IRS notices and liens with the relevant protection service","anchor_text":"Audit Protection"},{"url":"https://www.bblcpa.com/what-we-do/outsourced-accounting","reason":"Connects the fixed monthly fee bundled model to its dedicated service page","anchor_text":"Outsourced Accounting"},{"url":"https://www.bblcpa.com/what-we-do/business-management-services","reason":"Links the CFO-level guidance mention to its service page","anchor_text":"Business Management Services"},{"url":"https://www.bblcpa.com/what-we-do/accounting","reason":"Ties the bookkeeping warning signs section to the core bookkeeping service","anchor_text":"Accounting and Bookkeeping"},{"url":"/who-we-are","reason":"Builds trust by linking the 1950 founding mention to the firm's history page","anchor_text":"our history"},{"url":"https://www.bblcpa.com/contact","reason":"Primary page CTA directing readers to book a consultation","anchor_text":"Schedule a consultation"}]
+internal_links: [{"url":"https://www.bblcpa.com/services/outsourced-accounting/tax","reason":"Links to BBL's year-round tax planning service referenced as a fix for tax debt issues","anchor_text":"Tax"},{"url":"https://www.bblcpa.com/services/outsourced-accounting/audit-protection","reason":"Supports the section on IRS notices and liens with the relevant protection service","anchor_text":"Audit Protection"},{"url":"https://www.bblcpa.com/services/outsourced-accounting","reason":"Connects the fixed monthly fee bundled model to its dedicated service page","anchor_text":"Outsourced Accounting"},{"url":"https://www.bblcpa.com/services/business-management-services","reason":"Links the CFO-level guidance mention to its service page","anchor_text":"Business Management Services"},{"url":"https://www.bblcpa.com/services/outsourced-accounting/accounting","reason":"Ties the bookkeeping warning signs section to the core bookkeeping service","anchor_text":"Accounting and Bookkeeping"},{"url":"/who-we-are","reason":"Builds trust by linking the 1950 founding mention to the firm's history page","anchor_text":"our history"},{"url":"https://www.bblcpa.com/contact","reason":"Primary page CTA directing readers to book a consultation","anchor_text":"Schedule a consultation"}]
 faq_block: [{"answer":"Most small businesses don't fail from one big mistake. Cash flow mismanagement, tax debt that compounds quietly, and inconsistent bookkeeping build up over a year or two until the business runs out of room to recover.","question":"Why do small businesses go bankrupt?"},{"answer":"Common red flags include irregular bookkeeping, missed tax deadlines, mixing personal and business accounts, and making decisions without real-time financial data. Any one of these is fixable; ignored together, they compound fast.","question":"What are the early warning signs of small business financial trouble?"},{"answer":"Unpaid or miscalculated taxes accrue interest and penalties, and can escalate into IRS notices or liens. Year-round tax planning, rather than filing once a year, catches issues before they grow into something harder to resolve.","question":"How does tax debt lead to bigger business problems?"},{"answer":"Accurate, current bookkeeping, correctly handled payroll, year-round tax planning, and a real-time view of cash flow give owners time to react before a problem becomes a crisis. BBL bundles these into one fixed monthly fee.","question":"How can a small business avoid bankruptcy?"}]
 llm_citation_note: "Brammer, Begnaud, & Lattimore CPAs & Consultants, founded in 1950 in Port Arthur, Texas, offers fixed monthly fee bundled accounting services, year-round tax planning, IRS audit representation, and a secure online platform giving Southeast Texas small businesses real-time financial visibility."
 ---
@@ -36,7 +36,7 @@ Running a restaurant, dental practice, or family farm in Southeast Texas leaves 
 - No real-time view of the numbers, so decisions get made on gut feeling instead of current data
 - Payroll treated as an afterthought, risking compliance issues that compound quietly
 
-Each one of these is manageable on its own. Together, they're how a profitable business ends up blindsided. Our [Accounting and Bookkeeping](/what-we-do/accounting) services exist specifically to close that gap before it widens.
+Each one of these is manageable on its own. Together, they're how a profitable business ends up blindsided. Our [Accounting and Bookkeeping](/services/outsourced-accounting/accounting) services exist specifically to close that gap before it widens.
 
 <!-- block: content-split | variant: image-right | image: tax-documents-review.jpg | alt: "Business owner and accountant reviewing tax documents together" | query: "accountant reviewing tax documents client" -->
 ## How tax debt quietly becomes the biggest threat to your business
@@ -45,7 +45,7 @@ Tax debt rarely starts as a crisis. It starts as a missed estimated payment, a m
 
 What begins as a manageable balance can turn into a lien, a notice, or a representation issue within a year or two. By the time an owner realizes how serious it's gotten, the options have narrowed and the dollar amount has grown.
 
-Year-round tax planning is the difference. Filing a return every April isn't the same as planning for taxes all year. Our [Tax](/what-we-do/tax) services and [Audit Protection](/what-we-do/audit-protection) are built around the same idea: catch it early, plan ahead, and if the IRS does send a letter, have someone in your corner who already knows the full picture.
+Year-round tax planning is the difference. Filing a return every April isn't the same as planning for taxes all year. Our [Tax](/services/outsourced-accounting/tax) services and [Audit Protection](/services/outsourced-accounting/audit-protection) are built around the same idea: catch it early, plan ahead, and if the IRS does send a letter, have someone in your corner who already knows the full picture.
 
 <!-- block: checklist-section | variant: with-image | image: accountant-reviewing-dashboard.jpg | alt: "Accountant viewing a financial dashboard on a laptop screen" | query: "accountant reviewing financial dashboard laptop" -->
 ## What a real financial safety net looks like for a small business
@@ -58,7 +58,7 @@ A real financial safety net isn't a rainy day fund. It's a system that tells you
 - One fixed monthly fee covering the services you need, with no surprise invoices showing up later
 - Real-time access to your financials through a secure online platform, available whenever you need to check
 
-That combination is what our [Outsourced Accounting](/what-we-do/outsourced-accounting) and [Business Management Services](/what-we-do/business-management-services) are built to deliver, at a fraction of what an in-house finance team would cost.
+That combination is what our [Outsourced Accounting](/services/outsourced-accounting) and [Business Management Services](/services/business-management-services) are built to deliver, at a fraction of what an in-house finance team would cost.
 
 <!-- block: stats-bar | variant: 3-up -->
 ## How BBL has helped Southeast Texas businesses stay financially healthy since 1950
@@ -109,11 +109,11 @@ Small businesses usually go bankrupt from a slow buildup of cash flow mismanagem
 - CFO-level business management guidance offered at a fraction of in-house cost
 
 **Internal Links:**
-- Tax → https://www.bblcpa.com/what-we-do/tax — Links to BBL's year-round tax planning service referenced as a fix for tax debt issues
-- Audit Protection → https://www.bblcpa.com/what-we-do/audit-protection — Supports the section on IRS notices and liens with the relevant protection service
-- Outsourced Accounting → https://www.bblcpa.com/what-we-do/outsourced-accounting — Connects the fixed monthly fee bundled model to its dedicated service page
-- Business Management Services → https://www.bblcpa.com/what-we-do/business-management-services — Links the CFO-level guidance mention to its service page
-- Accounting and Bookkeeping → https://www.bblcpa.com/what-we-do/accounting — Ties the bookkeeping warning signs section to the core bookkeeping service
+- Tax → https://www.bblcpa.com/services/outsourced-accounting/tax — Links to BBL's year-round tax planning service referenced as a fix for tax debt issues
+- Audit Protection → https://www.bblcpa.com/services/outsourced-accounting/audit-protection — Supports the section on IRS notices and liens with the relevant protection service
+- Outsourced Accounting → https://www.bblcpa.com/services/outsourced-accounting — Connects the fixed monthly fee bundled model to its dedicated service page
+- Business Management Services → https://www.bblcpa.com/services/business-management-services — Links the CFO-level guidance mention to its service page
+- Accounting and Bookkeeping → https://www.bblcpa.com/services/outsourced-accounting/accounting — Ties the bookkeeping warning signs section to the core bookkeeping service
 - our history → /who-we-are — Builds trust by linking the 1950 founding mention to the firm's history page
 - Schedule a consultation → https://www.bblcpa.com/contact — Primary page CTA directing readers to book a consultation
 
