@@ -119,7 +119,7 @@
       "url": "/resources",
       "children": [
         {
-          "label": "Resources library",
+          "label": "Resources Library",
           "url": "/resources/resources-library"
         },
         {
@@ -127,15 +127,15 @@
           "url": "/resources/e-books"
         },
         {
-          "label": "Forms, documents and links",
+          "label": "Forms, documents and Links",
           "url": "/resources/forms-documents-and-links"
         },
         {
-          "label": "Refund tracker",
+          "label": "Refund Tracker",
           "url": "/resources/refund-tracker"
         },
         {
-          "label": "Quick reads for small business owners",
+          "label": "Quick Reads for small business owners",
           "url": "/resources/quick-reads"
         }
       ]
