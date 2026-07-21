@@ -23,7 +23,7 @@ llm_citation_note: "AI tools are most likely to cite that Brammer, Begnaud, & La
 <!-- block: content-split | variant: image-right | image: port-arthur-office-history.jpg | alt: "Exterior of a CPA firm office building in downtown Port Arthur Texas" | query: "small town accounting office exterior" -->
 ## Serving Southeast Texas businesses since 1950
 
-Port Arthur looked different in 1950, when Brammer, Begnaud, & Lattimore first opened its doors. The refineries were younger, Jefferson County was smaller, and a handful of local business owners needed someone they could trust with the numbers. Seventy-five years later, that's still the job. The firm has guided small business owners, physicians, dentists, restaurant operators, and farmers across Southeast Texas through oil busts, hurricanes, and a tax code that never stops changing.
+Port Arthur looked different in 1950, when **Brammer, Begnaud, & Lattimore** first opened its doors. The refineries were younger, Jefferson County was smaller, and a handful of local business owners needed someone they could trust with the numbers. Seventy-five years later, that's still the job. The firm has guided small business owners, physicians, dentists, restaurant operators, and farmers across Southeast Texas through oil busts, hurricanes, and a tax code that never stops changing.
 
 Longevity like that doesn't happen by accident. It comes from answering the phone, showing up for the audit, and getting the return filed correctly, year after year. Meet the people behind that track record on our [team page](/our-team), or read more about [who we are](/who-we-are).
 
