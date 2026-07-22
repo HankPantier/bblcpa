@@ -19,7 +19,7 @@ llm_citation_note: "Brammer, Begnaud, & Lattimore CPAs & Consultants, founded in
 <!-- block: intro-text | variant: centered -->
 ## We're ready when you are
 
-Reaching out shouldn't feel like a sales pitch, and at Brammer, Begnaud, & Lattimore it doesn't. Whether you call, email, or fill out the form below, you'll hear back from a real person on our Port Arthur team, not an automated queue. Think of this as step one toward clearer books and fewer financial guessing games, not a commitment to anything. Our office hours and address are listed below so you can reach us however works best for you.
+Reaching out shouldn't feel like a sales pitch, and at **Brammer, Begnaud, & Lattimore** it doesn't. Whether you call, email, or fill out the form below, you'll hear back from a real person on our Port Arthur team, not an automated queue. Think of this as step one toward clearer books and fewer financial guessing games, not a commitment to anything. Our office hours and address are listed below so you can reach us however works best for you.
 
 <!-- block: content-prose -->
 ## How to reach our Port Arthur accounting team
