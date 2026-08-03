@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "currency": "USD",
+  "billingPeriod": "month",
+  "intro": "Estimate your monthly investment with BBL. Adjust the options below for a ballpark figure — your final quote depends on the specifics of your engagement.",
+  "implementationFee": { "amount": 1500, "label": "One-time onboarding & setup", "weeks": "2-4" },
+  "serviceLines": [
+    { "id": "accounting", "label": "Accounting & Bookkeeping", "baseRate": 199, "enabledByDefault": false, "description": "Monthly reconciliation, clean books, and financial statements." },
+    { "id": "business-tax", "label": "Business Tax Planning & Preparation", "baseRate": 275, "enabledByDefault": false, "description": "Proactive planning plus business return preparation." },
+    { "id": "payroll", "label": "Payroll", "baseRate": 99, "enabledByDefault": false, "description": "Run payroll, filings, and year-end forms." },
+    { "id": "advisory", "label": "Business Management & Advisory", "baseRate": 450, "enabledByDefault": false, "description": "Cash-flow strategy, forecasting, and decision support." }
+  ],
+  "sizeTiers": [
+    { "id": "solo", "label": "Solo / under $250k revenue", "multiplier": 1.0 },
+    { "id": "small", "label": "$250k – $1M revenue", "multiplier": 1.5 },
+    { "id": "growing", "label": "$1M – $5M revenue", "multiplier": 2.25 }
+  ],
+  "complexityLevels": [
+    { "id": "basic", "label": "Basic", "multiplier": 1.0 },
+    { "id": "standard", "label": "Standard", "multiplier": 1.3 },
+    { "id": "complex", "label": "Complex", "multiplier": 1.7 }
+  ],
+  "addOns": [
+    { "id": "payroll-emp", "label": "Additional payroll employees", "type": "per-unit", "unitRate": 8, "unitLabel": "employee" },
+    { "id": "personal-tax", "label": "Personal tax return", "type": "flat", "flatRate": 60 },
+    { "id": "audit-protection", "label": "Audit protection & IRS representation", "type": "flat", "flatRate": 45 }
+  ],
+  "estimateBandPct": 15,
+  "disclaimer": "This estimate may not include all elements of a potential engagement. Contact BBL for a detailed quote.",
+  "cta": { "label": "Get started with BBL", "url": "/get-started" }
+}
