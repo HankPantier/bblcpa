@@ -1,10 +1,6 @@
 {
   "primary": [
     {
-      "label": "Home",
-      "url": "https://www.bblcpa.com/"
-    },
-    {
       "label": "Who We Are",
       "url": "https://www.bblcpa.com/who-we-are",
       "children": [
