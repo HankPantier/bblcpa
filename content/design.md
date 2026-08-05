@@ -89,6 +89,12 @@ Brammer, Begnaud, & Lattimore CPAs & Consultants in Port Arthur, TX founded 1950
 
 Visual direction is editorial: serif headlines, considered hierarchy, room for long reads.
 
+## Voice & Tone
+
+**Tone:** measured, trustworthy, clear, approachable.
+
+**In their words:** "Let us guide you toward a healthy financial future."
+
 ## Colors
 
 The palette is rooted in **Primary** as the structural primary and **Action** as the action color used sparingly for CTAs. Near-black (#222222) and near-white (#FeFefe) provide high-contrast surface pairings. The complementary accent (#f57f09) is reserved for badges and visual punctuation — never large fills.

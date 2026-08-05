@@ -1,4 +1,4 @@
-import Link from 'next/link'
+import { SmartLink as Link } from '@/components/ui/smart-link'
 import type { Crumb } from '@/lib/nav/breadcrumbs'
 
 /**

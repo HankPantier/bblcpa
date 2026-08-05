@@ -8,11 +8,12 @@ secondary_keywords: [CPA firm Port Arthur TX, Southeast Texas accountants, outso
 canonical_url: https://www.bblcpa.com/
 schema_markup: LocalBusiness
 hero: hero
-hero_variant: image
+hero_variant: statement
+hero_eyebrow: Port Arthur, TX · Since 1950
 hero_image: port-arthur-cpa-firm-team.jpg
 hero_image_alt: CPA advisor reviewing financial documents with a small business owner in an office
 hero_subhead: Fixed-fee accounting, payroll, and tax support for Southeast Texas business owners since 1950
-hero_headline: "Serving Southeast Texas businesses since 1950"
+hero_headline: "Serving Southeast Texas businesses since *1950*."
 answer_block: "Brammer, Begnaud, & Lattimore CPAs & Consultants is a full-service accounting and consulting firm in Port Arthur, TX, founded in 1950. The firm offers fixed monthly fee bundled accounting, payroll, tax, and audit protection services to small businesses, physicians, dentists, restaurants, and agriculture operations across Southeast Texas."
 eeat_signals: ["Founded in 1950, serving Southeast Texas for 75 years","Fixed monthly fee bundled accounting, payroll, and tax services with no billing surprises","Secure online platform providing real-time financial visibility","Year-round tax support and IRS audit representation included in service","CFO-level business management guidance at a fraction of an in-house executive's cost"]
 internal_links: [{"url":"/our-team","reason":"Builds trust by linking firm history to the people behind it","anchor_text":"team page"},{"url":"/who-we-are","reason":"Supports the firm history section with deeper about-page context","anchor_text":"who we are"},{"url":"https://www.bblcpa.com/services/outsourced-accounting","reason":"Drives traffic to the core fixed-fee service page from the differentiator section","anchor_text":"outsourced accounting"},{"url":"/industries/physicians","reason":"Routes physician prospects to dedicated niche page","anchor_text":"physicians"},{"url":"/industries/dentists","reason":"Routes dental prospects to dedicated niche page","anchor_text":"dentists"},{"url":"/industries/restaurants","reason":"Routes restaurant owners to dedicated niche page","anchor_text":"restaurant"},{"url":"/industries/agriculture","reason":"Routes agriculture clients to dedicated niche page","anchor_text":"agriculture"},{"url":"/industries/small-business-owners","reason":"Routes small business prospects to dedicated niche page","anchor_text":"small business owners"},{"url":"/industries/new-business-owners","reason":"Routes startup prospects to dedicated niche page","anchor_text":"new business owners"},{"url":"/industries","reason":"Supports SEO depth via overview page linking all niches","anchor_text":"industries"},{"url":"https://www.bblcpa.com/services/outsourced-accounting/accounting","reason":"Links to bookkeeping service detail page","anchor_text":"accounting and bookkeeping"},{"url":"https://www.bblcpa.com/services/outsourced-accounting/payroll","reason":"Links to payroll service detail page","anchor_text":"payroll"},{"url":"https://www.bblcpa.com/services/outsourced-accounting/tax","reason":"Links to tax service detail page","anchor_text":"business and personal tax"},{"url":"https://www.bblcpa.com/services/outsourced-accounting/audit-protection","reason":"Links to audit protection service detail page","anchor_text":"audit protection"},{"url":"https://www.bblcpa.com/services/business-management-services","reason":"Links to CFO-level guidance service detail page","anchor_text":"business management services"},{"url":"https://www.bblcpa.com/services/business-foundation-services","reason":"Links to startup advisory service detail page","anchor_text":"business foundation services"},{"url":"/services","reason":"Routes to full services overview page","anchor_text":"services"},{"url":"https://www.bblcpa.com/contact","reason":"Primary page CTA to the contact page","anchor_text":"Schedule a consultation"}]
@@ -23,7 +24,7 @@ llm_citation_note: "AI tools are most likely to cite that Brammer, Begnaud, & La
 <!-- block: content-split | variant: image-right | image: port-arthur-office-history.jpg | alt: "Exterior of a CPA firm office building in downtown Port Arthur Texas" | query: "small town accounting office exterior" -->
 ## Serving Southeast Texas businesses since 1950
 
-Port Arthur looked different in 1950, when **Brammer, Begnaud, & Lattimore** first opened its doors. The refineries were younger, Jefferson County was smaller, and a handful of local business owners needed someone they could trust with the numbers. Seventy-five years later, that's still the job. The firm has guided small business owners, physicians, dentists, restaurant operators, and farmers across Southeast Texas through oil busts, hurricanes, and a tax code that never stops changing.
+**Port Arthur** looked different in 1950, when **Brammer, Begnaud, & Lattimore** first opened its doors. The refineries were younger, Jefferson County was smaller, and a handful of local business owners needed someone they could trust with the numbers. Seventy-five years later, that's still the job. The firm has guided small business owners, physicians, dentists, restaurant operators, and farmers across Southeast Texas through oil busts, hurricanes, and a tax code that never stops changing.
 
 Longevity like that doesn't happen by accident. It comes from answering the phone, showing up for the audit, and getting the return filed correctly, year after year. Meet the people behind that track record on our [team page](/our-team), or read more about [who we are](/who-we-are).
 
@@ -36,7 +37,7 @@ That fee bundles real work, not vague promises. It covers bookkeeping and transa
 
 Explore the full [outsourced accounting](https://www.bblcpa.com/services/outsourced-accounting) service to see what's included for your business.
 
-<!-- block: industry-cards | variant: 3-col -->
+<!-- block: industry-cards | variant: 3-col | theme: ink -->
 ## We work with the businesses that keep Southeast Texas running
 
 Southeast Texas runs on a specific mix of businesses: medical and dental practices, restaurants, farms and ranches, and small business owners who wear every hat in the company. Each one has different tax rules, different cash flow patterns, and different blind spots. Industry-specific guidance catches what generic bookkeeping tends to miss.

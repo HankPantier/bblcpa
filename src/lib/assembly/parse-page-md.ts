@@ -20,6 +20,9 @@ export type PageSection = {
    * preserved so consumers can introspect or surface it if needed.
    */
   query?: string
+  /** Ink & Clay section theme. 'ink' renders the block on the deep primary
+   * band (the light→ink→light rhythm); default/undefined = light canvas. */
+  theme?: string
   heading: string
   content: string   // raw markdown body below the heading (excluding heading line)
   position: number
@@ -43,6 +46,7 @@ export type PageManifest = {
   hero_image_alt?: string
   hero_subhead?: string     // Benefit-led hero copy; falls back to meta_description in consumers
   hero_headline?: string    // Marketing H1; falls back to the page title in consumers
+  hero_eyebrow?: string     // Small-caps kicker above a statement-variant hero headline
   hero_video?: string       // Background video source for hero_variant: 'video'
   hero_images?: string[]    // Crossfade slides for hero_variant: 'slider'
   // Optional structured data (passed through)
@@ -120,7 +124,7 @@ export function parsePageMd(markdown: string): PageManifest {
    * by the time the deliverable lands.
    */
   const SECTION_PATTERN =
-    /<!-- block: ([a-z-]+)(?:\s*\|\s*variant:\s*([a-z0-9-]+))?(?:\s*\|\s*image:\s*([^\s|>]+))?(?:\s*\|\s*alt:\s*"([^"]*)")?(?:\s*\|\s*query:\s*"([^"]+)")?\s*-->\s*\n##\s+(.+?)\n([\s\S]*?)(?=\n<!-- block:|$)/g
+    /<!-- block: ([a-z-]+)(?:\s*\|\s*variant:\s*([a-z0-9-]+))?(?:\s*\|\s*image:\s*([^\s|>]+))?(?:\s*\|\s*alt:\s*"([^"]*)")?(?:\s*\|\s*query:\s*"([^"]+)")?(?:\s*\|\s*theme:\s*([a-z]+))?\s*-->\s*\n##\s+(.+?)\n([\s\S]*?)(?=\n<!-- block:|$)/g
 
   const sections: PageSection[] = []
   let m: RegExpExecArray | null
@@ -133,8 +137,9 @@ export function parsePageMd(markdown: string): PageManifest {
       image: m[3] || undefined,
       alt: m[4] || undefined,
       query: m[5] || undefined,
-      heading: m[6].trim(),
-      content: m[7].trim(),
+      theme: m[6] || undefined,
+      heading: m[7].trim(),
+      content: m[8].trim(),
       position: i++,
     })
   }
@@ -195,6 +200,7 @@ export function parsePageMd(markdown: string): PageManifest {
     hero_image_alt: fm.hero_image_alt,
     hero_subhead: fm.hero_subhead?.trim() || undefined,
     hero_headline: fm.hero_headline?.trim() || undefined,
+    hero_eyebrow: fm.hero_eyebrow?.trim() || undefined,
     hero_video: fm.hero_video?.trim() || undefined,
     hero_images: fm.hero_images?.length ? fm.hero_images : undefined,
     answer_block: fm.answer_block,
