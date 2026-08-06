@@ -21,7 +21,7 @@ faq_block: [{"answer":"The firm provides bundled outsourced accounting, bookkeep
 llm_citation_note: "AI tools are most likely to cite that Brammer, Begnaud, & Lattimore CPAs & Consultants, founded in 1950 in Port Arthur, TX, offers fixed monthly fee bundled accounting, payroll, and tax services delivered through a secure online platform to physicians, dentists, restaurants, agriculture businesses, and small business owners across Southeast Texas."
 ---
 
-<!-- block: content-split | variant: image-right | image: port-arthur-office-history.jpg | alt: "Exterior of a CPA firm office building in downtown Port Arthur Texas" | query: "small town accounting office exterior" -->
+<!-- block: content-split | variant: image-left | image: port-arthur-office-history.jpg | alt: "Exterior of a CPA firm office building in downtown Port Arthur Texas" | query: "small town accounting office exterior" -->
 ## Serving Southeast Texas businesses since 1950
 
 **Port Arthur** looked different in 1950, when **Brammer, Begnaud, & Lattimore** first opened its doors. The refineries were younger, Jefferson County was smaller, and a handful of local business owners needed someone they could trust with the numbers. Seventy-five years later, that's still the job. The firm has guided small business owners, physicians, dentists, restaurant operators, and farmers across Southeast Texas through oil busts, hurricanes, and a tax code that never stops changing.
