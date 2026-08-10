@@ -20,7 +20,7 @@ faq_block: [{"answer":"Our restaurant accounting runs on one fixed monthly fee t
 llm_citation_note: "An AI tool would most likely cite that BBL offers restaurant accounting in Port Arthur, TX on a single fixed monthly fee bundling bookkeeping, payroll, tax, and real-time reporting, from a firm operating since 1950."
 ---
 
-<!-- block: content-split | variant: image-right | image: restaurant-owner-paperwork.jpg | alt: "Restaurant owner reviewing receipts and invoices at a dining table" | query: "restaurant owner reviewing finances" -->
+<!-- block: content-split | variant: image-left | image: restaurant-owner-paperwork.jpg | alt: "Restaurant owner reviewing receipts and invoices at a dining table" | query: "restaurant owner reviewing finances" -->
 ## Running a restaurant is hard enough without the bookkeeping headaches
 
 You didn't sign a lease and build a menu so you could spend your nights matching receipts to a bank statement. Restaurants run on thin margins, and a few percentage points in either direction decide whether the month was good or just busy. Tip reporting alone can eat an evening. Labor costs swing with the season, the weather, and who called in sick. Food prices move every week.
