@@ -1,0 +1,16 @@
+{
+  "enabled": true,
+  "label": "Client Center",
+  "groups": [
+    {
+      "title": "Documents",
+      "links": [
+        {
+          "label": "ShareFile",
+          "url": "https://sharefile.com",
+          "description": "this is for sharefile"
+        }
+      ]
+    }
+  ]
+}
