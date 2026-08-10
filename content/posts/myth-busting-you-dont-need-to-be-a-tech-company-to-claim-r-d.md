@@ -34,7 +34,7 @@ Notice what's missing from that list: any requirement that you build software, h
 
 ## Industries around Port Arthur that regularly qualify and don't realize it
 
-Here's how this plays out across the client base we see most often in Southeast Texas.
+Here's how this plays out across the client base we see most often in Southeast Texas, particularly among [Port Arthur manufacturers and suppliers](/resources/port-arthurs-industrial-corridor-and-the-r-d-tax-credit-what).
 
 | Industry | Example of qualifying activity |
 |---|---|
