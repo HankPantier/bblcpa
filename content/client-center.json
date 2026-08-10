@@ -1,0 +1,66 @@
+{
+  "enabled": true,
+  "label": "Client Center",
+  "groups": [
+    {
+      "title": "Accounting",
+      "links": [
+        {
+          "label": "Online Accounting",
+          "url": "https://c1.qbo.intuit.com/c1/v43.137/0/login?redirect=true&submit=Login",
+          "description": "QuickBooks Online login"
+        },
+        {
+          "label": "Desktop Accounting",
+          "url": "https://helpdesk.rightnetworks.com/s/article/Connect-from-a-Windows-Computer",
+          "description": "Connect to QuickBooks Desktop via Right Networks"
+        }
+      ]
+    },
+    {
+      "title": "Documents",
+      "links": [
+        {
+          "label": "Client Portal",
+          "url": "https://www.clientaxcess.com/#/user/login",
+          "description": "Securely exchange documents (CCH Axcess)"
+        }
+      ]
+    },
+    {
+      "title": "Payments",
+      "links": [
+        {
+          "label": "Pay Your Bill",
+          "url": "https://secure.cpacharge.com/pages/bblcpa/payments",
+          "description": "Pay an invoice online via CPACharge"
+        },
+        {
+          "label": "Accounts Payable",
+          "url": "https://app.bill.com/neo/login",
+          "description": "Manage vendor payments in Bill.com"
+        }
+      ]
+    },
+    {
+      "title": "Payroll",
+      "links": [
+        {
+          "label": "RUN Powered by ADP",
+          "url": "https://runpayroll.adp.com/enrollment.aspx",
+          "description": "Run and view payroll"
+        }
+      ]
+    },
+    {
+      "title": "Support",
+      "links": [
+        {
+          "label": "Video Conferencing",
+          "url": "https://zoom.us/join",
+          "description": "Join a Zoom meeting with our team"
+        }
+      ]
+    }
+  ]
+}
