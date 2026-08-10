@@ -54,11 +54,11 @@ But Texas businesses have a second option worth checking. The state offers quali
 
 ## Getting the claim right the first time
 
-The biggest reason eligible companies skip this credit isn't confusion about the rules. It's the paperwork. Claiming the credit correctly means tracking wages by employee and project, documenting the technical uncertainty at the start of each project, and being ready to show your work if the IRS asks questions later. Loose time tracking or a shoebox of invoices from a busy turnaround season won't hold up under scrutiny.
+Claiming the credit correctly means tracking wages by employee and project, documenting technical uncertainty at the start of each project, and being ready to show your work if the IRS asks. Loose records from a busy turnaround season won't hold up under scrutiny.
 
-That's the part where a fixed monthly fee and a real accounting team pay off. Our R&D Tax Credits service identifies which of your projects actually qualify, quantifies the wages and supply costs tied to them, and builds the documentation trail before it's needed rather than after an audit letter shows up. If a notice does arrive, our Audit Protection service handles the IRS correspondence directly, so a legitimate claim doesn't turn into a stressful season of certified mail.
+Our R&D Tax Credits service identifies which projects qualify, quantifies the wages and supply costs tied to them, and builds the documentation trail before it's needed. If a notice does arrive, our Audit Protection service handles IRS correspondence directly — no stressful season of certified mail.
 
-The manufacturers and process contractors we work with across the industrial corridor tend to be surprised twice: first that the credit applies to them at all, and second at how much of their normal week already meets the standard. Neither surprise costs anything to find out about.
+The manufacturers and process contractors we work with across the industrial corridor tend to be surprised twice: first that the credit applies to them, and second at how much of their normal week already meets the standard. Neither surprise costs anything to find out about.
 
 ## Common Questions
 
