@@ -3,12 +3,15 @@ import type { CSSProperties } from 'react'
 import { Public_Sans, Fraunces } from 'next/font/google'
 import './globals.css'
 import { NavBar } from '@/components/nav/NavBar'
+import { TopUtilityBar } from '@/components/nav/TopUtilityBar'
 import { Footer } from '@/components/footer/Footer'
 import { Analytics } from '@/components/analytics/Analytics'
 import { ThemeProvider } from '@/components/theme/ThemeProvider'
 import { ContactDrawerProvider } from '@/components/contact/ContactDrawerProvider'
+import { ClientCenterProvider } from '@/components/client-center/ClientCenterProvider'
 import { getBrandConfig } from '@/lib/brand/get-brand-config'
 import { getNavConfig } from '@/lib/nav/get-nav-config'
+import { getClientCenterConfig } from '@/lib/client-center/get-client-center-config'
 import { siteConfig } from '../../site.config'
 
 // Placeholder fonts — generate-theme.ts will rewrite these per client in a
@@ -53,7 +56,11 @@ export default async function RootLayout({
 }: {
   children: React.ReactNode
 }) {
-  const [brand, nav] = await Promise.all([getBrandConfig(), getNavConfig()])
+  const [brand, nav, clientCenter] = await Promise.all([
+    getBrandConfig(),
+    getNavConfig(),
+    getClientCenterConfig(),
+  ])
 
   // Site-wide Organization JSON-LD. Page-level WebPage / LocalBusiness /
   // FAQPage / BlogPosting are emitted by SchemaScript + the post page; this
@@ -141,12 +148,14 @@ export default async function RootLayout({
               booking: siteConfig.booking,
             }}
           >
+           <ClientCenterProvider config={clientCenter}>
             <a
               href="#main-content"
               className="sr-only focus:not-sr-only focus:fixed focus:top-3 focus:left-3 focus:z-50 focus:bg-background focus:text-foreground focus:rounded-md focus:px-4 focus:py-2 focus:shadow-lg focus:outline focus:outline-2 focus:outline-cyan-500"
             >
               Skip to main content
             </a>
+            <TopUtilityBar phone={brand.contact.phone} />
             <NavBar brand={brand} nav={nav} />
             {children}
             <Footer />
@@ -157,6 +166,7 @@ export default async function RootLayout({
                 root layout turns unknown-URL 404s into 500s under
                 cacheComponents). See Analytics.tsx for the full rationale. */}
             <Analytics />
+           </ClientCenterProvider>
           </ContactDrawerProvider>
         </ThemeProvider>
       </body>
