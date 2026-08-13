@@ -85,20 +85,20 @@
           "url": "/industries/dentists"
         },
         {
-          "label": "Veterinarians",
-          "url": "/industries/veterinarians"
+          "label": "High Net Worth Individuals",
+          "url": "/industries/high-net-worth-individuals"
         },
         {
-          "label": "Real Estate Professionals",
+          "label": "Accounting & Tax Services for Real Estate Professionals",
           "url": "/industries/real-estate-professionals"
         },
         {
-          "label": "Retirees",
+          "label": "Accounting & Tax Services for Retirees",
           "url": "/industries/retirees"
         },
         {
-          "label": "High Net Worth Individuals",
-          "url": "/industries/high-net-worth-individuals"
+          "label": "Accounting & Tax Services for Veterinarians",
+          "url": "/industries/veterinarians"
         }
       ]
     },
