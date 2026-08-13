@@ -83,6 +83,10 @@
         {
           "label": "Accounting & Tax Services for Dental Practices",
           "url": "/industries/dentists"
+        },
+        {
+          "label": "Veterinarians",
+          "url": "/industries/veterinarians"
         }
       ]
     },
