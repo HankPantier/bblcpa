@@ -95,6 +95,10 @@
         {
           "label": "Retirees",
           "url": "/industries/retirees"
+        },
+        {
+          "label": "High Net Worth Individuals",
+          "url": "/industries/high-net-worth-individuals"
         }
       ]
     },
