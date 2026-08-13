@@ -85,20 +85,20 @@
           "url": "/industries/dentists"
         },
         {
-          "label": "Accounting & Payroll Services for Restaurants",
-          "url": "/industries/restaurants"
+          "label": "Veterinarians",
+          "url": "/industries/veterinarians"
         },
         {
-          "label": "Accounting & Advisory Services for Agriculture Businesses",
-          "url": "/industries/agriculture"
+          "label": "Real Estate Professionals",
+          "url": "/industries/real-estate-professionals"
         },
         {
-          "label": "Accounting & Advisory Services for Small Business Owners",
-          "url": "/industries/small-business-owners"
+          "label": "Retirees",
+          "url": "/industries/retirees"
         },
         {
-          "label": "Startup Accounting & Advisory Services for New Business Owners",
-          "url": "/industries/new-business-owners"
+          "label": "High Net Worth Individuals",
+          "url": "/industries/high-net-worth-individuals"
         }
       ]
     },
