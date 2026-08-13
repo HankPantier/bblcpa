@@ -87,6 +87,10 @@
         {
           "label": "Veterinarians",
           "url": "/industries/veterinarians"
+        },
+        {
+          "label": "Real Estate Professionals",
+          "url": "/industries/real-estate-professionals"
         }
       ]
     },
