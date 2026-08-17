@@ -40,7 +40,7 @@ Explore the full [outsourced accounting](https://www.bblcpa.com/services/outsour
 <!-- block: industry-cards | variant: 3-col | theme: ink -->
 ## We work with the businesses that keep Southeast Texas running
 
-Southeast Texas runs on a specific mix of businesses: medical and dental practices, restaurants, farms and ranches, and small business owners who wear every hat in the company. Each one has different tax rules, different cash flow patterns, and different blind spots. Industry-specific guidance catches what generic bookkeeping tends to miss.
+Southeast Texas runs on a specific mix of businesses: medical and dental practices, restaurants, and small business owners who wear every hat in the company. Each one has different tax rules, different cash flow patterns, and different blind spots. Industry-specific guidance catches what generic bookkeeping tends to miss.
 
 ### Physicians
 icon: Stethoscope
