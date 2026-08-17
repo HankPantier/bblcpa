@@ -57,11 +57,6 @@ icon: Receipt
 
 Thin margins and high turnover demand tight cost controls. Our [restaurant](/industries/restaurants) clients get payroll, cost-aware bookkeeping, and tax planning built for the business.
 
-### Agriculture
-icon: Globe
-
-Crop cycles, equipment depreciation, and land transitions need accounting that understands the calendar. Southeast Texas [agriculture](/industries/agriculture) operations rely on us for exactly that.
-
 ### Small business owners
 icon: Briefcase
 
