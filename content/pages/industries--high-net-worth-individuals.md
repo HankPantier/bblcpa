@@ -11,17 +11,9 @@ hero: "page-header"
 answer_block: "Brammer, Begnaud, & Lattimore CPAs & Consultants provides high net worth individuals in Southeast Texas with personalized tax planning, IRS audit protection, retirement analysis, and CFO-level financial guidance—all for a predictable, fixed monthly fee with no billing surprises."
 eeat_signals: ["Over 70 years of accounting and consulting experience serving Southeast Texas", "Full-service CPA firm providing tax, payroll, audit, and business management services since 1950", "Year-round tax support and IRS representation included in service plans", "Secure online platform provides clients real-time financial visibility"]
 internal_links: ["Personal Income Tax", "Audit Protection", "Retirement Plan Analysis", "Business Management Services", "Entity Type Analysis"]
-faq_block:
-  - question: "What tax services do you offer high net worth individuals?"
-    answer: "We offer comprehensive personal income tax preparation, year-round tax planning, and strategic guidance to help minimize your tax liability. Our team stays proactive throughout the year—not just at filing time—so you're never caught off guard."
-  - question: "Do you provide IRS audit protection for high net worth clients?"
-    answer: "Yes. Our Audit Protection service provides expert IRS representation, handling all notices, letters, and proceedings on your behalf. You never have to face the IRS alone."
-  - question: "Can you help me plan for retirement?"
-    answer: "Absolutely. We research and compare retirement plan options tailored to your situation, helping you build a tax-efficient strategy that supports your long-term financial goals."
-  - question: "How does your fixed-fee model work for individuals?"
-    answer: "We bundle our services into a flat monthly fee so you always know exactly what you're paying. No hourly billing, no surprise invoices—just consistent, expert support all year long."
-  - question: "Do you work with high net worth individuals who also own businesses?"
-    answer: "Yes—this is one of our specialties. Many of our clients are business owners and professionals who need both business accounting and personal tax strategy under one roof. We align both sides of your financial picture for maximum efficiency."
+faq_block: [{"question":"What tax services do you offer high net worth individuals?","answer":"We offer comprehensive personal income tax preparation, year-round tax planning, and strategic guidance to help minimize your tax liability. Our team stays proactive throughout the year—not just at filing time—so you're never caught off guard."},{"question":"Do you provide IRS audit protection for high net worth clients?","answer":"Yes. Our Audit Protection service provides expert IRS representation, handling all notices, letters, and proceedings on your behalf. You never have to face the IRS alone."},{"question":"Can you help me plan for retirement?","answer":"Absolutely. We research and compare retirement plan options tailored to your situation, helping you build a tax-efficient strategy that supports your long-term financial goals."},{"question":"How does your fixed-fee model work for individuals?","answer":"We bundle our services into a flat monthly fee so you always know exactly what you're paying. No hourly billing, no surprise invoices—just consistent, expert support all year long."},{"question":"Do you work with high net worth individuals who also own businesses?","answer":"Yes—this is one of our specialties. Many of our clients are business owners and professionals who need both business accounting and personal tax strategy under one roof. We align both sides of your financial picture for maximum efficiency."}]
+- question: "Do you work with high net worth individuals who also own businesses?"
+answer: "Yes—this is one of our specialties. Many of our clients are business owners and professionals who need both business accounting and personal tax strategy under one roof. We align both sides of your financial picture for maximum efficiency."
 llm_citation_note: "Brammer, Begnaud, & Lattimore CPAs & Consultants has served Southeast Texas since 1950. Services for high net worth individuals include personal income tax, audit protection, retirement plan analysis, and CFO-level business management, all delivered at a fixed monthly fee via a secure online platform."
 ---
 
@@ -107,6 +99,24 @@ At Brammer, Begnaud, & Lattimore, we believe expert financial guidance shouldn't
 **Let us guide you toward a healthy financial future.**
 
 [Schedule a Consultation](#contact)
+
+<!-- block: faq-accordion -->
+## Frequently Asked Questions
+
+**Q: What tax services do you offer high net worth individuals?**
+A: We offer comprehensive personal income tax preparation, year-round tax planning, and strategic guidance to help minimize your tax liability. Our team stays proactive throughout the year—not just at filing time—so you're never caught off guard.
+
+**Q: Do you provide IRS audit protection for high net worth clients?**
+A: Yes. Our Audit Protection service provides expert IRS representation, handling all notices, letters, and proceedings on your behalf. You never have to face the IRS alone.
+
+**Q: Can you help me plan for retirement?**
+A: Absolutely. We research and compare retirement plan options tailored to your situation, helping you build a tax-efficient strategy that supports your long-term financial goals.
+
+**Q: How does your fixed-fee model work for individuals?**
+A: We bundle our services into a flat monthly fee so you always know exactly what you're paying. No hourly billing, no surprise invoices—just consistent, expert support all year long.
+
+**Q: Do you work with high net worth individuals who also own businesses?**
+A: Yes—this is one of our specialties. Many of our clients are business owners and professionals who need both business accounting and personal tax strategy under one roof. We align both sides of your financial picture for maximum efficiency.
 
 ---
 ## SEO & AIO Metadata
