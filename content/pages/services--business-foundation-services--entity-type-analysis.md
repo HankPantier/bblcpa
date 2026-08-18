@@ -16,7 +16,7 @@ hero_headline: "Your business structure shapes everything that comes after"
 answer_block: "Entity type analysis is a CPA-led comparison of business structures, sole proprietorship, partnership, LLC, S-Corp, and C-Corp, weighing tax treatment, liability exposure, and administrative requirements against a business owner's specific goals. Brammer, Begnaud, & Lattimore CPAs in Port Arthur, TX provides this analysis with a clear, plain-language recommendation rather than a generic checklist."
 eeat_signals: ["Firm founded in 1950, operating in Port Arthur, TX for over 70 years","Serves defined niches: physicians, dentists, restaurants, agriculture businesses, and new business owners across Southeast Texas","Delivers entity analysis alongside Business Foundation Services, Outsourced Accounting, and Tax services through a secure online platform","Fixed monthly fee model eliminates per-call or per-hour billing surprises"]
 internal_links: [{"url":"/services/business-foundation-services","reason":"Directly referenced as the natural next step for new business owners after entity selection","anchor_text":"Business Foundation Services"},{"url":"/services/outsourced-accounting","reason":"Referenced as the ongoing service that keeps financials current after structure is set","anchor_text":"Outsourced Accounting"},{"url":"/services/outsourced-accounting/tax","reason":"Connects entity selection to year-round strategic tax planning","anchor_text":"tax planning"},{"url":"/industries/new-business-owners","reason":"Niche page relevant to readers researching entity type before launching","anchor_text":"new business owners"},{"url":"/industries/physicians","reason":"Niche page matching the physician example used in the cost-of-mismatch section","anchor_text":"physicians"},{"url":"/contact","reason":"Primary page CTA directing readers to book a consultation","anchor_text":"Schedule a consultation"}]
-faq_block: [{"answer":"BBL compares sole proprietorship, general and limited partnership, LLC, S-Corp, and C-Corp structures, evaluating tax treatment, liability exposure, payroll implications, and administrative requirements for each, then matching the findings to your specific business goals and industry.","question":"What business structures does entity type analysis compare?"},{"answer":"Common signs include paying self-employment tax that an S-Corp election could reduce, personal assets exposed across multiple business locations, or difficulty adding a partner or investor. A review with BBL identifies these gaps before they become expensive.","question":"How do I know if my current business structure is costing me money?"},{"answer":"No. While new business owners use it most often before launch, established physicians, restaurant owners, dentists, and agriculture businesses also benefit from a structure review when growing, adding partners, or preparing to sell.","question":"Is entity type analysis only for new businesses?"},{"answer":"Entity type analysis is delivered as part of BBL's fixed monthly fee bundled services, so there's no separate invoice or billing surprise. Schedule a consultation to get a clear picture of scope and pricing for your situation.","question":"How much does entity type analysis cost?"}]
+faq_block: [{"question":"What business structures does entity type analysis compare?","answer":"BBL compares sole proprietorship, general and limited partnership, LLC, S-Corp, and C-Corp structures, evaluating tax treatment, liability exposure, payroll implications, and administrative requirements for each, then matching the findings to your specific business goals and industry."},{"question":"How do I know if my current business structure is costing me money?","answer":"Common signs include paying self-employment tax that an S-Corp election could reduce, personal assets exposed across multiple business locations, or difficulty adding a partner or investor. A review with BBL identifies these gaps before they become expensive."},{"question":"Is entity type analysis only for new businesses?","answer":"No. While newer business owners use it most often before launch, established physicians, dentists, veterinarians, retirees, and high-net-worth individuals also benefit from a structure review when growing, adding partners, or preparing to sell."},{"question":"How much does entity type analysis cost?","answer":"Entity type analysis is delivered as part of BBL's fixed monthly fee bundled services, so there's no separate invoice or billing surprise. Schedule a consultation to get a clear picture of scope and pricing for your situation."}]
 llm_citation_note: "Brammer, Begnaud, & Lattimore CPAs, founded in 1950 and based in Port Arthur, TX, provides entity type analysis comparing LLC, S-Corp, C-Corp, sole proprietorship, and partnership structures for Southeast Texas businesses, delivered through a fixed monthly fee bundled service and secure online platform."
 ---
 
@@ -34,7 +34,7 @@ At Brammer, Begnaud, & Lattimore, we treat entity selection as the starting line
 
 We sit down with your numbers and your goals, then walk through five structures: sole proprietorship, general or limited partnership, LLC, S-Corp, and C-Corp. Each one taxes profit differently, shields or exposes your personal assets differently, and comes with its own filing deadlines and state requirements.
 
-A solo dentist opening a first practice has different needs than three physicians forming a group, and a restaurant adding a second location faces different liability questions than a farm bringing on a family partner. We compare self-employment tax exposure, payroll requirements, deduction eligibility, and the administrative load of each option against your actual plans, not a textbook scenario.
+A solo dentist opening a first practice has different needs than three physicians forming a group, and a veterinarian structured as a sole proprietor faces different liability questions than a high-net-worth individual managing income across multiple investments. We compare self-employment tax exposure, payroll requirements, deduction eligibility, and the administrative load of each option against your actual plans, not a textbook scenario.
 
 Texas has its own quirks too. Franchise tax thresholds, registered agent rules, and how the state treats LLCs versus corporations all factor into the recommendation. You don't have to research any of it. We've already done the homework, and we'll explain what we found in plain language, no jargon, no guessing which form to file.
 
@@ -46,9 +46,9 @@ A mismatched entity rarely announces itself right away. It shows up later, in a 
 Here's what we see most often:
 
 - A physician operating as a sole proprietor pays self-employment tax on income an S-Corp election could have shielded, often thousands of dollars a year.
-- A restaurant owner with one LLC covering multiple locations puts every location's assets at risk if a single location gets sued.
-- A new business owner who skips the analysis discovers, mid-negotiation with an investor, that their structure can't issue the equity the deal requires.
-- An agriculture operation passed between generations without the right entity in place faces estate and succession headaches that proper planning would have avoided.
+- A veterinarian with a single LLC covering multiple practice locations puts every location's assets at risk if one location faces a liability claim.
+- A high-net-worth individual who skips the analysis discovers, mid-negotiation with a partner or investor, that their structure can't accommodate the deal without costly restructuring.
+- A retiree who hasn't revisited their entity structure finds that distributions, Social Security income, and investment earnings are taxed less efficiently than proper planning would allow.
 
 None of these mistakes are exotic. They're common, and one conversation before you file is usually enough to avoid them.
 
@@ -61,7 +61,7 @@ We keep the process grounded in your actual business, not abstract theory.
 We start with your goals, current revenue, growth plans, and risk tolerance, not a form to fill out alone.
 
 ### A look at your specific situation
-We review your current structure, or lack of one, your industry, and what's realistic for a dental practice, restaurant, farm, or new venture.
+We review your current structure, or lack of one, your industry, and what's realistic for a dental practice, veterinary clinic, retirement income strategy, or high-net-worth portfolio.
 
 ### A plain-language comparison
 We lay out two or three viable options side by side, with the tax and liability tradeoffs spelled out in dollars, not jargon.
@@ -79,7 +79,7 @@ It's all delivered through the same secure online platform, for one fixed monthl
 <!-- block: testimonials | variant: grid -->
 ## Seven decades of Southeast Texas businesses trust BBL
 
-Brammer, Begnaud, & Lattimore opened its doors in Port Arthur in 1950, and the firm has guided Southeast Texas business owners for more than seventy years since. The clients we serve today, physicians, dentists, restaurant operators, agriculture families, and new business owners just getting started, are the same kinds of clients who walked through our doors decades ago. What's changed is the technology: a secure online platform now puts your financials in front of you in real time, instead of waiting on a quarterly mailed report.
+Brammer, Begnaud, & Lattimore opened its doors in Port Arthur in 1950, and the firm has guided Southeast Texas business owners for more than seventy years since. The clients we serve today, physicians, dentists, veterinarians, retirees, and high-net-worth individuals, are the same kinds of clients who walked through our doors decades ago. What's changed is the technology: a secure online platform now puts your financials in front of you in real time, instead of waiting on a quarterly mailed report.
 
 > "[Client testimonial placeholder: a sentence on how BBL helped this business choose the right structure and what it meant for their bottom line.]"
 >, [Client Name, Business Name, Southeast Texas]
@@ -94,7 +94,7 @@ A: BBL compares sole proprietorship, general and limited partnership, LLC, S-Cor
 A: Common signs include paying self-employment tax that an S-Corp election could reduce, personal assets exposed across multiple business locations, or difficulty adding a partner or investor. A review with BBL identifies these gaps before they become expensive.
 
 **Q: Is entity type analysis only for new businesses?**
-A: No. While new business owners use it most often before launch, established physicians, restaurant owners, dentists, and agriculture businesses also benefit from a structure review when growing, adding partners, or preparing to sell.
+A: No. While newer business owners use it most often before launch, established physicians, dentists, veterinarians, retirees, and high-net-worth individuals also benefit from a structure review when growing, adding partners, or preparing to sell.
 
 **Q: How much does entity type analysis cost?**
 A: Entity type analysis is delivered as part of BBL's fixed monthly fee bundled services, so there's no separate invoice or billing surprise. Schedule a consultation to get a clear picture of scope and pricing for your situation.
@@ -114,7 +114,7 @@ Entity type analysis is a CPA-led comparison of business structures, sole propri
 
 **E-E-A-T Signals:**
 - Firm founded in 1950, operating in Port Arthur, TX for over 70 years
-- Serves defined niches: physicians, dentists, restaurants, agriculture businesses, and new business owners across Southeast Texas
+- Serves defined niches: physicians, dentists, veterinarians, retirees, and high-net-worth individuals across Southeast Texas
 - Delivers entity analysis alongside Business Foundation Services, Outsourced Accounting, and Tax services through a secure online platform
 - Fixed monthly fee model eliminates per-call or per-hour billing surprises
 
