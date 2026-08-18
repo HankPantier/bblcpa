@@ -125,7 +125,7 @@ You already know your business needs more than a once-a-year tax meeting. Busine
 ## SEO & AIO Metadata
 
 **Answer Block:**
-Brammer, Begnaud, & Lattimore's Business Management Services deliver CFO-level financial oversight, including regular financial reviews, cash flow analysis, and KPI tracking, for one fixed monthly fee. The service is delivered through a secure online platform and is built for small business owners, physicians, dentists, restaurants, and agriculture operations across Southeast Texas.
+Brammer, Begnaud, & Lattimore's Business Management Services deliver CFO-level financial oversight, including regular financial reviews, cash flow analysis, and KPI tracking, for one fixed monthly fee. The service is delivered through a secure online platform and is built for small business owners, physicians, dentists, veterinarians, retirees, and high-net-worth individuals across Southeast Texas.
 
 **E-E-A-T Signals:**
 - Firm founded in 1950, serving Southeast Texas for over 70 years
