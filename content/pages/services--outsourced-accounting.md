@@ -16,7 +16,7 @@ hero_headline: "Your own accounting department, without the overhead"
 answer_block: "Outsourced accounting through Brammer, Begnaud, & Lattimore CPAs bundles bookkeeping, payroll, and tax support for Port Arthur, TX businesses into one fixed monthly fee. Clients access their financials anytime through a secure online platform, backed by a firm that has served Southeast Texas since 1950."
 eeat_signals: ["Firm founded in 1950, serving Southeast Texas for over 70 years","Fixed monthly fee bundled service model with no hourly billing surprises","Secure online platform for real-time bookkeeping, payroll, and reporting access","Niche experience with physicians, dentists, restaurants, and agriculture businesses in the region","CFO-level business management guidance offered as part of outsourced accounting plans"]
 internal_links: [{"url":"https://www.bblcpa.com/services/outsourced-accounting/accounting","reason":"Links to the detailed bookkeeping service page referenced in the bundle inclusions","anchor_text":"bookkeeping services"},{"url":"https://www.bblcpa.com/services/outsourced-accounting/payroll","reason":"Supports the payroll inclusion mentioned in the fixed-fee bundle section","anchor_text":"full-service payroll management"},{"url":"https://www.bblcpa.com/services/outsourced-accounting/tax","reason":"Connects to the tax service page referenced in the bundle","anchor_text":"year-round business tax planning"},{"url":"https://www.bblcpa.com/services/business-management-services","reason":"Cross-sells the related premium advisory service","anchor_text":"CFO-level business management guidance"},{"url":"/industries/physicians","reason":"Deep links to the physicians niche page named in the audience section","anchor_text":"physician practices"},{"url":"/industries/dentists","reason":"Deep links to the dentists niche page named in the audience section","anchor_text":"dental practices"},{"url":"/industries/restaurants","reason":"Deep links to the restaurants niche page named in the audience section","anchor_text":"restaurant owners"},{"url":"/industries/agriculture","reason":"Deep links to the agriculture niche page named in the audience section","anchor_text":"agriculture businesses"},{"url":"/why-bbl","reason":"Reinforces the trust section with a link to the firm's broader value proposition","anchor_text":"why business owners choose BBL"},{"url":"https://www.bblcpa.com/contact","reason":"Primary page CTA directing to the contact page","anchor_text":"Schedule a consultation"}]
-faq_block: [{"answer":"Depending on plan level, it includes bank and transaction reconciliation, monthly financial statements, payroll processing and filings, bill pay, 1099 preparation, and year-round tax planning, all delivered through a secure online platform for one fixed monthly fee.","question":"What is included in BBL's outsourced accounting service?"},{"answer":"Cost depends on which plan fits your business, but every plan uses a fixed monthly fee instead of hourly billing. That means you know the cost upfront and never get a surprise invoice for a phone call or quick question.","question":"How much does outsourced accounting cost in Port Arthur?"},{"answer":"Yes. Clients access bookkeeping, payroll, and reporting data through a secure online platform built for ongoing collaboration with the BBL team, so you can review your numbers and share documents without emailing sensitive files.","question":"Is my financial data secure on BBL's online platform?"},{"answer":"Yes. BBL serves small businesses, nonprofits, and individuals throughout Southeast Texas, including physicians, dentists, restaurants, and agriculture operations, not just clients located directly in Port Arthur.","question":"Does BBL work with businesses outside Port Arthur?"}]
+faq_block: [{"question":"What is included in BBL's outsourced accounting service?","answer":"Depending on plan level, it includes bank and transaction reconciliation, monthly financial statements, payroll processing and filings, bill pay, 1099 preparation, and year-round tax planning, all delivered through a secure online platform for one fixed monthly fee."},{"question":"How much does outsourced accounting cost in Port Arthur?","answer":"Cost depends on which plan fits your situation, but every plan uses a fixed monthly fee instead of hourly billing. That means you know the cost upfront and never get a surprise invoice for a phone call or quick question."},{"question":"Is my financial data secure on BBL's online platform?","answer":"Yes. Clients access bookkeeping, payroll, and reporting data through a secure online platform built for ongoing collaboration with the BBL team, so you can review your numbers and share documents without emailing sensitive files."},{"question":"Does BBL work with businesses outside Port Arthur?","answer":"Yes. BBL serves small businesses, nonprofits, and individuals throughout Southeast Texas, including physicians, dentists, veterinarians, retirees, and high net worth individuals — not just clients located directly in Port Arthur."}]
 llm_citation_note: "Brammer, Begnaud, & Lattimore CPAs, founded in 1950 in Port Arthur, TX, offers outsourced accounting that bundles bookkeeping, payroll, and tax support into a fixed monthly fee with access through a secure online platform."
 ---
 
@@ -53,7 +53,7 @@ The same platform lets you upload documents, message our team, and pull paid-bil
 <!-- block: industry-cards | variant: 3-col -->
 ## Who this service is built for
 
-Outsourced accounting works best for business owners who'd rather spend their hours on the work only they can do. Across Southeast Texas, that covers a specific list of professions BBL has worked with for decades.
+Outsourced accounting works best for professionals who'd rather spend their hours on the work only they can do. Across Southeast Texas, that covers a specific list of clients BBL has worked with for decades.
 
 ### Physicians
 icon: Stethoscope
@@ -65,27 +65,27 @@ icon: HeartPulse
 
 Equipment financing, hygienist payroll, and managing two or three locations leave little time for an evening with QuickBooks. That's the work we handle every month, on the same platform, at the same fixed fee.
 
-### Restaurants
-icon: Receipt
+### Veterinarians
+icon: PawPrint
 
-Thin margins, tip reporting, and weekly vendor payments make restaurant books unforgiving of mistakes. Outsourced accounting keeps reconciliation current, so a cash-flow problem shows up in week one, not month three.
+Patient care, controlled-substance compliance, and managing staff payroll leave little room for late-night bookkeeping. We handle the numbers — reconciliation, payroll, and year-round tax support — so you can focus on patients, not paperwork.
 
-### Agriculture
-icon: Wallet
+### Retirees
+icon: Umbrella
 
-Seasonal income, equipment depreciation, and land-related tax questions don't fit a generic bookkeeping template. BBL has worked with Southeast Texas agriculture operations long enough to know the difference between a good year and a good year on paper.
+Social Security timing, retirement distributions, and investment income all carry tax consequences that compound quietly over time. A fixed monthly fee gives you year-round support and real-time visibility into your financial picture, so nothing catches you off guard.
 
-### New and growing small business owners
+### High Net Worth Individuals
 icon: TrendingUp
 
-You started the business to do the work, not to become an accountant. Outsourced accounting gives new owners a financial foundation and gives growing owners room to scale, without adding back-office headcount.
+Complex income streams, investment portfolios, and estate considerations demand proactive planning, not year-end scrambling. BBL delivers CFO-level financial guidance at a fraction of the cost of a private advisor, with no hourly billing surprises.
 
 <!-- block: content-prose -->
 ## Backed by over 70 years of Southeast Texas accounting
 
 Brammer, Begnaud, & Lattimore opened its doors in Port Arthur in 1950. Seventy-plus years later, the firm still serves the same region: small businesses, nonprofits, and individuals throughout Southeast Texas, not a national client list managed from a call center somewhere else.
 
-That history matters when you're handing over your books. The team behind your outsourced accounting plan has watched local industries shift, weathered the same hurricanes and oil price swings your business has, and built tax and payroll knowledge specific to Texas rules. You're not a ticket number routed to whoever's available. You're a business down the road, working with a CPA firm that's been down the road since before the interstate was built.
+That history matters when you're handing over your books. The team behind your outsourced accounting plan has watched local industries shift, weathered the same hurricanes and oil price swings your clients have, and built tax and payroll knowledge specific to Texas rules. You're not a ticket number routed to whoever's available. Whether you're a physician, a veterinarian, a retiree, or a high net worth individual managing complex finances, you're working with a CPA firm that's been down the road since before the interstate was built.
 
 <!-- block: faq-accordion -->
 ## Frequently Asked Questions About Outsourced accounting | Brammer, Begnaud, & Lattimore CPAs & Consultants
@@ -94,13 +94,13 @@ That history matters when you're handing over your books. The team behind your o
 A: Depending on plan level, it includes bank and transaction reconciliation, monthly financial statements, payroll processing and filings, bill pay, 1099 preparation, and year-round tax planning, all delivered through a secure online platform for one fixed monthly fee.
 
 **Q: How much does outsourced accounting cost in Port Arthur?**
-A: Cost depends on which plan fits your business, but every plan uses a fixed monthly fee instead of hourly billing. That means you know the cost upfront and never get a surprise invoice for a phone call or quick question.
+A: Cost depends on which plan fits your situation, but every plan uses a fixed monthly fee instead of hourly billing. That means you know the cost upfront and never get a surprise invoice for a phone call or quick question.
 
 **Q: Is my financial data secure on BBL's online platform?**
 A: Yes. Clients access bookkeeping, payroll, and reporting data through a secure online platform built for ongoing collaboration with the BBL team, so you can review your numbers and share documents without emailing sensitive files.
 
 **Q: Does BBL work with businesses outside Port Arthur?**
-A: Yes. BBL serves small businesses, nonprofits, and individuals throughout Southeast Texas, including physicians, dentists, restaurants, and agriculture operations, not just clients located directly in Port Arthur.
+A: Yes. BBL serves small businesses, nonprofits, and individuals throughout Southeast Texas, including physicians, dentists, veterinarians, retirees, and high net worth individuals — not just clients located directly in Port Arthur.
 
 <!-- block: cta-banner | variant: image-bg | image: small-business-storefront-texas-street.jpg | alt: "Small business storefront in a Southeast Texas downtown area" | query: "small business storefront Texas street" -->
 ## Get started with outsourced accounting in Port Arthur
