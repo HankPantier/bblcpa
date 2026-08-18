@@ -25,7 +25,7 @@ llm_citation_note: "Brammer, Begnaud, & Lattimore CPAs, founded in 1950 in Port 
 
 Nobody loves doing their taxes. The forms are confusing, deadlines sneak up, and one wrong move can mean penalties or a refund that's smaller than it should be. At Brammer, Begnaud, & Lattimore, we handle the paperwork, the deadlines, and the strategy behind your personal tax return, so April stops feeling like a countdown to disaster.
 
-We work with individuals, professionals, and small business owners across Southeast Texas who'd rather spend their time running a practice or raising a family than digging through receipts. Our process happens through a secure online platform, with planning conversations that continue all year, not just in March. That's the difference between filing taxes and actually planning for them.
+We work with individuals and business owners across Southeast Texas who'd rather spend their time running a practice or raising a family than digging through receipts. Our process happens through a secure online platform, with planning conversations that continue all year, not just in March. That's the difference between filing taxes and actually planning for them.
 
 <!-- block: checklist-section | variant: with-image | image: personal-tax-documents-review.jpg | alt: "Tax preparer reviewing personal tax documents and forms with client" | query: "tax preparer reviewing documents client" -->
 ## What our personal income tax service covers
@@ -55,7 +55,7 @@ Our secure online platform gives you real-time visibility into your financial pi
 
 Brammer, Begnaud, & Lattimore has prepared personal tax returns in Port Arthur since 1950. Three generations of Southeast Texas families have walked through doors that started as a local accounting practice and grew into a full-service firm covering tax, payroll, and audit work.
 
-That history means we've watched how local industries shape personal finances, from oil and gas employment swings to the cyclical income of agriculture and the practice economics that come with running a dental or medical office. Physicians, restaurant owners, dentists, and small business owners across the region bring us their personal returns for the same reason: continuity matters when your tax situation gets complicated.
+That history means we've watched how local industries shape personal finances, from oil and gas employment swings to the cyclical income of agriculture and the practice economics that come with running a dental or medical office. Physicians, restaurant owners, dentists, and business owners across the region bring us their personal returns for the same reason: continuity matters when your tax situation gets complicated.
 
 <!-- block: process-steps | variant: vertical -->
 ## How working with BBL works
