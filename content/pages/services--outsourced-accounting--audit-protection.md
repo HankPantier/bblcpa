@@ -138,7 +138,6 @@ Audit protection from Brammer, Begnaud, & Lattimore CPAs means the firm handles 
 **Internal Links:**
 - business tax planning and preparation → https://www.bblcpa.com/services/outsourced-accounting/tax — Audit risk often ties back to tax filings, giving readers a path to the related core service
 - fixed monthly fee accounting service → https://www.bblcpa.com/services/outsourced-accounting — Reinforces the bundled fixed-fee model that includes audit support
-- restaurant owners → https://www.bblcpa.com/industries/restaurants — Connects a named high-audit-risk niche to its dedicated industry page
 - decades of Southeast Texas experience → https://www.bblcpa.com/why-bbl — Supports the authority section about the firm's history and differentiators
 
 **FAQ Block:**
