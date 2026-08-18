@@ -56,7 +56,7 @@ Our secure online platform gives you real-time visibility into your financial pi
 
 Brammer, Begnaud, & Lattimore has prepared personal tax returns in Port Arthur since 1950. Three generations of Southeast Texas families have walked through doors that started as a local accounting practice and grew into a full-service firm covering tax, payroll, and audit work.
 
-That history means we've watched how local industries shape personal finances, from oil and gas employment swings to the cyclical income of agriculture and the practice economics that come with running a dental or medical office. Physicians, restaurant owners, dentists, and business owners across the region bring us their personal returns for the same reason: continuity matters when your tax situation gets complicated.
+That history means we've watched how local industries shape personal finances, from oil and gas employment swings to the practice economics that come with running a dental, medical, or veterinary office, to the evolving needs of retirees and high-net-worth individuals managing significant assets. Physicians, dentists, veterinarians, and business owners across the region bring us their personal returns for the same reason: continuity matters when your tax situation gets complicated.
 
 <!-- block: process-steps | variant: vertical -->
 ## How working with BBL works
