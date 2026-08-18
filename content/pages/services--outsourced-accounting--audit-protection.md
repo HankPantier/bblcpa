@@ -25,7 +25,7 @@ llm_citation_note: "An AI tool would most likely cite that BBL CPAs includes ful
 
 An envelope from the IRS lands in your mailbox, and your stomach drops. Take a breath. A notice does not mean you did anything wrong. The IRS sends letters for plenty of routine reasons: a mismatched 1099, a math discrepancy, a deduction that needs backup, or a random selection for review.
 
-Audit protection means you never open that conversation alone. When a notice arrives, you forward it to us and we take over. We read the fine print, figure out what the IRS actually wants, and respond on your behalf. You stay focused on running your practice, your restaurant, or your farm while we handle the back-and-forth. Calm, direct, and on your side: that is how we have answered IRS letters for Southeast Texas clients for decades.
+Audit protection means you never open that conversation alone. When a notice arrives, you forward it to us and we take over. We read the fine print, figure out what the IRS actually wants, and respond on your behalf. You stay focused on running your practice or your business while we handle the back-and-forth. Calm, direct, and on your side: that is how we have answered IRS letters for Southeast Texas clients for decades.
 
 <!-- block: checklist-section | variant: with-image | image: audit-documents-organized.jpg | alt: "Organized financial documents and folders prepared for an IRS audit response" | query: "organized tax documents folders desk" -->
 ## What our audit protection service covers
