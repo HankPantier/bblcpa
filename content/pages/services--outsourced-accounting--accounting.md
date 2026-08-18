@@ -42,6 +42,8 @@ Bookkeeping sounds simple until you're three months behind on reconciliations an
 
 This isn't a once-a-year cleanup. It's a team that touches your books every month, the same way they have for clients since 1950. Most of our bookkeepers have worked with Port Arthur businesses for over a decade, which means they catch a misclassified expense or a missed deposit before it becomes a problem at tax time.
 
+Whether you run a veterinary practice, manage investment income in retirement, or oversee a complex personal financial picture, our team structures your books around how your income actually works — not a one-size-fits-all template.
+
 <!-- block: content-split | variant: image-right | image: secure-online-dashboard.jpg | alt: "Business owner viewing financial dashboard on a laptop screen" | query: "small business owner laptop dashboard" -->
 ## Real-time financial visibility through a secure online platform
 
