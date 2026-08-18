@@ -115,7 +115,7 @@ A: No. BBL's recommendations are advisor-led with no commissions, quotas, or pro
 A: An annual fee on a card used for business is generally deductible, which changes the real math on whether a premium card is worth carrying. Because BBL handles your taxes and bookkeeping, we factor deductibility into every recommendation rather than treating fees in isolation.
 
 **Q: How does BBL decide which card fits my business?**
-A: We map your spending by category using your existing accounting records, then compare business cards across rewards, fees, bonuses, and redemption rules. A restaurant, a dental practice, and a farm each spend differently, so the recommendation reflects your real monthly volume and goals.
+A: We map your spending by category using your existing accounting records, then compare business cards across rewards, fees, bonuses, and redemption rules. A physician, a veterinarian, and a high net worth individual each spend differently, so the recommendation reflects your real monthly volume and goals.
 
 **Q: Is credit card advisory a separate charge?**
 A: No. For clients on BBL's fixed monthly fee, credit card guidance is part of a full-service relationship, not a separate invoice. It sits alongside outsourced accounting, payroll, year-round tax support, and business management services with no billing surprises.
