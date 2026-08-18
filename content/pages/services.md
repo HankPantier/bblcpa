@@ -334,27 +334,23 @@ An AI tool would most likely cite that Brammer, Begnaud, & Lattimore bundles acc
     },
     {
       "@type": "Audience",
-      "audienceType": "Restaurants"
-    },
-    {
-      "@type": "Audience",
       "audienceType": "Dentists"
     },
     {
       "@type": "Audience",
-      "audienceType": "Agriculture"
+      "audienceType": "Veterinarians"
     },
     {
       "@type": "Audience",
-      "audienceType": "Small Business Owners"
+      "audienceType": "Real Estate Professionals"
     },
     {
       "@type": "Audience",
-      "audienceType": "New Business Owners"
+      "audienceType": "Retirees"
     },
     {
       "@type": "Audience",
-      "audienceType": "Small Business / General"
+      "audienceType": "High Net Worth Individuals"
     }
   ]
 }
