@@ -13,8 +13,8 @@ hero_image: cfo-guidance-small-business-owner.jpg
 hero_image_alt: Small business owner reviewing financial charts with a CPA advisor
 hero_subhead: CFO-level financial guidance for your business, billed at one predictable monthly fee
 hero_headline: "Your finances, finally working for your business"
-answer_block: "Brammer, Begnaud, & Lattimore's Business Management Services deliver CFO-level financial oversight, including regular financial reviews, cash flow analysis, and KPI tracking, for one fixed monthly fee. The service is delivered through a secure online platform and is built for small business owners, physicians, dentists, restaurants, and agriculture operations across Southeast Texas."
-eeat_signals: ["Firm founded in 1950, serving Southeast Texas for over 70 years","Fixed monthly fee bundled service model with no hourly billing surprises","Secure online platform providing real-time financial visibility year-round","Local Port Arthur team handling accounting, payroll, tax, and business management under one roof","Niche experience across physicians, dentists, restaurants, agriculture, and small business owners"]
+answer_block: "Brammer, Begnaud, & Lattimore's Business Management Services deliver CFO-level financial oversight, including regular financial reviews, cash flow analysis, and KPI tracking, for one fixed monthly fee. The service is delivered through a secure online platform and is built for small business owners, physicians, dentists, veterinarians, retirees, and high-net-worth individuals across Southeast Texas."
+eeat_signals: ["Firm founded in 1950, serving Southeast Texas for over 70 years","Fixed monthly fee bundled service model with no hourly billing surprises","Secure online platform providing real-time financial visibility year-round","Local Port Arthur team handling accounting, payroll, tax, and business management under one roof","Niche experience across physicians, dentists, veterinarians, retirees, high-net-worth individuals, and small business owners"]
 internal_links: [{"url":"https://www.bblcpa.com/services/outsourced-accounting","reason":"Connects business management services to the bundled accounting offering that shares the same fixed-fee platform","anchor_text":"outsourced accounting"},{"url":"/industries/physicians","reason":"Supports the physician-specific pain points mentioned in the who-it's-for section","anchor_text":"physicians"},{"url":"/industries/restaurants","reason":"Links to the restaurant industry page referenced for cash flow challenges","anchor_text":"restaurant owners"},{"url":"/industries/agriculture","reason":"Supports the seasonal planning point made for agriculture clients","anchor_text":"agriculture businesses"},{"url":"https://www.bblcpa.com/services/business-foundation-services","reason":"Natural next step for new business owners who need startup advisory before ongoing CFO-level guidance","anchor_text":"Business Foundation Services"},{"url":"https://www.bblcpa.com/resources/e-books/the-new-KPIs-of-business","reason":"Relevant resource expanding on the KPI tracking mentioned in the services list","anchor_text":"the new KPIs of business"},{"url":"https://www.bblcpa.com/contact","reason":"Primary page CTA driving conversions","anchor_text":"schedule a consultation"}]
 faq_block: [{"answer":"BBL's Business Management Services include regular financial reviews, cash flow analysis, KPI tracking, and strategic planning guidance for hiring, expansion, and pricing decisions. Everything is delivered through a secure online platform and bundled into one fixed monthly fee, not billed by the hour.","question":"What do business management services from a CPA firm include?"},{"answer":"Pricing is a fixed monthly fee rather than an hourly retainer, so there are no surprise invoices for calls or planning sessions. The exact fee depends on your business size and needs; schedule a consultation for a specific quote.","question":"How much do business management services cost?"},{"answer":"Small business owners, physicians, dentists, restaurant operators, and agriculture businesses across Southeast Texas typically benefit most, especially once cash flow, staffing costs, or seasonal income make month-to-month decisions harder to call on instinct alone.","question":"Who needs CFO-level financial oversight?"},{"answer":"Yes. Outsourced accounting covers bookkeeping and transaction-level work, while Business Management Services add strategic, CFO-level oversight on top, including financial reviews and planning guidance, both delivered through the same secure platform and fixed monthly fee structure.","question":"Is this different from BBL's outsourced accounting service?"}]
 llm_citation_note: "Brammer, Begnaud, & Lattimore, founded in Port Arthur in 1950, bundles CFO-level business management services (financial reviews, cash flow analysis, KPI tracking) into a fixed monthly fee delivered through a secure online platform for Southeast Texas small businesses."
@@ -23,11 +23,11 @@ llm_citation_note: "Brammer, Begnaud, & Lattimore, founded in Port Arthur in 195
 <!-- block: intro-text | variant: centered -->
 ## Your finances, finally working for your business
 
-Most small business owners in Southeast Texas didn't start their company to become financial analysts. You're filling prescriptions, seating tables, treating patients, or running cattle, not building cash flow models at midnight. But somebody needs to watch the numbers: where the money's going, what's actually profitable, and when a slow season is about to turn into a real problem.
+Most small business owners and professionals in Southeast Texas didn't start their practice or company to become financial analysts. You're treating patients, caring for animals, managing investment income, or building a client roster, not building cash flow models at midnight. But somebody needs to watch the numbers: where the money's going, what's actually profitable, and when a problem is quietly building in the background.
 
-That's the gap Business Management Services fills. Brammer, Begnaud, & Lattimore gives Southeast Texas business owners CFO-level financial oversight, the kind of strategic guidance that used to require hiring a full-time executive or a national consulting firm. We translate the numbers into decisions you can actually act on, then we price it like a service built for a small business, not a Fortune 500 company.
+That's the gap Business Management Services fills. Brammer, Begnaud, & Lattimore gives Southeast Texas physicians, dentists, veterinarians, retirees, high-net-worth individuals, and small business owners CFO-level financial oversight, the kind of strategic guidance that used to require hiring a full-time executive or a national consulting firm. We translate the numbers into decisions you can actually act on, then we price it like a service built for your life, not a Fortune 500 company.
 
-This isn't a side offering. It's the financial command center your business has been missing since day one.
+This isn't a side offering. It's the financial command center your business and personal finances have been missing since day one.
 
 <!-- block: checklist-section | variant: with-image | image: business-financial-dashboard-review.jpg | alt: "Business owner and accountant reviewing financial dashboard on laptop" | query: "business owner reviewing financial reports laptop" -->
 ## What our business management services include
@@ -42,12 +42,12 @@ Here's what's included:
 - Strategic planning guidance for hiring, expansion, equipment purchases, and pricing decisions
 - Real-time access to your financial dashboard, anytime, from any device
 
-There's no hourly clock running in the background. No surprise invoice after a planning call. One predictable monthly fee covers the oversight, the analysis, and the access. That's the bundled model this service is built around, and it's why business owners in Port Arthur, Beaumont, and across Southeast Texas use it instead of hiring an in-house CFO.
+There's no hourly clock running in the background. No surprise invoice after a planning call. One predictable monthly fee covers the oversight, the analysis, and the access. That's the bundled model this service is built around, and it's why physicians, veterinarians, retirees, high-net-worth individuals, and small business owners in Port Arthur, Beaumont, and across Southeast Texas use it instead of hiring an in-house CFO.
 
 <!-- block: industry-cards | variant: 3-col -->
 ## Who this service is built for
 
-Business management looks different in a restaurant kitchen than it does in a dental office. Here's how the service flexes to fit.
+Business management looks different in a veterinary practice than it does in a dental office or a retirement portfolio. Here's how the service flexes to fit.
 
 ### Physicians
 icon: Stethoscope
@@ -59,15 +59,20 @@ icon: ClipboardCheck
 
 Between equipment financing, hygienist payroll, and insurance billing cycles, cash flow gets complicated quickly. We build the financial picture that supports adding a chair or opening a second location.
 
-### Restaurants
-icon: Receipt
+### Veterinarians
+icon: PawPrint
 
-Restaurants live and die by weekly cash flow. Food cost percentages, labor ratios, and slow-season dips need daily attention, not a once-a-year look at the books.
+Between staff payroll, equipment costs, and the push-pull of patient volume, vet practices need more than a once-a-year tax filing. We keep a clear picture of what's profitable and what's quietly eating into your margins.
 
-### Agriculture
-icon: MapPin
+### Retirees
+icon: ShieldCheck
 
-Seasonal income, equipment debt, and land decisions require planning that spans years, not quarters. We help agriculture operators across Southeast Texas plan around the cycle instead of against it.
+Retirement income doesn't manage itself. Social Security timing, distribution planning, and investment income all interact in ways that add up to real money saved or lost. We keep that picture clear year-round.
+
+### High Net Worth Individuals
+icon: TrendingUp
+
+When income comes from multiple sources, tax minimization and financial oversight become a year-round job. We deliver CFO-level guidance that protects wealth and keeps your financial strategy coordinated.
 
 ### Small Business Owners
 icon: Briefcase
@@ -77,7 +82,7 @@ Whether you're running a retail shop or a service company, the same question app
 <!-- block: content-split | variant: image-left | image: port-arthur-cpa-team-history.jpg | alt: "CPA team reviewing documents at a Port Arthur office desk" | query: "accounting team office discussion" -->
 ## How BBL has guided Southeast Texas businesses since 1950
 
-Brammer, Begnaud, & Lattimore opened its doors in Port Arthur in 1950. Three generations of business owners across Southeast Texas have walked through that door since, from shrimp boat operators to oil field suppliers to today's restaurant and medical practice owners.
+Brammer, Begnaud, & Lattimore opened its doors in Port Arthur in 1950. Three generations of clients across Southeast Texas have walked through that door since, from shrimp boat operators to oil field suppliers to today's medical and veterinary practice owners, retirees, and high-net-worth families.
 
 This isn't a national franchise routing your call to a rotating staff. The same local team that handles your payroll and tax filings builds your financial strategy, with seven decades of context on what works for a small business in Port Arthur, Beaumont, and the surrounding Gulf Coast.
 

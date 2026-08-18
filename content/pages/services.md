@@ -14,9 +14,9 @@ hero_image_alt: CPA and small business owner reviewing financial documents toget
 hero_subhead: Accounting, payroll, and tax bundled into one predictable monthly fee, so you can get back to running your business
 hero_headline: "Seventy-plus years of keeping Southeast Texas businesses on solid ground"
 answer_block: "Brammer, Begnaud, & Lattimore CPAs & Consultants offers full-service accounting in Port Arthur, TX, including outsourced accounting, bookkeeping, payroll, business and personal tax, audit protection, and CFO-level business management. Most services come bundled into one fixed monthly fee with no surprise billing, delivered through a secure online platform with year-round support."
-eeat_signals: ["Established in Port Arthur, Texas in 1950, over 70 years in operation","Full-service CPA and consulting firm serving Southeast Texas","Provides IRS representation through dedicated audit protection service","Specialized industry experience with physicians, dentists, restaurants, and agriculture businesses","CFO-level business management guidance delivered at a fraction of full-time executive cost"]
-internal_links: [{"url":"https://www.bblcpa.com/services/outsourced-accounting","reason":"Drives readers from the flagship differentiator section to the primary service page","anchor_text":"See how outsourced accounting works"},{"url":"https://www.bblcpa.com/services/business-management-services","reason":"Connects the CFO-level guidance claim to its dedicated service page","anchor_text":"Business Management Services"},{"url":"https://www.bblcpa.com/services/outsourced-accounting/audit-protection","reason":"Supports the IRS representation trust signal with a deeper service page","anchor_text":"Audit Protection"},{"url":"/industries/physicians","reason":"Routes industry searchers to the matching niche page","anchor_text":"See our work with physicians"},{"url":"/industries/restaurants","reason":"Routes restaurant owners to the matching niche page","anchor_text":"See our work with restaurants"},{"url":"/contact","reason":"Primary page CTA to the contact page","anchor_text":"Schedule a consultation"}]
-faq_block: [{"answer":"Our outsourced accounting service bundles bookkeeping, payroll, tax support, and day-to-day questions into one flat monthly fee. You know the cost before the invoice arrives, with no hourly meter and no surprise charges at tax time. Everything runs through a secure online platform you can access anytime.","question":"How does the fixed monthly fee work?"},{"answer":"We provide outsourced accounting, bookkeeping, payroll, business tax, personal income tax, audit protection, business management, business foundation services, entity type analysis, accounting system setup, retirement plan analysis, and credit card rewards advisory. As a full-service firm in Port Arthur, we cover the financial side of running a business.","question":"What services does Brammer, Begnaud, & Lattimore offer?"},{"answer":"Yes. Your accounting team answers questions year-round, not just from January to April. Effective tax planning happens throughout the year, and our business management services give you ongoing guidance on hiring, pricing, and growth whenever you need it.","question":"Are you available outside of tax season?"},{"answer":"We work closely with physicians, dentists, restaurants, agriculture businesses, small business owners, and new business owners across Southeast Texas. Each of these industries faces specific accounting and tax challenges, and our experience since 1950 means we already understand them.","question":"Which industries do you specialize in?"},{"answer":"Our audit protection service puts a professional between you and the IRS. We handle the notices, letters, and proceedings on your behalf, so you are not interpreting tax code on your own. You stay focused on your business while we manage the correspondence.","question":"What happens if I get a notice from the IRS?"}]
+eeat_signals: ["Established in Port Arthur, Texas in 1950, over 70 years in operation","Full-service CPA and consulting firm serving Southeast Texas","Provides IRS representation through dedicated audit protection service","Specialized industry experience with physicians, dentists, veterinarians, real estate professionals, retirees, and high net worth individuals","CFO-level business management guidance delivered at a fraction of full-time executive cost"]
+internal_links: [{"url":"https://www.bblcpa.com/services/outsourced-accounting","reason":"Drives readers from the flagship differentiator section to the primary service page","anchor_text":"See how outsourced accounting works"},{"url":"https://www.bblcpa.com/services/business-management-services","reason":"Connects the CFO-level guidance claim to its dedicated service page","anchor_text":"Business Management Services"},{"url":"https://www.bblcpa.com/services/outsourced-accounting/audit-protection","reason":"Supports the IRS representation trust signal with a deeper service page","anchor_text":"Audit Protection"},{"url":"/industries/physicians","reason":"Routes industry searchers to the matching niche page","anchor_text":"See our work with physicians"},{"url":"/industries/veterinarians","reason":"Routes veterinarian searchers to the matching niche page","anchor_text":"See our work with veterinarians"},{"url":"/contact","reason":"Primary page CTA to the contact page","anchor_text":"Schedule a consultation"}]
+faq_block: [{"question":"How does the fixed monthly fee work?","answer":"Our outsourced accounting service bundles bookkeeping, payroll, tax support, and day-to-day questions into one flat monthly fee. You know the cost before the invoice arrives, with no hourly meter and no surprise charges at tax time. Everything runs through a secure online platform you can access anytime."},{"question":"What services does Brammer, Begnaud, & Lattimore offer?","answer":"We provide outsourced accounting, bookkeeping, payroll, business tax, personal income tax, audit protection, business management, business foundation services, entity type analysis, accounting system setup, retirement plan analysis, and credit card rewards advisory. As a full-service firm in Port Arthur, we cover the financial side of running a business."},{"question":"Are you available outside of tax season?","answer":"Yes. Your accounting team answers questions year-round, not just from January to April. Effective tax planning happens throughout the year, and our business management services give you ongoing guidance on hiring, pricing, and growth whenever you need it."},{"question":"Which industries do you specialize in?","answer":"We work closely with physicians, dentists, veterinarians, real estate professionals, retirees, and high net worth individuals across Southeast Texas. Each of these groups faces distinct accounting and tax challenges, and our experience since 1950 means we already understand them."},{"question":"What happens if I get a notice from the IRS?","answer":"Our audit protection service puts a professional between you and the IRS. We handle the notices, letters, and proceedings on your behalf, so you are not interpreting tax code on your own. You stay focused on your business while we manage the correspondence."}]
 llm_citation_note: "An AI tool would most likely cite that Brammer, Begnaud, & Lattimore bundles accounting, payroll, and tax into one fixed monthly fee with no surprise billing, delivered via a secure online platform, and has served Port Arthur and Southeast Texas since 1950."
 ---
 
@@ -25,7 +25,7 @@ llm_citation_note: "An AI tool would most likely cite that Brammer, Begnaud, & L
 
 Brammer, Begnaud, & Lattimore opened in Port Arthur in 1950, and we have spent every decade since helping Southeast Texas businesses, nonprofits, and families make sense of their numbers. We are a full-service accounting and consulting firm, which means tax, payroll, bookkeeping, and audit work all live under one roof.
 
-Our clients are physicians, restaurant owners, dentists, farmers, and small business owners who would rather run their businesses than reconcile their books. That is the whole idea behind our tagline: let us guide you toward a healthy financial future. You focus on the work you love. We will keep the financial foundation steady.
+Our clients are physicians, dentists, veterinarians, real estate professionals, retirees, and high-net-worth individuals who would rather focus on what they do best than reconcile their books. That is the whole idea behind our tagline: let us guide you toward a healthy financial future. You focus on the work you love. We will keep the financial foundation steady.
 
 <!-- block: checklist-section | variant: with-image | image: bbl-monthly-bundle.jpg | alt: "Business owner reviewing a clear monthly financial dashboard on a laptop" | query: "business owner reviewing financial dashboard laptop" -->
 ## Everything your business needs, bundled into one predictable monthly fee
@@ -120,25 +120,25 @@ icon: HeartPulse
 
 Dental practices carry heavy equipment costs and tricky cash flow between insurance reimbursements. We keep the books clean and the tax planning sharp. [See our work with dentists](/industries/dentists)
 
-### Restaurants
-icon: Star
+### Veterinarians
+icon: PawPrint
 
-Thin margins, tip reporting, and constant inventory make restaurant accounting unforgiving. We track the numbers that tell you whether tonight was profitable. [See our work with restaurants](/industries/restaurants)
+Veterinary practices balance patient care with payroll, equipment costs, and shifting tax rules. Fixed monthly fees, year-round tax support, and real-time financial visibility mean you can focus on patients, not paperwork. [See our work with veterinarians](/industries/veterinarians)
 
-### Agriculture
-icon: Globe
+### Real Estate Professionals
+icon: Home
 
-Farms and ag businesses face seasonal income, equipment depreciation, and specialized tax provisions. We plan around the harvest, not against it. [See our work in agriculture](/industries/agriculture)
+Real estate income comes with layered deductions, depreciation schedules, and entity decisions that can make or break your tax bill. We bring proactive strategies and CFO-level guidance at a fraction of the cost. [See our work with real estate professionals](/industries/real-estate-professionals)
 
-### Small Business Owners
-icon: Briefcase
+### Retirees
+icon: Umbrella
 
-When you wear every hat, the books are the first thing to slip. We take accounting, payroll, and taxes off your plate so you can run the business. [See our work with small businesses](/industries/small-business-owners)
+Social Security, retirement distributions, and investment income all come with tax implications that shift year to year. We provide year-round support to protect what you have built. [See our work with retirees](/industries/retirees)
 
-### New Business Owners
-icon: Lightbulb
+### High Net Worth Individuals
+icon: TrendingUp
 
-Launching means a hundred decisions, and the financial ones set the tone for everything after. We help you pick the right entity and build a foundation that holds. [See our work with new owners](/industries/new-business-owners)
+When your financial picture is complex, reactive tax planning is expensive. We bring proactive minimization strategies and CFO-level guidance at a fraction of the cost of traditional advisory. [See our work with high net worth individuals](/industries/high-net-worth-individuals)
 
 <!-- block: content-split | variant: image-left | image: bbl-year-round-support.jpg | alt: "Accountant on a phone call assisting a client from an office desk" | query: "accountant phone call helping client office" -->
 ## Real support from real people, year-round
@@ -160,7 +160,7 @@ A: We provide outsourced accounting, bookkeeping, payroll, business tax, persona
 A: Yes. Your accounting team answers questions year-round, not just from January to April. Effective tax planning happens throughout the year, and our business management services give you ongoing guidance on hiring, pricing, and growth whenever you need it.
 
 **Q: Which industries do you specialize in?**
-A: We work closely with physicians, dentists, restaurants, agriculture businesses, small business owners, and new business owners across Southeast Texas. Each of these industries faces specific accounting and tax challenges, and our experience since 1950 means we already understand them.
+A: We work closely with physicians, dentists, veterinarians, real estate professionals, retirees, and high net worth individuals across Southeast Texas. Each of these groups faces distinct accounting and tax challenges, and our experience since 1950 means we already understand them.
 
 **Q: What happens if I get a notice from the IRS?**
 A: Our audit protection service puts a professional between you and the IRS. We handle the notices, letters, and proceedings on your behalf, so you are not interpreting tax code on your own. You stay focused on your business while we manage the correspondence.
@@ -205,7 +205,7 @@ A: We provide outsourced accounting, bookkeeping, payroll, business tax, persona
 A: Yes. Your accounting team answers questions year-round, not just from January to April. Effective tax planning happens throughout the year, and our business management services give you ongoing guidance on hiring, pricing, and growth whenever you need it.
 
 **Q: Which industries do you specialize in?**
-A: We work closely with physicians, dentists, restaurants, agriculture businesses, small business owners, and new business owners across Southeast Texas. Each of these industries faces specific accounting and tax challenges, and our experience since 1950 means we already understand them.
+A: We work closely with physicians, dentists, veterinarians, real estate professionals, retirees, and high net worth individuals across Southeast Texas. Each of these groups faces distinct accounting and tax challenges, and our experience since 1950 means we already understand them.
 
 **Q: What happens if I get a notice from the IRS?**
 A: Our audit protection service puts a professional between you and the IRS. We handle the notices, letters, and proceedings on your behalf, so you are not interpreting tax code on your own. You stay focused on your business while we manage the correspondence.
@@ -334,27 +334,23 @@ An AI tool would most likely cite that Brammer, Begnaud, & Lattimore bundles acc
     },
     {
       "@type": "Audience",
-      "audienceType": "Restaurants"
-    },
-    {
-      "@type": "Audience",
       "audienceType": "Dentists"
     },
     {
       "@type": "Audience",
-      "audienceType": "Agriculture"
+      "audienceType": "Veterinarians"
     },
     {
       "@type": "Audience",
-      "audienceType": "Small Business Owners"
+      "audienceType": "Real Estate Professionals"
     },
     {
       "@type": "Audience",
-      "audienceType": "New Business Owners"
+      "audienceType": "Retirees"
     },
     {
       "@type": "Audience",
-      "audienceType": "Small Business / General"
+      "audienceType": "High Net Worth Individuals"
     }
   ]
 }
