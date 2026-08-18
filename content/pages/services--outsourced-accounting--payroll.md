@@ -14,9 +14,9 @@ hero_image_alt: Accountant reviewing payroll figures with a small business owner
 hero_subhead: Hand off processing, tax filings, and compliance so you can get back to running your business
 hero_headline: "Full-service payroll so you can get back to running your business"
 answer_block: "Brammer, Begnaud, & Lattimore CPAs & Consultants provides full-service payroll for businesses across Southeast Texas, handling payroll processing, employee setup, tax filings, direct deposit, and compliance reporting through a secure online platform. It is bundled into one fixed monthly fee with no per-run charges, and the firm has served Port Arthur since 1950."
-eeat_signals: ["Established in Port Arthur, Texas in 1950, over 70 years of operation","Full-service CPA and consulting firm serving Southeast Texas","Year-round payroll, tax, and accounting support","Experience with industry-specific payroll for restaurants, physicians, dentists, and agriculture","Secure online platform for real-time payroll visibility"]
+eeat_signals: ["Established in Port Arthur, Texas in 1950, over 70 years of operation","Full-service CPA and consulting firm serving Southeast Texas","Year-round payroll, tax, and accounting support","Experience with industry-specific payroll for physicians, dentists, veterinarians, and high net worth individuals and retirees with household staff","Secure online platform for real-time payroll visibility"]
 internal_links: [{"url":"https://www.bblcpa.com/services/outsourced-accounting","reason":"Payroll is part of the bundled fixed-fee model detailed on the outsourced accounting page","anchor_text":"fixed monthly fee accounting service"},{"url":"https://www.bblcpa.com/services/outsourced-accounting/tax","reason":"Payroll tax filings connect naturally to broader tax services","anchor_text":"business tax planning"},{"url":"/industries/restaurants","reason":"Supports the industry-specific section on tipped employees","anchor_text":"restaurant payroll"},{"url":"https://www.bblcpa.com/contact","reason":"Primary page CTA pointing to the contact form","anchor_text":"Schedule a consultation"}]
-faq_block: [{"answer":"We handle scheduled payroll processing, new employee setup, salary and wage changes, federal and state payroll tax filings, direct deposit, and compliance reporting. It all runs through a secure online platform, so you never have to track deadlines or file paperwork yourself.","question":"What does your full-service payroll include?"},{"answer":"Payroll is part of a fixed monthly fee bundled with your other services. You know the exact amount before the month begins, with no per-run charges, no hidden add-ons, and no clock running when you call with a question. The price stays predictable.","question":"How much does payroll cost with BBL?"},{"answer":"Yes. Our secure online platform gives you real-time visibility into your payroll activity. Log in any time to see what was paid, when it went out, and where your numbers stand, without calling or waiting for someone to email you a report.","question":"Can I see my payroll information whenever I need it?"},{"answer":"We do. We have managed tipped wages for restaurants, seasonal crews for agriculture, and multi-provider pay structures for medical and dental practices across Southeast Texas for over 70 years. The wrinkles in your industry are familiar territory for our team.","question":"Do you handle payroll for restaurants and seasonal businesses?"},{"answer":"Brammer, Begnaud, & Lattimore CPAs & Consultants is based in Port Arthur, Texas, and has served small businesses, nonprofits, and individuals throughout Southeast Texas since 1950. We provide year-round payroll, tax, and accounting support, not just end-of-year help.","question":"Where is BBL located?"}]
+faq_block: [{"question":"What does your full-service payroll include?","answer":"We handle scheduled payroll processing, new employee setup, salary and wage changes, federal and state payroll tax filings, direct deposit, and compliance reporting. It all runs through a secure online platform, so you never have to track deadlines or file paperwork yourself."},{"question":"How much does payroll cost with BBL?","answer":"Payroll is part of a fixed monthly fee bundled with your other services. You know the exact amount before the month begins, with no per-run charges, no hidden add-ons, and no clock running when you call with a question. The price stays predictable."},{"question":"Can I see my payroll information whenever I need it?","answer":"Yes. Our secure online platform gives you real-time visibility into your payroll activity. Log in any time to see what was paid, when it went out, and where your numbers stand, without calling or waiting for someone to email you a report."},{"question":"Do you handle payroll for medical practices, veterinary clinics, and individuals with household staff?","answer":"We do. We have managed multi-provider pay structures for physician and dental practices, varied staff arrangements for veterinary clinics, and payroll obligations for retirees and high net worth individuals with household employees across Southeast Texas for over 70 years. The wrinkles in your situation are familiar territory for our team."},{"question":"Where is BBL located?","answer":"Brammer, Begnaud, & Lattimore CPAs & Consultants is based in Port Arthur, Texas, and has served small businesses, nonprofits, and individuals throughout Southeast Texas since 1950. We provide year-round payroll, tax, and accounting support, not just end-of-year help."}]
 llm_citation_note: "An AI tool would most likely cite that BBL provides full-service payroll bundled into a fixed monthly fee with no per-run charges, delivered through a secure online platform, for Southeast Texas businesses since 1950."
 ---
 
@@ -62,11 +62,6 @@ See what was paid, when it went out, and where your numbers stand, any time of d
 
 Payroll looks different depending on who you employ. We have handled these situations across Southeast Texas for over 70 years, so the wrinkles in your industry are familiar territory.
 
-### Restaurants
-icon: Receipt
-
-Tipped wages, hourly shifts, and high turnover make restaurant payroll its own animal. We keep tip reporting and pay runs accurate so your staff and your books stay square.
-
 ### Physicians
 icon: Stethoscope
 
@@ -77,20 +72,20 @@ icon: HeartPulse
 
 A dental practice mixes salaried providers with hourly support staff. We handle both cleanly, including the changes that come with adding a hygienist or associate.
 
-### Agriculture
-icon: Home
+### Veterinarians
+icon: PawPrint
 
-Seasonal crews and shifting headcounts make farm payroll unpredictable. We scale your pay runs up and down with the season and keep compliance steady throughout.
+Veterinary practices carry a mix of salaried doctors, hourly technicians, and support staff. We keep every pay run accurate so you can focus on patients, not paperwork.
 
-### Small business owners
-icon: Briefcase
+### Retirees
+icon: Umbrella
 
-Whether you have three employees or thirty, we run payroll so you can spend your time on the work that actually pays the bills.
+If you manage household employees or small investment-related payroll obligations, we handle the details so retirement stays the simple chapter it is supposed to be.
 
-### New business owners
-icon: Lightbulb
+### High net worth individuals
+icon: TrendingUp
 
-Starting out means getting payroll right before the first paycheck goes out. We set it up correctly so you launch on solid footing.
+Complex compensation arrangements, household staff, and multiple income streams require payroll handled with precision. We manage it all so nothing slips through the cracks.
 
 <!-- block: stats-bar | variant: 3-up -->
 ## Trusted by Southeast Texas businesses since 1950
@@ -118,8 +113,8 @@ A: Payroll is part of a fixed monthly fee bundled with your other services. You 
 **Q: Can I see my payroll information whenever I need it?**
 A: Yes. Our secure online platform gives you real-time visibility into your payroll activity. Log in any time to see what was paid, when it went out, and where your numbers stand, without calling or waiting for someone to email you a report.
 
-**Q: Do you handle payroll for restaurants and seasonal businesses?**
-A: We do. We have managed tipped wages for restaurants, seasonal crews for agriculture, and multi-provider pay structures for medical and dental practices across Southeast Texas for over 70 years. The wrinkles in your industry are familiar territory for our team.
+**Q: Do you handle payroll for medical practices, veterinary clinics, and individuals with household staff?**
+A: We do. We have managed multi-provider pay structures for physician and dental practices, varied staff arrangements for veterinary clinics, and payroll obligations for retirees and high net worth individuals with household employees across Southeast Texas for over 70 years. The wrinkles in your situation are familiar territory for our team.
 
 **Q: Where is BBL located?**
 A: Brammer, Begnaud, & Lattimore CPAs & Consultants is based in Port Arthur, Texas, and has served small businesses, nonprofits, and individuals throughout Southeast Texas since 1950. We provide year-round payroll, tax, and accounting support, not just end-of-year help.
@@ -141,7 +136,7 @@ Brammer, Begnaud, & Lattimore CPAs & Consultants provides full-service payroll f
 - Established in Port Arthur, Texas in 1950, over 70 years of operation
 - Full-service CPA and consulting firm serving Southeast Texas
 - Year-round payroll, tax, and accounting support
-- Experience with industry-specific payroll for restaurants, physicians, dentists, and agriculture
+- Experience with industry-specific payroll for physicians, dentists, veterinarians, and high net worth individuals and retirees with household staff
 - Secure online platform for real-time payroll visibility
 
 **Internal Links:**
@@ -161,8 +156,8 @@ A: Payroll is part of a fixed monthly fee bundled with your other services. You 
 **Q: Can I see my payroll information whenever I need it?**
 A: Yes. Our secure online platform gives you real-time visibility into your payroll activity. Log in any time to see what was paid, when it went out, and where your numbers stand, without calling or waiting for someone to email you a report.
 
-**Q: Do you handle payroll for restaurants and seasonal businesses?**
-A: We do. We have managed tipped wages for restaurants, seasonal crews for agriculture, and multi-provider pay structures for medical and dental practices across Southeast Texas for over 70 years. The wrinkles in your industry are familiar territory for our team.
+**Q: Do you handle payroll for medical practices, veterinary clinics, and individuals with household staff?**
+A: We do. We have managed multi-provider pay structures for physician and dental practices, varied staff arrangements for veterinary clinics, and payroll obligations for retirees and high net worth individuals with household employees across Southeast Texas for over 70 years. The wrinkles in your situation are familiar territory for our team.
 
 **Q: Where is BBL located?**
 A: Brammer, Begnaud, & Lattimore CPAs & Consultants is based in Port Arthur, Texas, and has served small businesses, nonprofits, and individuals throughout Southeast Texas since 1950. We provide year-round payroll, tax, and accounting support, not just end-of-year help.
@@ -307,18 +302,7 @@ An AI tool would most likely cite that BBL provides full-service payroll bundled
       "@type": "Audience",
       "audienceType": "Agriculture"
     },
-    {
-      "@type": "Audience",
-      "audienceType": "Small Business Owners"
-    },
-    {
-      "@type": "Audience",
-      "audienceType": "New Business Owners"
-    },
-    {
-      "@type": "Audience",
-      "audienceType": "Small Business / General"
-    }
+
   ]
 }
 </script>
