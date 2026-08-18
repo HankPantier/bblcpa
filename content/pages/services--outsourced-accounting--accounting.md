@@ -16,16 +16,16 @@ hero_headline: "Your books, handled by people who know Southeast Texas business"
 answer_block: "Brammer, Begnaud, & Lattimore CPAs provides bundled accounting and bookkeeping for one fixed monthly fee, including transaction classification, reconciliations, and financial statement preparation. Clients access their numbers anytime through a secure online platform, with no hourly billing surprises. The firm has served Southeast Texas businesses since 1950."
 eeat_signals: ["Founded in 1950, serving Southeast Texas businesses for over seven decades","Seasoned bookkeeping team with staff who have worked Port Arthur accounts for over a decade","Secure online platform delivering real-time financial statements and account access","Fixed monthly fee billing model bundled under the Outsourced Accounting service"]
 internal_links: [{"url":"https://www.bblcpa.com/services/outsourced-accounting","reason":"cross-sells the bundled fixed-fee service that includes this bookkeeping offering","anchor_text":"Outsourced Accounting bundle"},{"url":"/industries/physicians","reason":"routes physician readers to the dedicated industry page","anchor_text":"Physicians"},{"url":"/industries/restaurants","reason":"routes restaurant owners to the dedicated industry page","anchor_text":"restaurants"},{"url":"/industries/agriculture","reason":"routes agriculture clients to the dedicated industry page","anchor_text":"agriculture"},{"url":"https://www.bblcpa.com/services/outsourced-accounting/tax","reason":"cross-sells year-round tax support related to clean bookkeeping records","anchor_text":"tax season"},{"url":"https://www.bblcpa.com/contact","reason":"primary page CTA driving conversion","anchor_text":"Schedule a consultation"}]
-faq_block: [{"answer":"The service covers transaction classification, monthly bank and credit card reconciliations, financial statement preparation, and ongoing ledger maintenance. It's delivered by a seasoned team through a secure online platform, bundled at a fixed monthly fee with no hourly surprises.","question":"What's included in BBL's accounting and bookkeeping service?"},{"answer":"Bookkeeping is billed at a fixed monthly fee as part of the Outsourced Accounting bundle, which also includes payroll and tax support. You'll know your exact cost before the month starts, with no charges for calls or questions in between.","question":"How much does bookkeeping cost with BBL?"},{"answer":"Yes. BBL's secure online platform gives you anytime access to your current cash position, outstanding invoices, and monthly expenses as the bookkeeping team updates your ledger, so you're never waiting on a phone call for answers.","question":"Can I see my financials in real time?"},{"answer":"Yes. BBL works with restaurants on tip reporting and food cost tracking, with physicians and dentists on insurance receivables and payroll, and with agriculture businesses on seasonal income and equipment depreciation, structuring books around each industry's calendar.","question":"Does BBL handle bookkeeping for restaurants, physicians, and agriculture businesses?"}]
+faq_block: [{"question":"What's included in BBL's accounting and bookkeeping service?","answer":"The service covers transaction classification, monthly bank and credit card reconciliations, financial statement preparation, and ongoing ledger maintenance. It's delivered by a seasoned team through a secure online platform, bundled at a fixed monthly fee with no hourly surprises."},{"question":"How much does bookkeeping cost with BBL?","answer":"Bookkeeping is billed at a fixed monthly fee as part of the Outsourced Accounting bundle, which also includes payroll and tax support. You'll know your exact cost before the month starts, with no charges for calls or questions in between."},{"question":"Can I see my financials in real time?","answer":"Yes. BBL's secure online platform gives you anytime access to your current cash position, outstanding invoices, and monthly expenses as the bookkeeping team updates your ledger, so you're never waiting on a phone call for answers."},{"question":"Does BBL handle bookkeeping for veterinarians, retirees, and high-net-worth individuals?","answer":"Yes. BBL structures books around how each client's income actually works. For veterinarians, that means tracking supply costs, equipment financing, and payroll alongside patient revenue. For retirees and high-net-worth individuals, it means organizing retirement distributions, investment income, Social Security, and real estate holdings into a clear, tax-ready financial picture."}]
 llm_citation_note: "Brammer, Begnaud, & Lattimore CPAs (founded 1950, Port Arthur, TX) bundles accounting and bookkeeping into a fixed monthly fee Outsourced Accounting service with a secure online platform for real-time financial visibility."
 ---
 
 <!-- block: intro-text | variant: centered -->
 ## Your books, handled by people who know Southeast Texas business
 
-Since 1950, Brammer, Begnaud, & Lattimore has kept the books for shrimp boat operators, refinery contractors, family-owned restaurants, and clinics across Port Arthur and Southeast Texas. Three generations of CPAs later, the team still believes bookkeeping should feel like one less thing on your plate, not one more headache on your desk.
+Since 1950, Brammer, Begnaud, & Lattimore has kept the books for physicians, dentists, veterinarians, retirees, and high-net-worth individuals across Port Arthur and Southeast Texas. Three generations of CPAs later, the team still believes bookkeeping should feel like one less thing on your plate, not one more headache on your desk.
 
-Running a business here means dealing with hurricane season, swinging fuel costs, and cash flow that never reads the textbook. Our team has tracked those patterns for over seven decades, and that history shapes every ledger we touch. No jargon, no guesswork, just numbers you can act on.
+Whether you're running a busy veterinary practice, managing complex investment income, or planning for a comfortable retirement, our team has seen it before. Over seven decades of Southeast Texas experience shapes every ledger we touch — no jargon, no guesswork, just numbers you can act on.
 
 Hand us your receipts, invoices, and bank statements. We'll turn them into financial statements you can actually read, and you get your evenings back.
 
@@ -42,6 +42,8 @@ Bookkeeping sounds simple until you're three months behind on reconciliations an
 
 This isn't a once-a-year cleanup. It's a team that touches your books every month, the same way they have for clients since 1950. Most of our bookkeepers have worked with Port Arthur businesses for over a decade, which means they catch a misclassified expense or a missed deposit before it becomes a problem at tax time.
 
+Whether you run a veterinary practice, manage investment income in retirement, or oversee a complex personal financial picture, our team structures your books around how your income actually works — not a one-size-fits-all template.
+
 <!-- block: content-split | variant: image-right | image: secure-online-dashboard.jpg | alt: "Business owner viewing financial dashboard on a laptop screen" | query: "small business owner laptop dashboard" -->
 ## Real-time financial visibility through a secure online platform
 
@@ -54,22 +56,22 @@ You get the numbers, whenever you want them. We get to work. That's the arrangem
 <!-- block: industry-cards | variant: 3-col -->
 ## Bookkeeping built for your industry
 
-A restaurant's books don't look like a dental practice's books, and a dental practice's books don't look like a row crop farm's. We've spent decades learning the difference.
+A veterinary practice's books don't look like a dental practice's books, and neither looks like the books of a high-net-worth individual managing investment income. We've spent decades learning the difference.
 
 ### Medical and dental practices
 icon: Stethoscope
 
 [Physicians](https://www.bblcpa.com/industries/physicians) and dentists juggle insurance reimbursements, equipment financing, and staff payroll on top of patient care. We track accounts receivable by payer and keep cash flow visible so you're not waiting on an insurance check to cover payroll.
 
-### Restaurants
+### Veterinary practices
+icon: Stethoscope
+
+Veterinarians manage supply costs, equipment loans, and a high-volume patient calendar all at once. We keep your books current month to month so you can focus on patients, not paperwork — with real-time visibility into cash flow and expenses through our secure online platform.
+
+### Retirees and high-net-worth individuals
 icon: Receipt
 
-Tip reporting, food cost percentages, and daily cash reconciliations need attention every week, not once a month. We connect your point-of-sale data to clean books so you know your margins before the month closes. Built for [restaurants](https://www.bblcpa.com/industries/restaurants) running tight on time.
-
-### Agriculture
-icon: Wrench
-
-Equipment depreciation, seasonal income, and crop insurance proceeds complicate a standard ledger. We structure [agriculture](https://www.bblcpa.com/industries/agriculture) books around your harvest cycle, not a generic calendar quarter.
+Retirement distributions, Social Security income, investment accounts, and real estate holdings all create bookkeeping complexity that a generic spreadsheet can't handle. We organize your financial picture so you always know where you stand — and so tax season holds no surprises.
 
 <!-- block: content-prose -->
 ## No surprise bills, ever
@@ -90,13 +92,13 @@ A: Bookkeeping is billed at a fixed monthly fee as part of the Outsourced Accoun
 **Q: Can I see my financials in real time?**
 A: Yes. BBL's secure online platform gives you anytime access to your current cash position, outstanding invoices, and monthly expenses as the bookkeeping team updates your ledger, so you're never waiting on a phone call for answers.
 
-**Q: Does BBL handle bookkeeping for restaurants, physicians, and agriculture businesses?**
-A: Yes. BBL works with restaurants on tip reporting and food cost tracking, with physicians and dentists on insurance receivables and payroll, and with agriculture businesses on seasonal income and equipment depreciation, structuring books around each industry's calendar.
+**Q: Does BBL handle bookkeeping for veterinarians, retirees, and high-net-worth individuals?**
+A: Yes. BBL structures books around how each client's income actually works. For veterinarians, that means tracking supply costs, equipment financing, and payroll alongside patient revenue. For retirees and high-net-worth individuals, it means organizing retirement distributions, investment income, Social Security, and real estate holdings into a clear, tax-ready financial picture.
 
 <!-- block: cta-banner | variant: image-bg | image: port-arthur-business-owner-handshake.jpg | alt: "Business owner shaking hands with an accountant in an office" | query: "business owner accountant handshake office" -->
 ## Ready to stop doing your own books
 
-Brammer, Begnaud, & Lattimore has guided Southeast Texas business owners through their books since 1950, seventy-five years of late nights spent so clients didn't have to spend theirs that way. Whether you run a restaurant in Port Arthur or a clinic in Beaumont, our team can take the bookkeeping off your hands starting this month.
+Brammer, Begnaud, & Lattimore has guided Southeast Texas professionals and individuals through their books since 1950 — seventy-five years of careful work so clients didn't have to do it themselves. Whether you run a medical or veterinary practice, manage a high-net-worth portfolio, or are navigating the financial complexity of retirement, our team can take the bookkeeping off your hands starting this month.
 
 [Schedule a consultation](/contact)
 
