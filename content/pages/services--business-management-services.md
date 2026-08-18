@@ -47,7 +47,7 @@ There's no hourly clock running in the background. No surprise invoice after a p
 <!-- block: industry-cards | variant: 3-col -->
 ## Who this service is built for
 
-Business management looks different in a restaurant kitchen than it does in a dental office. Here's how the service flexes to fit.
+Business management looks different in a veterinary practice than it does in a dental office or a retirement portfolio. Here's how the service flexes to fit.
 
 ### Physicians
 icon: Stethoscope
@@ -59,15 +59,20 @@ icon: ClipboardCheck
 
 Between equipment financing, hygienist payroll, and insurance billing cycles, cash flow gets complicated quickly. We build the financial picture that supports adding a chair or opening a second location.
 
-### Restaurants
-icon: Receipt
+### Veterinarians
+icon: PawPrint
 
-Restaurants live and die by weekly cash flow. Food cost percentages, labor ratios, and slow-season dips need daily attention, not a once-a-year look at the books.
+Between staff payroll, equipment costs, and the push-pull of patient volume, vet practices need more than a once-a-year tax filing. We keep a clear picture of what's profitable and what's quietly eating into your margins.
 
-### Agriculture
-icon: MapPin
+### Retirees
+icon: ShieldCheck
 
-Seasonal income, equipment debt, and land decisions require planning that spans years, not quarters. We help agriculture operators across Southeast Texas plan around the cycle instead of against it.
+Retirement income doesn't manage itself. Social Security timing, distribution planning, and investment income all interact in ways that add up to real money saved or lost. We keep that picture clear year-round.
+
+### High Net Worth Individuals
+icon: TrendingUp
+
+When income comes from multiple sources, tax minimization and financial oversight become a year-round job. We deliver CFO-level guidance that protects wealth and keeps your financial strategy coordinated.
 
 ### Small Business Owners
 icon: Briefcase
