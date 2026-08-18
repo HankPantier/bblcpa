@@ -50,7 +50,7 @@ Brammer, Begnaud, & Lattimore has been doing this since 1950. IRS representation
 <!-- block: industry-cards | variant: 3-col -->
 ## Who this service is built for
 
-Some businesses simply draw more IRS attention than others. If you work in one of these fields, audit protection belongs in your corner.
+Some clients simply carry more complexity — and complexity attracts IRS attention. If you fall into one of these categories, audit protection belongs in your corner.
 
 ### Physicians
 icon: Stethoscope
@@ -62,17 +62,22 @@ icon: HeartPulse
 
 Between equipment financing, payroll, and practice ownership, dental practices carry the kind of complexity that invites a closer look. We make sure every number holds up.
 
-### Restaurants
-icon: Receipt
+### Veterinarians
+icon: PawPrint
 
-Cash handling, tip reporting, and tight margins make food service one of the most audited industries around. We help you document everything the IRS likes to question.
+Practice overhead, equipment deductions, and mixed personal-business expenses create audit exposure for vets. We keep your records tight so you can stay focused on your patients.
 
-### Agriculture businesses
-icon: Home
+### Retirees
+icon: Umbrella
 
-Seasonal income, equipment deductions, and land valuations create plenty of moving parts. We keep Southeast Texas farms and growers prepared for scrutiny.
+Social Security income, retirement distributions, and investment activity can all trigger IRS questions. We make sure your filings are airtight and handle any notices that come your way.
 
-### Small business owners
+### High Net Worth Individuals
+icon: TrendingUp
+
+Large investment portfolios, complex deductions, and multiple income streams put high earners on the IRS radar. We represent you fully so a notice never becomes a costly distraction.
+
+### Small Business Owners
 icon: Briefcase
 
 Payroll, contractor 1099s, and home office deductions are common audit triggers. Whatever your industry, we handle the IRS so you can keep running the shop.
