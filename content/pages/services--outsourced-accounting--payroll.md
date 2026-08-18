@@ -62,11 +62,6 @@ See what was paid, when it went out, and where your numbers stand, any time of d
 
 Payroll looks different depending on who you employ. We have handled these situations across Southeast Texas for over 70 years, so the wrinkles in your industry are familiar territory.
 
-### Restaurants
-icon: Receipt
-
-Tipped wages, hourly shifts, and high turnover make restaurant payroll its own animal. We keep tip reporting and pay runs accurate so your staff and your books stay square.
-
 ### Physicians
 icon: Stethoscope
 
@@ -77,20 +72,25 @@ icon: HeartPulse
 
 A dental practice mixes salaried providers with hourly support staff. We handle both cleanly, including the changes that come with adding a hygienist or associate.
 
-### Agriculture
-icon: Home
+### Veterinarians
+icon: PawPrint
 
-Seasonal crews and shifting headcounts make farm payroll unpredictable. We scale your pay runs up and down with the season and keep compliance steady throughout.
+Veterinary practices carry a mix of salaried doctors, hourly technicians, and support staff. We keep every pay run accurate so you can focus on patients, not paperwork.
 
 ### Small business owners
 icon: Briefcase
 
 Whether you have three employees or thirty, we run payroll so you can spend your time on the work that actually pays the bills.
 
-### New business owners
-icon: Lightbulb
+### Retirees
+icon: Umbrella
 
-Starting out means getting payroll right before the first paycheck goes out. We set it up correctly so you launch on solid footing.
+If you manage household employees or small investment-related payroll obligations, we handle the details so retirement stays the simple chapter it is supposed to be.
+
+### High net worth individuals
+icon: TrendingUp
+
+Complex compensation arrangements, household staff, and multiple income streams require payroll handled with precision. We manage it all so nothing slips through the cracks.
 
 <!-- block: stats-bar | variant: 3-up -->
 ## Trusted by Southeast Texas businesses since 1950
