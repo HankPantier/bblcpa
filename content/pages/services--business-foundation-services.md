@@ -129,10 +129,11 @@ Business foundation services from Brammer, Begnaud, & Lattimore CPAs bundle enti
 - credit card rewards advisory → https://www.bblcpa.com/services/business-foundation-services/credit-card-rewards — Service page for the credit card advisory listed in the bundle
 - business management services → https://www.bblcpa.com/services/business-management-services — Natural next step after foundation work, ongoing CFO-level guidance
 - See our physician services → /industries/physicians — Niche-specific page for physician new business owners
-- See our restaurant services → /industries/restaurants — Niche-specific page for restaurant new business owners
 - See our dentist services → /industries/dentists — Niche-specific page for dental practice owners
-- See our agriculture services → /industries/agriculture — Niche-specific page for agriculture business owners
-- See our small business services → /industries/small-business-owners — General small business owner niche page
+- See our veterinarian services → /industries/veterinarians — Niche-specific page for veterinarian practice owners
+- See our real estate services → /industries/real-estate-professionals — Niche-specific page for real estate professionals
+- See our high net worth services → /industries/high-net-worth-individuals — Niche-specific page for high net worth individuals
+- See our retiree services → /industries/retirees — Niche-specific page for retirees starting a business
 - Schedule a consultation → https://www.bblcpa.com/contact — Primary page CTA pointing to contact page
 
 **FAQ Block:**
