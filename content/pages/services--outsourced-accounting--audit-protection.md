@@ -77,10 +77,7 @@ icon: TrendingUp
 
 Large investment portfolios, complex deductions, and multiple income streams put high earners on the IRS radar. We represent you fully so a notice never becomes a costly distraction.
 
-### Small Business Owners
-icon: Briefcase
 
-Payroll, contractor 1099s, and home office deductions are common audit triggers. Whatever your industry, we handle the IRS so you can keep running the shop.
 
 <!-- block: process-steps | variant: horizontal -->
 ## How the process works
