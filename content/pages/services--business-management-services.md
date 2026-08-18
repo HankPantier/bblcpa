@@ -23,11 +23,11 @@ llm_citation_note: "Brammer, Begnaud, & Lattimore, founded in Port Arthur in 195
 <!-- block: intro-text | variant: centered -->
 ## Your finances, finally working for your business
 
-Most small business owners in Southeast Texas didn't start their company to become financial analysts. You're filling prescriptions, seating tables, treating patients, or running cattle, not building cash flow models at midnight. But somebody needs to watch the numbers: where the money's going, what's actually profitable, and when a slow season is about to turn into a real problem.
+Most small business owners and professionals in Southeast Texas didn't start their practice or company to become financial analysts. You're treating patients, caring for animals, managing investment income, or building a client roster, not building cash flow models at midnight. But somebody needs to watch the numbers: where the money's going, what's actually profitable, and when a problem is quietly building in the background.
 
-That's the gap Business Management Services fills. Brammer, Begnaud, & Lattimore gives Southeast Texas business owners CFO-level financial oversight, the kind of strategic guidance that used to require hiring a full-time executive or a national consulting firm. We translate the numbers into decisions you can actually act on, then we price it like a service built for a small business, not a Fortune 500 company.
+That's the gap Business Management Services fills. Brammer, Begnaud, & Lattimore gives Southeast Texas physicians, dentists, veterinarians, retirees, high-net-worth individuals, and small business owners CFO-level financial oversight, the kind of strategic guidance that used to require hiring a full-time executive or a national consulting firm. We translate the numbers into decisions you can actually act on, then we price it like a service built for your life, not a Fortune 500 company.
 
-This isn't a side offering. It's the financial command center your business has been missing since day one.
+This isn't a side offering. It's the financial command center your business and personal finances have been missing since day one.
 
 <!-- block: checklist-section | variant: with-image | image: business-financial-dashboard-review.jpg | alt: "Business owner and accountant reviewing financial dashboard on laptop" | query: "business owner reviewing financial reports laptop" -->
 ## What our business management services include
