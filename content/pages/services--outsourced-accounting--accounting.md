@@ -56,22 +56,22 @@ You get the numbers, whenever you want them. We get to work. That's the arrangem
 <!-- block: industry-cards | variant: 3-col -->
 ## Bookkeeping built for your industry
 
-A restaurant's books don't look like a dental practice's books, and a dental practice's books don't look like a row crop farm's. We've spent decades learning the difference.
+A veterinary practice's books don't look like a dental practice's books, and neither looks like the books of a high-net-worth individual managing investment income. We've spent decades learning the difference.
 
 ### Medical and dental practices
 icon: Stethoscope
 
 [Physicians](https://www.bblcpa.com/industries/physicians) and dentists juggle insurance reimbursements, equipment financing, and staff payroll on top of patient care. We track accounts receivable by payer and keep cash flow visible so you're not waiting on an insurance check to cover payroll.
 
-### Restaurants
+### Veterinary practices
+icon: Stethoscope
+
+Veterinarians manage supply costs, equipment loans, and a high-volume patient calendar all at once. We keep your books current month to month so you can focus on patients, not paperwork — with real-time visibility into cash flow and expenses through our secure online platform.
+
+### Retirees and high-net-worth individuals
 icon: Receipt
 
-Tip reporting, food cost percentages, and daily cash reconciliations need attention every week, not once a month. We connect your point-of-sale data to clean books so you know your margins before the month closes. Built for [restaurants](https://www.bblcpa.com/industries/restaurants) running tight on time.
-
-### Agriculture
-icon: Wrench
-
-Equipment depreciation, seasonal income, and crop insurance proceeds complicate a standard ledger. We structure [agriculture](https://www.bblcpa.com/industries/agriculture) books around your harvest cycle, not a generic calendar quarter.
+Retirement distributions, Social Security income, investment accounts, and real estate holdings all create bookkeeping complexity that a generic spreadsheet can't handle. We organize your financial picture so you always know where you stand — and so tax season holds no surprises.
 
 <!-- block: content-prose -->
 ## No surprise bills, ever
