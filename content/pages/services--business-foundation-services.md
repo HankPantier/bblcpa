@@ -62,25 +62,30 @@ icon: Stethoscope
 
 New practice owners need entity guidance that accounts for malpractice exposure and group ownership questions before the first patient is seen. [See our physician services](/industries/physicians).
 
-### Restaurants
-icon: Receipt
-
-Tight margins and tip reporting make accurate setup non-negotiable from week one. [See our restaurant services](/industries/restaurants).
-
 ### Dentists
 icon: HeartPulse
 
 Equipment financing and practice ownership structure both hinge on getting the entity decision right early. [See our dentist services](/industries/dentists).
 
-### Agriculture
-icon: Wrench
+### Veterinarians
+icon: PawPrint
 
-Land, equipment, and seasonal cash flow call for an entity structure built around how farm income actually moves. [See our agriculture services](/industries/agriculture).
+Practice ownership brings unique entity and cash flow questions — we help vets build a financial structure that keeps the focus on patients, not paperwork. [See our veterinarian services](/industries/veterinarians).
 
-### Small business owners
-icon: Briefcase
+### Real Estate Professionals
+icon: Home
 
-Whether it's a retail storefront or a service business, the same foundation work applies. [See our small business services](/industries/small-business-owners).
+Whether you're a solo agent or managing a growing portfolio, the right entity structure and clean books protect your commissions and investment income from day one. [See our real estate services](/industries/real-estate-professionals).
+
+### High Net Worth Individuals
+icon: TrendingUp
+
+Complex income streams call for a solid foundation — entity selection, proactive tax positioning, and CFO-level oversight built to protect and grow what you've built. [See our high net worth services](/industries/high-net-worth-individuals).
+
+### Retirees
+icon: Umbrella
+
+Starting a business in retirement adds income streams that need careful structuring. We set up your entity and books to keep Social Security, distributions, and business income working together. [See our retiree services](/industries/retirees).
 
 <!-- block: faq-accordion -->
 ## Frequently Asked Questions About Business foundation services | Brammer, Begnaud, & Lattimore CPAs & Consultants
