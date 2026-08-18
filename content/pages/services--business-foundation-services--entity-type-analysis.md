@@ -46,9 +46,9 @@ A mismatched entity rarely announces itself right away. It shows up later, in a 
 Here's what we see most often:
 
 - A physician operating as a sole proprietor pays self-employment tax on income an S-Corp election could have shielded, often thousands of dollars a year.
-- A restaurant owner with one LLC covering multiple locations puts every location's assets at risk if a single location gets sued.
-- A new business owner who skips the analysis discovers, mid-negotiation with an investor, that their structure can't issue the equity the deal requires.
-- An agriculture operation passed between generations without the right entity in place faces estate and succession headaches that proper planning would have avoided.
+- A veterinarian with a single LLC covering multiple practice locations puts every location's assets at risk if one location faces a liability claim.
+- A high-net-worth individual who skips the analysis discovers, mid-negotiation with a partner or investor, that their structure can't accommodate the deal without costly restructuring.
+- A retiree who hasn't revisited their entity structure finds that distributions, Social Security income, and investment earnings are taxed less efficiently than proper planning would allow.
 
 None of these mistakes are exotic. They're common, and one conversation before you file is usually enough to avoid them.
 
