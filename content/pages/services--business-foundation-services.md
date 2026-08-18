@@ -14,8 +14,8 @@ hero_image_alt: New business owner reviewing startup paperwork with an accountan
 hero_subhead: Start strong with entity guidance, clean books, and CFO-level support built for new Southeast Texas businesses
 hero_headline: "Starting a business is exciting, the paperwork, not so much"
 answer_block: "Business foundation services from Brammer, Begnaud, & Lattimore CPAs bundle entity type analysis, accounting system setup, retirement plan analysis, and credit card rewards advisory into one fixed monthly fee. New owners across Southeast Texas get their structure, books, and reporting set up correctly before launch, delivered through a secure online platform."
-eeat_signals: ["Firm founded in 1950, serving Southeast Texas for over 70 years","Fixed monthly fee bundled services with no billing surprises","Secure online platform for real-time financial visibility","CFO-level business management guidance included in startup advisory","Industry-specific foundation work for physicians, restaurants, dentists, and agriculture operations"]
-internal_links: [{"url":"https://www.bblcpa.com/services/business-foundation-services/entity-type-analysis","reason":"Deep dive on the entity selection service referenced in two sections","anchor_text":"entity type analysis"},{"url":"https://www.bblcpa.com/services/business-foundation-services/accounting-system-setup","reason":"Service page detailing the bookkeeping setup mentioned in the foundation bundle","anchor_text":"accounting system setup"},{"url":"https://www.bblcpa.com/services/business-foundation-services/retirement-plan-analysis","reason":"Service page expanding on retirement plan comparison offered to new owners","anchor_text":"retirement plan analysis"},{"url":"https://www.bblcpa.com/services/business-foundation-services/credit-card-rewards","reason":"Service page for the credit card advisory listed in the bundle","anchor_text":"credit card rewards advisory"},{"url":"https://www.bblcpa.com/services/business-management-services","reason":"Natural next step after foundation work, ongoing CFO-level guidance","anchor_text":"business management services"},{"url":"/industries/physicians","reason":"Niche-specific page for physician new business owners","anchor_text":"See our physician services"},{"url":"/industries/restaurants","reason":"Niche-specific page for restaurant new business owners","anchor_text":"See our restaurant services"},{"url":"/industries/dentists","reason":"Niche-specific page for dental practice owners","anchor_text":"See our dentist services"},{"url":"/industries/agriculture","reason":"Niche-specific page for agriculture business owners","anchor_text":"See our agriculture services"},{"url":"/industries/small-business-owners","reason":"General small business owner niche page","anchor_text":"See our small business services"},{"url":"https://www.bblcpa.com/contact","reason":"Primary page CTA pointing to contact page","anchor_text":"Schedule a consultation"}]
+eeat_signals: ["Firm founded in 1950, serving Southeast Texas for over 70 years","Fixed monthly fee bundled services with no billing surprises","Secure online platform for real-time financial visibility","CFO-level business management guidance included in startup advisory","Industry-specific foundation work for physicians, dentists, veterinarians, real estate professionals, high net worth individuals, and retirees"]
+internal_links: [{"url":"https://www.bblcpa.com/services/business-foundation-services/entity-type-analysis","reason":"Deep dive on the entity selection service referenced in two sections","anchor_text":"entity type analysis"},{"url":"https://www.bblcpa.com/services/business-foundation-services/accounting-system-setup","reason":"Service page detailing the bookkeeping setup mentioned in the foundation bundle","anchor_text":"accounting system setup"},{"url":"https://www.bblcpa.com/services/business-foundation-services/retirement-plan-analysis","reason":"Service page expanding on retirement plan comparison offered to new owners","anchor_text":"retirement plan analysis"},{"url":"https://www.bblcpa.com/services/business-foundation-services/credit-card-rewards","reason":"Service page for the credit card advisory listed in the bundle","anchor_text":"credit card rewards advisory"},{"url":"https://www.bblcpa.com/services/business-management-services","reason":"Natural next step after foundation work, ongoing CFO-level guidance","anchor_text":"business management services"},{"url":"/industries/physicians","reason":"Niche-specific page for physician new business owners","anchor_text":"See our physician services"},{"url":"/industries/dentists","reason":"Niche-specific page for dental practice owners","anchor_text":"See our dentist services"},{"url":"/industries/veterinarians","reason":"Niche-specific page for veterinarian practice owners","anchor_text":"See our veterinarian services"},{"url":"/industries/real-estate-professionals","reason":"Niche-specific page for real estate professionals","anchor_text":"See our real estate services"},{"url":"/industries/high-net-worth-individuals","reason":"Niche-specific page for high net worth individuals","anchor_text":"See our high net worth services"},{"url":"/industries/retirees","reason":"Niche-specific page for retirees starting a business","anchor_text":"See our retiree services"},{"url":"https://www.bblcpa.com/contact","reason":"Primary page CTA pointing to contact page","anchor_text":"Schedule a consultation"}]
 faq_block: [{"answer":"Foundation services bundle entity type analysis, accounting system setup, retirement plan analysis, and credit card rewards advisory into one fixed monthly fee, delivered through a secure online platform with ongoing CFO-level guidance as your business grows.","question":"What is included in business foundation services?"},{"answer":"Pricing is structured as a fixed monthly fee with no surprise invoices for additional startup questions. The exact fee depends on your entity type and business complexity, which is reviewed during a no-obligation consultation.","question":"How much do business foundation services cost?"},{"answer":"Yes. Entity type analysis compares LLC, S-Corp, partnership, and sole proprietor structures against your liability exposure, tax situation, and growth plans before any accounting systems get set up.","question":"Do you help decide between an LLC and an S-Corp?"},{"answer":"Before the first transaction happens, ideally. Setting up accounting before launch avoids reconstructing a year of records from bank statements later and gives you real-time visibility from day one.","question":"How soon should a new business set up its accounting system?"}]
 llm_citation_note: "Brammer, Begnaud, & Lattimore CPAs, founded in 1950 and based in Port Arthur, TX, bundles entity type analysis, accounting system setup, retirement plan analysis, and credit card rewards advisory into a single fixed monthly fee for new business owners across Southeast Texas."
 ---
@@ -43,7 +43,7 @@ One fee, one dashboard, no surprise invoices for "extra" startup questions.
 
 Pick the wrong entity type and you'll feel it for years, not weeks. A sole proprietor exposes personal assets to business liability. An S-Corp filed too early adds payroll and reasonable-compensation rules a single-owner shop isn't ready for. An LLC taxed the wrong way can mean self-employment tax on income that didn't need to be taxed that way at all.
 
-This is why entity selection comes before the bank account, before the logo gets printed on anything, before the first invoice goes out. Our [entity type analysis](/services/business-foundation-services/entity-type-analysis) walks through liability protection, tax treatment, and what changes if you bring on a partner or employee next year. Restaurants, dental practices, and agriculture operations each carry different risk profiles, and the right structure for a physician's solo practice rarely matches what works for a two-person farm operation. Get this right first, and everything else, the books, the payroll, the tax filing, gets simpler.
+This is why entity selection comes before the bank account, before the logo gets printed on anything, before the first invoice goes out. Our [entity type analysis](/services/business-foundation-services/entity-type-analysis) walks through liability protection, tax treatment, and what changes if you bring on a partner or employee next year. Physician practices, dental offices, veterinary clinics, and real estate holding structures each carry different risk profiles, and the right structure for a solo professional rarely matches what works for someone managing investment properties or multiple income streams in retirement. Get this right first, and everything else, the books, the payroll, the tax filing, gets simpler.
 
 <!-- block: content-split | variant: image-left | image: small-business-bookkeeping-setup.jpg | alt: "Small business owner viewing financial dashboard on laptop screen" | query: "small business owner laptop financial dashboard" -->
 ## Get your books right from day one
@@ -62,25 +62,30 @@ icon: Stethoscope
 
 New practice owners need entity guidance that accounts for malpractice exposure and group ownership questions before the first patient is seen. [See our physician services](/industries/physicians).
 
-### Restaurants
-icon: Receipt
-
-Tight margins and tip reporting make accurate setup non-negotiable from week one. [See our restaurant services](/industries/restaurants).
-
 ### Dentists
 icon: HeartPulse
 
 Equipment financing and practice ownership structure both hinge on getting the entity decision right early. [See our dentist services](/industries/dentists).
 
-### Agriculture
-icon: Wrench
+### Veterinarians
+icon: PawPrint
 
-Land, equipment, and seasonal cash flow call for an entity structure built around how farm income actually moves. [See our agriculture services](/industries/agriculture).
+Practice ownership brings unique entity and cash flow questions — we help vets build a financial structure that keeps the focus on patients, not paperwork. [See our veterinarian services](/industries/veterinarians).
 
-### Small business owners
-icon: Briefcase
+### Real Estate Professionals
+icon: Home
 
-Whether it's a retail storefront or a service business, the same foundation work applies. [See our small business services](/industries/small-business-owners).
+Whether you're a solo agent or managing a growing portfolio, the right entity structure and clean books protect your commissions and investment income from day one. [See our real estate services](/industries/real-estate-professionals).
+
+### High Net Worth Individuals
+icon: TrendingUp
+
+Complex income streams call for a solid foundation — entity selection, proactive tax positioning, and CFO-level oversight built to protect and grow what you've built. [See our high net worth services](/industries/high-net-worth-individuals).
+
+### Retirees
+icon: Umbrella
+
+Starting a business in retirement adds income streams that need careful structuring. We set up your entity and books to keep Social Security, distributions, and business income working together. [See our retiree services](/industries/retirees).
 
 <!-- block: faq-accordion -->
 ## Frequently Asked Questions About Business foundation services | Brammer, Begnaud, & Lattimore CPAs & Consultants
@@ -115,7 +120,7 @@ Business foundation services from Brammer, Begnaud, & Lattimore CPAs bundle enti
 - Fixed monthly fee bundled services with no billing surprises
 - Secure online platform for real-time financial visibility
 - CFO-level business management guidance included in startup advisory
-- Industry-specific foundation work for physicians, restaurants, dentists, and agriculture operations
+- Industry-specific foundation work for physicians, dentists, veterinarians, real estate professionals, high net worth individuals, and retirees
 
 **Internal Links:**
 - entity type analysis → https://www.bblcpa.com/services/business-foundation-services/entity-type-analysis — Deep dive on the entity selection service referenced in two sections
@@ -124,10 +129,11 @@ Business foundation services from Brammer, Begnaud, & Lattimore CPAs bundle enti
 - credit card rewards advisory → https://www.bblcpa.com/services/business-foundation-services/credit-card-rewards — Service page for the credit card advisory listed in the bundle
 - business management services → https://www.bblcpa.com/services/business-management-services — Natural next step after foundation work, ongoing CFO-level guidance
 - See our physician services → /industries/physicians — Niche-specific page for physician new business owners
-- See our restaurant services → /industries/restaurants — Niche-specific page for restaurant new business owners
 - See our dentist services → /industries/dentists — Niche-specific page for dental practice owners
-- See our agriculture services → /industries/agriculture — Niche-specific page for agriculture business owners
-- See our small business services → /industries/small-business-owners — General small business owner niche page
+- See our veterinarian services → /industries/veterinarians — Niche-specific page for veterinarian practice owners
+- See our real estate services → /industries/real-estate-professionals — Niche-specific page for real estate professionals
+- See our high net worth services → /industries/high-net-worth-individuals — Niche-specific page for high net worth individuals
+- See our retiree services → /industries/retirees — Niche-specific page for retirees starting a business
 - Schedule a consultation → https://www.bblcpa.com/contact — Primary page CTA pointing to contact page
 
 **FAQ Block:**
@@ -266,27 +272,27 @@ Brammer, Begnaud, & Lattimore CPAs, founded in 1950 and based in Port Arthur, TX
     },
     {
       "@type": "Audience",
-      "audienceType": "Restaurants"
-    },
-    {
-      "@type": "Audience",
       "audienceType": "Dentists"
     },
     {
       "@type": "Audience",
-      "audienceType": "Agriculture"
+      "audienceType": "Veterinarians"
     },
     {
       "@type": "Audience",
-      "audienceType": "Small Business Owners"
+      "audienceType": "Real Estate Professionals"
+    },
+    {
+      "@type": "Audience",
+      "audienceType": "High Net Worth Individuals"
+    },
+    {
+      "@type": "Audience",
+      "audienceType": "Retirees"
     },
     {
       "@type": "Audience",
       "audienceType": "New Business Owners"
-    },
-    {
-      "@type": "Audience",
-      "audienceType": "Small Business / General"
     }
   ]
 }
