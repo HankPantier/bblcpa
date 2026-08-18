@@ -120,25 +120,25 @@ icon: HeartPulse
 
 Dental practices carry heavy equipment costs and tricky cash flow between insurance reimbursements. We keep the books clean and the tax planning sharp. [See our work with dentists](/industries/dentists)
 
-### Restaurants
-icon: Star
+### Veterinarians
+icon: PawPrint
 
-Thin margins, tip reporting, and constant inventory make restaurant accounting unforgiving. We track the numbers that tell you whether tonight was profitable. [See our work with restaurants](/industries/restaurants)
+Veterinary practices balance patient care with payroll, equipment costs, and shifting tax rules. Fixed monthly fees, year-round tax support, and real-time financial visibility mean you can focus on patients, not paperwork. [See our work with veterinarians](/industries/veterinarians)
 
-### Agriculture
-icon: Globe
+### Real Estate Professionals
+icon: Home
 
-Farms and ag businesses face seasonal income, equipment depreciation, and specialized tax provisions. We plan around the harvest, not against it. [See our work in agriculture](/industries/agriculture)
+Real estate income comes with layered deductions, depreciation schedules, and entity decisions that can make or break your tax bill. We bring proactive strategies and CFO-level guidance at a fraction of the cost. [See our work with real estate professionals](/industries/real-estate-professionals)
 
-### Small Business Owners
-icon: Briefcase
+### Retirees
+icon: Umbrella
 
-When you wear every hat, the books are the first thing to slip. We take accounting, payroll, and taxes off your plate so you can run the business. [See our work with small businesses](/industries/small-business-owners)
+Social Security, retirement distributions, and investment income all come with tax implications that shift year to year. We provide year-round support to protect what you have built. [See our work with retirees](/industries/retirees)
 
-### New Business Owners
-icon: Lightbulb
+### High Net Worth Individuals
+icon: TrendingUp
 
-Launching means a hundred decisions, and the financial ones set the tone for everything after. We help you pick the right entity and build a foundation that holds. [See our work with new owners](/industries/new-business-owners)
+When your financial picture is complex, reactive tax planning is expensive. We bring proactive minimization strategies and CFO-level guidance at a fraction of the cost of traditional advisory. [See our work with high net worth individuals](/industries/high-net-worth-individuals)
 
 <!-- block: content-split | variant: image-left | image: bbl-year-round-support.jpg | alt: "Accountant on a phone call assisting a client from an office desk" | query: "accountant phone call helping client office" -->
 ## Real support from real people, year-round
