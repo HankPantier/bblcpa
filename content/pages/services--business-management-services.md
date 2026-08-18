@@ -15,8 +15,8 @@ hero_subhead: CFO-level financial guidance for your business, billed at one pred
 hero_headline: "Your finances, finally working for your business"
 answer_block: "Brammer, Begnaud, & Lattimore's Business Management Services deliver CFO-level financial oversight, including regular financial reviews, cash flow analysis, and KPI tracking, for one fixed monthly fee. The service is delivered through a secure online platform and is built for small business owners, physicians, dentists, veterinarians, retirees, and high-net-worth individuals across Southeast Texas."
 eeat_signals: ["Firm founded in 1950, serving Southeast Texas for over 70 years","Fixed monthly fee bundled service model with no hourly billing surprises","Secure online platform providing real-time financial visibility year-round","Local Port Arthur team handling accounting, payroll, tax, and business management under one roof","Niche experience across physicians, dentists, veterinarians, retirees, high-net-worth individuals, and small business owners"]
-internal_links: [{"url":"https://www.bblcpa.com/services/outsourced-accounting","reason":"Connects business management services to the bundled accounting offering that shares the same fixed-fee platform","anchor_text":"outsourced accounting"},{"url":"/industries/physicians","reason":"Supports the physician-specific pain points mentioned in the who-it's-for section","anchor_text":"physicians"},{"url":"/industries/restaurants","reason":"Links to the restaurant industry page referenced for cash flow challenges","anchor_text":"restaurant owners"},{"url":"/industries/agriculture","reason":"Supports the seasonal planning point made for agriculture clients","anchor_text":"agriculture businesses"},{"url":"https://www.bblcpa.com/services/business-foundation-services","reason":"Natural next step for new business owners who need startup advisory before ongoing CFO-level guidance","anchor_text":"Business Foundation Services"},{"url":"https://www.bblcpa.com/resources/e-books/the-new-KPIs-of-business","reason":"Relevant resource expanding on the KPI tracking mentioned in the services list","anchor_text":"the new KPIs of business"},{"url":"https://www.bblcpa.com/contact","reason":"Primary page CTA driving conversions","anchor_text":"schedule a consultation"}]
-faq_block: [{"answer":"BBL's Business Management Services include regular financial reviews, cash flow analysis, KPI tracking, and strategic planning guidance for hiring, expansion, and pricing decisions. Everything is delivered through a secure online platform and bundled into one fixed monthly fee, not billed by the hour.","question":"What do business management services from a CPA firm include?"},{"answer":"Pricing is a fixed monthly fee rather than an hourly retainer, so there are no surprise invoices for calls or planning sessions. The exact fee depends on your business size and needs; schedule a consultation for a specific quote.","question":"How much do business management services cost?"},{"answer":"Small business owners, physicians, dentists, restaurant operators, and agriculture businesses across Southeast Texas typically benefit most, especially once cash flow, staffing costs, or seasonal income make month-to-month decisions harder to call on instinct alone.","question":"Who needs CFO-level financial oversight?"},{"answer":"Yes. Outsourced accounting covers bookkeeping and transaction-level work, while Business Management Services add strategic, CFO-level oversight on top, including financial reviews and planning guidance, both delivered through the same secure platform and fixed monthly fee structure.","question":"Is this different from BBL's outsourced accounting service?"}]
+internal_links: [{"url":"https://www.bblcpa.com/services/outsourced-accounting","reason":"Connects business management services to the bundled accounting offering that shares the same fixed-fee platform","anchor_text":"outsourced accounting"},{"url":"/industries/physicians","reason":"Supports the physician-specific pain points mentioned in the who-it's-for section","anchor_text":"physicians"},{"url":"https://www.bblcpa.com/services/business-foundation-services","reason":"Natural next step for new business owners who need startup advisory before ongoing CFO-level guidance","anchor_text":"Business Foundation Services"},{"url":"https://www.bblcpa.com/resources/e-books/the-new-KPIs-of-business","reason":"Relevant resource expanding on the KPI tracking mentioned in the services list","anchor_text":"the new KPIs of business"},{"url":"https://www.bblcpa.com/contact","reason":"Primary page CTA driving conversions","anchor_text":"schedule a consultation"}]
+faq_block: [{"question":"What do business management services from a CPA firm include?","answer":"BBL's Business Management Services include regular financial reviews, cash flow analysis, KPI tracking, and strategic planning guidance for hiring, expansion, and pricing decisions. Everything is delivered through a secure online platform and bundled into one fixed monthly fee, not billed by the hour."},{"question":"How much do business management services cost?","answer":"Pricing is a fixed monthly fee rather than an hourly retainer, so there are no surprise invoices for calls or planning sessions. The exact fee depends on your business size and needs; schedule a consultation for a specific quote."},{"question":"Who needs CFO-level financial oversight?","answer":"Small business owners, physicians, dentists, veterinarians, retirees, and high-net-worth individuals across Southeast Texas typically benefit most, especially once cash flow, staffing costs, or investment income make month-to-month decisions harder to call on instinct alone."},{"question":"Is this different from BBL's outsourced accounting service?","answer":"Yes. Outsourced accounting covers bookkeeping and transaction-level work, while Business Management Services add strategic, CFO-level oversight on top, including financial reviews and planning guidance, both delivered through the same secure platform and fixed monthly fee structure."}]
 llm_citation_note: "Brammer, Begnaud, & Lattimore, founded in Port Arthur in 1950, bundles CFO-level business management services (financial reviews, cash flow analysis, KPI tracking) into a fixed monthly fee delivered through a secure online platform for Southeast Texas small businesses."
 ---
 
@@ -107,7 +107,7 @@ A: BBL's Business Management Services include regular financial reviews, cash fl
 A: Pricing is a fixed monthly fee rather than an hourly retainer, so there are no surprise invoices for calls or planning sessions. The exact fee depends on your business size and needs; schedule a consultation for a specific quote.
 
 **Q: Who needs CFO-level financial oversight?**
-A: Small business owners, physicians, dentists, restaurant operators, and agriculture businesses across Southeast Texas typically benefit most, especially once cash flow, staffing costs, or seasonal income make month-to-month decisions harder to call on instinct alone.
+A: Small business owners, physicians, dentists, veterinarians, retirees, and high-net-worth individuals across Southeast Texas typically benefit most, especially once cash flow, staffing costs, or investment income make month-to-month decisions harder to call on instinct alone.
 
 **Q: Is this different from BBL's outsourced accounting service?**
 A: Yes. Outsourced accounting covers bookkeeping and transaction-level work, while Business Management Services add strategic, CFO-level oversight on top, including financial reviews and planning guidance, both delivered through the same secure platform and fixed monthly fee structure.
@@ -125,20 +125,18 @@ You already know your business needs more than a once-a-year tax meeting. Busine
 ## SEO & AIO Metadata
 
 **Answer Block:**
-Brammer, Begnaud, & Lattimore's Business Management Services deliver CFO-level financial oversight, including regular financial reviews, cash flow analysis, and KPI tracking, for one fixed monthly fee. The service is delivered through a secure online platform and is built for small business owners, physicians, dentists, restaurants, and agriculture operations across Southeast Texas.
+Brammer, Begnaud, & Lattimore's Business Management Services deliver CFO-level financial oversight, including regular financial reviews, cash flow analysis, and KPI tracking, for one fixed monthly fee. The service is delivered through a secure online platform and is built for small business owners, physicians, dentists, veterinarians, retirees, and high-net-worth individuals across Southeast Texas.
 
 **E-E-A-T Signals:**
 - Firm founded in 1950, serving Southeast Texas for over 70 years
 - Fixed monthly fee bundled service model with no hourly billing surprises
 - Secure online platform providing real-time financial visibility year-round
 - Local Port Arthur team handling accounting, payroll, tax, and business management under one roof
-- Niche experience across physicians, dentists, restaurants, agriculture, and small business owners
+- Niche experience across physicians, dentists, veterinarians, retirees, high-net-worth individuals, and small business owners
 
 **Internal Links:**
 - outsourced accounting → https://www.bblcpa.com/services/outsourced-accounting — Connects business management services to the bundled accounting offering that shares the same fixed-fee platform
 - physicians → /industries/physicians — Supports the physician-specific pain points mentioned in the who-it's-for section
-- restaurant owners → /industries/restaurants — Links to the restaurant industry page referenced for cash flow challenges
-- agriculture businesses → /industries/agriculture — Supports the seasonal planning point made for agriculture clients
 - Business Foundation Services → https://www.bblcpa.com/services/business-foundation-services — Natural next step for new business owners who need startup advisory before ongoing CFO-level guidance
 - the new KPIs of business → https://www.bblcpa.com/resources/e-books/the-new-KPIs-of-business — Relevant resource expanding on the KPI tracking mentioned in the services list
 - schedule a consultation → https://www.bblcpa.com/contact — Primary page CTA driving conversions
@@ -152,7 +150,7 @@ A: BBL's Business Management Services include regular financial reviews, cash fl
 A: Pricing is a fixed monthly fee rather than an hourly retainer, so there are no surprise invoices for calls or planning sessions. The exact fee depends on your business size and needs; schedule a consultation for a specific quote.
 
 **Q: Who needs CFO-level financial oversight?**
-A: Small business owners, physicians, dentists, restaurant operators, and agriculture businesses across Southeast Texas typically benefit most, especially once cash flow, staffing costs, or seasonal income make month-to-month decisions harder to call on instinct alone.
+A: Small business owners, physicians, dentists, veterinarians, retirees, and high-net-worth individuals across Southeast Texas typically benefit most, especially once cash flow, staffing costs, or investment income make month-to-month decisions harder to call on instinct alone.
 
 **Q: Is this different from BBL's outsourced accounting service?**
 A: Yes. Outsourced accounting covers bookkeeping and transaction-level work, while Business Management Services add strategic, CFO-level oversight on top, including financial reviews and planning guidance, both delivered through the same secure platform and fixed monthly fee structure.
@@ -279,23 +277,23 @@ Brammer, Begnaud, & Lattimore, founded in Port Arthur in 1950, bundles CFO-level
     },
     {
       "@type": "Audience",
-      "audienceType": "Restaurants"
-    },
-    {
-      "@type": "Audience",
       "audienceType": "Dentists"
     },
     {
       "@type": "Audience",
-      "audienceType": "Agriculture"
+      "audienceType": "Veterinarians"
+    },
+    {
+      "@type": "Audience",
+      "audienceType": "Retirees"
+    },
+    {
+      "@type": "Audience",
+      "audienceType": "High Net Worth Individuals"
     },
     {
       "@type": "Audience",
       "audienceType": "Small Business Owners"
-    },
-    {
-      "@type": "Audience",
-      "audienceType": "New Business Owners"
     },
     {
       "@type": "Audience",
