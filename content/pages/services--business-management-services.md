@@ -107,7 +107,7 @@ A: BBL's Business Management Services include regular financial reviews, cash fl
 A: Pricing is a fixed monthly fee rather than an hourly retainer, so there are no surprise invoices for calls or planning sessions. The exact fee depends on your business size and needs; schedule a consultation for a specific quote.
 
 **Q: Who needs CFO-level financial oversight?**
-A: Small business owners, physicians, dentists, restaurant operators, and agriculture businesses across Southeast Texas typically benefit most, especially once cash flow, staffing costs, or seasonal income make month-to-month decisions harder to call on instinct alone.
+A: Small business owners, physicians, dentists, veterinarians, retirees, and high-net-worth individuals across Southeast Texas typically benefit most, especially once cash flow, staffing costs, or investment income make month-to-month decisions harder to call on instinct alone.
 
 **Q: Is this different from BBL's outsourced accounting service?**
 A: Yes. Outsourced accounting covers bookkeeping and transaction-level work, while Business Management Services add strategic, CFO-level oversight on top, including financial reviews and planning guidance, both delivered through the same secure platform and fixed monthly fee structure.
@@ -152,7 +152,7 @@ A: BBL's Business Management Services include regular financial reviews, cash fl
 A: Pricing is a fixed monthly fee rather than an hourly retainer, so there are no surprise invoices for calls or planning sessions. The exact fee depends on your business size and needs; schedule a consultation for a specific quote.
 
 **Q: Who needs CFO-level financial oversight?**
-A: Small business owners, physicians, dentists, restaurant operators, and agriculture businesses across Southeast Texas typically benefit most, especially once cash flow, staffing costs, or seasonal income make month-to-month decisions harder to call on instinct alone.
+A: Small business owners, physicians, dentists, veterinarians, retirees, and high-net-worth individuals across Southeast Texas typically benefit most, especially once cash flow, staffing costs, or investment income make month-to-month decisions harder to call on instinct alone.
 
 **Q: Is this different from BBL's outsourced accounting service?**
 A: Yes. Outsourced accounting covers bookkeeping and transaction-level work, while Business Management Services add strategic, CFO-level oversight on top, including financial reviews and planning guidance, both delivered through the same secure platform and fixed monthly fee structure.
