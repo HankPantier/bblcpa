@@ -41,7 +41,7 @@ This level of attention is already part of the fixed monthly fee, not an add-on 
 <!-- block: industry-cards | variant: 3-col -->
 ## Tax planning built around your industry
 
-A restaurant's tax picture isn't a dentist's tax picture, and a row crop operation has almost nothing in common with either one. Depreciation schedules, entity structure, payroll timing, and deduction strategy all shift depending on what you do for a living, and Southeast Texas has a specific mix of industries that BBL has worked with for decades.
+A physician's tax picture isn't a retiree's tax picture, and a high-net-worth individual has almost nothing in common with either one. Depreciation schedules, entity structure, retirement distributions, and deduction strategy all shift depending on who you are and what you do, and Southeast Texas has a specific mix of clients that BBL has worked with for decades.
 
 ### Physicians
 icon: Stethoscope
@@ -53,20 +53,20 @@ icon: HeartPulse
 
 Equipment purchases, practice transitions, and associate-to-owner shifts each carry different tax implications worth planning around in advance. [See dental practice support](/industries/dentists).
 
-### Restaurants
-icon: Receipt
+### Veterinarians
+icon: PawPrint
 
-Tip reporting, razor-thin margins, and high transaction volume call for a tax approach built for food service, not retail. [Explore restaurant tax planning](/industries/restaurants).
+Fixed monthly fees, year-round tax support, and real-time financial visibility so vets can focus on patients, not paperwork. [See veterinary practice support](/industries/veterinarians).
 
-### Agriculture
-icon: Wrench
+### Retirees
+icon: Landmark
 
-Income that swings with weather and commodity prices needs a tax strategy that accounts for the unpredictability built into farming and ranching. [View agriculture services](/industries/agriculture).
+Social Security timing, retirement distributions, and investment income each carry tax consequences that benefit from year-round planning, not just an annual filing. [See retiree tax support](/industries/retirees).
 
-### Small business owners
-icon: Briefcase
+### High net worth individuals
+icon: TrendingUp
 
-Whatever the industry, owner compensation, deductions, and entity choice get reviewed against what actually makes sense for a business your size. [See small business tax support](/industries/small-business-owners).
+Proactive tax minimization strategies and CFO-level financial guidance help protect and grow wealth at a fraction of traditional advisory costs. [See high net worth services](/industries/high-net-worth-individuals).
 
 <!-- block: process-steps | variant: vertical -->
 ## How our tax process works
