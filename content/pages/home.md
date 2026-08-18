@@ -199,8 +199,8 @@ Brammer, Begnaud, & Lattimore CPAs & Consultants is a full-service accounting an
 **Q: What does Brammer, Begnaud, & Lattimore CPAs & Consultants do?**
 A: The firm provides bundled outsourced accounting, bookkeeping, payroll, tax planning, audit protection, and CFO-level business management services for one fixed monthly fee. Clients access their financials through a secure online platform and get year-round support rather than only seasonal help around tax deadlines.
 
-**Q: Where is the firm located and who do they serve?**
-A: Brammer, Begnaud, & Lattimore is based in Port Arthur, TX, and serves small businesses, physicians, dentists, restaurants, agriculture operations, and new business owners throughout Southeast Texas. The firm has operated in the region since 1950.
+**Q: Who does the firm serve?**
+A: Brammer, Begnaud, & Lattimore serves physicians, dentists, veterinarians, real estate professionals, retirees, and high net worth individuals throughout Southeast Texas. The firm has been based in Port Arthur, TX since 1950.
 
 **Q: How does the fixed monthly fee pricing work?**
 A: Instead of billing by the hour or charging extra for individual tasks, outsourced accounting clients pay one set fee each month covering bookkeeping, payroll, tax preparation, and audit protection. The scope is agreed up front, so there are no surprise invoices.
