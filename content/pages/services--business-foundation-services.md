@@ -271,27 +271,27 @@ Brammer, Begnaud, & Lattimore CPAs, founded in 1950 and based in Port Arthur, TX
     },
     {
       "@type": "Audience",
-      "audienceType": "Restaurants"
-    },
-    {
-      "@type": "Audience",
       "audienceType": "Dentists"
     },
     {
       "@type": "Audience",
-      "audienceType": "Agriculture"
+      "audienceType": "Veterinarians"
     },
     {
       "@type": "Audience",
-      "audienceType": "Small Business Owners"
+      "audienceType": "Real Estate Professionals"
+    },
+    {
+      "@type": "Audience",
+      "audienceType": "High Net Worth Individuals"
+    },
+    {
+      "@type": "Audience",
+      "audienceType": "Retirees"
     },
     {
       "@type": "Audience",
       "audienceType": "New Business Owners"
-    },
-    {
-      "@type": "Audience",
-      "audienceType": "Small Business / General"
     }
   ]
 }
