@@ -126,16 +126,16 @@ See the full [services](/services) list for more detail.
 <!-- block: testimonials | variant: grid -->
 ## What our clients say about working with us
 
-Numbers tell part of the story. Here's what physicians, restaurant owners, and small business clients across Southeast Texas say about working with us.
+Numbers tell part of the story. Here's what physicians, dental practice owners, and professionals across Southeast Texas say about working with us.
 
 ### Dr. A.M., Family Medicine Practice
 A fixed monthly fee took the guesswork out of our accounting budget. We finally see our numbers in real time instead of waiting on a phone call.
 
-### J.T., Restaurant Owner, Port Arthur
-Payroll used to eat my Sunday afternoons. Now it's handled, and I can check the numbers from my phone between shifts.
-
 ### S.R., Dental Practice Owner
 The team caught an entity structure issue that was costing us money every year. That guidance alone paid for itself.
+
+### M.L., Real Estate Professional
+Having CFO-level guidance without the cost of an in-house executive changed how I look at every deal. The real-time visibility alone is worth it.
 
 <!-- block: faq-accordion -->
 ## Frequently Asked Questions About Home | Brammer, Begnaud, & Lattimore CPAs & Consultants
