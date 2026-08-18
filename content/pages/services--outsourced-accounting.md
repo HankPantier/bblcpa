@@ -53,7 +53,7 @@ The same platform lets you upload documents, message our team, and pull paid-bil
 <!-- block: industry-cards | variant: 3-col -->
 ## Who this service is built for
 
-Outsourced accounting works best for business owners who'd rather spend their hours on the work only they can do. Across Southeast Texas, that covers a specific list of professions BBL has worked with for decades.
+Outsourced accounting works best for professionals who'd rather spend their hours on the work only they can do. Across Southeast Texas, that covers a specific list of clients BBL has worked with for decades.
 
 ### Physicians
 icon: Stethoscope
@@ -65,20 +65,20 @@ icon: HeartPulse
 
 Equipment financing, hygienist payroll, and managing two or three locations leave little time for an evening with QuickBooks. That's the work we handle every month, on the same platform, at the same fixed fee.
 
-### Restaurants
-icon: Receipt
+### Veterinarians
+icon: PawPrint
 
-Thin margins, tip reporting, and weekly vendor payments make restaurant books unforgiving of mistakes. Outsourced accounting keeps reconciliation current, so a cash-flow problem shows up in week one, not month three.
+Patient care, controlled-substance compliance, and managing staff payroll leave little room for late-night bookkeeping. We handle the numbers — reconciliation, payroll, and year-round tax support — so you can focus on patients, not paperwork.
 
-### Agriculture
-icon: Wallet
+### Retirees
+icon: Umbrella
 
-Seasonal income, equipment depreciation, and land-related tax questions don't fit a generic bookkeeping template. BBL has worked with Southeast Texas agriculture operations long enough to know the difference between a good year and a good year on paper.
+Social Security timing, retirement distributions, and investment income all carry tax consequences that compound quietly over time. A fixed monthly fee gives you year-round support and real-time visibility into your financial picture, so nothing catches you off guard.
 
-### New and growing small business owners
+### High Net Worth Individuals
 icon: TrendingUp
 
-You started the business to do the work, not to become an accountant. Outsourced accounting gives new owners a financial foundation and gives growing owners room to scale, without adding back-office headcount.
+Complex income streams, investment portfolios, and estate considerations demand proactive planning, not year-end scrambling. BBL delivers CFO-level financial guidance at a fraction of the cost of a private advisor, with no hourly billing surprises.
 
 <!-- block: content-prose -->
 ## Backed by over 70 years of Southeast Texas accounting
