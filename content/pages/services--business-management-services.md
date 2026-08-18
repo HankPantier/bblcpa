@@ -132,7 +132,7 @@ Brammer, Begnaud, & Lattimore's Business Management Services deliver CFO-level f
 - Fixed monthly fee bundled service model with no hourly billing surprises
 - Secure online platform providing real-time financial visibility year-round
 - Local Port Arthur team handling accounting, payroll, tax, and business management under one roof
-- Niche experience across physicians, dentists, restaurants, agriculture, and small business owners
+- Niche experience across physicians, dentists, veterinarians, retirees, high-net-worth individuals, and small business owners
 
 **Internal Links:**
 - outsourced accounting → https://www.bblcpa.com/services/outsourced-accounting — Connects business management services to the bundled accounting offering that shares the same fixed-fee platform
