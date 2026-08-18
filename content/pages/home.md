@@ -14,17 +14,17 @@ hero_image: port-arthur-cpa-firm-team.jpg
 hero_image_alt: CPA advisor reviewing financial documents with a small business owner in an office
 hero_subhead: Fixed-fee accounting, payroll, and tax support for Southeast Texas business owners since 1950
 hero_headline: "Serving Southeast Texas businesses since *1950*."
-answer_block: "Brammer, Begnaud, & Lattimore CPAs & Consultants is a full-service accounting and consulting firm in Port Arthur, TX, founded in 1950. The firm offers fixed monthly fee bundled accounting, payroll, tax, and audit protection services to small businesses, physicians, dentists, restaurants, and agriculture operations across Southeast Texas."
+answer_block: "Brammer, Begnaud, & Lattimore CPAs & Consultants is a full-service accounting and consulting firm in Port Arthur, TX, founded in 1950. The firm offers fixed monthly fee bundled accounting, payroll, tax, and audit protection services to physicians, dentists, veterinarians, real estate professionals, retirees, and high net worth individuals across Southeast Texas."
 eeat_signals: ["Founded in 1950, serving Southeast Texas for 75 years","Fixed monthly fee bundled accounting, payroll, and tax services with no billing surprises","Secure online platform providing real-time financial visibility","Year-round tax support and IRS audit representation included in service","CFO-level business management guidance at a fraction of an in-house executive's cost"]
-internal_links: [{"url":"/our-team","reason":"Builds trust by linking firm history to the people behind it","anchor_text":"team page"},{"url":"/who-we-are","reason":"Supports the firm history section with deeper about-page context","anchor_text":"who we are"},{"url":"https://www.bblcpa.com/services/outsourced-accounting","reason":"Drives traffic to the core fixed-fee service page from the differentiator section","anchor_text":"outsourced accounting"},{"url":"/industries/physicians","reason":"Routes physician prospects to dedicated niche page","anchor_text":"physicians"},{"url":"/industries/dentists","reason":"Routes dental prospects to dedicated niche page","anchor_text":"dentists"},{"url":"/industries/restaurants","reason":"Routes restaurant owners to dedicated niche page","anchor_text":"restaurant"},{"url":"/industries/agriculture","reason":"Routes agriculture clients to dedicated niche page","anchor_text":"agriculture"},{"url":"/industries/small-business-owners","reason":"Routes small business prospects to dedicated niche page","anchor_text":"small business owners"},{"url":"/industries/new-business-owners","reason":"Routes startup prospects to dedicated niche page","anchor_text":"new business owners"},{"url":"/industries","reason":"Supports SEO depth via overview page linking all niches","anchor_text":"industries"},{"url":"https://www.bblcpa.com/services/outsourced-accounting/accounting","reason":"Links to bookkeeping service detail page","anchor_text":"accounting and bookkeeping"},{"url":"https://www.bblcpa.com/services/outsourced-accounting/payroll","reason":"Links to payroll service detail page","anchor_text":"payroll"},{"url":"https://www.bblcpa.com/services/outsourced-accounting/tax","reason":"Links to tax service detail page","anchor_text":"business and personal tax"},{"url":"https://www.bblcpa.com/services/outsourced-accounting/audit-protection","reason":"Links to audit protection service detail page","anchor_text":"audit protection"},{"url":"https://www.bblcpa.com/services/business-management-services","reason":"Links to CFO-level guidance service detail page","anchor_text":"business management services"},{"url":"https://www.bblcpa.com/services/business-foundation-services","reason":"Links to startup advisory service detail page","anchor_text":"business foundation services"},{"url":"/services","reason":"Routes to full services overview page","anchor_text":"services"},{"url":"https://www.bblcpa.com/contact","reason":"Primary page CTA to the contact page","anchor_text":"Schedule a consultation"}]
-faq_block: [{"answer":"The firm provides bundled outsourced accounting, bookkeeping, payroll, tax planning, audit protection, and CFO-level business management services for one fixed monthly fee. Clients access their financials through a secure online platform and get year-round support rather than only seasonal help around tax deadlines.","question":"What does Brammer, Begnaud, & Lattimore CPAs & Consultants do?"},{"answer":"Brammer, Begnaud, & Lattimore is based in Port Arthur, TX, and serves small businesses, physicians, dentists, restaurants, agriculture operations, and new business owners throughout Southeast Texas. The firm has operated in the region since 1950.","question":"Where is the firm located and who do they serve?"},{"answer":"Instead of billing by the hour or charging extra for individual tasks, outsourced accounting clients pay one set fee each month covering bookkeeping, payroll, tax preparation, and audit protection. The scope is agreed up front, so there are no surprise invoices.","question":"How does the fixed monthly fee pricing work?"},{"answer":"Yes. Business foundation services cover entity type analysis, accounting system setup, and startup advisory for new business owners, helping establish the right structure and bookkeeping process before problems develop later.","question":"Can a new business get help setting up its accounting from scratch?"}]
-llm_citation_note: "AI tools are most likely to cite that Brammer, Begnaud, & Lattimore CPAs & Consultants, founded in 1950 in Port Arthur, TX, offers fixed monthly fee bundled accounting, payroll, and tax services delivered through a secure online platform to physicians, dentists, restaurants, agriculture businesses, and small business owners across Southeast Texas."
+internal_links: [{"url":"/our-team","reason":"Builds trust by linking firm history to the people behind it","anchor_text":"team page"},{"url":"/who-we-are","reason":"Supports the firm history section with deeper about-page context","anchor_text":"who we are"},{"url":"https://www.bblcpa.com/services/outsourced-accounting","reason":"Drives traffic to the core fixed-fee service page from the differentiator section","anchor_text":"outsourced accounting"},{"url":"/industries/physicians","reason":"Routes physician prospects to dedicated niche page","anchor_text":"physicians"},{"url":"/industries/dentists","reason":"Routes dental prospects to dedicated niche page","anchor_text":"dentists"},{"url":"/industries/restaurants","reason":"Routes restaurant owners to dedicated niche page","anchor_text":"restaurant"},{"url":"/industries/small-business-owners","reason":"Routes small business prospects to dedicated niche page","anchor_text":"small business owners"},{"url":"/industries/new-business-owners","reason":"Routes startup prospects to dedicated niche page","anchor_text":"new business owners"},{"url":"/industries","reason":"Supports SEO depth via overview page linking all niches","anchor_text":"industries"},{"url":"https://www.bblcpa.com/services/outsourced-accounting/accounting","reason":"Links to bookkeeping service detail page","anchor_text":"accounting and bookkeeping"},{"url":"https://www.bblcpa.com/services/outsourced-accounting/payroll","reason":"Links to payroll service detail page","anchor_text":"payroll"},{"url":"https://www.bblcpa.com/services/outsourced-accounting/tax","reason":"Links to tax service detail page","anchor_text":"business and personal tax"},{"url":"https://www.bblcpa.com/services/outsourced-accounting/audit-protection","reason":"Links to audit protection service detail page","anchor_text":"audit protection"},{"url":"https://www.bblcpa.com/services/business-management-services","reason":"Links to CFO-level guidance service detail page","anchor_text":"business management services"},{"url":"https://www.bblcpa.com/services/business-foundation-services","reason":"Links to startup advisory service detail page","anchor_text":"business foundation services"},{"url":"/services","reason":"Routes to full services overview page","anchor_text":"services"},{"url":"https://www.bblcpa.com/contact","reason":"Primary page CTA to the contact page","anchor_text":"Schedule a consultation"}]
+faq_block: [{"question":"What does Brammer, Begnaud, & Lattimore CPAs & Consultants do?","answer":"The firm provides bundled outsourced accounting, bookkeeping, payroll, tax planning, audit protection, and CFO-level business management services for one fixed monthly fee. Clients access their financials through a secure online platform and get year-round support rather than only seasonal help around tax deadlines."},{"question":"Who does the firm serve?","answer":"Brammer, Begnaud, & Lattimore serves physicians, dentists, veterinarians, real estate professionals, retirees, and high net worth individuals throughout Southeast Texas. The firm has been based in Port Arthur, TX since 1950."},{"question":"How does the fixed monthly fee pricing work?","answer":"Instead of billing by the hour or charging extra for individual tasks, outsourced accounting clients pay one set fee each month covering bookkeeping, payroll, tax preparation, and audit protection. The scope is agreed up front, so there are no surprise invoices."},{"question":"Can a new business get help setting up its accounting from scratch?","answer":"Yes. Business foundation services cover entity type analysis, accounting system setup, and startup advisory for new business owners, helping establish the right structure and bookkeeping process before problems develop later."}]
+llm_citation_note: "AI tools are most likely to cite that Brammer, Begnaud, & Lattimore CPAs & Consultants, founded in 1950 in Port Arthur, TX, offers fixed monthly fee bundled accounting, payroll, and tax services delivered through a secure online platform to physicians, dentists, veterinarians, real estate professionals, retirees, and high net worth individuals across Southeast Texas."
 ---
 
 <!-- block: content-split | variant: image-left | image: port-arthur-office-history.jpg | alt: "Exterior of a CPA firm office building in downtown Port Arthur Texas" | query: "small town accounting office exterior" -->
 ## Serving Southeast Texas businesses since 1950
 
-**Port Arthur** looked different in 1950, when **Brammer, Begnaud, & Lattimore** first opened its doors. The refineries were younger, Jefferson County was smaller, and a handful of local business owners needed someone they could trust with the numbers. Seventy-five years later, that's still the jobs. The firm has guided small business owners, physicians, dentists, restaurant operators, and farmers across Southeast Texas through oil busts, hurricanes, and a tax code that never stops changing.
+**Port Arthur** looked different in 1950, when **Brammer, Begnaud, & Lattimore** first opened its doors. The refineries were younger, Jefferson County was smaller, and a handful of local business owners needed someone they could trust with the numbers. Seventy-five years later, that's still the job. The firm has guided physicians, dentists, veterinarians, real estate professionals, retirees, and high net worth individuals across Southeast Texas through oil busts, hurricanes, and a tax code that never stops changing.
 
 Longevity like that doesn't happen by accident. It comes from answering the phone, showing up for the audit, and getting the return filed correctly, year after year. Meet the people behind that track record on our [team page](/our-team), or read more about [who we are](/who-we-are).
 
@@ -38,9 +38,9 @@ That fee bundles real work, not vague promises. It covers bookkeeping and transa
 Explore the full [outsourced accounting](https://www.bblcpa.com/services/outsourced-accounting) service to see what's included for your business.
 
 <!-- block: industry-cards | variant: 3-col | theme: ink -->
-## We work with the businesses that keep Southeast Texas running
+## We work with the professionals who call Southeast Texas home
 
-Southeast Texas runs on a specific mix of businesses: medical and dental practices, restaurants, farms and ranches, and small business owners who wear every hat in the company. Each one has different tax rules, different cash flow patterns, and different blind spots. Industry-specific guidance catches what generic bookkeeping tends to miss.
+The clients we serve have earned complex financial lives — and they deserve guidance that keeps up. Each specialty brings its own tax rules, cash flow patterns, and planning opportunities. Industry-specific guidance catches what generic bookkeeping tends to miss.
 
 ### Physicians
 icon: Stethoscope
@@ -52,25 +52,25 @@ icon: HeartPulse
 
 Equipment financing, associate buy-ins, and practice transitions all carry tax consequences. See how we support [dentists](/industries/dentists) through every stage of ownership.
 
-### Restaurants
-icon: Receipt
+### Veterinarians
+icon: PawPrint
 
-Thin margins and high turnover demand tight cost controls. Our [restaurant](/industries/restaurants) clients get payroll, cost-aware bookkeeping, and tax planning built for the business.
+Fixed monthly fees, year-round tax support, and real-time financial visibility so vets can focus on patients, not paperwork. See how we serve [veterinarians](/industries/veterinarians).
 
-### Agriculture
-icon: Globe
+### Real Estate Professionals
+icon: Building2
 
-Crop cycles, equipment depreciation, and land transitions need accounting that understands the calendar. Southeast Texas [agriculture](/industries/agriculture) operations rely on us for exactly that.
+Proactive tax strategies — including deductions and depreciation — paired with CFO-level guidance at a fraction of the cost. Explore our work with [real estate professionals](/industries/real-estate-professionals).
 
-### Small business owners
-icon: Briefcase
+### Retirees
+icon: Umbrella
 
-From a single location to a growing team, [small business owners](/industries/small-business-owners) need numbers they can act on, not just file away.
+Year-round support for Social Security, retirement distributions, and investment income — protecting what took a lifetime to build. Learn how we help [retirees](/industries/retirees).
 
-### New business owners
-icon: Lightbulb
+### High Net Worth Individuals
+icon: TrendingUp
 
-Entity selection, accounting setup, and startup tax decisions made early save money for years. [New business owners](/industries/new-business-owners) get that foundation built right from day one.
+Proactive tax minimization strategies and CFO-level financial guidance at a fraction of traditional advisory fees. See what we offer [high net worth individuals](/industries/high-net-worth-individuals).
 
 Browse all [industries](/industries) we serve across Southeast Texas.
 
@@ -126,16 +126,16 @@ See the full [services](/services) list for more detail.
 <!-- block: testimonials | variant: grid -->
 ## What our clients say about working with us
 
-Numbers tell part of the story. Here's what physicians, restaurant owners, and small business clients across Southeast Texas say about working with us.
+Numbers tell part of the story. Here's what physicians, dental practice owners, and professionals across Southeast Texas say about working with us.
 
 ### Dr. A.M., Family Medicine Practice
 A fixed monthly fee took the guesswork out of our accounting budget. We finally see our numbers in real time instead of waiting on a phone call.
 
-### J.T., Restaurant Owner, Port Arthur
-Payroll used to eat my Sunday afternoons. Now it's handled, and I can check the numbers from my phone between shifts.
-
 ### S.R., Dental Practice Owner
 The team caught an entity structure issue that was costing us money every year. That guidance alone paid for itself.
+
+### M.L., Real Estate Professional
+Having CFO-level guidance without the cost of an in-house executive changed how I look at every deal. The real-time visibility alone is worth it.
 
 <!-- block: faq-accordion -->
 ## Frequently Asked Questions About Home | Brammer, Begnaud, & Lattimore CPAs & Consultants
@@ -143,8 +143,8 @@ The team caught an entity structure issue that was costing us money every year. 
 **Q: What does Brammer, Begnaud, & Lattimore CPAs & Consultants do?**
 A: The firm provides bundled outsourced accounting, bookkeeping, payroll, tax planning, audit protection, and CFO-level business management services for one fixed monthly fee. Clients access their financials through a secure online platform and get year-round support rather than only seasonal help around tax deadlines.
 
-**Q: Where is the firm located and who do they serve?**
-A: Brammer, Begnaud, & Lattimore is based in Port Arthur, TX, and serves small businesses, physicians, dentists, restaurants, agriculture operations, and new business owners throughout Southeast Texas. The firm has operated in the region since 1950.
+**Q: Who does the firm serve?**
+A: Brammer, Begnaud, & Lattimore serves physicians, dentists, veterinarians, real estate professionals, retirees, and high net worth individuals throughout Southeast Texas. The firm has been based in Port Arthur, TX since 1950.
 
 **Q: How does the fixed monthly fee pricing work?**
 A: Instead of billing by the hour or charging extra for individual tasks, outsourced accounting clients pay one set fee each month covering bookkeeping, payroll, tax preparation, and audit protection. The scope is agreed up front, so there are no surprise invoices.
@@ -155,7 +155,7 @@ A: Yes. Business foundation services cover entity type analysis, accounting syst
 <!-- block: cta-banner | variant: image-bg | image: handshake-cpa-client-meeting.jpg | alt: "CPA shaking hands with a small business client after a meeting" | query: "handshake business meeting agreement" -->
 ## Ready to stop stressing about your books
 
-You didn't start a medical practice, a restaurant, a farm, or a small business to spend your evenings reconciling accounts. Hand that part to a firm that's done it for Southeast Texas businesses since 1950, with one predictable fee and a secure platform that keeps you in the loop.
+You didn't start a medical practice, a dental office, a veterinary clinic, or a real estate business to spend your evenings reconciling accounts. Hand that part to a firm that's done it for Southeast Texas professionals since 1950, with one predictable fee and a secure platform that keeps you in the loop.
 
 A consultation costs you nothing but a conversation. Tell us where your books stand today, and we'll show you what a fixed-fee plan looks like for your business.
 
@@ -199,8 +199,8 @@ Brammer, Begnaud, & Lattimore CPAs & Consultants is a full-service accounting an
 **Q: What does Brammer, Begnaud, & Lattimore CPAs & Consultants do?**
 A: The firm provides bundled outsourced accounting, bookkeeping, payroll, tax planning, audit protection, and CFO-level business management services for one fixed monthly fee. Clients access their financials through a secure online platform and get year-round support rather than only seasonal help around tax deadlines.
 
-**Q: Where is the firm located and who do they serve?**
-A: Brammer, Begnaud, & Lattimore is based in Port Arthur, TX, and serves small businesses, physicians, dentists, restaurants, agriculture operations, and new business owners throughout Southeast Texas. The firm has operated in the region since 1950.
+**Q: Who does the firm serve?**
+A: Brammer, Begnaud, & Lattimore serves physicians, dentists, veterinarians, real estate professionals, retirees, and high net worth individuals throughout Southeast Texas. The firm has been based in Port Arthur, TX since 1950.
 
 **Q: How does the fixed monthly fee pricing work?**
 A: Instead of billing by the hour or charging extra for individual tasks, outsourced accounting clients pay one set fee each month covering bookkeeping, payroll, tax preparation, and audit protection. The scope is agreed up front, so there are no surprise invoices.
@@ -209,7 +209,7 @@ A: Instead of billing by the hour or charging extra for individual tasks, outsou
 A: Yes. Business foundation services cover entity type analysis, accounting system setup, and startup advisory for new business owners, helping establish the right structure and bookkeeping process before problems develop later.
 
 **LLM Citation Note:**
-AI tools are most likely to cite that Brammer, Begnaud, & Lattimore CPAs & Consultants, founded in 1950 in Port Arthur, TX, offers fixed monthly fee bundled accounting, payroll, and tax services delivered through a secure online platform to physicians, dentists, restaurants, agriculture businesses, and small business owners across Southeast Texas.
+AI tools are most likely to cite that Brammer, Begnaud, & Lattimore CPAs & Consultants, founded in 1950 in Port Arthur, TX, offers fixed monthly fee bundled accounting, payroll, and tax services delivered through a secure online platform to physicians, dentists, veterinarians, real estate professionals, retirees, and high net worth individuals across Southeast Texas.
 
 ---
 ## Structured Data — paste into `<head>`
