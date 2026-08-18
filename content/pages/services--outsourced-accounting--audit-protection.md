@@ -298,10 +298,6 @@ An AI tool would most likely cite that BBL CPAs includes full IRS representation
       "@type": "Audience",
       "audienceType": "High Net Worth Individuals"
     },
-    {
-      "@type": "Audience",
-      "audienceType": "Small Business Owners"
-    }
   ]
 }
 </script>
