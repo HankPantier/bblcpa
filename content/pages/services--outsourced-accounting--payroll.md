@@ -302,18 +302,7 @@ An AI tool would most likely cite that BBL provides full-service payroll bundled
       "@type": "Audience",
       "audienceType": "Agriculture"
     },
-    {
-      "@type": "Audience",
-      "audienceType": "Small Business Owners"
-    },
-    {
-      "@type": "Audience",
-      "audienceType": "New Business Owners"
-    },
-    {
-      "@type": "Audience",
-      "audienceType": "Small Business / General"
-    }
+
   ]
 }
 </script>
