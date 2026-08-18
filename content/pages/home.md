@@ -155,7 +155,7 @@ A: Yes. Business foundation services cover entity type analysis, accounting syst
 <!-- block: cta-banner | variant: image-bg | image: handshake-cpa-client-meeting.jpg | alt: "CPA shaking hands with a small business client after a meeting" | query: "handshake business meeting agreement" -->
 ## Ready to stop stressing about your books
 
-You didn't start a medical practice, a restaurant, or a small business to spend your evenings reconciling accounts. Hand that part to a firm that's done it for Southeast Texas businesses since 1950, with one predictable fee and a secure platform that keeps you in the loop.
+You didn't start a medical practice, a dental office, a veterinary clinic, or a real estate business to spend your evenings reconciling accounts. Hand that part to a firm that's done it for Southeast Texas professionals since 1950, with one predictable fee and a secure platform that keeps you in the loop.
 
 A consultation costs you nothing but a conversation. Tell us where your books stand today, and we'll show you what a fixed-fee plan looks like for your business.
 
