@@ -59,20 +59,20 @@ icon: Stethoscope
 
 Between equipment loans, associate compensation, and supply costs, dental practices need a chart of accounts that goes well beyond the default template. Visit our [dental practice page](/industries/dentists) to learn more.
 
-### Restaurants
-icon: Receipt
+### Veterinarians
+icon: HeartPulse
 
-High transaction volume, tip reporting, and thin margins mean restaurant books fall out of order fast without the right workflow rules in place. Explore [restaurant accounting](/industries/restaurants).
+Vet practices manage a mix of exam fees, pharmacy revenue, and equipment costs that don't map neatly to off-the-shelf templates. We build systems that track each revenue stream cleanly so the numbers stay useful year-round. Learn more on our [veterinarian services](/industries/veterinarians) page.
 
-### Agriculture
+### Retirees
 icon: Wallet
 
-Seasonal income, equipment depreciation, and land or crop-specific tracking require a system structured around the calendar your business actually runs on. Learn more on our [agriculture page](/industries/agriculture).
+Retirement income comes from multiple sources — Social Security, distributions, investments — and each one needs to land in the right place to keep your books and your tax picture accurate. We configure systems that reflect how retirement income actually flows. See our [retiree services](/industries/retirees) page.
 
-### New business owners
+### High net worth individuals
 icon: Lightbulb
 
-Starting clean is easier than fixing later. New owners often need a system built from nothing, paired with foundational guidance on entity structure and reporting. See [new business owner services](/industries/new-business-owners).
+Complex portfolios, multiple income sources, and estate considerations require a chart of accounts built for that level of detail, not a small-business default. We structure systems that give you real visibility across all of it. Explore our [high net worth services](/industries/high-net-worth-individuals) page.
 
 <!-- block: content-split | variant: image-left | image: small-business-team-meeting.jpg | alt: "Accountant and business owner discussing bookkeeping workflow at a desk" | query: "accountant client meeting office discussion" -->
 ## Setup is just the start, we stay in your corner
