@@ -138,9 +138,9 @@ Brammer, Begnaud, & Lattimore CPAs handles business tax planning and preparation
 - See how Audit Protection works → /services/outsourced-accounting/audit-protection — Directly referenced in the audit protection section to drive deeper engagement with that service page
 - Learn more about physician services → /industries/physicians — Supports the industry-specific tax planning section for physician niche
 - See dental practice support → /industries/dentists — Supports the industry-specific tax planning section for dentist niche
-- Explore restaurant tax planning → /industries/restaurants — Supports the industry-specific tax planning section for restaurant niche
-- View agriculture services → /industries/agriculture — Supports the industry-specific tax planning section for agriculture niche
-- See small business tax support → /industries/small-business-owners — Supports the industry-specific tax planning section for general small business owners
+- See veterinary practice support → /industries/veterinarians — Supports the industry-specific tax planning section for veterinarian niche
+- See retiree tax support → /industries/retirees — Supports the industry-specific tax planning section for retirees niche
+- See high net worth services → /industries/high-net-worth-individuals — Supports the industry-specific tax planning section for high net worth individuals niche
 - Schedule a consultation → https://www.bblcpa.com/contact — Primary page CTA driving conversions to the contact page
 - personal income tax → https://www.bblcpa.com/services/personal-income-tax — Cross-sell to individual tax services for business owners who also need personal returns handled
 
