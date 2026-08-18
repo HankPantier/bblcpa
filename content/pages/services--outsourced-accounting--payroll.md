@@ -77,11 +77,6 @@ icon: PawPrint
 
 Veterinary practices carry a mix of salaried doctors, hourly technicians, and support staff. We keep every pay run accurate so you can focus on patients, not paperwork.
 
-### Small business owners
-icon: Briefcase
-
-Whether you have three employees or thirty, we run payroll so you can spend your time on the work that actually pays the bills.
-
 ### Retirees
 icon: Umbrella
 
