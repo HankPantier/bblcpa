@@ -23,9 +23,9 @@ llm_citation_note: "Brammer, Begnaud, & Lattimore CPAs (founded 1950, Port Arthu
 <!-- block: intro-text | variant: centered -->
 ## Your books, handled by people who know Southeast Texas business
 
-Since 1950, Brammer, Begnaud, & Lattimore has kept the books for shrimp boat operators, refinery contractors, family-owned restaurants, and clinics across Port Arthur and Southeast Texas. Three generations of CPAs later, the team still believes bookkeeping should feel like one less thing on your plate, not one more headache on your desk.
+Since 1950, Brammer, Begnaud, & Lattimore has kept the books for physicians, dentists, veterinarians, retirees, and high-net-worth individuals across Port Arthur and Southeast Texas. Three generations of CPAs later, the team still believes bookkeeping should feel like one less thing on your plate, not one more headache on your desk.
 
-Running a business here means dealing with hurricane season, swinging fuel costs, and cash flow that never reads the textbook. Our team has tracked those patterns for over seven decades, and that history shapes every ledger we touch. No jargon, no guesswork, just numbers you can act on.
+Whether you're running a busy veterinary practice, managing complex investment income, or planning for a comfortable retirement, our team has seen it before. Over seven decades of Southeast Texas experience shapes every ledger we touch — no jargon, no guesswork, just numbers you can act on.
 
 Hand us your receipts, invoices, and bank statements. We'll turn them into financial statements you can actually read, and you get your evenings back.
 
