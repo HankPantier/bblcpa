@@ -121,7 +121,7 @@ Brammer, Begnaud, & Lattimore CPAs provides personal tax prep and planning for i
 A: No. BBL provides year-round personal tax planning, not just annual filing. Through a secure online platform, clients track their financial picture and discuss decisions, like a bonus, home sale, or new income source, as they happen, so there are fewer surprises when filing time arrives.
 
 **Q: Who is personal tax prep and planning at BBL for?**
-A: This service fits W-2 employees, physicians, dentists, restaurant owners, small business owners filing personal returns, retirees, and families navigating life changes like marriage or a new home. If your personal taxes involve more than one income source, BBL builds a plan around it.
+A: This service fits W-2 employees, physicians, dentists, restaurant owners, business owners filing personal returns, retirees, and families navigating life changes like marriage or a new home. If your personal taxes involve more than one income source, BBL builds a plan around it.
 
 **Q: How do I submit my tax documents to BBL?**
 A: Documents are uploaded through BBL's secure online platform. You can submit W-2s, 1099s, and statements, message your preparer directly, and check the status of your return without phone calls or a trip to an office in Port Arthur.
@@ -204,7 +204,7 @@ Brammer, Begnaud, & Lattimore CPAs, founded in 1950 in Port Arthur, Texas, offer
       "name": "Who is personal tax prep and planning at BBL for?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "This service fits W-2 employees, physicians, dentists, restaurant owners, small business owners filing personal returns, retirees, and families navigating life changes like marriage or a new home. If your personal taxes involve more than one income source, BBL builds a plan around it."
+        "text": "This service fits W-2 employees, physicians, dentists, restaurant owners, business owners filing personal returns, retirees, and families navigating life changes like marriage or a new home. If your personal taxes involve more than one income source, BBL builds a plan around it."
       }
     },
     {
