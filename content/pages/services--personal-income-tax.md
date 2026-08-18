@@ -34,9 +34,10 @@ Personal tax prep and planning at BBL covers more than filling out a 1040. We st
 
 This service fits:
 - W-2 employees and salaried professionals with stock options, bonuses, or multiple income sources
-- Physicians, dentists, and other high-earning professionals managing student loans, retirement contributions, or practice ownership
-- Small business owners and new business owners filing personal returns alongside a Schedule C, K-1, or S-corp distribution
-- Retirees and individuals managing investment income, required distributions, or rental property
+- Physicians, dentists, and veterinarians managing student loans, retirement contributions, or practice ownership
+- Small business owners filing personal returns alongside a Schedule C, K-1, or S-corp distribution
+- Retirees managing Social Security income, required minimum distributions, and investment accounts
+- High-net-worth individuals with complex income streams, real estate holdings, or significant investment portfolios
 - Families navigating life events such as marriage, a new home, or college expenses
 
 Every return moves through a secure digital platform where you upload documents, message your preparer, and check status without phone tag or a trip downtown. Planning calls happen throughout the year, not just during filing season, so questions about a bonus, a home sale, or a side business get answered before they affect your return.
