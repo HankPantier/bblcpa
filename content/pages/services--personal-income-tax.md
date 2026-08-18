@@ -111,7 +111,7 @@ Brammer, Begnaud, & Lattimore CPAs provides personal tax prep and planning for i
 - business tax planning and preparation → https://www.bblcpa.com/services/outsourced-accounting/tax — Cross-sell to business tax services for clients who also file business returns
 - audit protection → https://www.bblcpa.com/services/outsourced-accounting/audit-protection — Relevant follow-on service if a personal return is selected for IRS review
 - physicians → /industries/physicians — Niche page for one of the named ideal client groups referenced on this page
-- small business owners → /industries/small-business-owners — Niche page for clients filing personal returns alongside business income
+- business owners → /industries/small-business-owners — Niche page for clients filing personal returns alongside business income
 - tax planning guide → https://www.bblcpa.com/resources/e-books/maximizing-your-tax-refund-a-strategic-guide-to-tax-planning — Supports the year-round planning message with a downloadable resource
 - schedule a consultation → https://www.bblcpa.com/contact — Primary page CTA directing readers to book a meeting
 
