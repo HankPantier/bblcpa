@@ -50,7 +50,7 @@ Brammer, Begnaud, & Lattimore has been doing this since 1950. IRS representation
 <!-- block: industry-cards | variant: 3-col -->
 ## Who this service is built for
 
-Some clients simply carry more complexity — and complexity attracts IRS attention. If you fall into one of these categories, audit protection belongs in your corner.
+Some clients carry more complexity by nature of their income, profession, or financial life — and complexity attracts IRS attention. If you fall into one of these categories, audit protection belongs in your corner.
 
 ### Physicians
 icon: Stethoscope
