@@ -98,7 +98,7 @@ A: Yes. BBL works with restaurants on tip reporting and food cost tracking, with
 <!-- block: cta-banner | variant: image-bg | image: port-arthur-business-owner-handshake.jpg | alt: "Business owner shaking hands with an accountant in an office" | query: "business owner accountant handshake office" -->
 ## Ready to stop doing your own books
 
-Brammer, Begnaud, & Lattimore has guided Southeast Texas business owners through their books since 1950, seventy-five years of late nights spent so clients didn't have to spend theirs that way. Whether you run a restaurant in Port Arthur or a clinic in Beaumont, our team can take the bookkeeping off your hands starting this month.
+Brammer, Begnaud, & Lattimore has guided Southeast Texas professionals and individuals through their books since 1950 — seventy-five years of careful work so clients didn't have to do it themselves. Whether you run a medical or veterinary practice, manage a high-net-worth portfolio, or are navigating the financial complexity of retirement, our team can take the bookkeeping off your hands starting this month.
 
 [Schedule a consultation](/contact)
 
