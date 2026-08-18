@@ -82,7 +82,7 @@ Whether you're running a retail shop or a service company, the same question app
 <!-- block: content-split | variant: image-left | image: port-arthur-cpa-team-history.jpg | alt: "CPA team reviewing documents at a Port Arthur office desk" | query: "accounting team office discussion" -->
 ## How BBL has guided Southeast Texas businesses since 1950
 
-Brammer, Begnaud, & Lattimore opened its doors in Port Arthur in 1950. Three generations of business owners across Southeast Texas have walked through that door since, from shrimp boat operators to oil field suppliers to today's restaurant and medical practice owners.
+Brammer, Begnaud, & Lattimore opened its doors in Port Arthur in 1950. Three generations of clients across Southeast Texas have walked through that door since, from shrimp boat operators to oil field suppliers to today's medical and veterinary practice owners, retirees, and high-net-worth families.
 
 This isn't a national franchise routing your call to a rotating staff. The same local team that handles your payroll and tax filings builds your financial strategy, with seven decades of context on what works for a small business in Port Arthur, Beaumont, and the surrounding Gulf Coast.
 
