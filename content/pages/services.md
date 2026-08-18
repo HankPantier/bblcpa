@@ -205,7 +205,7 @@ A: We provide outsourced accounting, bookkeeping, payroll, business tax, persona
 A: Yes. Your accounting team answers questions year-round, not just from January to April. Effective tax planning happens throughout the year, and our business management services give you ongoing guidance on hiring, pricing, and growth whenever you need it.
 
 **Q: Which industries do you specialize in?**
-A: We work closely with physicians, dentists, restaurants, agriculture businesses, small business owners, and new business owners across Southeast Texas. Each of these industries faces specific accounting and tax challenges, and our experience since 1950 means we already understand them.
+A: We work closely with physicians, dentists, veterinarians, real estate professionals, retirees, and high net worth individuals across Southeast Texas. Each of these groups faces distinct accounting and tax challenges, and our experience since 1950 means we already understand them.
 
 **Q: What happens if I get a notice from the IRS?**
 A: Our audit protection service puts a professional between you and the IRS. We handle the notices, letters, and proceedings on your behalf, so you are not interpreting tax code on your own. You stay focused on your business while we manage the correspondence.
