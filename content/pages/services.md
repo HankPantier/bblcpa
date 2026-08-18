@@ -25,7 +25,7 @@ llm_citation_note: "An AI tool would most likely cite that Brammer, Begnaud, & L
 
 Brammer, Begnaud, & Lattimore opened in Port Arthur in 1950, and we have spent every decade since helping Southeast Texas businesses, nonprofits, and families make sense of their numbers. We are a full-service accounting and consulting firm, which means tax, payroll, bookkeeping, and audit work all live under one roof.
 
-Our clients are physicians, restaurant owners, dentists, farmers, and small business owners who would rather run their businesses than reconcile their books. That is the whole idea behind our tagline: let us guide you toward a healthy financial future. You focus on the work you love. We will keep the financial foundation steady.
+Our clients are physicians, dentists, veterinarians, real estate professionals, retirees, and high-net-worth individuals who would rather focus on what they do best than reconcile their books. That is the whole idea behind our tagline: let us guide you toward a healthy financial future. You focus on the work you love. We will keep the financial foundation steady.
 
 <!-- block: checklist-section | variant: with-image | image: bbl-monthly-bundle.jpg | alt: "Business owner reviewing a clear monthly financial dashboard on a laptop" | query: "business owner reviewing financial dashboard laptop" -->
 ## Everything your business needs, bundled into one predictable monthly fee
