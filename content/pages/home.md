@@ -38,9 +38,9 @@ That fee bundles real work, not vague promises. It covers bookkeeping and transa
 Explore the full [outsourced accounting](https://www.bblcpa.com/services/outsourced-accounting) service to see what's included for your business.
 
 <!-- block: industry-cards | variant: 3-col | theme: ink -->
-## We work with the businesses that keep Southeast Texas running
+## We work with the professionals who call Southeast Texas home
 
-Southeast Texas runs on a specific mix of businesses: medical and dental practices, restaurants, and small business owners who wear every hat in the company. Each one has different tax rules, different cash flow patterns, and different blind spots. Industry-specific guidance catches what generic bookkeeping tends to miss.
+The clients we serve have earned complex financial lives — and they deserve guidance that keeps up. Each specialty brings its own tax rules, cash flow patterns, and planning opportunities. Industry-specific guidance catches what generic bookkeeping tends to miss.
 
 ### Physicians
 icon: Stethoscope
@@ -52,20 +52,25 @@ icon: HeartPulse
 
 Equipment financing, associate buy-ins, and practice transitions all carry tax consequences. See how we support [dentists](/industries/dentists) through every stage of ownership.
 
-### Restaurants
-icon: Receipt
+### Veterinarians
+icon: PawPrint
 
-Thin margins and high turnover demand tight cost controls. Our [restaurant](/industries/restaurants) clients get payroll, cost-aware bookkeeping, and tax planning built for the business.
+Fixed monthly fees, year-round tax support, and real-time financial visibility so vets can focus on patients, not paperwork. See how we serve [veterinarians](/industries/veterinarians).
 
-### Small business owners
-icon: Briefcase
+### Real Estate Professionals
+icon: Building2
 
-From a single location to a growing team, [small business owners](/industries/small-business-owners) need numbers they can act on, not just file away.
+Proactive tax strategies — including deductions and depreciation — paired with CFO-level guidance at a fraction of the cost. Explore our work with [real estate professionals](/industries/real-estate-professionals).
 
-### New business owners
-icon: Lightbulb
+### Retirees
+icon: Umbrella
 
-Entity selection, accounting setup, and startup tax decisions made early save money for years. [New business owners](/industries/new-business-owners) get that foundation built right from day one.
+Year-round support for Social Security, retirement distributions, and investment income — protecting what took a lifetime to build. Learn how we help [retirees](/industries/retirees).
+
+### High Net Worth Individuals
+icon: TrendingUp
+
+Proactive tax minimization strategies and CFO-level financial guidance at a fraction of traditional advisory fees. See what we offer [high net worth individuals](/industries/high-net-worth-individuals).
 
 Browse all [industries](/industries) we serve across Southeast Texas.
 
