@@ -137,8 +137,6 @@ Brammer, Begnaud, & Lattimore's Business Management Services deliver CFO-level f
 **Internal Links:**
 - outsourced accounting → https://www.bblcpa.com/services/outsourced-accounting — Connects business management services to the bundled accounting offering that shares the same fixed-fee platform
 - physicians → /industries/physicians — Supports the physician-specific pain points mentioned in the who-it's-for section
-- restaurant owners → /industries/restaurants — Links to the restaurant industry page referenced for cash flow challenges
-- agriculture businesses → /industries/agriculture — Supports the seasonal planning point made for agriculture clients
 - Business Foundation Services → https://www.bblcpa.com/services/business-foundation-services — Natural next step for new business owners who need startup advisory before ongoing CFO-level guidance
 - the new KPIs of business → https://www.bblcpa.com/resources/e-books/the-new-KPIs-of-business — Relevant resource expanding on the KPI tracking mentioned in the services list
 - schedule a consultation → https://www.bblcpa.com/contact — Primary page CTA driving conversions
