@@ -97,7 +97,7 @@ BBL's credit card rewards advisory reviews how your business actually spends, th
 **E-E-A-T Signals:**
 - Founded in 1950, with over seven decades serving small businesses
 - Full-service CPA and consulting firm based in Port Arthur, Texas
-- Serves restaurants, physicians, dentists, agriculture, and new business owners across Southeast Texas
+- Serves physicians, dentists, veterinarians, retirees, and high net worth individuals across Southeast Texas
 - Advice grounded in the firm's own bookkeeping and tax work, including annual fee deductibility
 - Recommendations are advisor-led with no commissions or sales quotas
 
