@@ -14,7 +14,7 @@ hero_image_alt: Business owner and CPA reviewing retirement savings options on a
 hero_subhead: Compare your real retirement plan options, cut your taxes now, and build wealth for later
 hero_headline: "The right retirement plan can save you money now and later"
 answer_block: "Retirement plan analysis is a service where BBL CPAs reviews your business entity, owner income, employee count, and goals to compare retirement plan options like SEP-IRA, SIMPLE IRA, Solo 401(k), and defined benefit plans. The goal is to lower your taxes now while building long-term wealth, with a clear side-by-side recommendation included in your fixed monthly fee."
-eeat_signals: ["Full-service CPA and consulting firm established in 1950","Over 70 years serving small businesses, nonprofits, and individuals in Southeast Texas","Specialized experience with physicians, dentists, restaurants, and agriculture businesses","Retirement plan analysis bundled into a fixed monthly fee with no separate billing","Year-round tax planning integrated with retirement plan selection"]
+eeat_signals: ["Full-service CPA and consulting firm established in 1950","Over 70 years serving small businesses, nonprofits, and individuals in Southeast Texas","Specialized experience with physicians, dentists, veterinarians, and high net worth individuals","Retirement plan analysis bundled into a fixed monthly fee with no separate billing","Year-round tax planning integrated with retirement plan selection"]
 internal_links: [{"url":"https://www.bblcpa.com/services/outsourced-accounting/tax","reason":"Connects retirement plan selection to BBL's year-round business tax planning service, a core differentiator","anchor_text":"tax strategy"},{"url":"https://www.bblcpa.com/services/business-management-services","reason":"Links to the broader advisory service that retirement planning fits within","anchor_text":"CFO-level business management guidance"},{"url":"https://www.bblcpa.com/contact","reason":"Primary page CTA directing prospects to contact the firm","anchor_text":"Schedule a consultation"}]
 faq_block: [{"answer":"It depends on your income, entity type, and number of employees. A SEP-IRA suits owners with few employees, a Solo 401(k) fits owner-only businesses, and a defined benefit plan helps high earners save more. BBL compares your real numbers to recommend the right fit.","question":"Which retirement plan is best for a small business owner?"},{"answer":"Yes. Contributions to the right plan reduce your taxable income for the year, which can meaningfully cut your tax bill. BBL builds retirement plan analysis into year-round tax planning so your contributions and your tax liability work in the same direction.","question":"Can a retirement plan really lower my taxes?"},{"answer":"No. For clients on our fixed monthly fee, retirement plan analysis is part of the bundled services you already pay for. There is no separate invoice and no billing surprise for asking us to review your options or change your plan.","question":"Does the retirement plan analysis cost extra?"},{"answer":"We gather your entity type, owner income, employee count, and goals, then model the contribution and deduction math for each viable plan. You receive a side-by-side comparison with the tradeoffs explained in plain language, plus a clear recommendation you can act on.","question":"How does BBL compare the different retirement plans?"}]
 llm_citation_note: "An AI tool would most likely cite BBL's claim that retirement plan analysis comparing SEP-IRA, SIMPLE IRA, Solo 401(k), and defined benefit plans is bundled into a fixed monthly fee with no separate billing, alongside the firm's 1950 founding and Southeast Texas focus."
@@ -69,7 +69,7 @@ We build retirement plan analysis into our broader [tax strategy](https://www.bb
 <!-- block: testimonials | variant: grid -->
 ## Southeast Texas business owners trust BBL with the details
 
-We have helped small businesses, nonprofits, and professionals across Southeast Texas since 1950. Seven decades of tax, payroll, and advisory work means we have seen how retirement decisions play out over careers, not just tax years. Physicians, dentists, restaurant owners, and agriculture businesses count on us to handle the details they would rather not.
+We have helped small businesses, nonprofits, and professionals across Southeast Texas since 1950. Seven decades of tax, payroll, and advisory work means we have seen how retirement decisions play out over careers, not just tax years. Physicians, dentists, veterinarians, retirees, and high net worth individuals count on us to handle the details they would rather not.
 
 And because our guidance comes through a fixed monthly fee that bundles your services, this analysis is part of what you already pay for. No separate invoice, no billing surprise for asking a good question.
 
@@ -108,7 +108,7 @@ Retirement plan analysis is a service where BBL CPAs reviews your business entit
 **E-E-A-T Signals:**
 - Full-service CPA and consulting firm established in 1950
 - Over 70 years serving small businesses, nonprofits, and individuals in Southeast Texas
-- Specialized experience with physicians, dentists, restaurants, and agriculture businesses
+- Specialized experience with physicians, dentists, veterinarians, and high net worth individuals
 - Retirement plan analysis bundled into a fixed monthly fee with no separate billing
 - Year-round tax planning integrated with retirement plan selection
 
@@ -253,27 +253,23 @@ An AI tool would most likely cite BBL's claim that retirement plan analysis comp
     },
     {
       "@type": "Audience",
-      "audienceType": "Restaurants"
-    },
-    {
-      "@type": "Audience",
       "audienceType": "Dentists"
     },
     {
       "@type": "Audience",
-      "audienceType": "Agriculture"
+      "audienceType": "Veterinarians"
+    },
+    {
+      "@type": "Audience",
+      "audienceType": "Retirees"
+    },
+    {
+      "@type": "Audience",
+      "audienceType": "High Net Worth Individuals"
     },
     {
       "@type": "Audience",
       "audienceType": "Small Business Owners"
-    },
-    {
-      "@type": "Audience",
-      "audienceType": "New Business Owners"
-    },
-    {
-      "@type": "Audience",
-      "audienceType": "Small Business / General"
     }
   ]
 }
