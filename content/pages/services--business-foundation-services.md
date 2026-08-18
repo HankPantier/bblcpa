@@ -120,7 +120,7 @@ Business foundation services from Brammer, Begnaud, & Lattimore CPAs bundle enti
 - Fixed monthly fee bundled services with no billing surprises
 - Secure online platform for real-time financial visibility
 - CFO-level business management guidance included in startup advisory
-- Industry-specific foundation work for physicians, restaurants, dentists, and agriculture operations
+- Industry-specific foundation work for physicians, dentists, veterinarians, real estate professionals, high net worth individuals, and retirees
 
 **Internal Links:**
 - entity type analysis → https://www.bblcpa.com/services/business-foundation-services/entity-type-analysis — Deep dive on the entity selection service referenced in two sections
