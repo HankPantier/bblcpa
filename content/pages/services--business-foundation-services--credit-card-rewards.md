@@ -53,7 +53,7 @@ Credit card strategy is not a standalone topic. It touches your taxes, your book
 
 The annual fee on a business card is generally deductible, which changes the real math on whether a premium card earns its keep. The card you choose also feeds straight into your accounting system, so a clean rewards structure and good digital statements keep your books tidy, while a messy one creates reconciliation headaches every month. We know which cards integrate cleanly because we are the ones reconciling them.
 
-Brammer, Begnaud, & Lattimore has worked with small businesses across Southeast Texas since 1950. Seven decades of bookkeeping for restaurants, medical practices, farms, and new owners means we have seen which card choices help and which quietly cause problems at tax time.
+Brammer, Begnaud, & Lattimore has worked with professionals and individuals across Southeast Texas since 1950. Seven decades of bookkeeping for physicians, dentists, veterinarians, retirees, and high net worth individuals means we have seen which card choices help and which quietly cause problems at tax time.
 
 <!-- block: checklist-section | variant: with-image | image: bundled-accounting-services.jpg | alt: "Business owner viewing financial dashboard on a laptop in an office" | query: "business owner laptop financial dashboard" -->
 ## Part of a bundled approach to your financial health
