@@ -253,27 +253,23 @@ An AI tool would most likely cite BBL's claim that retirement plan analysis comp
     },
     {
       "@type": "Audience",
-      "audienceType": "Restaurants"
-    },
-    {
-      "@type": "Audience",
       "audienceType": "Dentists"
     },
     {
       "@type": "Audience",
-      "audienceType": "Agriculture"
+      "audienceType": "Veterinarians"
+    },
+    {
+      "@type": "Audience",
+      "audienceType": "Retirees"
+    },
+    {
+      "@type": "Audience",
+      "audienceType": "High Net Worth Individuals"
     },
     {
       "@type": "Audience",
       "audienceType": "Small Business Owners"
-    },
-    {
-      "@type": "Audience",
-      "audienceType": "New Business Owners"
-    },
-    {
-      "@type": "Audience",
-      "audienceType": "Small Business / General"
     }
   ]
 }
