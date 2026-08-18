@@ -69,7 +69,7 @@ We build retirement plan analysis into our broader [tax strategy](https://www.bb
 <!-- block: testimonials | variant: grid -->
 ## Southeast Texas business owners trust BBL with the details
 
-We have helped small businesses, nonprofits, and professionals across Southeast Texas since 1950. Seven decades of tax, payroll, and advisory work means we have seen how retirement decisions play out over careers, not just tax years. Physicians, dentists, restaurant owners, and agriculture businesses count on us to handle the details they would rather not.
+We have helped small businesses, nonprofits, and professionals across Southeast Texas since 1950. Seven decades of tax, payroll, and advisory work means we have seen how retirement decisions play out over careers, not just tax years. Physicians, dentists, veterinarians, retirees, and high net worth individuals count on us to handle the details they would rather not.
 
 And because our guidance comes through a fixed monthly fee that bundles your services, this analysis is part of what you already pay for. No separate invoice, no billing surprise for asking a good question.
 
