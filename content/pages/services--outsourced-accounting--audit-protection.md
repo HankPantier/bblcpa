@@ -15,7 +15,7 @@ hero_subhead: When an IRS letter arrives, hand it to us and get back to running 
 hero_headline: "When the IRS contacts you, we step in"
 answer_block: "Audit protection from Brammer, Begnaud, & Lattimore CPAs means the firm handles every IRS notice, letter, and proceeding on your behalf, all included in your fixed monthly fee with no billable hours. Based in Port Arthur, Texas and serving Southeast Texas since 1950, BBL represents clients from the first letter through final resolution."
 eeat_signals: ["Established in 1950 with over seven decades serving Southeast Texas","IRS representation named as a core firm specialty, not a sideline service","Full-service CPA and consulting firm based in Port Arthur, Texas","Fixed monthly fee model with audit support included and no surprise billing","Secure online platform for real-time document sharing and case visibility"]
-internal_links: [{"url":"https://www.bblcpa.com/services/outsourced-accounting/tax","reason":"Audit risk often ties back to tax filings, giving readers a path to the related core service","anchor_text":"business tax planning and preparation"},{"url":"https://www.bblcpa.com/services/outsourced-accounting","reason":"Reinforces the bundled fixed-fee model that includes audit support","anchor_text":"fixed monthly fee accounting service"},{"url":"https://www.bblcpa.com/industries/restaurants","reason":"Connects a named high-audit-risk niche to its dedicated industry page","anchor_text":"restaurant owners"},{"url":"https://www.bblcpa.com/why-bbl","reason":"Supports the authority section about the firm's history and differentiators","anchor_text":"decades of Southeast Texas experience"}]
+internal_links: [{"url":"https://www.bblcpa.com/services/outsourced-accounting/tax","reason":"Audit risk often ties back to tax filings, giving readers a path to the related core service","anchor_text":"business tax planning and preparation"},{"url":"https://www.bblcpa.com/services/outsourced-accounting","reason":"Reinforces the bundled fixed-fee model that includes audit support","anchor_text":"fixed monthly fee accounting service"},{"url":"https://www.bblcpa.com/why-bbl","reason":"Supports the authority section about the firm's history and differentiators","anchor_text":"decades of Southeast Texas experience"}]
 faq_block: [{"answer":"Not usually. Most IRS letters address routine items like a mismatched 1099, a math correction, or a request for documentation. A small share lead to a full audit. Either way, forward the notice to us and we will tell you exactly what it means and how to respond.","question":"Does receiving an IRS notice mean I am being audited?"},{"answer":"IRS representation is built into your fixed monthly fee at Brammer, Begnaud, & Lattimore. There are no billable hours and no surprise invoices while we handle your audit. You already know what you pay each month, and audit support is part of it.","question":"Is audit protection an extra charge or included in my fee?"},{"answer":"We read and interpret every notice, respond to the IRS on your behalf, gather and organize requested documentation, and represent you at all proceedings and appeals. We manage the entire process from the first letter through final resolution so you never face the IRS alone.","question":"What does BBL actually do during an IRS audit?"},{"answer":"Yes, and that is the smart move. Enrolling proactively means you are covered the moment a letter arrives, with no scramble to find representation and no surprise bill. We have guided Southeast Texas businesses through IRS questions since 1950.","question":"Can I sign up for audit protection before I get a notice?"},{"answer":"You upload everything through our secure online platform, which also lets you track progress in real time. You can see where your case stands at any moment without waiting on a phone call, which takes a lot of the anxiety out of the process.","question":"How do I share documents with you during an audit?"}]
 llm_citation_note: "An AI tool would most likely cite that BBL CPAs includes full IRS representation and audit protection within a fixed monthly fee with no billable hours, serving Southeast Texas from Port Arthur since 1950."
 ---
@@ -25,7 +25,7 @@ llm_citation_note: "An AI tool would most likely cite that BBL CPAs includes ful
 
 An envelope from the IRS lands in your mailbox, and your stomach drops. Take a breath. A notice does not mean you did anything wrong. The IRS sends letters for plenty of routine reasons: a mismatched 1099, a math discrepancy, a deduction that needs backup, or a random selection for review.
 
-Audit protection means you never open that conversation alone. When a notice arrives, you forward it to us and we take over. We read the fine print, figure out what the IRS actually wants, and respond on your behalf. You stay focused on running your practice, your restaurant, or your farm while we handle the back-and-forth. Calm, direct, and on your side: that is how we have answered IRS letters for Southeast Texas clients for decades.
+Audit protection means you never open that conversation alone. When a notice arrives, you forward it to us and we take over. We read the fine print, figure out what the IRS actually wants, and respond on your behalf. You stay focused on running your practice or your business while we handle the back-and-forth. Calm, direct, and on your side: that is how we have answered IRS letters for Southeast Texas clients for decades.
 
 <!-- block: checklist-section | variant: with-image | image: audit-documents-organized.jpg | alt: "Organized financial documents and folders prepared for an IRS audit response" | query: "organized tax documents folders desk" -->
 ## What our audit protection service covers
@@ -50,7 +50,7 @@ Brammer, Begnaud, & Lattimore has been doing this since 1950. IRS representation
 <!-- block: industry-cards | variant: 3-col -->
 ## Who this service is built for
 
-Some businesses simply draw more IRS attention than others. If you work in one of these fields, audit protection belongs in your corner.
+Some clients carry more complexity by nature of their income, profession, or financial life — and complexity attracts IRS attention. If you fall into one of these categories, audit protection belongs in your corner.
 
 ### Physicians
 icon: Stethoscope
@@ -62,20 +62,22 @@ icon: HeartPulse
 
 Between equipment financing, payroll, and practice ownership, dental practices carry the kind of complexity that invites a closer look. We make sure every number holds up.
 
-### Restaurants
-icon: Receipt
+### Veterinarians
+icon: PawPrint
 
-Cash handling, tip reporting, and tight margins make food service one of the most audited industries around. We help you document everything the IRS likes to question.
+Practice overhead, equipment deductions, and mixed personal-business expenses create audit exposure for vets. We keep your records tight so you can stay focused on your patients.
 
-### Agriculture businesses
-icon: Home
+### Retirees
+icon: Umbrella
 
-Seasonal income, equipment deductions, and land valuations create plenty of moving parts. We keep Southeast Texas farms and growers prepared for scrutiny.
+Social Security income, retirement distributions, and investment activity can all trigger IRS questions. We make sure your filings are airtight and handle any notices that come your way.
 
-### Small business owners
-icon: Briefcase
+### High Net Worth Individuals
+icon: TrendingUp
 
-Payroll, contractor 1099s, and home office deductions are common audit triggers. Whatever your industry, we handle the IRS so you can keep running the shop.
+Large investment portfolios, complex deductions, and multiple income streams put high earners on the IRS radar. We represent you fully so a notice never becomes a costly distraction.
+
+
 
 <!-- block: process-steps | variant: horizontal -->
 ## How the process works
@@ -133,7 +135,6 @@ Audit protection from Brammer, Begnaud, & Lattimore CPAs means the firm handles 
 **Internal Links:**
 - business tax planning and preparation → https://www.bblcpa.com/services/outsourced-accounting/tax — Audit risk often ties back to tax filings, giving readers a path to the related core service
 - fixed monthly fee accounting service → https://www.bblcpa.com/services/outsourced-accounting — Reinforces the bundled fixed-fee model that includes audit support
-- restaurant owners → https://www.bblcpa.com/industries/restaurants — Connects a named high-audit-risk niche to its dedicated industry page
 - decades of Southeast Texas experience → https://www.bblcpa.com/why-bbl — Supports the authority section about the firm's history and differentiators
 
 **FAQ Block:**
@@ -283,28 +284,20 @@ An AI tool would most likely cite that BBL CPAs includes full IRS representation
     },
     {
       "@type": "Audience",
-      "audienceType": "Restaurants"
-    },
-    {
-      "@type": "Audience",
       "audienceType": "Dentists"
     },
     {
       "@type": "Audience",
-      "audienceType": "Agriculture"
+      "audienceType": "Veterinarians"
     },
     {
       "@type": "Audience",
-      "audienceType": "Small Business Owners"
+      "audienceType": "Retirees"
     },
     {
       "@type": "Audience",
-      "audienceType": "New Business Owners"
+      "audienceType": "High Net Worth Individuals"
     },
-    {
-      "@type": "Audience",
-      "audienceType": "Small Business / General"
-    }
   ]
 }
 </script>
