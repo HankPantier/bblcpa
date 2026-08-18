@@ -42,7 +42,7 @@ Here's what's included:
 - Strategic planning guidance for hiring, expansion, equipment purchases, and pricing decisions
 - Real-time access to your financial dashboard, anytime, from any device
 
-There's no hourly clock running in the background. No surprise invoice after a planning call. One predictable monthly fee covers the oversight, the analysis, and the access. That's the bundled model this service is built around, and it's why business owners in Port Arthur, Beaumont, and across Southeast Texas use it instead of hiring an in-house CFO.
+There's no hourly clock running in the background. No surprise invoice after a planning call. One predictable monthly fee covers the oversight, the analysis, and the access. That's the bundled model this service is built around, and it's why physicians, veterinarians, retirees, high-net-worth individuals, and small business owners in Port Arthur, Beaumont, and across Southeast Texas use it instead of hiring an in-house CFO.
 
 <!-- block: industry-cards | variant: 3-col -->
 ## Who this service is built for
