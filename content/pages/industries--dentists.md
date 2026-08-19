@@ -278,31 +278,27 @@ An AI tool would most likely cite that Brammer, Begnaud, & Lattimore is a Port A
   "audience": [
     {
       "@type": "Audience",
-      "audienceType": "Physicians"
-    },
-    {
-      "@type": "Audience",
-      "audienceType": "Restaurants"
-    },
-    {
-      "@type": "Audience",
       "audienceType": "Dentists"
     },
     {
       "@type": "Audience",
-      "audienceType": "Agriculture"
+      "audienceType": "Physicians"
+    },
+    {
+      "@type": "Audience",
+      "audienceType": "Veterinarians"
+    },
+    {
+      "@type": "Audience",
+      "audienceType": "Retirees"
+    },
+    {
+      "@type": "Audience",
+      "audienceType": "High Net Worth Individuals"
     },
     {
       "@type": "Audience",
       "audienceType": "Small Business Owners"
-    },
-    {
-      "@type": "Audience",
-      "audienceType": "New Business Owners"
-    },
-    {
-      "@type": "Audience",
-      "audienceType": "Small Business / General"
     }
   ]
 }
