@@ -120,6 +120,39 @@ A: Since 1950. Brammer, Begnaud, & Lattimore has served clients across Southeast
 **Q: Can BBL handle payroll if I have agents or staff on my team?**
 A: Yes. Our full-service payroll management is included in the same fixed monthly fee, covering payroll processing, tax filings, and compliance through our secure online platform. Whether you're paying one assistant or a team of agents, we keep everything current and compliant so you don't have to.
 
+<!-- block: content-prose -->
+## Frequently Asked Questions
+
+**Do you work with real estate agents who are independent contractors?**
+Yes. Most agents receive 1099 income rather than a W-2, and that changes how deductions, quarterly estimated taxes, and retirement contributions work. We build your tax plan around commission-based income, not a template made for salaried employees.
+
+**Can BBL help with a 1031 exchange?**
+Yes. We guide real estate investors through 1031 exchange timing, qualifying property rules, and reporting requirements so gains can be deferred and reinvested instead of taxed immediately. We coordinate closely with your closing agent to keep deadlines on track.
+
+**How does the fixed monthly fee work for real estate professionals?**
+One flat monthly rate bundles bookkeeping, payroll, and tax planning based on your business size and needs, so there's no hourly billing or surprise invoice after a busy closing season. You can check estimated pricing anytime using our pricing calculator.
+
+**Do you serve real estate investors as well as agents and brokers?**
+Yes. We work with agents, brokers, and property investors across Southeast Texas, including depreciation strategy, cost segregation, and property-level profit and loss reporting for anyone holding rental units alongside their agent business.
+
+**What real estate deductions do most agents miss?**
+Common missed deductions include mileage driven between showings and closings, home office costs for agents who work from home, continuing education and licensing fees, marketing and photography expenses, and the business-use portion of your cell phone and internet. We review all of these as part of your year-round tax plan — not just at filing time.
+
+**Do I need to make quarterly estimated tax payments?**
+Almost certainly, yes. Because commission income isn't subject to employer withholding, the IRS expects self-employed agents to pay estimated taxes four times a year. We calculate and schedule those payments based on your actual income so you don't face underpayment penalties after a strong closing quarter.
+
+**What entity structure is best for a real estate agent or broker?**
+It depends on your income level, how many agents you manage, and your liability situation. Many agents benefit from an S-corp or LLC structure that reduces self-employment taxes and separates personal and business liability. Our entity type analysis walks through the options and recommends a structure that fits how your business actually operates.
+
+**Do you help real estate professionals plan for retirement?**
+Yes. Commission income doesn't come with an employer-sponsored 401(k), so building a retirement strategy takes extra planning. We compare options like SEP-IRAs, Solo 401(k)s, and SIMPLE IRAs to find the plan that lets you save the most while keeping cash available through slow months.
+
+**How long has BBL worked with real estate professionals in Southeast Texas?**
+Since 1950. Brammer, Begnaud, & Lattimore has served clients across Southeast Texas for over seven decades, including agents, brokers, and property investors who need accounting built around the rhythm of the real estate market — not a one-size-fits-all template.
+
+**Can BBL handle payroll if I have agents or staff on my team?**
+Yes. Our full-service payroll management is included in the same fixed monthly fee, covering payroll processing, tax filings, and compliance through our secure online platform. Whether you're paying one assistant or a team of agents, we keep everything current and compliant so you don't have to.
+
 ---
 ## SEO & AIO Metadata
 
