@@ -1,6 +1,6 @@
 import { Section } from './Section'
 import { Button } from '@/components/ui/button'
-import { SmartLink as Link } from '@/components/ui/smart-link'
+import Link from 'next/link'
 import type { ReactNode } from 'react'
 import { FramedMedia } from '@/components/ui/framed-media'
 import type { HeroSplitProps } from '@/lib/assembly/extract-block-props'

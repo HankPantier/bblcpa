@@ -1,4 +1,4 @@
-import { SmartLink as Link } from '@/components/ui/smart-link'
+import Link from 'next/link'
 import { ArrowUpRight } from 'lucide-react'
 import { Section } from './Section'
 import type { InternalLink } from '@/lib/assembly/parse-page-md'
