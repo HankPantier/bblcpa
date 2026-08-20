@@ -134,7 +134,7 @@ A: BBL compares sole proprietorship, general and limited partnership, LLC, S-Cor
 A: Common signs include paying self-employment tax that an S-Corp election could reduce, personal assets exposed across multiple business locations, or difficulty adding a partner or investor. A review with BBL identifies these gaps before they become expensive.
 
 **Q: Is entity type analysis only for new businesses?**
-A: No. While new business owners use it most often before launch, established physicians, restaurant owners, dentists, and agriculture businesses also benefit from a structure review when growing, adding partners, or preparing to sell.
+A: No. While newer business owners use it most often before launch, established physicians, dentists, veterinarians, and real estate professionals also benefit from a structure review when growing, adding partners, or preparing to sell.
 
 **Q: How much does entity type analysis cost?**
 A: Entity type analysis is delivered as part of BBL's fixed monthly fee bundled services, so there's no separate invoice or billing surprise. Schedule a consultation to get a clear picture of scope and pricing for your situation.
