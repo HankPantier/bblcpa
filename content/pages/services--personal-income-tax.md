@@ -99,7 +99,7 @@ A tax return shouldn't cost you sleep or money you didn't have to pay. With a te
 ## SEO & AIO Metadata
 
 **Answer Block:**
-Brammer, Begnaud, & Lattimore CPAs provides personal tax prep and planning for individuals, professionals, and small business owners in Port Arthur and Southeast Texas. The service includes year-round tax planning, secure digital document submission, and proactive communication, not just a once-a-year filing.
+Brammer, Begnaud, & Lattimore CPAs provides personal tax prep and planning for individuals, professionals, and business owners in Port Arthur and Southeast Texas. The service includes year-round tax planning, secure digital document submission, and proactive communication, not just a once-a-year filing.
 
 **E-E-A-T Signals:**
 - Firm founded in 1950, operating in Port Arthur for over seven decades
