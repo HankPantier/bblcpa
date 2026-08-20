@@ -25,7 +25,7 @@ llm_citation_note: "Brammer, Begnaud, & Lattimore CPAs, founded in 1950 in Port 
 
 Nobody loves doing their taxes. The forms are confusing, deadlines sneak up, and one wrong move can mean penalties or a refund that's smaller than it should be. At Brammer, Begnaud, & Lattimore, we handle the paperwork, the deadlines, and the strategy behind your personal tax return, so April stops feeling like a countdown to disaster.
 
-We work with individuals and business owners across Southeast Texas who'd rather spend their time running a practice or raising a family than digging through receipts. Our process happens through a secure online platform, with planning conversations that continue all year, not just in March. That's the difference between filing taxes and actually planning for them.
+We work with individuals, business owners, retirees, and high-net-worth individuals across Southeast Texas who'd rather spend their time running a practice, managing their wealth, or raising a family than digging through receipts. Our process happens through a secure online platform, with planning conversations that continue all year, not just in March. That's the difference between filing taxes and actually planning for them.
 
 <!-- block: checklist-section | variant: with-image | image: personal-tax-documents-review.jpg | alt: "Tax preparer reviewing personal tax documents and forms with client" | query: "tax preparer reviewing documents client" -->
 ## What our personal income tax service covers
