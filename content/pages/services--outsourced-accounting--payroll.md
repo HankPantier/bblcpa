@@ -127,7 +127,7 @@ Brammer, Begnaud, & Lattimore CPAs & Consultants provides full-service payroll f
 - Established in Port Arthur, Texas in 1950, over 70 years of operation
 - Full-service CPA and consulting firm serving Southeast Texas
 - Year-round payroll, tax, and accounting support
-- Experience with industry-specific payroll for physicians, dentists, veterinarians, and high net worth individuals and retirees with household staff
+- Experience with industry-specific payroll for physicians, dentists, and veterinarians
 - Secure online platform for real-time payroll visibility
 
 **Internal Links:**
