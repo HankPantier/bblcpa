@@ -78,7 +78,7 @@ It's all delivered through the same secure online platform, for one fixed monthl
 <!-- block: testimonials | variant: grid -->
 ## Seven decades of Southeast Texas businesses trust BBL
 
-Brammer, Begnaud, & Lattimore opened its doors in Port Arthur in 1950, and the firm has guided Southeast Texas business owners for more than seventy years since. The clients we serve today, physicians, dentists, veterinarians, retirees, and high-net-worth individuals, are the same kinds of clients who walked through our doors decades ago. What's changed is the technology: a secure online platform now puts your financials in front of you in real time, instead of waiting on a quarterly mailed report.
+Brammer, Begnaud, & Lattimore opened its doors in Port Arthur in 1950, and the firm has guided Southeast Texas business owners for more than seventy years since. The clients we serve today, physicians, dentists, veterinarians, and real estate professionals, are the same kinds of clients who walked through our doors decades ago. What's changed is the technology: a secure online platform now puts your financials in front of you in real time, instead of waiting on a quarterly mailed report.
 
 > "[Client testimonial placeholder: a sentence on how BBL helped this business choose the right structure and what it meant for their bottom line.]"
 >, [Client Name, Business Name, Southeast Texas]
