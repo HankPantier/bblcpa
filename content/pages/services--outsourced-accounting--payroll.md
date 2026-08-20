@@ -78,16 +78,6 @@ icon: PawPrint
 
 Veterinary practices carry a mix of salaried doctors, hourly technicians, and support staff. We keep every pay run accurate so you can focus on patients, not paperwork.
 
-### Retirees
-icon: Umbrella
-
-If you manage household employees or small investment-related payroll obligations, we handle the details so retirement stays the simple chapter it is supposed to be.
-
-### High net worth individuals
-icon: TrendingUp
-
-Complex compensation arrangements, household staff, and multiple income streams require payroll handled with precision. We manage it all so nothing slips through the cracks.
-
 <!-- block: stats-bar | variant: 3-up -->
 ## Trusted by Southeast Texas businesses since 1950
 
