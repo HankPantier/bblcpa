@@ -75,6 +75,11 @@ icon: Umbrella
 
 Social Security timing, retirement distributions, and investment income all carry tax consequences that compound quietly over time. A fixed monthly fee gives you year-round support and real-time visibility into your financial picture, so nothing catches you off guard.
 
+### Real Estate Professionals
+icon: Building2
+
+Rental income, depreciation schedules, and 1031 exchanges require proactive tax strategy, not year-end guesswork. BBL delivers fixed monthly fees, CFO-level guidance, and the deduction and depreciation planning that keeps real estate portfolios working harder.
+
 ### High Net Worth Individuals
 icon: TrendingUp
 
