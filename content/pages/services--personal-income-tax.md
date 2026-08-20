@@ -58,6 +58,20 @@ Brammer, Begnaud, & Lattimore has prepared personal tax returns in Port Arthur s
 
 That history means we've watched how local industries shape personal finances, from oil and gas employment swings to the practice economics that come with running a dental, medical, or veterinary office, to the evolving needs of retirees and high-net-worth individuals managing significant assets. Physicians, dentists, veterinarians, and business owners across the region bring us their personal returns for the same reason: continuity matters when your tax situation gets complicated.
 
+<!-- block: content-split | variant: image-right | image: retirement-income-tax-planning.jpg | alt: "Retiree reviewing retirement income and tax documents with an accountant" | query: "retiree accountant retirement income tax planning" -->
+## Tax planning built for retirees
+
+Retirement doesn't simplify your tax situation — it often adds new layers. Required minimum distributions, Social Security income, investment withdrawals, and pension payments each carry their own tax rules, and the timing of when you take them can make a meaningful difference in what you owe.
+
+BBL's personal tax service helps retirees in Southeast Texas navigate those decisions throughout the year, not just at filing time. We look at how your income sources interact, plan distributions to avoid unnecessary tax spikes, and help you stay ahead of estimated payment requirements so there's no April shock. Whether you're newly retired or years into managing a mix of accounts and income streams, we build a plan around your actual picture.
+
+<!-- block: content-split | variant: image-left | image: high-net-worth-tax-strategy-meeting.jpg | alt: "Financial advisor and high-net-worth client reviewing investment and tax strategy" | query: "high net worth individual tax strategy advisor meeting" -->
+## Complex finances deserve a proactive strategy
+
+When your income comes from multiple sources — investments, real estate, business distributions, and employment — a once-a-year tax preparer isn't enough. By the time you're sitting across from someone in March, most of the year's planning opportunities have already passed.
+
+BBL works with high-net-worth individuals in Southeast Texas year-round, tracking income events as they happen and making proactive adjustments before they become costly surprises at filing time. We look at investment income, capital gains timing, depreciation on real estate holdings, and strategies to minimize your overall tax burden — all delivered through a secure online platform that gives you real-time visibility into where things stand. No waiting on callbacks. No billing surprises. Just a consistent, expert team that knows your financial picture.
+
 <!-- block: process-steps | variant: vertical -->
 ## How working with BBL works
 
