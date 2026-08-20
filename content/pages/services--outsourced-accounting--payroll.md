@@ -58,7 +58,7 @@ When you want to check a pay run or pull a report, you should not have to call a
 
 See what was paid, when it went out, and where your numbers stand, any time of day. That kind of real-time visibility means you are never guessing and never stuck waiting on someone to email you a file. The information is yours, and it is always within reach.
 
-<!-- block: industry-cards | variant: 3-col -->
+<!-- block: industry-cards | variant: 4-col -->
 ## Payroll done right for the businesses we know best
 
 Payroll looks different depending on who you employ. We have handled these situations across Southeast Texas for over 70 years, so the wrinkles in your industry are familiar territory.
