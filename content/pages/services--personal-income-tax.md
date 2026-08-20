@@ -38,6 +38,7 @@ This service fits:
 - Business owners filing personal returns alongside a Schedule C, K-1, or S-corp distribution
 - Retirees managing Social Security income, required minimum distributions, and investment accounts
 - High-net-worth individuals with complex income streams, real estate holdings, or significant investment portfolios
+- Real estate professionals managing rental income, depreciation, and property sale transactions
 - Families navigating life events such as marriage, a new home, or college expenses
 
 Every return moves through a secure digital platform where you upload documents, message your preparer, and check status without phone tag or a trip downtown. Planning calls happen throughout the year, not just during filing season, so questions about a bonus, a home sale, or a side business get answered before they affect your return.
