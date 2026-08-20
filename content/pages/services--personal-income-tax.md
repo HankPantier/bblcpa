@@ -48,7 +48,7 @@ Every return moves through a secure digital platform where you upload documents,
 
 Plenty of tax preparers see you once a year, hand you a return, and disappear until next January. That model works fine until you take a new job, sell a rental property, or have a record year in your practice, and then discover in April that you owe far more than expected.
 
-BBL works differently. Throughout the year, we track the moves that affect your taxes and adjust your withholding or estimated payments before they become a problem at filing time. If you're a physician adding a side practice, a veterinarian growing your clinic, a high-net-worth individual with investment income to manage, or a retiree navigating a required distribution, that's a conversation we have in June or September, not a surprise you discover in April.
+BBL works differently. Throughout the year, we track the moves that affect your taxes and adjust your withholding or estimated payments before they become a problem at filing time. If you're a physician adding a side practice, a veterinarian growing your clinic, a real estate professional tracking rental income and depreciation, a high-net-worth individual with investment income to manage, or a retiree navigating a required distribution, that's a conversation we have in June or September, not a surprise you discover in April.
 
 Our secure online platform gives you real-time visibility into your financial picture between filing seasons, so you're never wondering where things stand. You can see what's been submitted, what's pending, and what we're projecting for your tax liability, all without waiting on a callback.
 
