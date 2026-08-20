@@ -60,7 +60,7 @@ We keep the process grounded in your actual business, not abstract theory.
 We start with your goals, current revenue, growth plans, and risk tolerance, not a form to fill out alone.
 
 ### A look at your specific situation
-We review your current structure, or lack of one, your industry, and what's realistic for a dental practice, veterinary clinic, retirement income strategy, or high-net-worth portfolio.
+We review your current structure, or lack of one, your industry, and what's realistic for a dental practice, veterinary clinic, or any other Southeast Texas business.
 
 ### A plain-language comparison
 We lay out two or three viable options side by side, with the tax and liability tradeoffs spelled out in dollars, not jargon.
