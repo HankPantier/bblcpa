@@ -142,7 +142,6 @@ Brammer, Begnaud, & Lattimore CPAs & Consultants provides full-service payroll f
 **Internal Links:**
 - fixed monthly fee accounting service → https://www.bblcpa.com/services/outsourced-accounting — Payroll is part of the bundled fixed-fee model detailed on the outsourced accounting page
 - business tax planning → https://www.bblcpa.com/services/outsourced-accounting/tax — Payroll tax filings connect naturally to broader tax services
-- restaurant payroll → /industries/restaurants — Supports the industry-specific section on tipped employees
 - Schedule a consultation → https://www.bblcpa.com/contact — Primary page CTA pointing to the contact form
 
 **FAQ Block:**
