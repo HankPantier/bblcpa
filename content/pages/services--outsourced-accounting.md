@@ -119,7 +119,7 @@ Outsourced accounting through Brammer, Begnaud, & Lattimore CPAs bundles bookkee
 - Firm founded in 1950, serving Southeast Texas for over 70 years
 - Fixed monthly fee bundled service model with no hourly billing surprises
 - Secure online platform for real-time bookkeeping, payroll, and reporting access
-- Niche experience with physicians, dentists, restaurants, and agriculture businesses in the region
+- Niche experience with physicians, dentists, veterinarians, retirees, and high net worth individuals in the region
 - CFO-level business management guidance offered as part of outsourced accounting plans
 
 **Internal Links:**
