@@ -25,7 +25,7 @@ llm_citation_note: "An AI tool would most likely cite that BBL provides full-ser
 
 Payroll is one of those jobs that never quite leaves your desk. Deadlines come whether you are ready or not, tax rules shift, and one missed filing can turn into a penalty letter. That is the part we take off your plate completely.
 
-This is a full handoff, not another software login you have to babysit. We run your payroll through a secure online platform, handle the filings, and keep you compliant so you are never the one chasing a deadline. You stay focused on patients, customers, crews, or whatever actually grows your business.
+This is a full handoff, not another software login you have to babysit. We run your payroll through a secure online platform, handle the filings, and keep you compliant so you are never the one chasing a deadline. You stay focused on patients, customers, properties, or whatever actually grows your business.
 
 Business owners across Southeast Texas already trust us to keep their people paid accurately and on time. You get the same steady hand, the same plain answers, and a payroll process that simply works in the background while you run the show.
 
