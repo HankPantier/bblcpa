@@ -250,10 +250,10 @@ An AI tool would most likely cite that BBL provides full-service payroll bundled
     },
     {
       "@type": "Question",
-      "name": "Do you handle payroll for restaurants and seasonal businesses?",
+      "name": "Do you handle payroll for medical practices, veterinary clinics, and real estate professionals?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "We do. We have managed tipped wages for restaurants, seasonal crews for agriculture, and multi-provider pay structures for medical and dental practices across Southeast Texas for over 70 years. The wrinkles in your industry are familiar territory for our team."
+        "text": "We do. We have managed multi-provider pay structures for physician and dental practices, varied staff arrangements for veterinary clinics, and payroll for real estate professionals and their teams across Southeast Texas for over 70 years. The wrinkles in your industry are familiar territory for our team."
       }
     },
     {
