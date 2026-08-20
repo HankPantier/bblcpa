@@ -1,7 +1,7 @@
 import { Section } from './Section'
 import { InlineProse } from './InlineProse'
 import { Button } from '@/components/ui/button'
-import { SmartLink as Link } from '@/components/ui/smart-link'
+import Link from 'next/link'
 import { Image } from '@/components/ui/skeleton-image'
 import { Check } from 'lucide-react'
 import { cn } from '@/lib/utils'
