@@ -41,6 +41,7 @@ Think of this as your whole payroll department, handled by people who do it ever
 - **Direct deposit** that puts pay in your team's accounts on time, every time.
 - **Compliance reporting** that keeps your records straight and audit-ready.
 
+
 No single piece of this should land back on your desk. We handle the routine runs and the odd situations, like a mid-cycle hire or a correction that needs to happen fast. When a question comes up, you talk to a real person who already knows your account, not a help-line script. The goal is simple: every detail covered, nothing for you to remember.
 
 <!-- block: content-split | variant: image-left | image: predictable-monthly-billing.jpg | alt: "Calendar and invoice on a desk showing a fixed monthly amount" | query: "monthly budget planning desk" -->
