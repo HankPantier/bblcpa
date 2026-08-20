@@ -34,7 +34,7 @@ At Brammer, Begnaud, & Lattimore, we treat entity selection as the starting line
 
 We sit down with your numbers and your goals, then walk through five structures: sole proprietorship, general or limited partnership, LLC, S-Corp, and C-Corp. Each one taxes profit differently, shields or exposes your personal assets differently, and comes with its own filing deadlines and state requirements.
 
-A solo dentist opening a first practice has different needs than three physicians forming a group, and a veterinarian structured as a sole proprietor faces different liability questions than a high-net-worth individual managing income across multiple investments. We compare self-employment tax exposure, payroll requirements, deduction eligibility, and the administrative load of each option against your actual plans, not a textbook scenario.
+A solo dentist opening a first practice has different needs than three physicians forming a group, and a veterinarian structured as a sole proprietor faces different liability questions than a real estate professional managing income across multiple properties. We compare self-employment tax exposure, payroll requirements, deduction eligibility, and the administrative load of each option against your actual plans, not a textbook scenario.
 
 Texas has its own quirks too. Franchise tax thresholds, registered agent rules, and how the state treats LLCs versus corporations all factor into the recommendation. You don't have to research any of it. We've already done the homework, and we'll explain what we found in plain language, no jargon, no guessing which form to file.
 
