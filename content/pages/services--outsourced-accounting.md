@@ -53,7 +53,7 @@ The same platform lets you upload documents, message our team, and pull paid-bil
 <!-- block: industry-cards | variant: 3-col -->
 ## Who this service is built for
 
-Outsourced accounting works best for professionals who'd rather spend their hours on the work only they can do. Across Southeast Texas, that covers a specific list of clients BBL has worked with for decades.
+Outsourced accounting works best for professionals who'd rather spend their hours on the work only they can do. Across Southeast Texas, that covers a specific list of clients BBL has worked with for decades — including physicians, dentists, veterinarians, real estate professionals, retirees, and high net worth individuals.
 
 ### Physicians
 icon: Stethoscope
