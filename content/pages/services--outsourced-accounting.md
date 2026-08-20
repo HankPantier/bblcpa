@@ -85,7 +85,7 @@ Complex income streams, investment portfolios, and estate considerations demand 
 
 Brammer, Begnaud, & Lattimore opened its doors in Port Arthur in 1950. Seventy-plus years later, the firm still serves the same region: small businesses, nonprofits, and individuals throughout Southeast Texas, not a national client list managed from a call center somewhere else.
 
-That history matters when you're handing over your books. The team behind your outsourced accounting plan has watched local industries shift, weathered the same hurricanes and oil price swings your clients have, and built tax and payroll knowledge specific to Texas rules. You're not a ticket number routed to whoever's available. Whether you're a physician, a veterinarian, a retiree, or a high net worth individual managing complex finances, you're working with a CPA firm that's been down the road since before the interstate was built.
+That history matters when you're handing over your books. The team behind your outsourced accounting plan has watched local industries shift, weathered the same hurricanes and oil price swings your clients have, and built tax and payroll knowledge specific to Texas rules. You're not a ticket number routed to whoever's available. Whether you're a physician, a dentist, a veterinarian, a retiree, or a high net worth individual managing complex finances, you're working with a CPA firm that's been down the road since before the interstate was built.
 
 <!-- block: faq-accordion -->
 ## Frequently Asked Questions About Outsourced accounting | Brammer, Begnaud, & Lattimore CPAs & Consultants
