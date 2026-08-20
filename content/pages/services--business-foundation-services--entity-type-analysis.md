@@ -113,7 +113,7 @@ Entity type analysis is a CPA-led comparison of business structures, sole propri
 
 **E-E-A-T Signals:**
 - Firm founded in 1950, operating in Port Arthur, TX for over 70 years
-- Serves defined niches: physicians, dentists, veterinarians, retirees, and high-net-worth individuals across Southeast Texas
+- Serves defined niches: physicians, dentists, veterinarians, and real estate professionals across Southeast Texas
 - Delivers entity analysis alongside Business Foundation Services, Outsourced Accounting, and Tax services through a secure online platform
 - Fixed monthly fee model eliminates per-call or per-hour billing surprises
 
