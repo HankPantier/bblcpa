@@ -13,7 +13,7 @@ hero_image: personal-tax-planning-consultation.jpg
 hero_image_alt: Accountant reviewing personal tax documents with a client at a desk
 hero_subhead: Year-round tax planning so April never catches you off guard
 hero_headline: "Tax season without the stress"
-answer_block: "Brammer, Begnaud, & Lattimore CPAs provides personal tax prep and planning for individuals, professionals, and small business owners in Port Arthur and Southeast Texas. The service includes year-round tax planning, secure digital document submission, and proactive communication, not just a once-a-year filing."
+answer_block: "Brammer, Begnaud, & Lattimore CPAs provides personal tax prep and planning for individuals, professionals, and business owners in Port Arthur and Southeast Texas. The service includes year-round tax planning, secure digital document submission, and proactive communication, not just a once-a-year filing."
 eeat_signals: ["Firm founded in 1950, operating in Port Arthur for over seven decades","Serves named professional niches including physicians, dentists, and restaurant owners","Year-round tax planning model versus once-a-year filing","Secure online platform for real-time document submission and status tracking"]
 internal_links: [{"url":"https://www.bblcpa.com/services/outsourced-accounting/tax","reason":"Cross-sell to business tax services for clients who also file business returns","anchor_text":"business tax planning and preparation"},{"url":"https://www.bblcpa.com/services/outsourced-accounting/audit-protection","reason":"Relevant follow-on service if a personal return is selected for IRS review","anchor_text":"audit protection"},{"url":"/industries/physicians","reason":"Niche page for one of the named ideal client groups referenced on this page","anchor_text":"physicians"},{"url":"/industries/small-business-owners","reason":"Niche page for clients filing personal returns alongside business income","anchor_text":"business owners"},{"url":"https://www.bblcpa.com/resources/e-books/maximizing-your-tax-refund-a-strategic-guide-to-tax-planning","reason":"Supports the year-round planning message with a downloadable resource","anchor_text":"tax planning guide"},{"url":"https://www.bblcpa.com/contact","reason":"Primary page CTA directing readers to book a meeting","anchor_text":"schedule a consultation"}]
 faq_block: [{"question":"Does BBL only help with taxes once a year?","answer":"No. BBL provides year-round personal tax planning, not just annual filing. Through a secure online platform, clients track their financial picture and discuss decisions, like a bonus, home sale, or new income source, as they happen, so there are fewer surprises when filing time arrives."},{"question":"Who is personal tax prep and planning at BBL for?","answer":"This service fits W-2 employees, physicians, dentists, veterinarians, business owners filing personal returns, retirees managing distributions and investment income, and high-net-worth individuals with complex tax situations. If your personal taxes involve more than one income source, BBL builds a plan around it."},{"question":"How do I submit my tax documents to BBL?","answer":"Documents are uploaded through BBL's secure online platform. You can submit W-2s, 1099s, and statements, message your preparer directly, and check the status of your return without phone calls or a trip to an office in Port Arthur."},{"question":"Can BBL help if I owe an unexpected amount at filing time?","answer":"Year-round planning is designed to prevent that. BBL reviews income changes throughout the year and adjusts withholding or estimated payments ahead of time, so the amount owed at filing reflects what you already expected, not a surprise bill in April."}]
@@ -25,7 +25,7 @@ llm_citation_note: "Brammer, Begnaud, & Lattimore CPAs, founded in 1950 in Port 
 
 Nobody loves doing their taxes. The forms are confusing, deadlines sneak up, and one wrong move can mean penalties or a refund that's smaller than it should be. At Brammer, Begnaud, & Lattimore, we handle the paperwork, the deadlines, and the strategy behind your personal tax return, so April stops feeling like a countdown to disaster.
 
-We work with individuals and business owners across Southeast Texas who'd rather spend their time running a practice or raising a family than digging through receipts. Our process happens through a secure online platform, with planning conversations that continue all year, not just in March. That's the difference between filing taxes and actually planning for them.
+We work with individuals, business owners, retirees, and high-net-worth individuals across Southeast Texas who'd rather spend their time running a practice, managing their wealth, or raising a family than digging through receipts. Our process happens through a secure online platform, with planning conversations that continue all year, not just in March. That's the difference between filing taxes and actually planning for them.
 
 <!-- block: checklist-section | variant: with-image | image: personal-tax-documents-review.jpg | alt: "Tax preparer reviewing personal tax documents and forms with client" | query: "tax preparer reviewing documents client" -->
 ## What our personal income tax service covers
@@ -38,6 +38,7 @@ This service fits:
 - Business owners filing personal returns alongside a Schedule C, K-1, or S-corp distribution
 - Retirees managing Social Security income, required minimum distributions, and investment accounts
 - High-net-worth individuals with complex income streams, real estate holdings, or significant investment portfolios
+- Real estate professionals managing rental income, depreciation, and property sale transactions
 - Families navigating life events such as marriage, a new home, or college expenses
 
 Every return moves through a secure digital platform where you upload documents, message your preparer, and check status without phone tag or a trip downtown. Planning calls happen throughout the year, not just during filing season, so questions about a bonus, a home sale, or a side business get answered before they affect your return.
@@ -47,7 +48,7 @@ Every return moves through a secure digital platform where you upload documents,
 
 Plenty of tax preparers see you once a year, hand you a return, and disappear until next January. That model works fine until you take a new job, sell a rental property, or have a record year in your practice, and then discover in April that you owe far more than expected.
 
-BBL works differently. Throughout the year, we track the moves that affect your taxes and adjust your withholding or estimated payments before they become a problem at filing time. If you're a physician adding a side practice, a veterinarian growing your clinic, a high-net-worth individual with investment income to manage, or a retiree navigating a required distribution, that's a conversation we have in June or September, not a surprise you discover in April.
+BBL works differently. Throughout the year, we track the moves that affect your taxes and adjust your withholding or estimated payments before they become a problem at filing time. If you're a physician adding a side practice, a veterinarian growing your clinic, a real estate professional tracking rental income and depreciation, a high-net-worth individual with investment income to manage, or a retiree navigating a required distribution, that's a conversation we have in June or September, not a surprise you discover in April.
 
 Our secure online platform gives you real-time visibility into your financial picture between filing seasons, so you're never wondering where things stand. You can see what's been submitted, what's pending, and what we're projecting for your tax liability, all without waiting on a callback.
 
@@ -57,6 +58,20 @@ Our secure online platform gives you real-time visibility into your financial pi
 Brammer, Begnaud, & Lattimore has prepared personal tax returns in Port Arthur since 1950. Three generations of Southeast Texas families have walked through doors that started as a local accounting practice and grew into a full-service firm covering tax, payroll, and audit work.
 
 That history means we've watched how local industries shape personal finances, from oil and gas employment swings to the practice economics that come with running a dental, medical, or veterinary office, to the evolving needs of retirees and high-net-worth individuals managing significant assets. Physicians, dentists, veterinarians, and business owners across the region bring us their personal returns for the same reason: continuity matters when your tax situation gets complicated.
+
+<!-- block: content-split | variant: image-right | image: retirement-income-tax-planning.jpg | alt: "Retiree reviewing retirement income and tax documents with an accountant" | query: "retiree accountant retirement income tax planning" -->
+## Tax planning built for retirees
+
+Retirement doesn't simplify your tax situation — it often adds new layers. Required minimum distributions, Social Security income, investment withdrawals, and pension payments each carry their own tax rules, and the timing of when you take them can make a meaningful difference in what you owe.
+
+BBL's personal tax service helps retirees in Southeast Texas navigate those decisions throughout the year, not just at filing time. We look at how your income sources interact, plan distributions to avoid unnecessary tax spikes, and help you stay ahead of estimated payment requirements so there's no April shock. Whether you're newly retired or years into managing a mix of accounts and income streams, we build a plan around your actual picture.
+
+<!-- block: content-split | variant: image-left | image: high-net-worth-tax-strategy-meeting.jpg | alt: "Financial advisor and high-net-worth client reviewing investment and tax strategy" | query: "high net worth individual tax strategy advisor meeting" -->
+## Complex finances deserve a proactive strategy
+
+When your income comes from multiple sources — investments, real estate, business distributions, and employment — a once-a-year tax preparer isn't enough. By the time you're sitting across from someone in March, most of the year's planning opportunities have already passed.
+
+BBL works with high-net-worth individuals in Southeast Texas year-round, tracking income events as they happen and making proactive adjustments before they become costly surprises at filing time. We look at investment income, capital gains timing, depreciation on real estate holdings, and strategies to minimize your overall tax burden — all delivered through a secure online platform that gives you real-time visibility into where things stand. No waiting on callbacks. No billing surprises. Just a consistent, expert team that knows your financial picture.
 
 <!-- block: process-steps | variant: vertical -->
 ## How working with BBL works
@@ -99,7 +114,7 @@ A tax return shouldn't cost you sleep or money you didn't have to pay. With a te
 ## SEO & AIO Metadata
 
 **Answer Block:**
-Brammer, Begnaud, & Lattimore CPAs provides personal tax prep and planning for individuals, professionals, and small business owners in Port Arthur and Southeast Texas. The service includes year-round tax planning, secure digital document submission, and proactive communication, not just a once-a-year filing.
+Brammer, Begnaud, & Lattimore CPAs provides personal tax prep and planning for individuals, professionals, and business owners in Port Arthur and Southeast Texas. The service includes year-round tax planning, secure digital document submission, and proactive communication, not just a once-a-year filing.
 
 **E-E-A-T Signals:**
 - Firm founded in 1950, operating in Port Arthur for over seven decades
