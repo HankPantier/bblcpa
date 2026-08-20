@@ -78,6 +78,11 @@ icon: PawPrint
 
 Veterinary practices carry a mix of salaried doctors, hourly technicians, and support staff. We keep every pay run accurate so you can focus on patients, not paperwork.
 
+### Real Estate Professionals
+icon: Building2
+
+Real estate teams often have a mix of salaried staff and commissioned agents, with pay structures that shift as the team grows. We handle the complexity so you can focus on closing deals, not calculating paychecks.
+
 <!-- block: stats-bar | variant: 3-up -->
 ## Trusted by Southeast Texas businesses since 1950
 
