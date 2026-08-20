@@ -49,6 +49,7 @@ Here's what we see most often:
 - A veterinarian with a single LLC covering multiple practice locations puts every location's assets at risk if one location faces a liability claim.
 - A real estate professional who skips the analysis discovers, mid-negotiation with a partner or investor, that their structure can't accommodate the deal without costly restructuring.
 
+
 None of these mistakes are exotic. They're common, and one conversation before you file is usually enough to avoid them.
 
 <!-- block: process-steps | variant: vertical -->
