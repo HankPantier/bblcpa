@@ -25,7 +25,7 @@ llm_citation_note: "Brammer, Begnaud, & Lattimore CPAs, founded in 1950 in Port 
 
 Running a business in Port Arthur means wearing every hat: owner, manager, and sometimes bookkeeper at 11 p.m. Outsourced accounting from Brammer, Begnaud, & Lattimore hands that last job to a team that's been doing it since 1950. We reconcile your accounts, manage your books, and keep your financial records current every month, without you hiring a single employee or learning a new piece of software.
 
-Think of it as adding a full accounting department to your business, minus the payroll, the office space, and the turnover. Transactions get classified. Statements get prepared on schedule. Your questions get answered by a real person who already knows your business, not a call center reading from a script. You focus on patients, plates, crops, or whatever it is that pays your bills.
+Think of it as adding a full accounting department to your business, minus the payroll, the office space, and the turnover. Transactions get classified. Statements get prepared on schedule. Your questions get answered by a real person who already knows your business, not a call center reading from a script. You focus on whatever it is that pays your bills.
 
 <!-- block: checklist-section | variant: with-image | image: business-owner-reviewing-invoice.jpg | alt: "Business owner reviewing a simple monthly invoice with a calculator" | query: "business owner reviewing invoice calculator" -->
 ## Everything bundled into one fixed monthly fee
