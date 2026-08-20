@@ -223,7 +223,7 @@ Brammer, Begnaud, & Lattimore CPAs, founded in 1950 and based in Port Arthur, TX
       "name": "Is entity type analysis only for new businesses?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "No. While new business owners use it most often before launch, established physicians, restaurant owners, dentists, and agriculture businesses also benefit from a structure review when growing, adding partners, or preparing to sell."
+        "text": "No. While newer business owners use it most often before launch, established physicians, dentists, veterinarians, retirees, and high-net-worth individuals also benefit from a structure review when growing, adding partners, or preparing to sell."
       }
     },
     {
