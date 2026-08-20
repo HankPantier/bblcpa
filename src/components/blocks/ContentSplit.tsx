@@ -1,5 +1,5 @@
 import { Section } from './Section'
-import { SmartLink as Link } from '@/components/ui/smart-link'
+import Link from 'next/link'
 import ReactMarkdown from 'react-markdown'
 import remarkGfm from 'remark-gfm'
 import { MD_LINK_COMPONENTS } from '@/lib/markdown-components'

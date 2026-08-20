@@ -41,23 +41,23 @@ describe('findNavLabel', () => {
 
 describe('buildBreadcrumbTrail', () => {
   it('roots at the brand label and labels each segment from the nav', () => {
-    expect(buildBreadcrumbTrail('/services/outsourced-accounting', nav, 'BBL CPAs')).toEqual([
-      { label: 'BBL CPAs', url: '/' },
+    expect(buildBreadcrumbTrail('/services/outsourced-accounting', nav, 'Korbey Lague')).toEqual([
+      { label: 'Korbey Lague', url: '/' },
       { label: 'Services', url: '/services' },
       { label: 'Outsourced Accounting', url: '/services/outsourced-accounting' },
     ])
   })
 
   it('falls back to a titleized slug for pages not in the nav', () => {
-    expect(buildBreadcrumbTrail('/services/virtual-cfo', nav, 'BBL CPAs')).toEqual([
-      { label: 'BBL CPAs', url: '/' },
+    expect(buildBreadcrumbTrail('/services/virtual-cfo', nav, 'Korbey Lague')).toEqual([
+      { label: 'Korbey Lague', url: '/' },
       { label: 'Services', url: '/services' },
       { label: 'Virtual Cfo', url: '/services/virtual-cfo' },
     ])
   })
 
   it('returns an empty trail for the home page', () => {
-    expect(buildBreadcrumbTrail('/', nav, 'BBL CPAs')).toEqual([])
-    expect(buildBreadcrumbTrail('', nav, 'BBL CPAs')).toEqual([])
+    expect(buildBreadcrumbTrail('/', nav, 'Korbey Lague')).toEqual([])
+    expect(buildBreadcrumbTrail('', nav, 'Korbey Lague')).toEqual([])
   })
 })
