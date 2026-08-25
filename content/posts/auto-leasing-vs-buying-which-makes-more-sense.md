@@ -1,5 +1,5 @@
 ---
-title: "Lease vs. Buy a Car: A CPA's Framework for the Right Call"
+title: Lease vs. Buy a Car: A CPA's Framework for the Right Call
 slug: auto-leasing-vs-buying-which-makes-more-sense
 date: 2026-08-24
 author: "David L. Lattimore"
