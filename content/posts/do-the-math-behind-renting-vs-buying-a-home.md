@@ -7,7 +7,7 @@ excerpt: "Skip the market-timing debate. See how to compare renting and buying a
 image: couple-reviewing-home-finances.jpg
 image_alt: "Couple sitting at a kitchen table reviewing calculator and paperwork while deciding whether to rent or buy a home"
 tags: ["home buying", "financial planning", "tax planning", "real estate"]
-meta_title: "Buy vs Rent a Home: The Real Financial Math"
+meta_title: "Buy vs Rent a Home: The Real Financial Math | Brammer, Begnaud & Lattimore CPAs – Port Arthur, TX"
 meta_description: "Should you buy or rent a home? A Port Arthur CPA breaks down the true monthly costs, opportunity cost, and timeline math behind the decision."
 target_keyword: "buy vs rent home financially"
 secondary_keywords: ["cost of buying vs renting a home", "is renting better than buying", "financial planning for homeownership", "rent vs buy calculator"]
