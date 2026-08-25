@@ -7,7 +7,7 @@ excerpt: "Owning a second home isn't just a lifestyle call, it's a tax decision.
 image: vacation-home-porch-view.jpg
 image_alt: "A lakeside second home with a porch, representing tax decisions around personal versus rental use"
 tags: ["tax planning", "second home", "rental property", "real estate tax"]
-meta_title: "Second Home Tax Rules: The IRS 14-Day Rule Explained"
+meta_title: "Second Home Tax Rules: The IRS 14-Day Rule Explained | Brammer, Begnaud, & Lattimore CPAs"
 meta_description: "Learn the second home tax rules that matter most: the IRS 14-day rule, personal-use limits, and how rental income and depreciation actually work."
 target_keyword: "second home tax rules"
 secondary_keywords: ["second home vs investment property", "renting out a second home taxes", "vacation home rental income tax", "IRS 14 day rule second home"]
