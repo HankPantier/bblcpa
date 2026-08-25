@@ -7,8 +7,8 @@ excerpt: "Subscription creep quietly drains hundreds or thousands of dollars a y
 image: reviewing-monthly-bills-laptop.jpg
 image_alt: "Person reviewing monthly subscription charges and bills on a laptop at a kitchen table"
 tags: ["budgeting", "expense management", "small business finance", "cash flow"]
-meta_title: "Subscription Creep: How to Audit Recurring Costs"
-meta_description: "Subscription creep can cost your household or business thousands a year. Learn how to run a subscription audit and cut recurring expenses for good."
+meta_title: "Subscription Creep: How to Audit Recurring Costs | Brammer, Begnaud, & Lattimore CPAs"
+meta_description: "Subscription creep can cost your household or business thousands a year. Learn how to run a subscription audit and cut recurring expenses for good — tips from Brammer, Begnaud, & Lattimore CPAs in Port Arthur, TX."
 target_keyword: "subscription creep"
 secondary_keywords: ["managing subscription costs", "recurring expenses budget", "subscription audit tips", "cutting monthly expenses"]
 canonical_url: https://www.bblcpa.com/resources/take-back-control-of-subscription-creep
