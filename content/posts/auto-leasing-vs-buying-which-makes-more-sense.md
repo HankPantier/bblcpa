@@ -23,7 +23,7 @@ There's no universal right answer between leasing and buying a car. There is a r
 
 Monthly payment is the number every ad leads with, and it's the least useful number for deciding anything. A lease payment looks smaller because you're only financing the depreciation during the term, plus interest and fees, not the full price of the car. Buying finances the whole vehicle, so the payment is higher, but you're building equity every month instead of handing the car back at lease-end with nothing to show for it.
 
-The real comparison has to include total cost of ownership over the time you'd actually keep the vehicle, not just the monthly line item. That means adding up the down payment, all monthly payments, mileage penalties, wear-and-tear charges, and either the trade-in value (if you buy) or the disposition fee (if you lease and walk away).
+The real comparison has to include [total cost of ownership](/resources/do-the-math-behind-renting-vs-buying-a-home) over the time you'd actually keep the vehicle, not just the monthly line item. That means adding up the down payment, all monthly payments, mileage penalties, wear-and-tear charges, and either the trade-in value (if you buy) or the disposition fee (if you lease and walk away).
 
 | Factor | Leasing | Buying |
 |---|---|---|
