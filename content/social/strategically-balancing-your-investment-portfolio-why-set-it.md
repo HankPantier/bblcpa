@@ -1,5 +1,5 @@
 ---
-title: Social suggestions — Balanced Investment Portfolio: Why 'Set It and Forget It' Fails
+title: "Social suggestions — Balanced Investment Portfolio: Why 'Set It and Forget It' Fails"
 post: /resources/strategically-balancing-your-investment-portfolio-why-set-it
 ---
 ## LinkedIn

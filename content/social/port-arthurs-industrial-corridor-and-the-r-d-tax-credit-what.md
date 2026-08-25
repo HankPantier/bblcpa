@@ -1,5 +1,5 @@
 ---
-title: Social suggestions — Port Arthur's Industrial Corridor and the R&D Tax Credit: What Local Manufacturers Are Missing
+title: "Social suggestions — Port Arthur's Industrial Corridor and the R&D Tax Credit: What Local Manufacturers Are Missing"
 post: /resources/port-arthurs-industrial-corridor-and-the-r-d-tax-credit-what
 ---
 ## LinkedIn

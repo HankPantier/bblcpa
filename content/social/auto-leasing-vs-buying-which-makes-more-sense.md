@@ -1,5 +1,5 @@
 ---
-title: Social suggestions — Lease vs. Buy a Car: A CPA's Framework for the Right Call
+title: "Social suggestions — Lease vs. Buy a Car: A CPA's Framework for the Right Call"
 post: /resources/auto-leasing-vs-buying-which-makes-more-sense
 ---
 ## LinkedIn
