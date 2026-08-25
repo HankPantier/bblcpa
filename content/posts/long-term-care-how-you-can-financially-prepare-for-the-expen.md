@@ -7,7 +7,7 @@ excerpt: "Long-term care can cost six figures over a few years. See how insuranc
 image: senior-couple-reviewing-financial-documents.jpg
 image_alt: "Senior couple reviewing financial documents together at a kitchen table while planning for long-term care costs"
 tags: ["retirement planning", "tax planning", "elder care", "estate planning"]
-meta_title: "Long-Term Care Planning Costs: A CPA's Funding Guide"
+meta_title: "Long-Term Care Planning Costs: A CPA's Funding Guide | Port Arthur, TX"
 meta_description: "A Port Arthur CPA breaks down long-term care planning costs, comparing insurance, VA Aid and Attendance benefits, and self-funding strategies."
 target_keyword: "long-term care planning costs"
 secondary_keywords: ["long-term care insurance vs self-funding", "veterans aid and attendance benefit", "paying for nursing home care", "long-term care financial planning"]
