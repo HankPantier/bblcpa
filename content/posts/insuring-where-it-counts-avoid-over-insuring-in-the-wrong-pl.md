@@ -7,7 +7,7 @@ excerpt: "Stop buying insurance off a checklist. See how a Port Arthur CPA firm 
 image: family-reviewing-financial-documents-home-office.jpg
 image_alt: "A family reviewing financial and insurance documents together at a home office table"
 tags: ["insurance planning", "risk management", "financial planning", "business insurance"]
-meta_title: "How Much Insurance Coverage Do You Need | BBL CPAs"
+meta_title: "How Much Insurance Coverage Do You Need | Brammer, Begnaud, & Lattimore CPAs"
 meta_description: "A CPA-built framework for how much insurance coverage you need, tied to net worth and cash flow, not a generic policy checklist. Southeast Texas guidance."
 target_keyword: "how much insurance coverage do you need"
 secondary_keywords: ["types of insurance for financial protection", "business insurance coverage checklist", "insurance needs analysis", "personal risk management planning"]
