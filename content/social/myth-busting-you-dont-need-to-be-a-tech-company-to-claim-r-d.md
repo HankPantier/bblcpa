@@ -1,5 +1,5 @@
 ---
-title: Social suggestions — "Myth-busting: you don't need to be a tech company to claim R&D tax credits"
+title: "Social suggestions — \"Myth-busting: you don't need to be a tech company to claim R&D tax credits\""
 post: /resources/myth-busting-you-dont-need-to-be-a-tech-company-to-claim-r-d
 ---
 ## LinkedIn

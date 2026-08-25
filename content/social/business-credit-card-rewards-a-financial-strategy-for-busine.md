@@ -1,5 +1,5 @@
 ---
-title: Social suggestions — Business Credit Card Rewards: A Financial Strategy for Business Owners
+title: "Social suggestions — Business Credit Card Rewards: A Financial Strategy for Business Owners"
 post: /resources/business-credit-card-rewards-a-financial-strategy-for-busine
 ---
 ## LinkedIn

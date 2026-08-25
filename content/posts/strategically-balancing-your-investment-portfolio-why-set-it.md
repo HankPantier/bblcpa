@@ -1,5 +1,5 @@
 ---
-title: Balanced Investment Portfolio: Why Set It and Forget It Fails
+title: "Balanced Investment Portfolio: Why Set It and Forget It Fails"
 slug: strategically-balancing-your-investment-portfolio-why-set-it
 date: 2026-08-24
 author: "David L. Lattimore"
