@@ -7,7 +7,7 @@ excerpt: "An emergency fund helps you survive a medical bill, but HSAs, FSAs, an
 image: hsa-medical-savings-planning.jpg
 image_alt: "Person reviewing medical bills and financial paperwork at a kitchen table"
 tags: ["tax planning", "HSA", "medical expenses", "financial planning"]
-meta_title: "How to Plan for Unexpected Medical Expenses | BBL CPAs"
+meta_title: "How to Plan for Unexpected Medical Expenses | Brammer, Begnaud, & Lattimore CPAs"
 meta_description: "Learn how to plan for unexpected medical expenses using HSA tax benefits, FSAs, and the medical expense tax deduction. Advice from a Port Arthur, TX CPA firm."
 target_keyword: "how to plan for unexpected medical expenses"
 secondary_keywords: ["HSA tax benefits", "medical expense tax deduction", "emergency fund for medical bills", "avoiding medical debt"]
