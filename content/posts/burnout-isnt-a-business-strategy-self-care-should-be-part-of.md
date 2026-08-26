@@ -7,7 +7,7 @@ excerpt: "Exhaustion isn't a personal problem that happens to spill into your bu
 image: tired-business-owner-desk-late-night.jpg
 image_alt: "Small business owner rubbing eyes while working late at a desk covered in paperwork"
 tags: ["business owner wellness", "burnout prevention", "business management", "sustainable growth"]
-meta_title: "Self-Care for Business Owners: A CPA's Case Against Burnout"
+meta_title: "Self-Care for Business Owners: A CPA's Case Against Burnout | Brammer, Begnaud, & Lattimore CPAs"
 meta_description: "Burnout costs more than your health, it costs your business. A Port Arthur CPA explains why self-care protects judgment, margin, and sustainable growth."
 target_keyword: "self-care for business owners"
 secondary_keywords: ["business owner burnout", "entrepreneur mental health", "work-life balance for small business owners", "sustainable business growth habits"]
