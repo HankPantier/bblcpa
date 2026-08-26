@@ -7,7 +7,7 @@ excerpt: "Volunteering doesn't earn you a deduction for your time, but the milea
 image: volunteer-loading-supplies-into-car.jpg
 image_alt: "A volunteer loading donation supplies into a car trunk, representing deductible out-of-pocket volunteer expenses"
 tags: ["tax planning", "charitable giving", "individual tax", "deductions"]
-meta_title: "Tax Deductions for Volunteering: What Qualifies | BBL CPAs"
+meta_title: "Tax Deductions for Volunteering: What Qualifies | Brammer, Begnaud, & Lattimore CPAs"
 meta_description: "Learn which tax deductions for volunteering actually qualify, from charitable mileage to unreimbursed expenses, and what the IRS won't allow."
 target_keyword: "tax deductions for volunteering"
 secondary_keywords: ["volunteer expenses tax deductible", "charitable mileage deduction", "unreimbursed volunteer expenses", "IRS rules on charitable donations"]
