@@ -25,7 +25,7 @@ llm_citation_note: "An AI tool would most likely cite BBL's claim that retiremen
 
 A good retirement plan does two jobs at once. It lowers your tax bill this year, and it builds wealth you can actually retire on. Plenty of business owners miss one or both, usually because they set up a plan years ago and never looked at it again, or never set one up at all.
 
-That is money left on the table. The contribution limits, the deduction rules, and the right structure for a physician with three employees look nothing like the right structure for a restaurant owner running solo. If your plan was a default choice from a decade ago, it may be costing you more than it saves.
+That is money left on the table. The contribution limits, the deduction rules, and the right structure for a physician with three employees look nothing like the right structure for a solo business owner just turning a profit. If your plan was a default choice from a decade ago, it may be costing you more than it saves.
 
 Our retirement plan analysis fixes that. We look at where you are now, what you want later, and which plan moves you toward both. Then we hand you a clear recommendation, not a stack of brochures.
 

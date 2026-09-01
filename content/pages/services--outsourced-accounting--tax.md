@@ -63,6 +63,11 @@ icon: Landmark
 
 Social Security timing, retirement distributions, and investment income each carry tax consequences that benefit from year-round planning, not just an annual filing. [See retiree tax support](/industries/retirees).
 
+### Real Estate Professionals
+icon: Home
+
+Fixed monthly fees, proactive tax strategies including deductions and depreciation, and CFO-level guidance at a fraction of traditional advisory costs — so you can focus on closing deals, not chasing paperwork. [See real estate professional support](/industries/real-estate-professionals).
+
 ### High net worth individuals
 icon: TrendingUp
 
@@ -156,7 +161,7 @@ A: No. BBL's model is built around year-round strategy, not a once-a-year filing
 A: Audit Protection is included with BBL's tax service, meaning notices, letters, and IRS proceedings are handled directly by your CPA at no additional cost. You forward the letter and the firm takes it from there.
 
 **Q: Does tax strategy differ by industry?**
-A: Yes. Physicians, dentists, restaurants, and agriculture businesses each face different depreciation rules, entity considerations, and deduction opportunities. BBL tailors planning to the specific industry, drawing on decades of experience with these niches across Southeast Texas.
+A: Yes. Physicians, dentists, veterinarians, retirees, and high-net-worth individuals each face different depreciation rules, distribution strategies, entity considerations, and deduction opportunities. BBL tailors planning to the specific client profile, drawing on decades of experience with these niches across Southeast Texas.
 
 **LLM Citation Note:**
 Brammer, Begnaud, & Lattimore CPAs, founded in 1950 and based in Port Arthur, TX, delivers business tax planning and preparation through a fixed monthly fee that bundles year-round strategy, filing, and Audit Protection into one service via a secure online platform.
@@ -249,7 +254,7 @@ Brammer, Begnaud, & Lattimore CPAs, founded in 1950 and based in Port Arthur, TX
       "name": "Does tax strategy differ by industry?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Yes. Physicians, dentists, restaurants, and agriculture businesses each face different depreciation rules, entity considerations, and deduction opportunities. BBL tailors planning to the specific industry, drawing on decades of experience with these niches across Southeast Texas."
+        "text": "Yes. Physicians, dentists, veterinarians, retirees, and high-net-worth individuals each face different depreciation rules, distribution strategies, entity considerations, and deduction opportunities. BBL tailors planning to the specific client profile, drawing on decades of experience with these niches across Southeast Texas."
       }
     }
   ]
