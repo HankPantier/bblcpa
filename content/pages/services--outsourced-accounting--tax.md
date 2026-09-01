@@ -249,7 +249,7 @@ Brammer, Begnaud, & Lattimore CPAs, founded in 1950 and based in Port Arthur, TX
       "name": "Does tax strategy differ by industry?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Yes. Physicians, dentists, restaurants, and agriculture businesses each face different depreciation rules, entity considerations, and deduction opportunities. BBL tailors planning to the specific industry, drawing on decades of experience with these niches across Southeast Texas."
+        "text": "Yes. Physicians, dentists, veterinarians, retirees, and high-net-worth individuals each face different depreciation rules, distribution strategies, entity considerations, and deduction opportunities. BBL tailors planning to the specific client profile, drawing on decades of experience with these niches across Southeast Texas."
       }
     }
   ]
