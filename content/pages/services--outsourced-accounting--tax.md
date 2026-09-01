@@ -63,6 +63,11 @@ icon: Landmark
 
 Social Security timing, retirement distributions, and investment income each carry tax consequences that benefit from year-round planning, not just an annual filing. [See retiree tax support](/industries/retirees).
 
+### Real Estate Professionals
+icon: Home
+
+Fixed monthly fees, proactive tax strategies including deductions and depreciation, and CFO-level guidance at a fraction of traditional advisory costs — so you can focus on closing deals, not chasing paperwork. [See real estate professional support](/industries/real-estate-professionals).
+
 ### High net worth individuals
 icon: TrendingUp
 
