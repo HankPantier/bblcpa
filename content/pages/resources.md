@@ -125,7 +125,7 @@ We have guided Southeast Texas businesses through tax seasons, audits, and growt
 ## SEO & AIO Metadata
 
 **Answer Block:**
-BBL CPAs offers free accounting resources for Port Arthur, TX business owners, including industry-specific tax planning guides, bookkeeping and payroll basics, startup checklists, IRS notice guidance, and financial tools like a refund tracker. Each guide is grounded in real Southeast Texas scenarios for physicians, dentists, restaurants, agriculture operations, and small businesses.
+BBL CPAs offers free accounting resources for Port Arthur, TX business owners, including industry-specific tax planning guides, bookkeeping and payroll basics, startup checklists, IRS notice guidance, and financial tools like a refund tracker. Each guide is grounded in real Southeast Texas scenarios for physicians, dentists, veterinarians, real estate professionals, retirees, and high net worth individuals.
 
 **E-E-A-T Signals:**
 - Established in 1950, serving Southeast Texas for over 70 years
