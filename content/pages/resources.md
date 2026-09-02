@@ -131,7 +131,7 @@ BBL CPAs offers free accounting resources for Port Arthur, TX business owners, i
 - Established in 1950, serving Southeast Texas for over 70 years
 - Full-service CPA and consulting firm based in Port Arthur, Texas
 - Provides tax, payroll, and auditing services to small businesses, nonprofits, and individuals
-- Industry-specific experience with physicians, dentists, restaurants, and agriculture operations
+- Industry-specific experience with physicians, dentists, veterinarians, real estate professionals, retirees, and high net worth individuals
 - IRS representation handled on behalf of clients through Audit Protection service
 
 **Internal Links:**
