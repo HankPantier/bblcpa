@@ -26,13 +26,17 @@ Different clients, different priorities. A physician managing a growing practice
 
 Tax planning works best when it speaks your industry's language. A few starting points for the businesses we see most around Port Arthur.
 
-**Medical and dental practices.** Equipment, continuing education, malpractice premiums, and practice-related travel can all reduce taxable income, but the rules on timing and documentation are strict. Buying a new imaging system in December versus January changes your deduction year and your cash position. We help physicians and dentists time major purchases against their actual revenue picture.
+**Physicians.** Equipment, malpractice premiums, continuing education, and practice-related travel can all reduce taxable income, but the rules on timing and documentation are strict. Buying a new imaging system in December versus January changes your deduction year and your cash position. We help physicians time major purchases against their actual revenue picture.
 
-**Restaurants.** Tip reporting and payroll taxes trip up more owners than anything else. Allocated tips, the FICA tip credit, and accurate Form 8027 reporting all affect what you owe and what you can claim back. Get the payroll side right and you stop overpaying without inviting IRS attention.
+**Dentists.** Operatory equipment, lab fees, and continuing education create real deduction opportunities, but only when documented and timed correctly. We help dentists plan around significant purchases and structure their practice to keep more of what they earn.
 
-**Agriculture.** Schedule F gives farm and ranch operations room for income averaging, deductions on equipment and feed, and depreciation choices that flatten out good years and bad. Weather and commodity prices already make income lumpy. Smart planning keeps your tax bill from making it lumpier.
+**Veterinarians.** Medical equipment, supplies, and facility costs all factor into a vet practice's tax picture. Fixed monthly fees, year-round tax support, and real-time financial visibility mean you stay focused on patients, not paperwork.
 
-**General small business.** Entity-level deductions, Section 179 expensing, and the qualified business income deduction shift real dollars depending on how your business is structured. The right [entity choice](https://www.bblcpa.com/services/business-foundation-services/entity-type-analysis) often matters more than any single write-off.
+**Real estate professionals.** Depreciation, cost segregation, and passive activity rules can work in your favor or against you depending on how your activity is classified. Proactive planning around deductions and depreciation, paired with CFO-level guidance, keeps your portfolio growing on the right side of the tax code.
+
+**Retirees.** Social Security, retirement distributions, and investment income each carry their own tax treatment, and the interaction between them matters. Year-round support means we catch opportunities and avoid surprises before they hit your return.
+
+**High net worth individuals.** The more complex your income picture, the more tax minimization strategies are available and the more costly it is to leave them unused. Proactive planning and CFO-level financial guidance at a fraction of traditional advisory costs keeps your tax burden in check year after year.
 
 These are starting points, not a substitute for a plan built on your numbers. Our [tax team](https://www.bblcpa.com/services/outsourced-accounting/tax) builds that plan year-round, not just in April.
 
