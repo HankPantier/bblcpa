@@ -24,9 +24,9 @@ Different clients, different priorities. A physician managing a growing practice
 
 
 <!-- block: content-split | variant: image-right | image: tax-planning-southeast-texas.jpg | alt: "Accountant reviewing tax planning documents with a small business owner" | query: "tax planning paperwork accountant desk" -->
-## Tax planning considerations for Southeast Texas business owners
+## Tax planning considerations for Southeast Texas business owners and individuals
 
-Tax planning works best when it speaks your industry's language. A few starting points for the businesses we see most around Port Arthur.
+Tax planning works best when it speaks your language. A few starting points for the businesses we see most around Port Arthur.
 
 **Physicians.** Equipment, malpractice premiums, continuing education, and practice-related travel can all reduce taxable income, but the rules on timing and documentation are strict. Buying a new imaging system in December versus January changes your deduction year and your cash position. We help physicians time major purchases against their actual revenue picture.
 
