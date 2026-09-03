@@ -67,34 +67,39 @@ This fits physicians and dentists especially well, since clinical training rarel
 
 <!-- block: industry-cards | variant: 3-col -->
 
-## We know the industries Southeast Texas runs on
+## We know the clients Southeast Texas counts on
 
-Generic accounting advice tends to miss the details that actually matter to a specific business. BBL builds its guidance around the industries that make up Southeast Texas's economy, so the advice fits the business instead of the other way around.
+Generic accounting advice tends to miss the details that actually matter to a specific person or practice. BBL builds its guidance around the professionals and individuals who make up Southeast Texas's economy, so the advice fits the client instead of the other way around.
 
 ### Physicians
 icon: Stethoscope
 
 Practice overhead, staffing costs, and entity structure decisions specific to medical practices.
 
-### Restaurants
-icon: Receipt
-
-Tight margins, tip reporting, and payroll timing built around restaurant cash flow.
-
 ### Dentists
 icon: HeartPulse
 
 Equipment financing, practice transitions, and retirement plan options for dental practice owners.
 
-### Agriculture
-icon: Hammer
+### Veterinarians
+icon: PawPrint
 
-Seasonal income, equipment depreciation, and tax planning timed to harvest cycles.
+Fixed monthly fees, year-round tax support, and real-time financial visibility so vets can focus on patients, not paperwork.
 
-### New business owners
-icon: Lightbulb
+### Real Estate Professionals
+icon: Building
 
-Entity selection, accounting system setup, and foundational guidance for businesses just getting started.
+Fixed monthly fees, proactive tax strategies including deductions and depreciation, and CFO-level guidance at a fraction of the cost.
+
+### Retirees
+icon: Umbrella
+
+Year-round support for Social Security, retirement distributions, and investment income, protecting what you've spent a lifetime building.
+
+### High Net Worth Individuals
+icon: TrendingUp
+
+Proactive tax minimization strategies and CFO-level financial guidance at a fraction of traditional advisory costs.
 
 <!-- block: testimonials | variant: grid -->
 
