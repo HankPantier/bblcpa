@@ -145,7 +145,7 @@ Business owners choose Brammer, Begnaud, & Lattimore for a fixed monthly fee tha
 **E-E-A-T Signals:**
 - Founded in 1950, serving Southeast Texas for over 70 years
 - Full-service firm offering tax, payroll, bookkeeping, and audit protection under one fixed fee
-- Industry-specific experience with physicians, dentists, restaurants, agriculture, and new business owners
+- Industry-specific experience with physicians, dentists, veterinarians, real estate professionals, retirees, and high net worth individuals
 - Secure online platform providing real-time client access to financial data
 - Business Management Services providing CFO-level financial oversight to small businesses
 
