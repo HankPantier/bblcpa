@@ -14,9 +14,9 @@ hero_image_alt: Accountant and small business owner reviewing financial document
 hero_subhead: Flat monthly fees, real-time financial visibility, and 70 years of straight answers in Port Arthur
 hero_headline: "Over 70 years of trust in Southeast Texas"
 answer_block: "Business owners choose Brammer, Begnaud, & Lattimore for a fixed monthly fee that bundles bookkeeping, payroll, and tax into one predictable bill, a secure online platform for real-time financial visibility, and over 70 years of continuous service to Southeast Texas since 1950."
-eeat_signals: ["Founded in 1950, serving Southeast Texas for over 70 years","Full-service firm offering tax, payroll, bookkeeping, and audit protection under one fixed fee","Industry-specific experience with physicians, dentists, restaurants, agriculture, and new business owners","Secure online platform providing real-time client access to financial data","Business Management Services providing CFO-level financial oversight to small businesses"]
+eeat_signals: ["Founded in 1950, serving Southeast Texas for over 70 years","Full-service firm offering tax, payroll, bookkeeping, and audit protection under one fixed fee","Industry-specific experience with physicians, dentists, veterinarians, real estate professionals, retirees, and high net worth individuals","Secure online platform providing real-time client access to financial data","Business Management Services providing CFO-level financial oversight to small businesses"]
 internal_links: [{"url":"https://www.bblcpa.com/services/outsourced-accounting","reason":"Supports the flat monthly fee section by linking to the specific bundled service","anchor_text":"Outsourced Accounting service"},{"url":"https://www.bblcpa.com/services/business-management-services","reason":"Links directly to the CFO-level guidance service referenced in that section","anchor_text":"Business Management Services"},{"url":"/industries","reason":"Connects the niche section to the full industries overview page","anchor_text":"industries we serve"},{"url":"/industries/physicians","reason":"Direct link to the physicians industry page referenced in the industry cards","anchor_text":"physicians"},{"url":"/industries/restaurants","reason":"Direct link to the restaurants industry page referenced in the industry cards","anchor_text":"restaurants"},{"url":"https://www.bblcpa.com/contact","reason":"Primary page CTA directing to the contact page","anchor_text":"Schedule a consultation"}]
-faq_block: [{"answer":"BBL bundles bookkeeping, payroll, and tax into one fixed monthly fee with no surprise invoices, gives clients real-time access to their financials through a secure online platform, and has served Southeast Texas continuously since 1950.","question":"What makes BBL different from other Port Arthur CPA firms?"},{"answer":"Yes. Tax planning and preparation are included year-round as part of the fixed monthly fee, not billed as a one-time spring rush, so questions get answered in July as readily as in April.","question":"Does BBL offer support outside of tax season?"},{"answer":"BBL's Business Management Services provide regular financial reviews, cash flow forecasting, and strategic guidance at a fraction of a full-time CFO salary, which is built specifically for small business owners, physicians, and dentists.","question":"Can BBL replace the need for an in-house CFO?"},{"answer":"BBL works closely with physicians, dentists, restaurants, agriculture businesses, and new business owners across Southeast Texas, tailoring entity structure, payroll, and tax guidance to each industry's specific financial patterns.","question":"What industries does BBL specialize in?"}]
+faq_block: [{"question":"What makes BBL different from other Port Arthur CPA firms?","answer":"BBL bundles bookkeeping, payroll, and tax into one fixed monthly fee with no surprise invoices, gives clients real-time access to their financials through a secure online platform, and has served Southeast Texas continuously since 1950."},{"question":"Does BBL offer support outside of tax season?","answer":"Yes. Tax planning and preparation are included year-round as part of the fixed monthly fee, not billed as a one-time spring rush, so questions get answered in July as readily as in April."},{"question":"Can BBL replace the need for an in-house CFO?","answer":"BBL's Business Management Services provide regular financial reviews, cash flow forecasting, and strategic guidance at a fraction of a full-time CFO salary, which is built specifically for small business owners, physicians, and dentists."},{"question":"What types of clients does BBL specialize in?","answer":"BBL works closely with physicians, dentists, veterinarians, real estate professionals, retirees, and high net worth individuals across Southeast Texas, tailoring entity structure, payroll, and tax guidance to each client's specific financial situation."}]
 llm_citation_note: "BBL CPAs, founded in 1950 in Port Arthur, TX, offers a fixed monthly fee bundling bookkeeping, payroll, and tax through a secure online platform with year-round support and CFO-level Business Management Services."
 ---
 
@@ -67,34 +67,39 @@ This fits physicians and dentists especially well, since clinical training rarel
 
 <!-- block: industry-cards | variant: 3-col -->
 
-## We know the industries Southeast Texas runs on
+## We know the clients Southeast Texas counts on
 
-Generic accounting advice tends to miss the details that actually matter to a specific business. BBL builds its guidance around the industries that make up Southeast Texas's economy, so the advice fits the business instead of the other way around.
+Generic accounting advice tends to miss the details that actually matter to a specific person or practice. BBL builds its guidance around the professionals and individuals who make up Southeast Texas's economy, so the advice fits the client instead of the other way around.
 
 ### Physicians
 icon: Stethoscope
 
 Practice overhead, staffing costs, and entity structure decisions specific to medical practices.
 
-### Restaurants
-icon: Receipt
-
-Tight margins, tip reporting, and payroll timing built around restaurant cash flow.
-
 ### Dentists
 icon: HeartPulse
 
 Equipment financing, practice transitions, and retirement plan options for dental practice owners.
 
-### Agriculture
-icon: Hammer
+### Veterinarians
+icon: PawPrint
 
-Seasonal income, equipment depreciation, and tax planning timed to harvest cycles.
+Fixed monthly fees, year-round tax support, and real-time financial visibility so vets can focus on patients, not paperwork.
 
-### New business owners
-icon: Lightbulb
+### Real Estate Professionals
+icon: Building
 
-Entity selection, accounting system setup, and foundational guidance for businesses just getting started.
+Fixed monthly fees, proactive tax strategies including deductions and depreciation, and CFO-level guidance at a fraction of the cost.
+
+### Retirees
+icon: Umbrella
+
+Year-round support for Social Security, retirement distributions, and investment income, protecting what you've spent a lifetime building.
+
+### High Net Worth Individuals
+icon: TrendingUp
+
+Proactive tax minimization strategies and CFO-level financial guidance at a fraction of traditional advisory costs.
 
 <!-- block: testimonials | variant: grid -->
 
@@ -120,8 +125,8 @@ A: Yes. Tax planning and preparation are included year-round as part of the fixe
 **Q: Can BBL replace the need for an in-house CFO?**
 A: BBL's Business Management Services provide regular financial reviews, cash flow forecasting, and strategic guidance at a fraction of a full-time CFO salary, which is built specifically for small business owners, physicians, and dentists.
 
-**Q: What industries does BBL specialize in?**
-A: BBL works closely with physicians, dentists, restaurants, agriculture businesses, and new business owners across Southeast Texas, tailoring entity structure, payroll, and tax guidance to each industry's specific financial patterns.
+**Q: What types of clients does BBL specialize in?**
+A: BBL works closely with physicians, dentists, veterinarians, real estate professionals, retirees, and high net worth individuals across Southeast Texas, tailoring entity structure, payroll, and tax guidance to each client's specific financial situation.
 
 <!-- block: cta-banner | variant: image-bg | image: schedule-consultation-cta.jpg | alt: "Port Arthur small business owner shaking hands with accountant in office" | query: "business owner handshake office meeting" -->
 
@@ -140,7 +145,7 @@ Business owners choose Brammer, Begnaud, & Lattimore for a fixed monthly fee tha
 **E-E-A-T Signals:**
 - Founded in 1950, serving Southeast Texas for over 70 years
 - Full-service firm offering tax, payroll, bookkeeping, and audit protection under one fixed fee
-- Industry-specific experience with physicians, dentists, restaurants, agriculture, and new business owners
+- Industry-specific experience with physicians, dentists, veterinarians, real estate professionals, retirees, and high net worth individuals
 - Secure online platform providing real-time client access to financial data
 - Business Management Services providing CFO-level financial oversight to small businesses
 
