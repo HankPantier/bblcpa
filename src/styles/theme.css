@@ -4,39 +4,43 @@
 @theme {
   /* Palette → shadcn semantic CSS variables (HSL space-separated).
    * Surface tokens use the AA-corrected backgrounds (see ensureContrast). */
-  --color-primary: hsl(208 100% 20%);
-  --color-primary-foreground: hsl(0 0% 100%);
-  --color-secondary: hsl(210 92% 20%);
-  --color-secondary-foreground: hsl(0 0% 100%);
-  --color-accent: hsl(30 93% 50%);
-  --color-accent-foreground: hsl(0 0% 13%);
-  --color-background: hsl(0 0% 100%);
-  --color-foreground: hsl(0 0% 13%);
-  --color-muted: hsl(0 0% 95%);
-  --color-muted-foreground: hsl(0 0% 40%);
-  --color-card: hsl(0 0% 100%);
-  --color-card-foreground: hsl(0 0% 13%);
-  --color-popover: hsl(0 0% 100%);
-  --color-popover-foreground: hsl(0 0% 13%);
-  --color-border: hsl(0 0% 90%);
-  --color-input: hsl(0 0% 90%);
-  --color-ring: hsl(29 100% 58%);
+  --color-primary: hsl(210 71% 20%);
+  --color-primary-foreground: hsl(40 55% 96%);
+  --color-secondary: hsl(36 44% 89%);
+  --color-secondary-foreground: hsl(27 12% 15%);
+  --color-accent: hsl(31 67% 55%);
+  --color-accent-foreground: hsl(27 12% 15%);
+  --color-background: hsl(40 55% 96%);
+  --color-foreground: hsl(27 12% 15%);
+  --color-muted: hsl(43 54% 95%);
+  --color-muted-foreground: hsl(27 12% 40%);
+  --color-card: hsl(40 55% 96%);
+  --color-card-foreground: hsl(27 12% 15%);
+  --color-popover: hsl(40 55% 96%);
+  --color-popover-foreground: hsl(27 12% 15%);
+  --color-border: hsl(40 53% 90%);
+  --color-input: hsl(40 53% 90%);
+  --color-ring: hsl(24 90% 37%);
   --color-destructive: hsl(0 84% 60%);
-  --color-destructive-foreground: hsl(0 0% 100%);
+  --color-destructive-foreground: hsl(40 55% 96%);
 
   /* Custom brand tokens — used directly by block components via var() */
-  --color-action: #ff8e27;
-  --color-action-foreground: #FeFefe;
-  --color-primary-hex: #003767;
-  --color-near-black: #222222;
-  --color-near-white: #FeFefe;
-  --color-complementary: #f57f09;
+  --color-action: #b54e0a;
+  --color-action-foreground: #faf6ee;
+  --color-primary-hex: #0f3459;
+  --color-near-black: #2b2622;
+  --color-near-white: #faf6ee;
+  --color-complementary: #d98e3f;
 
   /* Footer surface — intentionally dark in BOTH light and dark mode, so the
    * footer stays a consistent dark anchor instead of inverting under the
    * .dark override below. */
-  --color-footer: #222222;
-  --color-footer-foreground: #FeFefe;
+  --color-footer: #2b2622;
+  --color-footer-foreground: #faf6ee;
+
+  /* Ink section surface — optional dark section rhythm (design.json darkSections). */
+  --color-ink: #191c24;
+  --color-ink-foreground: #faf6ee;
 
   /* Spacing scale — exposed under a c5-prefixed namespace to avoid
    * colliding with Tailwind v4's --spacing-* namespace, which feeds
@@ -48,26 +52,26 @@
   --c5-space-xs: 4px;
   --c5-space-sm: 8px;
   --c5-space-md: 16px;
-  --c5-space-lg: 24px;
-  --c5-space-xl: 64px;
-  --c5-space-2xl: 128px;
+  --c5-space-lg: 28px;
+  --c5-space-xl: 72px;
+  --c5-space-2xl: 136px;
 
   /* Radius (from design.json) */
   --radius-none: 0px;
-  --radius-sm: 4px;
-  --radius-md: 8px;
-  --radius-lg: 16px;
-  --radius-pill: 4px;
+  --radius-sm: 6px;
+  --radius-md: 10px;
+  --radius-lg: 18px;
+  --radius-pill: 10px;
   --radius: var(--radius-lg);
 
   /* Elevation — brand-tinted shadows (derived from the primary colour). These
    * override Tailwind's default shadow-sm/md/lg utilities AND expose a
    * shadow-card / shadow-card-hover pair for the content block cards. */
-  --shadow-sm: 0 1px 2px 0 rgba(0, 55, 103, 0.06);
-  --shadow-md: 0 4px 12px -2px rgba(0, 55, 103, 0.10);
-  --shadow-lg: 0 12px 24px -6px rgba(0, 55, 103, 0.16);
-  --shadow-card: 0 2px 8px rgba(0, 55, 103, 0.08);
-  --shadow-card-hover: 0 8px 20px -4px rgba(0, 55, 103, 0.16);
+  --shadow-sm: 0 1px 2px 0 rgba(15, 52, 89, 0.06);
+  --shadow-md: 0 4px 12px -2px rgba(15, 52, 89, 0.10);
+  --shadow-lg: 0 12px 24px -6px rgba(15, 52, 89, 0.16);
+  --shadow-card: 0 2px 8px rgba(15, 52, 89, 0.08);
+  --shadow-card-hover: 0 8px 20px -4px rgba(15, 52, 89, 0.16);
 
   /* Font family CSS vars — next/font sets these at runtime via className,
    * but we expose semantic names here so components can reference them */
@@ -77,54 +81,58 @@
 
 :root {
   /* Duplicate in :root for shadcn components that read vars directly */
-  --color-primary: hsl(208 100% 20%);
-  --color-primary-foreground: hsl(0 0% 100%);
-  --color-secondary: hsl(210 92% 20%);
-  --color-secondary-foreground: hsl(0 0% 100%);
-  --color-accent: hsl(30 93% 50%);
-  --color-accent-foreground: hsl(0 0% 13%);
-  --color-background: hsl(0 0% 100%);
-  --color-foreground: hsl(0 0% 13%);
-  --color-muted: hsl(0 0% 95%);
-  --color-muted-foreground: hsl(0 0% 40%);
-  --color-card: hsl(0 0% 100%);
-  --color-card-foreground: hsl(0 0% 13%);
-  --color-popover: hsl(0 0% 100%);
-  --color-popover-foreground: hsl(0 0% 13%);
-  --color-border: hsl(0 0% 90%);
-  --color-input: hsl(0 0% 90%);
-  --color-ring: hsl(29 100% 58%);
+  --color-primary: hsl(210 71% 20%);
+  --color-primary-foreground: hsl(40 55% 96%);
+  --color-secondary: hsl(36 44% 89%);
+  --color-secondary-foreground: hsl(27 12% 15%);
+  --color-accent: hsl(31 67% 55%);
+  --color-accent-foreground: hsl(27 12% 15%);
+  --color-background: hsl(40 55% 96%);
+  --color-foreground: hsl(27 12% 15%);
+  --color-muted: hsl(43 54% 95%);
+  --color-muted-foreground: hsl(27 12% 40%);
+  --color-card: hsl(40 55% 96%);
+  --color-card-foreground: hsl(27 12% 15%);
+  --color-popover: hsl(40 55% 96%);
+  --color-popover-foreground: hsl(27 12% 15%);
+  --color-border: hsl(40 53% 90%);
+  --color-input: hsl(40 53% 90%);
+  --color-ring: hsl(24 90% 37%);
   --color-destructive: hsl(0 84% 60%);
-  --color-destructive-foreground: hsl(0 0% 100%);
+  --color-destructive-foreground: hsl(40 55% 96%);
 
   /* Custom brand tokens */
-  --color-action: #ff8e27;
-  --color-action-foreground: #FeFefe;
-  --color-primary-hex: #003767;
-  --color-near-black: #222222;
-  --color-near-white: #FeFefe;
-  --color-complementary: #f57f09;
+  --color-action: #b54e0a;
+  --color-action-foreground: #faf6ee;
+  --color-primary-hex: #0f3459;
+  --color-near-black: #2b2622;
+  --color-near-white: #faf6ee;
+  --color-complementary: #d98e3f;
 
   /* Footer surface — intentionally dark in BOTH light and dark mode, so the
    * footer stays a consistent dark anchor instead of inverting under the
    * .dark override below. */
-  --color-footer: #222222;
-  --color-footer-foreground: #FeFefe;
+  --color-footer: #2b2622;
+  --color-footer-foreground: #faf6ee;
+
+  /* Ink section surface — optional dark section rhythm (design.json darkSections). */
+  --color-ink: #191c24;
+  --color-ink-foreground: #faf6ee;
 
   /* Spacing scale (c5-prefixed to avoid Tailwind --spacing-* collision) */
   --c5-space-xs: 4px;
   --c5-space-sm: 8px;
   --c5-space-md: 16px;
-  --c5-space-lg: 24px;
-  --c5-space-xl: 64px;
-  --c5-space-2xl: 128px;
+  --c5-space-lg: 28px;
+  --c5-space-xl: 72px;
+  --c5-space-2xl: 136px;
 
   /* Radius */
   --radius-none: 0px;
-  --radius-sm: 4px;
-  --radius-md: 8px;
-  --radius-lg: 16px;
-  --radius-pill: 4px;
+  --radius-sm: 6px;
+  --radius-md: 10px;
+  --radius-lg: 18px;
+  --radius-pill: 10px;
   --radius: var(--radius-lg);
 
   /* Font family */
@@ -140,14 +148,14 @@
  * and the footer are intentionally left untouched so colored heros, buttons,
  * and CTAs render identically and stay on-brand. */
 .dark {
-  --color-background: hsl(0 0% 9%);
-  --color-foreground: hsl(0 0% 92%);
-  --color-card: hsl(0 0% 13%);
-  --color-card-foreground: hsl(0 0% 92%);
-  --color-popover: hsl(0 0% 13%);
-  --color-popover-foreground: hsl(0 0% 92%);
-  --color-muted: hsl(0 0% 17%);
-  --color-muted-foreground: hsl(0 0% 60%);
-  --color-border: hsl(0 0% 24%);
-  --color-input: hsl(0 0% 24%);
+  --color-background: hsl(30 13% 9%);
+  --color-foreground: hsl(39 56% 92%);
+  --color-card: hsl(30 12% 13%);
+  --color-card-foreground: hsl(39 56% 92%);
+  --color-popover: hsl(30 12% 13%);
+  --color-popover-foreground: hsl(39 56% 92%);
+  --color-muted: hsl(30 12% 17%);
+  --color-muted-foreground: hsl(40 55% 60%);
+  --color-border: hsl(26 11% 24%);
+  --color-input: hsl(26 11% 24%);
 }

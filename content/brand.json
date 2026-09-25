@@ -16,12 +16,12 @@
     "email": "service@bblcpa.com"
   },
   "palette": {
-    "primary": "#003767",
-    "secondary": "#043464",
-    "complementary": "#f57f09",
-    "action": "#ff8e27",
-    "nearBlack": "#222222",
-    "nearWhite": "#FeFefe"
+    "primary": "#0f3459",
+    "secondary": "#efe5d6",
+    "complementary": "#d98e3f",
+    "action": "#b54e0a",
+    "nearBlack": "#2b2622",
+    "nearWhite": "#faf6ee"
   },
   "social": [
     {
