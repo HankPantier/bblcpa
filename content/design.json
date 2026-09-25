@@ -2,26 +2,24 @@
   "typography": {
     "headingFont": "Nunito",
     "bodyFont": "Nunito",
-    "googleFontsUrl": "https://fonts.googleapis.com/css2?family=Nunito:wght@400;500;700&family=Fraunces:wght@400;500;700&display=swap",
-    "accentFont": "Fraunces"
+    "googleFontsUrl": "https://fonts.googleapis.com/css2?family=Nunito:wght@400;500;700&display=swap"
   },
-  "roundness": "soft",
+  "roundness": "sharp",
   "density": "airy",
   "visualFeel": "editorial",
   "spacing": {
     "xs": "4px",
     "sm": "8px",
     "md": "16px",
-    "lg": "28px",
-    "xl": "72px",
-    "2xl": "136px"
+    "lg": "24px",
+    "xl": "64px",
+    "2xl": "128px"
   },
   "radius": {
     "none": "0px",
-    "sm": "6px",
-    "md": "10px",
-    "lg": "18px",
-    "pill": "10px"
-  },
-  "darkSections": true
+    "sm": "4px",
+    "md": "8px",
+    "lg": "16px",
+    "pill": "4px"
+  }
 }
