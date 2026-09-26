@@ -178,3 +178,16 @@ button.bg-action:hover {
   padding: 1.75rem 1.75rem !important;
 }
 /* /theme-editor:industry-cards */
+
+/* design-studio:begin */
+/* design-studio:hero-split */
+[data-block="hero-split"] h1 {
+    font-size: clamp(2rem, 3.2vw, 2.75rem);
+    line-height: 1.15;
+    margin-bottom: var(--c5-space-lg)
+}
+[data-block="hero-split"] p {
+    margin-top: var(--c5-space-md)
+}
+/* /design-studio:hero-split */
+/* design-studio:end */
