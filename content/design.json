@@ -22,5 +22,9 @@
     "md": "8px",
     "lg": "16px",
     "pill": "4px"
+  },
+  "style": {
+    "cards": "flat",
+    "nav": "inverted"
   }
 }
