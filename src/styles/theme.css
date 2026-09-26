@@ -26,21 +26,17 @@
 
   /* Custom brand tokens — used directly by block components via var() */
   --color-action: #ff8e27;
-  --color-action-foreground: #fefefe;
+  --color-action-foreground: #FeFefe;
   --color-primary-hex: #003767;
   --color-near-black: #222222;
-  --color-near-white: #fefefe;
+  --color-near-white: #FeFefe;
   --color-complementary: #f57f09;
 
   /* Footer surface — intentionally dark in BOTH light and dark mode, so the
    * footer stays a consistent dark anchor instead of inverting under the
    * .dark override below. */
   --color-footer: #222222;
-  --color-footer-foreground: #fefefe;
-
-  /* Ink section surface — optional dark section rhythm (design.json darkSections). */
-  --color-ink: #161c27;
-  --color-ink-foreground: #fefefe;
+  --color-footer-foreground: #FeFefe;
 
   /* Spacing scale — exposed under a c5-prefixed namespace to avoid
    * colliding with Tailwind v4's --spacing-* namespace, which feeds
@@ -103,21 +99,17 @@
 
   /* Custom brand tokens */
   --color-action: #ff8e27;
-  --color-action-foreground: #fefefe;
+  --color-action-foreground: #FeFefe;
   --color-primary-hex: #003767;
   --color-near-black: #222222;
-  --color-near-white: #fefefe;
+  --color-near-white: #FeFefe;
   --color-complementary: #f57f09;
 
   /* Footer surface — intentionally dark in BOTH light and dark mode, so the
    * footer stays a consistent dark anchor instead of inverting under the
    * .dark override below. */
   --color-footer: #222222;
-  --color-footer-foreground: #fefefe;
-
-  /* Ink section surface — optional dark section rhythm (design.json darkSections). */
-  --color-ink: #161c27;
-  --color-ink-foreground: #fefefe;
+  --color-footer-foreground: #FeFefe;
 
   /* Spacing scale (c5-prefixed to avoid Tailwind --spacing-* collision) */
   --c5-space-xs: 4px;
