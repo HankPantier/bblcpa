@@ -17,13 +17,13 @@
   letter-spacing: 0.14em;
   position: relative;
   padding-left: 1.5em;
-  /* darkened for AA contrast on light canvases; --color-action alone is ~2.3:1 on white */
-  color: color-mix(in srgb, var(--color-action) 55%, var(--color-primary) 45%);
+  /* AA-corrected action colour for small text (theme.css, template 2026.09.4) */
+  color: var(--color-action-text, color-mix(in srgb, var(--color-action) 55%, var(--color-primary) 45%));
 }
 [class*="bg-primary"] .t-kicker,
 [class*="text-primary-foreground"] .t-kicker {
-  /* on the ink band the light-canvas darkening isn't needed — action-on-navy is ~5.4:1 */
-  color: var(--color-action);
+  /* on primary/ink bands use the on-primary token (raw action already passes on navy) */
+  color: var(--color-action-on-primary, var(--color-action));
 }
 .t-kicker::before {
   content: "";
