@@ -89,7 +89,7 @@ Your preparer builds the return, checks it against your prior filings, and flags
 We file electronically and set up your next planning check-in, so estimated payments or withholding changes happen before next April, not during it.
 
 <!-- block: faq-accordion -->
-## Frequently Asked Questions About Personal tax prep and planning | Brammer, Begnaud, & Lattimore CPAs & Consultants
+## Frequently Asked Questions About Personal tax prep and planning
 
 **Q: Does BBL only help with taxes once a year?**
 A: No. BBL provides year-round personal tax planning, not just annual filing. Through a secure online platform, clients track their financial picture and discuss decisions, like a bonus, home sale, or new income source, as they happen, so there are fewer surprises when filing time arrives.

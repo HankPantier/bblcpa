@@ -81,7 +81,7 @@ Traditional accountants bill by the hour, which means every phone call, every qu
 Our accounting and bookkeeping service runs on one fixed monthly fee. Call, email, ask a question, none of it changes your invoice. You'll know exactly what you're paying before the month starts, every month, for as long as you're a client.
 
 <!-- block: faq-accordion -->
-## Frequently Asked Questions About Accounting and bookkeeping | Brammer, Begnaud, & Lattimore CPAs & Consultants
+## Frequently Asked Questions About Accounting and bookkeeping
 
 **Q: What's included in BBL's accounting and bookkeeping service?**
 A: The service covers transaction classification, monthly bank and credit card reconciliations, financial statement preparation, and ongoing ledger maintenance. It's delivered by a seasoned team through a secure online platform, bundled at a fixed monthly fee with no hourly surprises.

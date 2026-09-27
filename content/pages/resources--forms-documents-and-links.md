@@ -86,7 +86,7 @@ Drag and drop tax documents, receipts, or statements. Everything is encrypted in
 Your BBL accountant sees the upload right away and can start work without waiting on the mail.
 
 <!-- block: faq-accordion -->
-## Frequently Asked Questions About Forms, documents and links | Brammer, Begnaud, & Lattimore CPAs & Consultants
+## Frequently Asked Questions About Forms, documents and links
 
 **Q: What is the most secure way to send my tax documents to BBL?**
 A: Use our secure online client portal rather than email. Log in with the credentials from your onboarding, then drag and drop your files. Everything is encrypted in transit and at rest, and your accountant is notified the moment you upload, so sensitive information stays protected around the clock.

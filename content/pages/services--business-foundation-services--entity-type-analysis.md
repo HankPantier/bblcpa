@@ -84,7 +84,7 @@ Brammer, Begnaud, & Lattimore opened its doors in Port Arthur in 1950, and the f
 >, [Client Name, Business Name, Southeast Texas]
 
 <!-- block: faq-accordion -->
-## Frequently Asked Questions About Entity type analysis | Brammer, Begnaud, & Lattimore CPAs & Consultants
+## Frequently Asked Questions About Entity type analysis
 
 **Q: What business structures does entity type analysis compare?**
 A: BBL compares sole proprietorship, general and limited partnership, LLC, S-Corp, and C-Corp structures, evaluating tax treatment, liability exposure, payroll implications, and administrative requirements for each, then matching the findings to your specific business goals and industry.

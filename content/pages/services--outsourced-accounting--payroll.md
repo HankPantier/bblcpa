@@ -98,7 +98,7 @@ Years serving Southeast Texas businesses and families.
 Support that does not vanish after tax season.
 
 <!-- block: faq-accordion -->
-## Frequently Asked Questions About Payroll services | Brammer, Begnaud, & Lattimore CPAs & Consultants
+## Frequently Asked Questions About Payroll services
 
 **Q: What does your full-service payroll include?**
 A: We handle scheduled payroll processing, new employee setup, salary and wage changes, federal and state payroll tax filings, direct deposit, and compliance reporting. It all runs through a secure online platform, so you never have to track deadlines or file paperwork yourself.

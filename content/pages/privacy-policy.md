@@ -58,7 +58,7 @@ You can ask us at any time what information we hold about you, request a correct
 To make any of these requests, or if you have questions about this policy, reach our Port Arthur team directly. We've answered privacy questions from physicians, restaurant owners, and small business clients across Southeast Texas for decades, and we're glad to walk through ours with you too.
 
 <!-- block: faq-accordion -->
-## Frequently Asked Questions About Privacy policy | Brammer, Begnaud, & Lattimore CPAs & Consultants
+## Frequently Asked Questions About Privacy policy
 
 **Q: Does Brammer, Begnaud, & Lattimore sell or share my financial data with marketers?**
 A: No. The firm does not sell client data to marketers, data brokers, or unrelated third parties. Information is shared only when a service requires it, such as filing taxes with the IRS or processing payroll deposits, or when required by law.

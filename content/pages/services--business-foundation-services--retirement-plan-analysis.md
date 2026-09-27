@@ -78,7 +78,7 @@ And because our guidance comes through a fixed monthly fee that bundles your ser
 [Insert client testimonial or Google review here highlighting retirement planning or proactive tax guidance.]
 
 <!-- block: faq-accordion -->
-## Frequently Asked Questions About Retirement plan analysis | Brammer, Begnaud, & Lattimore CPAs & Consultants
+## Frequently Asked Questions About Retirement plan analysis
 
 **Q: Which retirement plan is best for a small business owner?**
 A: It depends on your income, entity type, and number of employees. A SEP-IRA suits owners with few employees, a Solo 401(k) fits owner-only businesses, and a defined benefit plan helps high earners save more. BBL compares your real numbers to recommend the right fit.

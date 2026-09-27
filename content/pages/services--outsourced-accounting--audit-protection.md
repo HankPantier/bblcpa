@@ -97,7 +97,7 @@ We respond to the IRS on your behalf, handle the documentation, and represent yo
 We see the matter through to the end, walk you through the outcome, and put steps in place to keep it from happening again.
 
 <!-- block: faq-accordion -->
-## Frequently Asked Questions About Audit protection and IRS representation | Brammer, Begnaud, & Lattimore CPAs & Consultants
+## Frequently Asked Questions About Audit protection and IRS representation
 
 **Q: Does receiving an IRS notice mean I am being audited?**
 A: Not usually. Most IRS letters address routine items like a mismatched 1099, a math correction, or a request for documentation. A small share lead to a full audit. Either way, forward the notice to us and we will tell you exactly what it means and how to respond.

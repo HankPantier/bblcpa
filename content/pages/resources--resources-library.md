@@ -101,7 +101,7 @@ Nobody wants to scroll past 40 articles to find the one that fits. Narrow the li
 - New business owners launching their first venture
 
 <!-- block: faq-accordion -->
-## Frequently Asked Questions About Resources library | Brammer, Begnaud, & Lattimore CPAs & Consultants
+## Frequently Asked Questions About Resources library
 
 **Q: Do I need an account to read the resources library?**
 A: No login is required to browse. You can read QuickReads, view Advantage Magazine, and download eBooks freely. The library is open to any business owner in Southeast Texas who wants clear financial guidance without committing to anything first.

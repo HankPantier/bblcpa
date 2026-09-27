@@ -95,7 +95,7 @@ Submit the form below or call our office, and here's what happens next. You'll h
 If you've got a tax notice sitting on your desk or need IRS representation, tell us up front. We move faster on those. Once you're a client, everything runs through our secure online platform, so you get real-time visibility into your numbers from day one.
 
 <!-- block: faq-accordion -->
-## Frequently Asked Questions About Contact | Brammer, Begnaud, & Lattimore CPAs & Consultants
+## Frequently Asked Questions About Contact
 
 **Q: How quickly will someone respond after I submit the contact form?**
 A: Most inquiries get a response within one business day, often sooner. A member of the Port Arthur team reviews every submission personally and follows up with a short call to understand your situation before discussing fixed-fee options.

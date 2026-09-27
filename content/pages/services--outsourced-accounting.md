@@ -93,7 +93,7 @@ Brammer, Begnaud, & Lattimore opened its doors in Port Arthur in 1950. Seventy-p
 That history matters when you're handing over your books. The team behind your outsourced accounting plan has watched local industries shift, weathered the same hurricanes and oil price swings your clients have, and built tax and payroll knowledge specific to Texas rules. You're not a ticket number routed to whoever's available. Whether you're a physician, a dentist, a veterinarian, a real estate professional, a retiree, or a high net worth individual managing complex finances, you're working with a CPA firm that's been down the road since before the interstate was built.
 
 <!-- block: faq-accordion -->
-## Frequently Asked Questions About Outsourced accounting | Brammer, Begnaud, & Lattimore CPAs & Consultants
+## Frequently Asked Questions About Outsourced accounting
 
 **Q: What is included in BBL's outsourced accounting service?**
 A: Depending on plan level, it includes bank and transaction reconciliation, monthly financial statements, payroll processing and filings, bill pay, 1099 preparation, and year-round tax planning, all delivered through a secure online platform for one fixed monthly fee.

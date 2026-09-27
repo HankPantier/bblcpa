@@ -107,7 +107,7 @@ The relationship starts with a setup conversation, not a stack of paperwork mail
 This is built for an ongoing relationship, not a once-a-year transaction.
 
 <!-- block: faq-accordion -->
-## Frequently Asked Questions About Who we are | Brammer, Begnaud, & Lattimore CPAs & Consultants
+## Frequently Asked Questions About Who we are
 
 **Q: How long has Brammer, Begnaud, & Lattimore been in business?**
 A: The firm was founded in 1950 in Port Arthur, Texas, and has operated continuously in Southeast Texas for more than 70 years, providing tax, payroll, auditing, and consulting services to small businesses, nonprofits, and individuals throughout the region.
