@@ -88,7 +88,7 @@ icon: Umbrella
 Starting a business in retirement adds income streams that need careful structuring. We set up your entity and books to keep Social Security, distributions, and business income working together. [See our retiree services](/industries/retirees).
 
 <!-- block: faq-accordion -->
-## Frequently Asked Questions About Business foundation services | Brammer, Begnaud, & Lattimore CPAs & Consultants
+## Frequently Asked Questions About Business foundation services
 
 **Q: What is included in business foundation services?**
 A: Foundation services bundle entity type analysis, accounting system setup, retirement plan analysis, and credit card rewards advisory into one fixed monthly fee, delivered through a secure online platform with ongoing CFO-level guidance as your business grows.

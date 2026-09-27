@@ -98,7 +98,7 @@ Business Management Services come wrapped into the same fixed monthly fee model 
 The secure online platform gives you real-time visibility into your financials any day of the year, not just at quarter-end or tax season. You see what we see, when we see it. That transparency is the point: financial guidance only helps if you can act on it the moment you need it, not three weeks later when the invoice clears.
 
 <!-- block: faq-accordion -->
-## Frequently Asked Questions About Business management services | Brammer, Begnaud, & Lattimore CPAs & Consultants
+## Frequently Asked Questions About Business management services
 
 **Q: What do business management services from a CPA firm include?**
 A: BBL's Business Management Services include regular financial reviews, cash flow analysis, KPI tracking, and strategic planning guidance for hiring, expansion, and pricing decisions. Everything is delivered through a secure online platform and bundled into one fixed monthly fee, not billed by the hour.

@@ -54,7 +54,7 @@ That's the point of year-round tax planning. We look at your numbers throughout 
 Our [Tax](/services/outsourced-accounting/tax) service includes strategic planning and preparation through one secure digital platform, so you're never digging through old emails to find last year's numbers. For a deeper look at the planning side, our [tax refund strategy guide](/resources/e-books/maximizing-your-tax-refund-a-strategic-guide-to-tax-planning) walks through it step by step.
 
 <!-- block: faq-accordion -->
-## Frequently Asked Questions About Refund tracker | Brammer, Begnaud, & Lattimore CPAs & Consultants
+## Frequently Asked Questions About Refund tracker
 
 **Q: How do I check my IRS refund status?**
 A: Use the IRS Where's My Refund tool, which updates once every 24 hours. You'll need your Social Security number or ITIN, your filing status, and the exact refund amount from your return. E-filers can check 24 hours after filing; paper filers should wait about four weeks.

@@ -85,7 +85,7 @@ A system that's never maintained drifts back into chaos within a year. That's wh
 Brammer, Begnaud, & Lattimore CPAs & Consultants has worked out of Southeast Texas since 1950. Seventy-plus years in Port Arthur means we've seen what happens when a system gets built right the first time, and what happens when it doesn't. Our team handles accounting system setup as one piece of a broader practice that includes tax, payroll, audit protection, and business advisory work, all delivered with the same seasoned hands. Businesses change owners, software, and growth stages. The system underneath should hold up through all of it.
 
 <!-- block: faq-accordion -->
-## Frequently Asked Questions About Accounting system setup | Brammer, Begnaud, & Lattimore CPAs & Consultants
+## Frequently Asked Questions About Accounting system setup
 
 **Q: How long does accounting system setup take?**
 A: Timelines depend on whether you need a new build or a cleanup of existing books. A straightforward new system can be configured in a few weeks, while a multi-year cleanup with reconciliation issues may take longer. We scope the work upfront so there's no guessing.

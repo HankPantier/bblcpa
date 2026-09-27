@@ -103,7 +103,7 @@ BBL handles notices, letters, and IRS proceedings directly, at no extra cost bey
 [See how Audit Protection works](/services/outsourced-accounting/audit-protection).
 
 <!-- block: faq-accordion -->
-## Frequently Asked Questions About Business tax planning and preparation | Brammer, Begnaud, & Lattimore CPAs & Consultants
+## Frequently Asked Questions About Business tax planning and preparation
 
 **Q: What does business tax planning and preparation include at BBL?**
 A: It includes year-round strategic planning plus the actual filing of your business return, delivered through a secure online platform. Clients get quarterly check-ins, proactive deduction and entity guidance, and a fixed monthly fee that covers both the planning and the preparation work.

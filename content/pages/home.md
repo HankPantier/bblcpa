@@ -138,7 +138,7 @@ The team caught an entity structure issue that was costing us money every year. 
 Having CFO-level guidance without the cost of an in-house executive changed how I look at every deal. The real-time visibility alone is worth it.
 
 <!-- block: faq-accordion -->
-## Frequently Asked Questions About Home | Brammer, Begnaud, & Lattimore CPAs & Consultants
+## Frequently Asked Questions
 
 **Q: What does Brammer, Begnaud, & Lattimore CPAs & Consultants do?**
 A: The firm provides bundled outsourced accounting, bookkeeping, payroll, tax planning, audit protection, and CFO-level business management services for one fixed monthly fee. Clients access their financials through a secure online platform and get year-round support rather than only seasonal help around tax deadlines.

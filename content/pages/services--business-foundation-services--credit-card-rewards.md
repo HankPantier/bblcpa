@@ -69,7 +69,7 @@ Credit card guidance is one piece of a full-service relationship, not a line ite
 The credit card recommendation is stronger because we already know your whole financial picture. That is the advantage of bundling instead of buying one-off advice.
 
 <!-- block: faq-accordion -->
-## Frequently Asked Questions About Business credit card rewards advisory | Brammer, Begnaud, & Lattimore CPAs & Consultants
+## Frequently Asked Questions About Business credit card rewards advisory
 
 **Q: Does BBL earn a commission for recommending a credit card?**
 A: No. BBL's recommendations are advisor-led with no commissions, quotas, or products we are paid to push. The guidance is based only on which card returns the most value for how your business actually spends, drawn from the numbers already in your books.
