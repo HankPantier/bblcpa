@@ -132,5 +132,9 @@
         }
       ]
     }
-  ]
+  ],
+  "cta": {
+    "label": "Contact us",
+    "url": "/contact"
+  }
 }
