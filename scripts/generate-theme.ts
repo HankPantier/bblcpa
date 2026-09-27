@@ -4,23 +4,12 @@ import path from 'node:path'
 import chroma from 'chroma-js'
 import type { BrandJson } from '../src/lib/brand/types'
 import type { DesignJson } from '../src/lib/theme/types'
-
-/**
- * Helper: Convert a hex color to HSL space-separated token (e.g., "220 75% 50%")
- * without the hsl() wrapper.
- */
-function toHslTokens(hex: string, fallback = '220 10% 50%'): string {
-  try {
-    const [h, s, l] = chroma(hex).hsl()
-    if (isNaN(h)) {
-      // Achromatic color (grayscale) — use hue=0, keep saturation/lightness
-      return `0 0% ${(l * 100).toFixed(0)}%`
-    }
-    return `${Math.round(h)} ${Math.round(s * 100)}% ${Math.round(l * 100)}%`
-  } catch {
-    return fallback
-  }
-}
+import {
+  deriveDarkActionTextTokens,
+  deriveLightActionTextTokens,
+  renderedHex,
+  toHslTokens,
+} from '../src/lib/theme/action-text-contrast'
 
 /**
  * Helper: Pick foreground color (near-white or near-black) with WCAG contrast ratio >= 4.5
@@ -135,6 +124,12 @@ async function main() {
     const mutedForeground = ensureContrast(setLightness(palette.nearBlack, 40), muted)
     const borderColor = setLightness(palette.nearWhite, 90)
 
+    // Deep near-black "ink" section surface for the optional dark section rhythm
+    // (design.json darkSections). Mixed toward the primary so it carries a hint of
+    // brand hue, then floored to a very low lightness; foreground is AA-picked.
+    const ink = setLightness(chroma.mix(palette.nearBlack, palette.primary, 0.4, 'lab').hex(), 12)
+    const inkForeground = pickForeground(ink, palette.nearWhite, palette.nearBlack)
+
     // Static red for destructive. Use chroma's HSL constructor explicitly so
     // the bare-array doesn't get treated as RGB.
     const destructive = chroma.hsl(0, 0.84, 0.6).hex()
@@ -155,6 +150,7 @@ async function main() {
       { name: 'accent-fg / accent',              bg: accentBg,              fg: accentFg,          minRatio: 4.5 },
       { name: 'muted-fg / muted',                bg: muted,                 fg: mutedForeground,   minRatio: 4.5 },
       { name: 'footer muted text (text-bg/90)',  bg: palette.nearBlack,     fg: footerMutedText,   minRatio: 4.5 },
+      { name: 'ink-fg / ink',                    bg: ink,                   fg: inkForeground,     minRatio: 4.5 },
     ]
     const failures: string[] = []
     for (const { name, bg, fg, minRatio } of REQUIRED_PAIRS) {
@@ -180,6 +176,23 @@ async function main() {
     const darkMuted = setLightness(palette.nearBlack, 17)
     const darkMutedForeground = ensureContrast(setLightness(palette.nearWhite, 60), darkMuted)
     const darkBorder = setLightness(palette.nearBlack, 24)
+
+    // Small-text action colours, auto-corrected to AA (4.5:1) against the
+    // RENDERED surfaces each is used on (hsl(toHslTokens(...)) rounds to whole
+    // percents) — see src/lib/theme/action-text-contrast.ts. Exactly
+    // palette.action whenever the raw colour already passes.
+    const lightAction = deriveLightActionTextTokens(palette.action, {
+      background: renderedHex(palette.nearWhite),
+      muted: renderedHex(muted),
+      card: renderedHex(palette.nearWhite),
+      primary: renderedHex(primaryBg),
+      ink,
+    })
+    const darkAction = deriveDarkActionTextTokens(palette.action, {
+      background: renderedHex(darkBackground),
+      muted: renderedHex(darkMuted),
+      card: renderedHex(darkCard),
+    })
 
     // Elevation: tint shadows with the brand primary (low alpha) instead of
     // generic black, so cards/popovers read as part of the palette. Drives both
@@ -218,6 +231,17 @@ async function main() {
   /* Custom brand tokens — used directly by block components via var() */
   --color-action: ${palette.action};
   --color-action-foreground: ${palette.nearWhite};
+  /* Action colour for SMALL text, AA-corrected (lightness only) against the
+   * rendered surfaces it sits on: -text on the canvas (background, muted,
+   * card), -text-tint on the 10-15% action-tint badges, -on-primary / -on-ink
+   * in those sections (globals.css re-scopes -text there; -text-canvas keeps
+   * the canvas value for light cards inside them). Each equals --color-action
+   * when the raw colour already passes. */
+  --color-action-text: ${lightAction.actionText};
+  --color-action-text-canvas: ${lightAction.actionText};
+  --color-action-text-tint: ${lightAction.actionTextTint};
+  --color-action-on-primary: ${lightAction.actionOnPrimary};
+  --color-action-on-ink: ${lightAction.actionOnInk};
   --color-primary-hex: ${palette.primary};
   --color-near-black: ${palette.nearBlack};
   --color-near-white: ${palette.nearWhite};
@@ -228,6 +252,10 @@ async function main() {
    * .dark override below. */
   --color-footer: ${palette.nearBlack};
   --color-footer-foreground: ${palette.nearWhite};
+
+  /* Ink section surface — optional dark section rhythm (design.json darkSections). */
+  --color-ink: ${ink};
+  --color-ink-foreground: ${inkForeground};
 
   /* Spacing scale — exposed under a c5-prefixed namespace to avoid
    * colliding with Tailwind v4's --spacing-* namespace, which feeds
@@ -291,6 +319,17 @@ async function main() {
   /* Custom brand tokens */
   --color-action: ${palette.action};
   --color-action-foreground: ${palette.nearWhite};
+  /* Action colour for SMALL text, AA-corrected (lightness only) against the
+   * rendered surfaces it sits on: -text on the canvas (background, muted,
+   * card), -text-tint on the 10-15% action-tint badges, -on-primary / -on-ink
+   * in those sections (globals.css re-scopes -text there; -text-canvas keeps
+   * the canvas value for light cards inside them). Each equals --color-action
+   * when the raw colour already passes. */
+  --color-action-text: ${lightAction.actionText};
+  --color-action-text-canvas: ${lightAction.actionText};
+  --color-action-text-tint: ${lightAction.actionTextTint};
+  --color-action-on-primary: ${lightAction.actionOnPrimary};
+  --color-action-on-ink: ${lightAction.actionOnInk};
   --color-primary-hex: ${palette.primary};
   --color-near-black: ${palette.nearBlack};
   --color-near-white: ${palette.nearWhite};
@@ -301,6 +340,10 @@ async function main() {
    * .dark override below. */
   --color-footer: ${palette.nearBlack};
   --color-footer-foreground: ${palette.nearWhite};
+
+  /* Ink section surface — optional dark section rhythm (design.json darkSections). */
+  --color-ink: ${ink};
+  --color-ink-foreground: ${inkForeground};
 
   /* Spacing scale (c5-prefixed to avoid Tailwind --spacing-* collision) */
   --c5-space-xs: ${spacing.xs};
@@ -341,6 +384,10 @@ async function main() {
   --color-muted-foreground: hsl(${toHslTokens(darkMutedForeground)});
   --color-border: hsl(${toHslTokens(darkBorder)});
   --color-input: hsl(${toHslTokens(darkBorder)});
+  /* Small action text re-corrected for the dark neutral surfaces. */
+  --color-action-text: ${darkAction.actionText};
+  --color-action-text-canvas: ${darkAction.actionText};
+  --color-action-text-tint: ${darkAction.actionTextTint};
 }
 `
 
