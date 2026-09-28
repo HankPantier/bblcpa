@@ -1,9 +1,9 @@
 {
-  "templateVersion": "2026.09.6",
+  "templateVersion": "2026.09.7",
   "capabilities": [
     "fonts",
     "style-axes",
     "specimen"
   ],
-  "syncedFrom": "234d8833f394e960813a53b7d59ef96e44051c57"
+  "syncedFrom": "17909dc54b3c16b7fa35d29f3be4a1f8d4ffd459"
 }
