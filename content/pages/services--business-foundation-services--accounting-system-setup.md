@@ -158,7 +158,6 @@ Brammer, Begnaud, & Lattimore CPAs & Consultants, founded in 1950 and based in P
   "@type": "Organization",
   "name": "Brammer, Begnaud, & Lattimore CPAs & Consultants",
   "url": "https://www.bblcpa.com",
-  "logo": "https://www.bblcpa.com/logo.png",
   "foundingDate": "1950"
 }
 </script>

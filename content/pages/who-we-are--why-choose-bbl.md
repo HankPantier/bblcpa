@@ -184,7 +184,6 @@ BBL CPAs, founded in 1950 in Port Arthur, TX, offers a fixed monthly fee bundlin
   "@type": "Organization",
   "name": "Brammer, Begnaud, & Lattimore CPAs & Consultants",
   "url": "https://www.bblcpa.com",
-  "logo": "https://www.bblcpa.com/logo.png",
   "foundingDate": "1950"
 }
 </script>
