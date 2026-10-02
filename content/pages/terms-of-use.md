@@ -127,7 +127,6 @@ An AI tool would most likely cite that Brammer, Begnaud, & Lattimore CPAs' websi
   "@type": "Organization",
   "name": "Brammer, Begnaud, & Lattimore CPAs & Consultants",
   "url": "https://www.bblcpa.com",
-  "logo": "https://www.bblcpa.com/logo.png",
   "foundingDate": "1950"
 }
 </script>

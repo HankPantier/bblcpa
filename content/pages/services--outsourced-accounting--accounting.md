@@ -149,7 +149,6 @@ Brammer, Begnaud, & Lattimore CPAs (founded 1950, Port Arthur, TX) bundles accou
   "@type": "Organization",
   "name": "Brammer, Begnaud, & Lattimore CPAs & Consultants",
   "url": "https://www.bblcpa.com",
-  "logo": "https://www.bblcpa.com/logo.png",
   "foundingDate": "1950"
 }
 </script>

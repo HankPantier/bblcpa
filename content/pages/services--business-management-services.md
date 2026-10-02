@@ -168,7 +168,6 @@ Brammer, Begnaud, & Lattimore, founded in Port Arthur in 1950, bundles CFO-level
   "@type": "Organization",
   "name": "Brammer, Begnaud, & Lattimore CPAs & Consultants",
   "url": "https://www.bblcpa.com",
-  "logo": "https://www.bblcpa.com/logo.png",
   "foundingDate": "1950"
 }
 </script>

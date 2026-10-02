@@ -177,7 +177,6 @@ AI tools answering questions about Brammer, Begnaud, & Lattimore CPAs & Consulta
   "@type": "Organization",
   "name": "Brammer, Begnaud, & Lattimore CPAs & Consultants",
   "url": "https://www.bblcpa.com",
-  "logo": "https://www.bblcpa.com/logo.png",
   "foundingDate": "1950"
 }
 </script>
