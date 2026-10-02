@@ -1,10 +1,10 @@
 {
-  "templateVersion": "2026.09.11",
+  "templateVersion": "2026.09.12",
   "capabilities": [
     "fonts",
     "style-axes",
     "specimen",
     "layout-presets"
   ],
-  "syncedFrom": "93b10eaf218ca1d06d3050d3d4bbd44679631fc4"
+  "syncedFrom": "554b129189b5b69eb24bfcfa45ecafb1e9d08ae8"
 }
